@@ -14,13 +14,13 @@ Prat3CharDB = {
 			},
 			["ChatFrame6EditBox"] = {
 			},
-			["ChatFrame9EditBox"] = {
-			},
-			["ChatFrame2EditBox"] = {
+			["ChatFrame1EditBox"] = {
 			},
 			["ChatFrame3EditBox"] = {
 			},
-			["ChatFrame1EditBox"] = {
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
 			},
 		},
 	},
@@ -51,7 +51,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame4"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 118,
+			["headIndex"] = 90,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -65,1751 +65,1331 @@ Prat3HighCPUPerCharDB = {
 			["elements"] = {
 				{
 					["message"] = "|cff979797|Hpratcopy|h[21:42:21]|h|r To |HBNplayer:<BNET REMOVED>:33:0:BN_WHISPER:<BNET REMOVED>|h[<BNET REMOVED>]|h: yeah, prob",
-					["serverTime"] = 1612418675,
+					["g"] = 1,
 					["r"] = 0,
-					["b"] = 0.9647059440612793,
-					["timestamp"] = 344679.651,
 					["extraData"] = {
 						53, -- [1]
 						1, -- [2]
 						2, -- [3]
 						["n"] = 3,
 					},
-					["g"] = 1,
+					["timestamp"] = 419874.667,
+					["serverTime"] = 1612418675,
+					["b"] = 0.9647059440612793,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:38]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: hm",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406558,
+					["message"] = "|cff979797|Hpratcopy|h[22:18:19]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:607:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
 					["extraData"] = {
-						52, -- [1]
+						6, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						11, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612408699,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: i want to sit him",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406561,
+					["message"] = "|cff979797|Hpratcopy|h[22:18:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:612:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
 					["extraData"] = {
-						52, -- [1]
+						6, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						11, -- [3]
+						92, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612408708,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:46]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: on sunking",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406566,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:31]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq17|k:48:0:BN_WHISPER:|Kq17|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq17|k|r|h|cffd8d8d8]|r: are u updating cds :O",
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						100, -- [3]
+						101, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1612408951,
+					["timestamp"] = 419874.667,
+					["g"] = 1,
+					["r"] = 0,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:47]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: we can try",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406567,
+					["message"] = "|cff979797|Hpratcopy|h[22:27:54]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq17|k:48:0:BN_WHISPER:|Kq17|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq17|k|r|h|cffd8d8d8]|r: did yous ee party chat",
 					["extraData"] = {
 						53, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						100, -- [3]
+						103, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1612409274,
+					["timestamp"] = 419874.667,
+					["g"] = 1,
+					["r"] = 0,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:52]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: delpi is going in",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406572,
+					["message"] = "|cff979797|Hpratcopy|h[22:28:02]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:682:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
 					["extraData"] = {
-						52, -- [1]
+						6, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						11, -- [3]
+						104, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612409282,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:42:53]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: as holy",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406573,
+					["message"] = "|cff979797|Hpratcopy|h[22:28:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq17|k:48:0:BN_WHISPER:|Kq17|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq17|k|r|h|cffd8d8d8]|r: no",
 					["extraData"] = {
 						52, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						100, -- [3]
+						101, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1612409284,
+					["timestamp"] = 419874.667,
+					["g"] = 1,
+					["r"] = 0,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:02]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: o, ok",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406582,
+					["message"] = "|cff979797|Hpratcopy|h[22:28:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:684:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
 					["extraData"] = {
-						53, -- [1]
+						6, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						11, -- [3]
+						104, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612409286,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:02]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: so we have GA",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406582,
+					["message"] = "|cff979797|Hpratcopy|h[22:33:08]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq17|k:48:0:BN_WHISPER:|Kq17|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq17|k|r|h|cffd8d8d8]|r: CDs are the same, clerik's filling mine",
 					["extraData"] = {
-						52, -- [1]
+						53, -- [1]
 						false, -- [2]
-						1, -- [3]
-						8, -- [4]
+						100, -- [3]
+						103, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1612409588,
+					["timestamp"] = 419874.667,
+					["g"] = 1,
+					["r"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:06]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: then yeah, we're fine",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406586,
+					["message"] = "|cff979797|Hpratcopy|h[22:36:43]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq17|k:48:0:BN_WHISPER:|Kq17|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq17|k|r|h|cffd8d8d8]|r: ok",
 					["extraData"] = {
-						53, -- [1]
+						52, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						100, -- [3]
+						101, -- [4]
 						["n"] = 4,
 					},
+					["b"] = 0.9647059440612793,
+					["serverTime"] = 1612409803,
+					["timestamp"] = 419874.667,
+					["g"] = 1,
+					["r"] = 0,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:06]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: err",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406586,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:07]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: GS",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406587,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:09]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: shoulda led w/ that",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406589,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:12]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: LOL",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406592,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:53]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: is there anything you need from 1st boss",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406633,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:55]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: err",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406635,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:43:57]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: 1st 3",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406637,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:24]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: trying to rotate healers to get 3 bosses",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406664,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:33]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: nope",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406673,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:36]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: in the earlier one",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406676,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:47]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: I only need xymox for wep",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406687,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:54]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: the rest is w/e",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406694,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:44:56]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: xymox is not our weapon",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406696,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:02]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: isn't it?",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406702,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:03]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: our weapon is council buddy",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406703,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:07]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: thats an offhand",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406707,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:08]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: LOL",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406708,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:14]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: youre looking at",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406714,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:14]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: RIP",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406714,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:17]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: off xymox",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406717,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:18]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: HAHAHA",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406718,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:32]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: just generals then? reee",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406732,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:35]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: whats better on",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406735,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:40]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: generals is offhand too",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406740,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:47]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: weapon is off council and sire",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406747,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:49]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: for monks",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406749,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:54]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: o",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406754,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:58]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: ok",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406758,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:59]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:51:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406759,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:45:59]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:54:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406759,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:03]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: monk rogue warr",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406763,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: whats better on",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406764,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:06]|h|r [W To] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:57:WHISPER:ORCBUM-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: inv",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406766,
+					["message"] = "|cff979797|Hpratcopy|h[22:43:05]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:752:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: wings on pull, then on CD, should get 4",
 					["extraData"] = {
 						10, -- [1]
 						false, -- [2]
-						14, -- [3]
+						110, -- [3]
+						111, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1612410185,
+					["timestamp"] = 419874.667,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:43:29]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:754:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: AM on desolate for 4 and 8 (~2:40 & ~5:50)",
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						110, -- [3]
+						111, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1612410209,
+					["timestamp"] = 419874.667,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:44:03]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:758:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: CDs are in a google doc that's pinned in #wow-raid",
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						110, -- [3]
+						111, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 1,
+					["serverTime"] = 1612410243,
+					["timestamp"] = 419874.667,
+					["g"] = 0.501960813999176,
+					["r"] = 1,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:12:29]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3992:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612411949,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:12:45]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3995:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612411965,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:12:55]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3999:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612411975,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:31:43]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:6598:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						12, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612413103,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:33:04]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:6609:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612413184,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:19:16]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7575:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612415956,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:19:20]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7578:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612415960,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:19:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7583:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612415972,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:19:59]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7610:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612415999,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:20:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7628:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416028,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:20:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7629:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416032,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:20:38]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7631:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416038,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:20:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7632:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416040,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:21:56]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7674:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416116,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:21:57]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7676:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416117,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:07]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7711:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416187,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7713:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416189,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:15]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7718:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416195,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7719:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416197,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:23]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7722:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416203,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:33]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7727:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416213,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7728:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416220,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:04]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7735:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416244,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7736:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416246,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:07]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7738:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416247,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:12]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7740:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416252,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7743:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416257,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7744:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416257,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:20]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7747:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416260,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:22]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7748:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416262,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:24]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7750:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416264,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:25]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7751:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416265,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:27]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7752:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416267,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7753:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416268,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:31]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7757:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416271,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7758:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416272,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:33]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7759:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						104, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416273,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:36]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7762:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416276,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:44]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7765:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416284,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:52]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7769:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416292,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:02]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7772:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416302,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7774:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416309,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:11]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7775:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416311,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7779:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416328,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:26:53]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7796:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416413,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:00]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7797:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416420,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:14]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7798:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						192, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416434,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:01]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7906:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416841,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7907:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416846,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:34:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7908:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						11, -- [3]
+						92, -- [4]
+						["n"] = 4,
+					},
+					["b"] = 0.803921639919281,
+					["serverTime"] = 1612416849,
+					["timestamp"] = 419874.667,
+					["g"] = 0.5686274766921997,
+					["r"] = 0.5372549295425415,
+				}, -- [63]
+				{
+					["message"] = "0 |4day:days;, 21 |4hour:hours;, 23 |4minute:minutes;, 43 |4second:seconds;",
+					["timestamp"] = 419874.667,
+				}, -- [64]
+				{
+					["message"] = "========== End of Scrollback ==========",
+					["timestamp"] = 419874.667,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[21:59:37]|h|r [W To] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:10:WHISPER:ORCBUM-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: inv",
+					["serverTime"] = 1612493976,
+					["r"] = 1,
+					["extraData"] = {
+						10, -- [1]
+						false, -- [2]
+						5, -- [3]
+						6, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 419980.487,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:00:20]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:65:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r|h|cffd8d8d8]|r: |Kv1|k",
+					["serverTime"] = 1612494020,
+					["r"] = 0.5372549295425415,
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						13, -- [3]
+						14, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 420024.327,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[22:00:26]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:68:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r|h|cffd8d8d8]|r: |Kv2|k",
+					["serverTime"] = 1612494026,
+					["r"] = 0.5372549295425415,
+					["extraData"] = {
+						6, -- [1]
+						false, -- [2]
+						13, -- [3]
 						15, -- [4]
 						["n"] = 4,
 					},
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:07]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: huntsman",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406767,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:11]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: monk or shaman",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406771,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:27]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: everything's better than monk except on sun king",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406787,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:34]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: o",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406794,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:41]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: okay we'll have sci sit first boss",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406801,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:45]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: and you sit huntsman",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406805,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:46:51]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: so you guys both get mythic box",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406811,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						1, -- [3]
-						8, -- [4]
-						["n"] = 4,
-					},
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:47:00]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: sure",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406820,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:47:09]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: for xymox",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406829,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:47:16]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq39|k:33:0:BN_WHISPER:|Kq39|k:Emosong#1897|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cfffef367|Kq39|k|r|h|cffd8d8d8]|r: me, yuki, sci, pal?",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612406836,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[21:52:14]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:122:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
+					["timestamp"] = 420030.089,
 					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612407134,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:18:19]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:607:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
 					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612408699,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						12, -- [4]
-						["n"] = 4,
-					},
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:18:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:612:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612408708,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:22:31]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:48:0:BN_WHISPER:|Kq1|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq1|k|r|h|cffd8d8d8]|r: are u updating cds :O",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612408951,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						100, -- [3]
-						101, -- [4]
-						["n"] = 4,
-					},
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:27:54]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq1|k:48:0:BN_WHISPER:|Kq1|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq1|k|r|h|cffd8d8d8]|r: did yous ee party chat",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409274,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						100, -- [3]
-						103, -- [4]
-						["n"] = 4,
-					},
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:28:02]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:682:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409282,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:28:04]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:48:0:BN_WHISPER:|Kq1|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq1|k|r|h|cffd8d8d8]|r: no",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409284,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						100, -- [3]
-						101, -- [4]
-						["n"] = 4,
-					},
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:28:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:684:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409286,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:33:08]|h|r [W To] |cffd8d8d8[|r|HBNplayer:|Kq1|k:48:0:BN_WHISPER:|Kq1|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq1|k|r|h|cffd8d8d8]|r: CDs are the same, clerik's filling mine",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409588,
-					["extraData"] = {
-						53, -- [1]
-						false, -- [2]
-						100, -- [3]
-						103, -- [4]
-						["n"] = 4,
-					},
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:36:43]|h|r [W From] |cffd8d8d8[|r|HBNplayer:|Kq1|k:48:0:BN_WHISPER:|Kq1|k:Sci#11555|h|TInterface\\FriendsFrame\\Battlenet-WoWicon:14:0:0:0|t|cff006fdc|Kq1|k|r|h|cffd8d8d8]|r: ok",
-					["b"] = 0.9647059440612793,
-					["r"] = 0,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612409803,
-					["extraData"] = {
-						52, -- [1]
-						false, -- [2]
-						100, -- [3]
-						101, -- [4]
-						["n"] = 4,
-					},
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:43:05]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:752:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: wings on pull, then on CD, should get 4",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612410185,
-					["extraData"] = {
-						10, -- [1]
-						false, -- [2]
-						110, -- [3]
-						111, -- [4]
-						["n"] = 4,
-					},
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:43:29]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:754:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: AM on desolate for 4 and 8 (~2:40 & ~5:50)",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612410209,
-					["extraData"] = {
-						10, -- [1]
-						false, -- [2]
-						110, -- [3]
-						111, -- [4]
-						["n"] = 4,
-					},
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[22:44:03]|h|r [W To] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:758:WHISPER:CLÉRIK-KIL'JAEDEN|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: CDs are in a google doc that's pinned in #wow-raid",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 0.501960813999176,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612410243,
-					["extraData"] = {
-						10, -- [1]
-						false, -- [2]
-						110, -- [3]
-						111, -- [4]
-						["n"] = 4,
-					},
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:12:29]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3992:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612411949,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:12:45]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3995:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612411965,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
 				}, -- [68]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:12:55]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:3999:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:110:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r|h|cffd8d8d8]|r: |Kv3|k",
+					["serverTime"] = 1612494092,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612411975,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						104, -- [4]
+						13, -- [3]
+						15, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420095.606,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [69]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:31:43]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:6598:OFFICER|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:35]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:112:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r|h|cffd8d8d8]|r: |Kv4|k",
+					["serverTime"] = 1612494095,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413103,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						12, -- [4]
+						13, -- [3]
+						15, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420098.976,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [70]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:33:04]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:6609:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:51]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:120:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r|h|cffd8d8d8]|r: |Kv5|k",
+					["serverTime"] = 1612494110,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413184,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420115.071,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [71]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:16]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7575:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:52]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:122:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r|h|cffd8d8d8]|r: |Kv6|k",
+					["serverTime"] = 1612494111,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415956,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420115.938,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [72]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:20]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7578:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:54]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:124:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r|h|cffd8d8d8]|r: |Kv7|k",
+					["serverTime"] = 1612494113,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415960,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420118.041,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [73]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7583:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:01:58]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:126:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r|h|cffd8d8d8]|r: |Kv8|k",
+					["serverTime"] = 1612494117,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415972,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420122.179,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [74]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:19:59]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7610:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:09:47]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:332:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: |Kv9|k",
+					["serverTime"] = 1612494587,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415999,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420590.832,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [75]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7628:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:09:58]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:335:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: |Kv10|k",
+					["serverTime"] = 1612494598,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416028,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420601.999,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [76]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7629:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:10:03]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:337:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:4|h|cffd8d8d8]|r: |Kv11|k",
+					["serverTime"] = 1612494603,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416032,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420606.891,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [77]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:38]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7631:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:10:07]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:341:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:4|h|cffd8d8d8]|r: |Kv12|k",
+					["serverTime"] = 1612494607,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416038,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420611.034,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [78]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7632:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[22:10:21]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:364:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:4|h|cffd8d8d8]|r: |Kv13|k",
+					["serverTime"] = 1612494621,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416040,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						14, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 420624.726,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [79]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:21:56]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7674:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416116,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:09]|h|r [W To] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:651:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: AMZ on the first and 3rd adds",
+					["serverTime"] = 1612495329,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						76, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421332.563,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [80]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:21:57]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7676:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416117,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:18]|h|r [W To] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:653:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: should hit all 3 people w/ the debuff",
+					["serverTime"] = 1612495338,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						76, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421341.336,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [81]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:07]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7711:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416187,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:23]|h|r [W To] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:654:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: if they stand at the edges",
+					["serverTime"] = 1612495343,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						76, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421347.065,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [82]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7713:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416189,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:29]|h|r [W From] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:656:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: okay",
+					["serverTime"] = 1612495349,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						0, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						77, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421352.758,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [83]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:15]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7718:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416195,
+					["message"] = "|cff979797|Hpratcopy|h[22:22:31]|h|r [W To] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:657:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: so put it down in the middle of them, and they'll adjust",
+					["serverTime"] = 1612495351,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						10, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						76, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421354.778,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [84]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7719:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416197,
+					["message"] = "|cff979797|Hpratcopy|h[22:23:03]|h|r [W From] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:669:WHISPER:BRUTANG-KIL'JAEDEN|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: will do",
+					["serverTime"] = 1612495383,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						0, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						75, -- [3]
+						77, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 421386.417,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [85]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:23]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7722:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416203,
+					["message"] = "|cff979797|Hpratcopy|h[22:55:38]|h|r [W From] |cffd8d8d8[|r|Hplayer:Downloaded-Kil'jaeden:1513:WHISPER:DOWNLOADED-KIL'JAEDEN|h|cffd8bc3f60|r:|cff8687edDownloaded|r:3|h|cffd8d8d8]|r: xD",
+					["serverTime"] = 1612497338,
+					["r"] = 1,
 					["extraData"] = {
-						6, -- [1]
+						0, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						92, -- [3]
+						93, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 423341.868,
+					["g"] = 0.501960813999176,
+					["b"] = 1,
 				}, -- [86]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:33]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7727:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[00:39:53]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:4215:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:2|h|cffd8d8d8]|r: |Kv14|k",
+					["serverTime"] = 1612503593,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416213,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						92, -- [4]
+						13, -- [3]
+						15, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 429597.288,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [87]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7728:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[00:39:56]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:4216:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:2|h|cffd8d8d8]|r: |Kv15|k",
+					["serverTime"] = 1612503596,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416220,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						15, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 429599.993,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [88]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:04]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7735:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[00:39:58]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:4217:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:2|h|cffd8d8d8]|r: |Kv16|k",
+					["serverTime"] = 1612503598,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416244,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						15, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 429601.456,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [89]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7736:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4698:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: |Kv17|k",
+					["serverTime"] = 1612504960,
 					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416246,
 					["extraData"] = {
 						6, -- [1]
 						false, -- [2]
-						11, -- [3]
-						192, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430964.06,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:07]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7738:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416247,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:12]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7740:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416252,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7743:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416257,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:17]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7744:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416257,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:20]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7747:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416260,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:22]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7748:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416262,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:24]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7750:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416264,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:25]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7751:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416265,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:27]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7752:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416267,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7753:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416268,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:31]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7757:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416271,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:32]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7758:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416272,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:33]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:7759:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416273,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						104, -- [4]
-						["n"] = 4,
-					},
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:36]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7762:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416276,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:44]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7765:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416284,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:24:52]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7769:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416292,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:25:02]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7772:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416302,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [107]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:25:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7774:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416309,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [108]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:25:11]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7775:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416311,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [109]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:25:28]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7779:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416328,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:26:53]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7796:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416413,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [111]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:27:00]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7797:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416420,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:27:14]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Toshmonk-Kil'jaeden:7798:OFFICER|h|cffd8bc3f60|r:|cff00fe97Toshmonk|r:3|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416434,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						192, -- [4]
-						["n"] = 4,
-					},
-				}, -- [113]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:01]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7906:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416841,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [114]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:06]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7907:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416846,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [115]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:09]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:7908:OFFICER|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: <BNET REMOVED>",
-					["b"] = 0.803921639919281,
-					["r"] = 0.5372549295425415,
-					["g"] = 0.5686274766921997,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416849,
-					["extraData"] = {
-						6, -- [1]
-						false, -- [2]
-						11, -- [3]
-						92, -- [4]
-						["n"] = 4,
-					},
-				}, -- [116]
-				{
-					["message"] = "0 |4day:days;, 0 |4hour:hours;, 30 |4minute:minutes;, 26 |4second:seconds;",
-					["timestamp"] = 344679.651,
-				}, -- [117]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 344679.651,
-				}, -- [118]
 			},
 			["maxElements"] = 128,
 			["GetEntryAtIndex"] = nil --[[ skipped inline function ]],
@@ -1820,7 +1400,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame3"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
+			["headIndex"] = 88,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -1833,1902 +1413,1924 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:34:07]|h|r You loot 5 Gold, 35 Silver, 18 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413247,
+					["message"] = "|cff979797|Hpratcopy|h[23:38:28]|h|r Drmango receives loot: |cff9d9d9d|Hitem:170060::::::::60:270:::::::|h[Encrypted Message]|h|r.",
+					["serverTime"] = 1612499908,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						53, -- [4]
+						1, -- [3]
+						49, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425912.106,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:34:10]|h|r Spoonerisms receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:39:21]|h|r Unhealable creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612499961,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413250,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						43, -- [4]
+						1, -- [3]
+						42, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425964.508,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [2]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:35:27]|h|r Lilkdog receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:55:54]|h|r You create: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612500954,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413327,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						164, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 426958.087,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [3]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:35:28]|h|r Brutang receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx4.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:55:54]|h|r You create: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612500954,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413328,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						97, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 426958.087,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [4]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:35:29]|h|r Spoonerisms receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:55:54]|h|r You create: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612500954,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413329,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						43, -- [4]
+						1, -- [3]
+						2, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 426958.087,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [5]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:35:44]|h|r Aveon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:58:45]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612501125,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413344,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						45, -- [4]
+						1, -- [3]
+						86, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427129.202,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [6]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:36:00]|h|r Lilkdog receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:58:46]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612501126,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413360,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						164, -- [4]
+						1, -- [3]
+						86, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427129.34,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [7]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:36:13]|h|r You repaired your armor for 144|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 30|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 54|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413373,
+					["message"] = "|cff979797|Hpratcopy|h[23:58:46]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612501126,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						1, -- [3]
+						86, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427129.58,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [8]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:12]|h|r Maserder receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:07:33]|h|r Senpaibacon receives loot: |cffffffff|Hitem:34498::::::::60:270::11::1:28:391:::|h[Paper Zeppelin Kit]|h|r.",
+					["serverTime"] = 1612501653,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413432,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						160, -- [4]
+						1, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427656.461,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [9]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:18]|h|r Meta receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413438,
+					["message"] = "|cff979797|Hpratcopy|h[00:07:33]|h|r You repaired your armor for 440|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 66|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 66|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612501653,
+					["r"] = 1,
 					["extraData"] = {
-						28, -- [1]
+						29, -- [1]
 						false, -- [2]
-						32, -- [3]
-						91, -- [4]
+						94, -- [3]
+						94, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427656.763,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [10]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:19]|h|r Senpaibacon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:07:33]|h|r Senpaibacon receives loot: |cffffffff|Hitem:153490::::::::60:270:::::::|h[F.R.I.E.D.]|h|rx2.",
+					["serverTime"] = 1612501653,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413439,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						89, -- [4]
+						1, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427656.836,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [11]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:25]|h|r Maserder receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:07:33]|h|r Senpaibacon receives loot: |cffffffff|Hitem:163082::::::::60:270:::::::|h[Coastal Rejuvenation Potion]|h|rx2.",
+					["serverTime"] = 1612501653,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413445,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						160, -- [4]
+						1, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427657.056,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [12]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:26]|h|r Maserder receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx3.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:07:34]|h|r Senpaibacon receives loot: |cff9d9d9d|Hitem:168793::::::::60:270:::::::|h[Bottle of Homemade Wine]|h|r.",
+					["serverTime"] = 1612501654,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413446,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						160, -- [4]
+						1, -- [3]
+						48, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 427657.387,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [13]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:51]|h|r Downloaded receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:15:44]|h|r Ngow creates: |cffffffff|Hitem:171284::::::::60:270:::::::|h[Eternal Cauldron]|h|r.",
+					["serverTime"] = 1612502144,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413471,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						87, -- [4]
-						["n"] = 4,
-					},
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:53]|h|r Unhealable creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413473,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:37:53]|h|r Unhealable creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413473,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:38:51]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413531,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						43, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:38:51]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413531,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						43, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:38:59]|h|r Unhealable receives item: |cff1eff00|Hitem:183701::::::::60:270::6:::::|h[Cleansing Rite Materials]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413539,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:39:42]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413582,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:39:43]|h|r You receive currency: |cffffffff|Hcurrency:1820:0|h[Infused Ruby]|h|r x1.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413583,
-					["extraData"] = {
-						59, -- [1]
-						false, -- [2]
-						162, -- [3]
-						163, -- [4]
-						["n"] = 4,
-					},
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:39:43]|h|r You loot 13 Gold, 95 Silver, 86 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413583,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:39:48]|h|r Boomie receives loot: |cff9d9d9d|Hitem:177749::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Mire-Stained Leather Footwraps]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413588,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						44, -- [4]
-						["n"] = 4,
-					},
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:40:01]|h|r Orcbum receives item: |cff1eff00|Hitem:183701::::::::60:270::6:::::|h[Cleansing Rite Materials]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413601,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:40:12]|h|r Hoofshots receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413612,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						99, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:40:23]|h|r Papisalad receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413623,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:41:23]|h|r You loot 5 Gold, 1 Silver, 58 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413683,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:41:24]|h|r Senpaibacon receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413684,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:41:57]|h|r Unhealable receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413717,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:08]|h|r Hoofshots receives item: |cff1eff00|Hitem:183702::::::::60:270::6:::::|h[Nature's Splendor]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413788,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						99, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r You receive loot: |cff1eff00|Hitem:177805::::::::60:270::6:3:6908:6652:1695:2:28:753:9:60:::|h[Redeemer's Mace of the Fireflash]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r Unhealable receives loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r You receive loot: |cff9d9d9d|Hitem:177757::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Ember-Bleached Cloth Tunic]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r You receive loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [35]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:12]|h|r Senpaibacon receives loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413792,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [36]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:13]|h|r You loot 6 Gold, 63 Silver, 6 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413793,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [37]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:14]|h|r Spoonerisms receives loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413794,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						43, -- [4]
-						["n"] = 4,
-					},
-				}, -- [38]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:17]|h|r Scitron receives loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413797,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						171, -- [4]
-						["n"] = 4,
-					},
-				}, -- [39]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:43:21]|h|r Brutang receives loot: |cff9d9d9d|Hitem:178113::::::::60:270:::::::|h[Twitching Stone]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413801,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [40]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:46:00]|h|r You create: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612413960,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [41]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:46:59]|h|r Orcbum receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414019,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [42]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:46:59]|h|r Orcbum receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414019,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [43]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:46:59]|h|r Orcbum receives loot: |cffffffff|Hitem:172230::::::::60:270:::::::|h[Soul Dust]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414019,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [44]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:17]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414397,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [45]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:19]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414399,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [46]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:21]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414401,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [47]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:23]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414403,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [48]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:25]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414405,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [49]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:27]|h|r Ngow creates: |cffffffff|Hitem:171286::::::::60:270:::::::|h[Embalmer's Oil]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414407,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [50]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:54]|h|r Unhealable receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414434,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [51]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[23:53:54]|h|r Unhealable receives loot: |cffffffff|Hitem:172230::::::::60:270:::::::|h[Soul Dust]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414434,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [52]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:42]|h|r Papisalad receives loot: |cff9d9d9d|Hitem:168792::::::::60:270:::::::|h[Kobold's Candle]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414842,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-				}, -- [53]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:42]|h|r Papisalad receives loot: |cffffffff|Hitem:152550::::::::60:270:::::::|h[Sea Mist Potion]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414842,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-				}, -- [54]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:42]|h|r Papisalad receives loot: |cffffffff|Hitem:9313::::::::60:270:::::::|h[Green Firework]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414842,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-				}, -- [55]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:43]|h|r Orcbum receives loot: |cffffffff|Hitem:34498::::::::60:270::11::1:28:391:::|h[Paper Zeppelin Kit]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414843,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [56]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:44]|h|r Orcbum receives loot: |cffffffff|Hitem:152494::::::::60:270:::::::|h[Coastal Healing Potion]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414844,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [57]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:44]|h|r Orcbum receives loot: |cff9d9d9d|Hitem:168794::::::::60:270:::::::|h[Last Year's Brewfest Flyer]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414844,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [58]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:45]|h|r Brutang receives loot: |cffffffff|Hitem:152550::::::::60:270:::::::|h[Sea Mist Potion]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414845,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [59]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:45]|h|r Brutang receives loot: |cff1eff00|Hitem:165747::::::::60:270::11:1:6835:1:28:391:::|h[Tempest Hide Pouch]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414845,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:45]|h|r Brutang receives loot: |cffffffff|Hitem:158380::::::::60:270:::::::|h[Magical Intrusion Dampener]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414845,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:45]|h|r Brutang receives loot: |cff9d9d9d|Hitem:168795::::::::60:270:::::::|h[Old Boot]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414845,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:46]|h|r Brutang receives loot: |cffffffff|Hitem:9312::::::::60:270:::::::|h[Blue Firework]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414846,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:48]|h|r Senpaibacon receives loot: |cffffffff|Hitem:9312::::::::60:270:::::::|h[Blue Firework]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414848,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:48]|h|r Senpaibacon receives loot: |cff9d9d9d|Hitem:168790::::::::60:270:::::::|h[Sack of Fish Bones]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414848,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:48]|h|r Senpaibacon receives loot: |cffffffff|Hitem:153512::::::::60:270:::::::|h[XA-1000 Surface Skimmer]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414848,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:48]|h|r Senpaibacon receives loot: |cffffffff|Hitem:152497::::::::60:270:::::::|h[Lightfoot Potion]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414848,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:53]|h|r Ngow receives loot: |cffffffff|Hitem:9313::::::::60:270:::::::|h[Green Firework]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414853,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:53]|h|r Ngow receives loot: |cffffffff|Hitem:163082::::::::60:270:::::::|h[Coastal Rejuvenation Potion]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414853,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:54]|h|r Ngow receives loot: |cff9d9d9d|Hitem:168786::::::::60:270:::::::|h[Rotten Food]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414854,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:00:54]|h|r Ngow receives loot: |cffffffff|Hitem:153487::::::::60:270:::::::|h[Organic Discombobulation Grenade]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612414854,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:03:41]|h|r Aveon receives loot: |cffffffff|Hitem:163224::::::::60:270:::::::|h[Battle Potion of Strength]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415021,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						45, -- [4]
-						["n"] = 4,
-					},
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:03:42]|h|r Aveon receives loot: |cffffffff|Hitem:9318::::::::60:270:::::::|h[Red Firework]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415022,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						45, -- [4]
-						["n"] = 4,
-					},
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:03:42]|h|r Aveon receives loot: |cff9d9d9d|Hitem:168794::::::::60:270:::::::|h[Last Year's Brewfest Flyer]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415022,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						45, -- [4]
-						["n"] = 4,
-					},
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:04:35]|h|r Ngow creates: |cffffffff|Hitem:171284::::::::60:270:::::::|h[Eternal Cauldron]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415075,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						33, -- [4]
-						["n"] = 4,
-					},
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:07:32]|h|r Hoofshots receives item: |cff1eff00|Hitem:183702::::::::60:270::6:::::|h[Nature's Splendor]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415252,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						99, -- [4]
-						["n"] = 4,
-					},
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:23]|h|r You sold your junk for 20|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 53|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 43|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415423,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						52, -- [4]
-						["n"] = 4,
-					},
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:10:23]|h|r You repaired your armor for 227|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 51|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 76|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415423,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						52, -- [4]
-						["n"] = 4,
-					},
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:11:01]|h|r Maserder receives loot: |cffffffff|Hitem:38577::::::::60:270:::::::|h[Party G.R.E.N.A.D.E.]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415461,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [79]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:11:01]|h|r Maserder receives loot: |cffffffff|Hitem:153490::::::::60:270:::::::|h[F.R.I.E.D.]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415461,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [80]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:11:01]|h|r Maserder receives loot: |cff9d9d9d|Hitem:170060::::::::60:270:::::::|h[Encrypted Message]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415461,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [81]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:11:02]|h|r Maserder receives loot: |cff9d9d9d|Hitem:168791::::::::60:270:::::::|h[Shiny Rocks]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415462,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [82]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:11:02]|h|r Maserder receives loot: |cffffffff|Hitem:152495::::::::60:270:::::::|h[Coastal Mana Potion]|h|rx3.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415462,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:18]|h|r Aveon receives loot: |cffa335ee|Hitem:183033::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Mantle of Manifest Sins]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415838,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						45, -- [4]
-						["n"] = 4,
-					},
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:20]|h|r Spoonerisms receives loot: |cffa335ee|Hitem:182307::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Shielding Words]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415840,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						43, -- [4]
-						["n"] = 4,
-					},
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:23]|h|r Papisalad receives loot: |cffa335ee|Hitem:182584::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Cheetah's Vigor]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415843,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						41, -- [4]
-						["n"] = 4,
-					},
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:25]|h|r Hoofshots receives loot: |cffa335ee|Hitem:182584::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Cheetah's Vigor]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415845,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						99, -- [4]
-						["n"] = 4,
-					},
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:37]|h|r You receive loot: |cffa335ee|Hitem:183033::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Mantle of Manifest Sins]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415857,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:37]|h|r You receive loot: |cff0070dd|Hitem:184286::::::::60:270:::::::|h[Extinguished Soul Anima]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415857,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [89]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:38]|h|r You loot 74 Gold, 36 Silver, 51 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415858,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [90]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:17:39]|h|r Orcbum receives loot: |cffa335ee|Hitem:184018::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Splintered Heart of Al'ar]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612415859,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [91]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:26]|h|r Brutang receives loot: |cffa335ee|Hitem:183013::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Fallen Templar's Gauntlets]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [92]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:26]|h|r You receive loot: |cffa335ee|Hitem:182978::::::::60:270::6:5:7187:6652:7193:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [93]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:26]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						51, -- [4]
-						["n"] = 4,
-					},
-				}, -- [94]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:26]|h|r Brutang receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [95]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:26]|h|r Meta receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416026,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						91, -- [4]
-						["n"] = 4,
-					},
-				}, -- [96]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:27]|h|r Brutang receives loot: |cff1eff00|Hitem:178061::::::::60:270:::::::|h[Malleable Flesh]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416027,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [97]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:27]|h|r You loot 6 Gold, 3 Silver, 48 Copper",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416027,
-					["extraData"] = {
-						29, -- [1]
-						false, -- [2]
-						52, -- [3]
-						53, -- [4]
-						["n"] = 4,
-					},
-				}, -- [98]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:43]|h|r Brutang receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416043,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						97, -- [4]
-						["n"] = 4,
-					},
-				}, -- [99]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:45]|h|r Senpaibacon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416045,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						89, -- [4]
-						["n"] = 4,
-					},
-				}, -- [100]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:45]|h|r Maserder receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|rx2.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416045,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [101]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:20:49]|h|r Azian receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416049,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-				}, -- [102]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:21:26]|h|r Azian receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416086,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						34, -- [4]
-						["n"] = 4,
-					},
-				}, -- [103]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:21:28]|h|r Maserder receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx4.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416088,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						160, -- [4]
-						["n"] = 4,
-					},
-				}, -- [104]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:22:05]|h|r Unhealable receives item: |cff1eff00|Hitem:183701::::::::60:270::6:::::|h[Cleansing Rite Materials]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416125,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						95, -- [4]
-						["n"] = 4,
-					},
-				}, -- [105]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:22:20]|h|r Orcbum receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416140,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
-						154, -- [4]
-						["n"] = 4,
-					},
-				}, -- [106]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:22:21]|h|r Drmango receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
-					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416141,
-					["extraData"] = {
-						28, -- [1]
-						false, -- [2]
-						32, -- [3]
+						1, -- [3]
 						50, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 428147.819,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:16:03]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612502163,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428166.428,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:16:03]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
+					["serverTime"] = 1612502163,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428166.662,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [16]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:16:30]|h|r You receive item: |cffffffff|Hitem:171280::::::::60:270:::::::|h[Eternal Flask]|h|r.",
+					["serverTime"] = 1612502190,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428194.05,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:16:34]|h|r You receive item: |cffffffff|Hitem:171280::::::::60:270:::::::|h[Eternal Flask]|h|r.",
+					["serverTime"] = 1612502194,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428197.796,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [18]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:02]|h|r Spoonerisms receives loot: |cffa335ee|Hitem:182336::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Golden Path]|h|r.",
+					["serverTime"] = 1612502582,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428585.345,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:02]|h|r Maserder receives loot: |cffa335ee|Hitem:183889::::::::60:270::6:3:7187:1498:6646:1:28:753:::|h[Thaumaturgic Anima Bead]|h|r.",
+					["serverTime"] = 1612502582,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428585.582,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:03]|h|r Azian receives loot: |cffa335ee|Hitem:182449::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Resolute Barrier]|h|r.",
+					["serverTime"] = 1612502583,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428587.162,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:08]|h|r Ngow receives loot: |cffa335ee|Hitem:183464::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Tough as Bark]|h|r.",
+					["serverTime"] = 1612502588,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428591.718,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:11]|h|r Senpaibacon receives loot: |cffa335ee|Hitem:183464::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Tough as Bark]|h|r.",
+					["serverTime"] = 1612502591,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428594.568,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:12]|h|r Meta receives loot: |cffa335ee|Hitem:182317::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Shattered Restoration]|h|r.",
+					["serverTime"] = 1612502592,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428596.274,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:15]|h|r Brutang receives loot: |cffa335ee|Hitem:181841::::::::60:270::6:2:1553:7245:2:28:753:37:7:::|h[Reinforced Shell]|h|r.",
+					["serverTime"] = 1612502595,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428598.362,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:27]|h|r You receive loot: |cff0070dd|Hitem:184286::::::::60:270:::::::|h[Extinguished Soul Anima]|h|r.",
+					["serverTime"] = 1612502607,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428610.701,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:27]|h|r Hoofshots receives loot: |cffa335ee|Hitem:184025::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Memory of Past Sins]|h|r.",
+					["serverTime"] = 1612502607,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428611.226,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:28]|h|r You loot 75 Gold, 50 Silver, 77 Copper",
+					["serverTime"] = 1612502608,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428611.747,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:23:30]|h|r Papisalad receives loot: |cffa335ee|Hitem:184025::::::::60:270::6:4:7187:6652:1498:6646:1:28:753:::|h[Memory of Past Sins]|h|r.",
+					["serverTime"] = 1612502610,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428613.567,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:24:16]|h|r You repaired your armor for 221|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 45|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 29|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612502656,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428659.99,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:27]|h|r Papisalad receives item: |cff1eff00|Hitem:183702::::::::60:270::6:::::|h[Nature's Splendor]|h|r.",
+					["serverTime"] = 1612502727,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428730.934,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:35]|h|r Unhealable receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502735,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428738.967,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:42]|h|r Scitron receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612502742,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428745.638,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:44]|h|r Ngow receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612502744,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428747.782,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:25:44]|h|r Ngow receives loot: |cff1eff00|Hitem:179323::::::::60:270::6:3:6908:6652:1682:2:28:753:9:60:::|h[Dredhollow Cudgel of the Quickblade]|h|r.",
+					["serverTime"] = 1612502744,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428748.041,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [35]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:26:10]|h|r Brutang receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502770,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428773.922,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [36]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:26:11]|h|r Fenniki receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502771,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428774.657,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [37]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:26:14]|h|r Boomie receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502774,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						142, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428778.216,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [38]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:26:28]|h|r Hoofshots receives item: |cff1eff00|Hitem:183702::::::::60:270::6:::::|h[Nature's Splendor]|h|r.",
+					["serverTime"] = 1612502788,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428791.633,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [39]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:07]|h|r Fenniki receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502827,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428830.783,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [40]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:08]|h|r Spoonerisms receives loot: |cff9d9d9d|Hitem:177739::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Crumbling Plate Greatbelt]|h|r.",
+					["serverTime"] = 1612502828,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428832.19,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [41]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:08]|h|r Spoonerisms receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502828,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428832.308,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [42]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:10]|h|r Papisalad receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502830,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428834.264,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [43]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:27:11]|h|r Meta receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502831,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428834.414,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [44]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:02]|h|r Spoonerisms receives loot: |cff1eff00|Hitem:179311::::::::60:270::6:1:6826:2:28:753:9:60:::|h[Oxxein Lockbox]|h|r.",
+					["serverTime"] = 1612502882,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428886.099,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [45]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:02]|h|r Spoonerisms receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612502882,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428886.221,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [46]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:03]|h|r You receive loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx3.",
+					["serverTime"] = 1612502883,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						2, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428887.323,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [47]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:04]|h|r Orcbum receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502884,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428887.882,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [48]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:04]|h|r Orcbum receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612502884,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428888.124,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [49]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:05]|h|r You loot 10 Gold, 66 Silver, 64 Copper",
+					["serverTime"] = 1612502885,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						140, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428888.354,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [50]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:09]|h|r Fenniki receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502889,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428893.118,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [51]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:11]|h|r Drmango receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612502891,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428895.284,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [52]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:45]|h|r Boomie receives loot: |cff9d9d9d|Hitem:177754::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Mire-Stained Leather Jerkin]|h|r.",
+					["serverTime"] = 1612502925,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						142, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428929.219,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [53]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:47]|h|r Senpaibacon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502927,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428930.673,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [54]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:47]|h|r Ngow receives loot: |cffa335ee|Hitem:182978::::::::60:270::6:5:7187:6652:7194:1498:6646:1:28:753:::|h[Barkweave Wristwraps]|h|r.",
+					["serverTime"] = 1612502927,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428931.314,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [55]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:28:58]|h|r Scitron receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502938,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						35, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428941.901,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [56]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:29:33]|h|r Meta receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612502973,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						78, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428977.229,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [57]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:29:37]|h|r Orcbum receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502977,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428981.18,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [58]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:29:39]|h|r Brutang receives loot: |cff1eff00|Hitem:178061::::::::60:270:::::::|h[Malleable Flesh]|h|r.",
+					["serverTime"] = 1612502979,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428983.071,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [59]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:29:41]|h|r Drmango receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612502981,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 428984.79,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:17]|h|r Downloaded receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503017,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429020.437,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:18]|h|r Ngow receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx3.",
+					["serverTime"] = 1612503018,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						50, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429021.749,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:23]|h|r Azian receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612503023,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429026.664,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:24]|h|r Emosong receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503024,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						143, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429027.9,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:26]|h|r Unhealable receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612503026,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429029.768,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:27]|h|r Hoofshots receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612503027,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429030.507,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:28]|h|r Azian receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612503028,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429031.84,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:30]|h|r Spoonerisms receives loot: |cff1eff00|Hitem:177779::::::::60:270::6:4:6907:6652:7193:1691:2:28:753:9:60:::|h[Depraved Darkblade's Bindings of the Fireflash]|h|r.",
+					["serverTime"] = 1612503030,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429034.04,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:30]|h|r Spoonerisms receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612503030,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						86, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429034.14,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:31]|h|r Maserder receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|rx4.",
+					["serverTime"] = 1612503031,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429034.94,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:31]|h|r Maserder receives loot: |cff9d9d9d|Hitem:177750::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Mire-Stained Leather Handwraps]|h|r.",
+					["serverTime"] = 1612503031,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429035.174,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:35]|h|r Delpix receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612503035,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						144, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429038.675,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:40]|h|r Lilkdog receives loot: |cff9d9d9d|Hitem:177736::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Crumbling Plate Faceguard]|h|r.",
+					["serverTime"] = 1612503040,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429043.508,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:52]|h|r Emosong receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612503052,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						143, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429055.653,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:30:52]|h|r Emosong receives loot: |cff1eff00|Hitem:177802::::::::60:270::6:3:6908:6652:1698:2:28:753:9:60:::|h[Hopebreaker Carbine of the Feverflare]|h|r.",
+					["serverTime"] = 1612503052,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						143, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429056.153,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:37]|h|r Unhealable receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503097,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						42, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429100.947,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:38]|h|r Fenniki receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx3.",
+					["serverTime"] = 1612503098,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						141, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429101.581,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:41]|h|r Senpaibacon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503101,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						48, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429104.347,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:42]|h|r Hoofshots receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
+					["serverTime"] = 1612503102,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429105.847,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [79]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:42]|h|r Hoofshots receives loot: |cff1eff00|Hitem:177795::::::::60:270::6:4:6907:6652:7193:1678:2:28:753:9:60:::|h[Night Guardian Armplates of the Quickblade]|h|r.",
+					["serverTime"] = 1612503102,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						32, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429106.081,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [80]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:31:48]|h|r Downloaded receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
+					["serverTime"] = 1612503108,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						61, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429111.712,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [81]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:32:30]|h|r Azian receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503150,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						24, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429153.991,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [82]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:10]|h|r Brutang receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503190,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429194.202,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:12]|h|r Papisalad receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503192,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						64, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429195.63,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:33:14]|h|r Lilkdog receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
+					["serverTime"] = 1612503194,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 429198.095,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:46:46]|h|r You repaired your armor for 220|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 74|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 95|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612504006,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430010.233,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:52:03]|h|r You repaired your armor for 75|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 26|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 37|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612504323,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430326.679,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:44]|h|r You repaired your armor for 213|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 15|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 21|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612505024,
+					["r"] = 1,
+					["extraData"] = {
+						29, -- [1]
+						false, -- [2]
+						94, -- [3]
+						94, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431028.226,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:16:51]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498611,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424614.865,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [89]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:16:53]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498613,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424617.116,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [90]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:16:55]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498615,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424619.327,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [91]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:16:58]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498618,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424621.56,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [92]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:17:00]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498620,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424623.827,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [93]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:17:02]|h|r Drmango creates: |cffffffff|Hitem:171273::::::::60:270:::::::|h[Potion of Spectral Intellect]|h|r.",
+					["serverTime"] = 1612498622,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 424626.027,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [94]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:48]|h|r Lilkdog receives loot: |cff9d9d9d|Hitem:168793::::::::60:270:::::::|h[Bottle of Homemade Wine]|h|r.",
+					["serverTime"] = 1612499328,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425331.86,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [95]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:48]|h|r Lilkdog receives loot: |cffffffff|Hitem:163224::::::::60:270:::::::|h[Battle Potion of Strength]|h|r.",
+					["serverTime"] = 1612499328,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.229,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [96]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:48]|h|r Orcbum receives loot: |cff9d9d9d|Hitem:168788::::::::60:270:::::::|h[Toy Soldier Weapons]|h|rx3.",
+					["serverTime"] = 1612499328,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.261,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [97]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:49]|h|r Lilkdog receives loot: |cffffffff|Hitem:9312::::::::60:270:::::::|h[Blue Firework]|h|rx3.",
+					["serverTime"] = 1612499329,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.493,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [98]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:49]|h|r Orcbum receives loot: |cffffffff|Hitem:163224::::::::60:270:::::::|h[Battle Potion of Strength]|h|r.",
+					["serverTime"] = 1612499329,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.617,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [99]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:49]|h|r Lilkdog receives loot: |cff1eff00|Hitem:165745::::::::60:270::11:1:6835:1:28:391:::|h[Crimson Ink Well]|h|r.",
+					["serverTime"] = 1612499329,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						98, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.837,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [100]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:28:49]|h|r Orcbum receives loot: |cffffffff|Hitem:9313::::::::60:270:::::::|h[Green Firework]|h|rx3.",
+					["serverTime"] = 1612499329,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						34, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425332.908,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [101]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:10]|h|r Maserder receives loot: |cffffffff|Hitem:38577::::::::60:270:::::::|h[Party G.R.E.N.A.D.E.]|h|rx3.",
+					["serverTime"] = 1612499530,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425533.834,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [102]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:10]|h|r Maserder receives loot: |cff9d9d9d|Hitem:168788::::::::60:270:::::::|h[Toy Soldier Weapons]|h|rx4.",
+					["serverTime"] = 1612499530,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425534.101,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [103]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:11]|h|r Maserder receives loot: |cffffffff|Hitem:153487::::::::60:270:::::::|h[Organic Discombobulation Grenade]|h|rx2.",
+					["serverTime"] = 1612499531,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425534.467,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [104]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:11]|h|r Maserder receives loot: |cffffffff|Hitem:152503::::::::60:270:::::::|h[Potion of Concealment]|h|rx2.",
+					["serverTime"] = 1612499531,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						99, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425534.801,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [105]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:12]|h|r Brutang receives loot: |cffffffff|Hitem:9313::::::::60:270:::::::|h[Green Firework]|h|rx3.",
+					["serverTime"] = 1612499532,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425535.734,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[23:32:12]|h|r Brutang receives loot: |cff9d9d9d|Hitem:168792::::::::60:270:::::::|h[Kobold's Candle]|h|rx3.",
+					["serverTime"] = 1612499532,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						33, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425536.034,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [107]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:22:37]|h|r Senpaibacon receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:12]|h|r Brutang receives loot: |cffffffff|Hitem:163082::::::::60:270:::::::|h[Coastal Rejuvenation Potion]|h|rx2.",
+					["serverTime"] = 1612499532,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416157,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						89, -- [4]
+						1, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425536.334,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [108]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:10]|h|r Lilkdog receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:13]|h|r Brutang receives loot: |cffffffff|Hitem:153512::::::::60:270:::::::|h[XA-1000 Surface Skimmer]|h|r.",
+					["serverTime"] = 1612499533,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416190,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						164, -- [4]
+						1, -- [3]
+						33, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425536.601,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [109]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:23:11]|h|r Lilkdog receives loot: |cff9d9d9d|Hitem:177762::::::::60:270::6:1:6909:2:28:753:9:60:::|h[Ember-Bleached Cloth Cincture]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:15]|h|r Ngow receives loot: |cffffffff|Hitem:152497::::::::60:270:::::::|h[Lightfoot Potion]|h|rx2.",
+					["serverTime"] = 1612499535,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416191,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						164, -- [4]
+						1, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425539.334,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [110]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:28:52]|h|r Unhealable receives loot: |cff1eff00|Hitem:173204::::::::60:270:::::::|h[Lightless Silk]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:16]|h|r Ngow receives loot: |cff9d9d9d|Hitem:168788::::::::60:270:::::::|h[Toy Soldier Weapons]|h|r.",
+					["serverTime"] = 1612499536,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416532,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						95, -- [4]
+						1, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425539.601,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [111]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:28:53]|h|r Unhealable receives loot: |cffffffff|Hitem:172230::::::::60:270:::::::|h[Soul Dust]|h|rx5.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:16]|h|r Ngow receives loot: |cffffffff|Hitem:34498::::::::60:270::11::1:28:391:::|h[Paper Zeppelin Kit]|h|r.",
+					["serverTime"] = 1612499536,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416533,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						95, -- [4]
+						1, -- [3]
+						50, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425539.867,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [112]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:00]|h|r You sold your junk for 20|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 53|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 43|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416600,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:16]|h|r Papisalad receives loot: |cffffffff|Hitem:9312::::::::60:270:::::::|h[Blue Firework]|h|rx3.",
+					["serverTime"] = 1612499536,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						1, -- [3]
+						64, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425540.267,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [113]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:00]|h|r You repaired your armor for 6|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 38|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 88|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416600,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:17]|h|r Papisalad receives loot: |cffffffff|Hitem:153490::::::::60:270:::::::|h[F.R.I.E.D.]|h|rx2.",
+					["serverTime"] = 1612499537,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						1, -- [3]
+						64, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425540.567,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [114]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:55]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:17]|h|r Papisalad receives loot: |cff9d9d9d|Hitem:168797::::::::60:270:::::::|h[Stack of Undeliverable Mail]|h|rx2.",
+					["serverTime"] = 1612499537,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416655,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						43, -- [4]
+						1, -- [3]
+						64, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425540.867,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:55]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:17]|h|r Papisalad receives loot: |cffffffff|Hitem:152495::::::::60:270:::::::|h[Coastal Mana Potion]|h|rx3.",
+					["serverTime"] = 1612499537,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416655,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						43, -- [4]
+						1, -- [3]
+						64, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425541.134,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:30:55]|h|r Spoonerisms creates: |cffffffff|Hitem:177278::::::::60:270:::::::|h[Phial of Serenity]|h|r.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:23]|h|r Hoofshots receives loot: |cffffffff|Hitem:34498::::::::60:270::11::1:28:391:::|h[Paper Zeppelin Kit]|h|r.",
+					["serverTime"] = 1612499543,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416655,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						43, -- [4]
+						1, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425546.391,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [117]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:32:19]|h|r You repaired your armor for 73|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 54|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 2|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416739,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:23]|h|r Hoofshots receives loot: |cffffffff|Hitem:153512::::::::60:270:::::::|h[XA-1000 Surface Skimmer]|h|r.",
+					["serverTime"] = 1612499543,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						1, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425546.691,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [118]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:32:47]|h|r Boomie receives loot: |cffffffff|Hitem:9313::::::::60:270:::::::|h[Green Firework]|h|rx3.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:23]|h|r Hoofshots receives loot: |cffffffff|Hitem:163223::::::::60:270:::::::|h[Battle Potion of Agility]|h|r.",
+					["serverTime"] = 1612499543,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416767,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						44, -- [4]
+						1, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425546.991,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [119]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:32:47]|h|r Boomie receives loot: |cffffffff|Hitem:152494::::::::60:270:::::::|h[Coastal Healing Potion]|h|rx3.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:32:23]|h|r Hoofshots receives loot: |cff9d9d9d|Hitem:168788::::::::60:270:::::::|h[Toy Soldier Weapons]|h|rx4.",
+					["serverTime"] = 1612499543,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416767,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						44, -- [4]
+						1, -- [3]
+						32, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425547.291,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [120]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:32:47]|h|r Boomie receives loot: |cff9d9d9d|Hitem:168790::::::::60:270:::::::|h[Sack of Fish Bones]|h|rx4.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:34:20]|h|r Meta receives loot: |cffffffff|Hitem:9312::::::::60:270:::::::|h[Blue Firework]|h|rx3.",
+					["serverTime"] = 1612499660,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416767,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						44, -- [4]
+						1, -- [3]
+						78, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425663.607,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [121]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:32]|h|r Meta receives loot: |cffffffff|Hitem:173202::::::::60:270:::::::|h[Shrouded Cloth]|h|rx9.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:34:20]|h|r Meta receives loot: |cffffffff|Hitem:152503::::::::60:270:::::::|h[Potion of Concealment]|h|rx2.",
+					["serverTime"] = 1612499660,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416872,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						91, -- [4]
+						1, -- [3]
+						78, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425663.94,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [122]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:32]|h|r Meta receives loot: |cff0070dd|Hitem:172231::::::::60:270:::::::|h[Sacred Shard]|h|rx2.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:34:20]|h|r Meta receives loot: |cffffffff|Hitem:158380::::::::60:270:::::::|h[Magical Intrusion Dampener]|h|r.",
+					["serverTime"] = 1612499660,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416872,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						91, -- [4]
+						1, -- [3]
+						78, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425664.207,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [123]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:34:33]|h|r Meta receives loot: |cffffffff|Hitem:172230::::::::60:270:::::::|h[Soul Dust]|h|rx5.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:34:21]|h|r Meta receives loot: |cff9d9d9d|Hitem:168790::::::::60:270:::::::|h[Sack of Fish Bones]|h|r.",
+					["serverTime"] = 1612499661,
 					["r"] = 0,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612416873,
 					["extraData"] = {
 						28, -- [1]
 						false, -- [2]
-						32, -- [3]
-						91, -- [4]
+						1, -- [3]
+						78, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425664.54,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [124]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:39:01]|h|r You repaired your armor for 71|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 24|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 22|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[23:35:12]|h|r You repaired your armor for 295|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 5|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 92|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["serverTime"] = 1612499712,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612417141,
 					["extraData"] = {
 						29, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						94, -- [3]
+						94, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425716.229,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [125]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:22]|h|r You repaired your armor for 360|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 54|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 2|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418602,
+					["message"] = "|cff979797|Hpratcopy|h[23:38:27]|h|r Drmango receives loot: |cffffffff|Hitem:152503::::::::60:270:::::::|h[Potion of Concealment]|h|rx2.",
+					["serverTime"] = 1612499907,
+					["r"] = 0,
 					["extraData"] = {
-						29, -- [1]
+						28, -- [1]
 						false, -- [2]
-						52, -- [3]
-						52, -- [4]
+						1, -- [3]
+						49, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 425911.206,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [126]
 				{
-					["message"] = "0 |4day:days;, 0 |4hour:hours;, 1 |4minute:minutes;, 13 |4second:seconds;",
-					["timestamp"] = 344679.651,
+					["message"] = "|cff979797|Hpratcopy|h[23:38:28]|h|r Drmango receives loot: |cff9d9d9d|Hitem:168797::::::::60:270:::::::|h[Stack of Undeliverable Mail]|h|r.",
+					["serverTime"] = 1612499908,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425911.506,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [127]
 				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 344679.651,
+					["message"] = "|cff979797|Hpratcopy|h[23:38:28]|h|r Drmango receives loot: |cffffffff|Hitem:9318::::::::60:270:::::::|h[Red Firework]|h|rx3.",
+					["serverTime"] = 1612499908,
+					["r"] = 0,
+					["extraData"] = {
+						28, -- [1]
+						false, -- [2]
+						1, -- [3]
+						49, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 425911.806,
+					["g"] = 0.6666666865348816,
+					["b"] = 0,
 				}, -- [128]
 			},
 			["maxElements"] = 128,
@@ -3850,7 +3452,7 @@ Prat3HighCPUPerCharDB = {
 		},
 		["ChatFrame1"] = {
 			["EnumerateIndexedEntries"] = nil --[[ skipped inline function ]],
-			["headIndex"] = 0,
+			["headIndex"] = 31,
 			["ReplaceElements"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndex"] = nil --[[ skipped inline function ]],
 			["CalculateElementIndexFromGlobalIndex"] = nil --[[ skipped inline function ]],
@@ -3863,1828 +3465,1773 @@ Prat3HighCPUPerCharDB = {
 			["IsFull"] = nil --[[ skipped inline function ]],
 			["elements"] = {
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:15]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8480:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Eating Nom Noms!",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[01:03:02]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4703:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: 5/10M",
+					["serverTime"] = 1612504982,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418235,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						59, -- [4]
+						9, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430986.316,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [1]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:16]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Delpix-Kil'jaeden:8481:PARTY|h|cffd8bc3f60|r:|cfffefefeDelpix|r:2|h|cffd8d8d8]|r: thats easiest one",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[01:03:04]|h|r |cff259054BugSack:|r All stored bugs have been exterminated painfully.",
+					["timestamp"] = 430987.501,
+					["serverTime"] = 1612504984,
+				}, -- [2]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:04]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4704:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: noice",
+					["serverTime"] = 1612504984,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430988.032,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [3]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:06]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4705:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: good progg",
+					["serverTime"] = 1612504986,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430990.297,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [4]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:15]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4706:RAID|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: pog prog",
+					["serverTime"] = 1612504995,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						41, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430999.081,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [5]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:15]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Maserder-Kil'jaeden:4707:RAID|h|cffd8bc3f60|r:|cff3ec6eaMaserder|r:2|h|cffd8d8d8]|r: delphi was the solution",
+					["serverTime"] = 1612504995,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						155, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430999.081,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [6]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:16]|h|r Loot Specialization set to: Windwalker",
+					["serverTime"] = 1612504996,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						["n"] = 1,
+					},
+					["timestamp"] = 430999.081,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [7]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:18]|h|r ==================",
+					["timestamp"] = 431001.83,
+					["serverTime"] = 1612504998,
+				}, -- [8]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:18]|h|r ExRT: log record ended",
+					["timestamp"] = 431001.83,
+					["serverTime"] = 1612504998,
+				}, -- [9]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:18]|h|r ==================",
+					["timestamp"] = 431001.83,
+					["serverTime"] = 1612504998,
+				}, -- [10]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:21]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4709:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: cya guys next week",
+					["serverTime"] = 1612505001,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431004.683,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [11]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:34]|h|r |cfffefefeFenniki|r has left the raid group.",
+					["serverTime"] = 1612505014,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431018.134,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [12]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:35]|h|r |cff00fe97Unhealable|r has left the raid group.",
+					["serverTime"] = 1612505015,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431018.932,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [13]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:36]|h|r |cffa9d271Papisalad|r has gone offline.",
+					["serverTime"] = 1612505016,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431019.435,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [14]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:36]|h|r |cfffefefeFenniki|r has gone offline.",
+					["serverTime"] = 1612505016,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431019.874,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [15]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:37]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4714:PARTY|h|cffd8bc3f60|r:|cff006fdcYukios|r:4|h|cffd8d8d8]|r: well prob run apt :D",
+					["serverTime"] = 1612505017,
 					["r"] = 0.6666666865348816,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418236,
 					["extraData"] = {
 						3, -- [1]
 						false, -- [2]
-						26, -- [3]
-						105, -- [4]
+						46, -- [3]
+						145, -- [4]
 						["n"] = 4,
 					},
-				}, -- [2]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:24]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:8482:RAID|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r|h|cffd8d8d8]|r: you told me 2.7 seconds earlier thac",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418244,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
-						174, -- [4]
-						["n"] = 4,
-					},
-				}, -- [3]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:26]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:8483:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: xymox 124 pulls what does that mean",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418246,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
-						106, -- [4]
-						["n"] = 4,
-					},
-				}, -- [4]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:27]|h|r |cffa22fc8Meta|r has initiated a ready check.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418247,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [5]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:31]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8485:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Done With Nom Noms!",
+					["timestamp"] = 431020.657,
+					["g"] = 0.6666666865348816,
 					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418251,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [6]
+				}, -- [16]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:34]|h|r |cffd8d8d8[|r|Hplayer:Nymphoes:8486|h|cffd8bc3f60|r:|cff8687edNymphoes|r|h|cffd8d8d8]|r has come online.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:03:38]|h|r |cffa9d271Hoofshots|r has left the raid group.",
+					["serverTime"] = 1612505018,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418254,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-				}, -- [7]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:39]|h|r Everyone is Ready",
-					["b"] = 0,
-					["r"] = 1,
+					["timestamp"] = 431021.694,
 					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418259,
+					["b"] = 0,
+				}, -- [17]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:38]|h|r |cfff38bb9Spoonerisms|r has left the raid group.",
+					["serverTime"] = 1612505018,
+					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-				}, -- [8]
+					["timestamp"] = 431022.135,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [18]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:39]|h|r |Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:8488:RAID|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: Everyone is Ready",
-					["b"] = 0.03529411926865578,
+					["message"] = "|cff979797|Hpratcopy|h[01:03:41]|h|r |cfff38bb9Spoonerisms|r has gone offline.",
+					["serverTime"] = 1612505021,
 					["r"] = 1,
-					["g"] = 0.2823529541492462,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418259,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431024.467,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [19]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:42]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4718:PARTY|h|cffd8bc3f60|r:|cff006fdcYukios|r:4|h|cffd8d8d8]|r: and run seed",
+					["serverTime"] = 1612505022,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431025.445,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [20]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:43]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4719:PARTY|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: yea we can",
+					["serverTime"] = 1612505023,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431027.011,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [21]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:44]|h|r |cfffe7b09Ngow|r has left the raid group.",
+					["serverTime"] = 1612505024,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431027.841,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [22]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:44]|h|r Repaired for 213 Gold, 15 Silver, 21 Copper.",
+					["r"] = 1,
+					["serverTime"] = 1612505024,
+					["timestamp"] = 431028.226,
+					["g"] = 0.85,
+					["b"] = 0,
+				}, -- [23]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:46]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4721:PARTY|h|cffd8bc3f60|r:|cff006fdcYukios|r:4|h|cffd8d8d8]|r: and apt when its bad seed",
+					["serverTime"] = 1612505026,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431029.537,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [24]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:47]|h|r |cff33ff99Postal|r: Collected 437007|TInterface\\MoneyFrame\\UI-GoldIcon:0:0:2:0|t 51|TInterface\\MoneyFrame\\UI-SilverIcon:0:0:2:0|t 45|TInterface\\MoneyFrame\\UI-CopperIcon:0:0:2:0|t",
+					["timestamp"] = 431030.449,
+					["serverTime"] = 1612505027,
+				}, -- [25]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:47]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4722:PARTY|h|cffd8bc3f60|r:|cff006fdcYukios|r:4|h|cffd8d8d8]|r: :D",
+					["serverTime"] = 1612505027,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431031.112,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [26]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:49]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4723:PARTY|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: apt could be useful",
+					["serverTime"] = 1612505029,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						47, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431032.393,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [27]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:49]|h|r |cff3ec6eaMaserder|r has left the raid group.",
+					["serverTime"] = 1612505029,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431032.529,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [28]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:49]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4725:PARTY|h|cffd8bc3f60|r:|cff006fdcYukios|r:4|h|cffd8d8d8]|r: jk",
+					["serverTime"] = 1612505029,
+					["r"] = 0.6666666865348816,
+					["extraData"] = {
+						3, -- [1]
+						false, -- [2]
+						46, -- [3]
+						145, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431032.813,
+					["g"] = 0.6666666865348816,
+					["b"] = 1,
+				}, -- [29]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:50]|h|r |cffa22fc8Meta|r has left the raid group.",
+					["serverTime"] = 1612505030,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431034.263,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [30]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:03:53]|h|r |cfffe7b09Boomie|r has left the raid group.",
+					["serverTime"] = 1612505033,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 431036.401,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [31]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:58:14]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:4604:RAID|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r:1|h|cffd8d8d8]|r: LOL",
+					["serverTime"] = 1612504694,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						54, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430697.448,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [32]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:58:15]|h|r |cffa9d271Papisalad|r is not ready",
+					["serverTime"] = 1612504695,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430698.581,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [33]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:58:15]|h|r The following players are Away: |cffa9d271Papisalad|r",
+					["serverTime"] = 1612504695,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430698.581,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [34]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:58:15]|h|r |Hchannel:RAID|h[RL] |h|cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4607:RAID|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: The following players are Not Ready: |cffa9d271Papisalad|r",
+					["serverTime"] = 1612504695,
+					["r"] = 1,
 					["extraData"] = {
 						40, -- [1]
 						false, -- [2]
-						16, -- [3]
-						60, -- [4]
+						9, -- [3]
+						52, -- [4]
 						["n"] = 4,
 					},
-				}, -- [9]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:57:41]|h|r |cffc59a6cOffset|r has gone offline.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418261,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [10]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:02]|h|r |cffd8d8d8[|r|Hplayer:Oceanlab:8490|h|cffd8bc3f60|r:|cff006fdcOceanlab|r|h|cffd8d8d8]|r has come online.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418282,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [11]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:06]|h|r Artificer Xy'mox yells: Wonderful! I have been hoping to test these relics on live targets.",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418286,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [12]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:07]|h|r |cffd8d8d8[|r|Hplayer:Kiiana:8492|h|cffd8bc3f60|r:|cffa22fc8Kiiana|r|h|cffd8d8d8]|r has come online.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418287,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [13]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:07]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8493:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418287,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [14]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:07]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8494:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418287,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
-						66, -- [4]
-						["n"] = 4,
-					},
-				}, -- [15]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:21]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:8495:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418301,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						48, -- [4]
-						["n"] = 4,
-					},
-				}, -- [16]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:23]|h|r [S] |cffd8d8d8[|r|Hplayer:Emosong-Kil'jaeden:8496:SAY|h|cffd8bc3f60|r:|cfffef367Emosong|r:8|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tEmosong|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418303,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						193, -- [4]
-						["n"] = 4,
-					},
-				}, -- [17]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:23]|h|r [S] |cffd8d8d8[|r|Hplayer:Drmango-Kil'jaeden:8497:SAY|h|cffd8bc3f60|r:|cff3ec6eaDrmango|r:3|h|cffd8d8d8]|r: Tear 2 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|tDrmango|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418303,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						72, -- [4]
-						["n"] = 4,
-					},
-				}, -- [18]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:27]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418307,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [19]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:32]|h|r Artificer Xy'mox yells: Let us see if the legends of this relic are true!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418312,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [20]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:35]|h|r Artificer Xy'mox yells: Destruction is guaranteed!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418315,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [21]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:37]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418317,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [22]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:51]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:8504:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418331,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						48, -- [4]
-						["n"] = 4,
-					},
-				}, -- [23]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:58:55]|h|r Artificer Xy'mox yells: The anticipation to use this relic is killing me! Though, it will more likely kill you.",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418335,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [24]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:00]|h|r |Hchannel:PARTY|h[P] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:8506:PARTY|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: 4 seconds off",
-					["b"] = 1,
-					["r"] = 0.6666666865348816,
-					["g"] = 0.6666666865348816,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418340,
-					["extraData"] = {
-						3, -- [1]
-						false, -- [2]
-						26, -- [3]
-						167, -- [4]
-						["n"] = 4,
-					},
-				}, -- [25]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:07]|h|r |Hchannel:GUILD|h[G] |h|cffd8d8d8[|r|Hplayer:Viccious-Kil'jaeden:8507:GUILD|h|cffd8bc3f60|r:|cfffef367Viccious|r|h|cffd8d8d8]|r: any enchanters on right now that can help me make |cff1eff00|Hitem:172438::::::::60:259:::::::|h[Enchanted Heavy Callous Hide]|h|r",
-					["b"] = 0.250980406999588,
-					["r"] = 0.250980406999588,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418347,
-					["extraData"] = {
-						5, -- [1]
-						false, -- [2]
-						5, -- [3]
-						199, -- [4]
-						["n"] = 4,
-					},
-				}, -- [26]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:16]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418356,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [27]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:17]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418357,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [28]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:20]|h|r Artificer Xy'mox yells: You cannot bargain with death!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418360,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [29]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:22]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418362,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [30]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:24]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8514:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418364,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
-						66, -- [4]
-						["n"] = 4,
-					},
-				}, -- [31]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:25]|h|r [S] |cffd8d8d8[|r|Hplayer:Spoonerisms-Kil'jaeden:8515:SAY|h|cffd8bc3f60|r:|cfff38bb9Spoonerisms|r:2|h|cffd8d8d8]|r: 2",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418365,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						152, -- [4]
-						["n"] = 4,
-					},
-				}, -- [32]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:46]|h|r Artificer Xy'mox yells: The warp beckons!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418386,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [33]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8517:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tClérik|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418388,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						134, -- [4]
-						["n"] = 4,
-					},
-				}, -- [34]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8518:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: Tear (1|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t) on |cfff38bb9Clérik|r",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418388,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						134, -- [4]
-						["n"] = 4,
-					},
+					["timestamp"] = 430698.881,
+					["g"] = 0.2823529541492462,
+					["b"] = 0.03529411926865578,
 				}, -- [35]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:8519:SAY|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r|h|cffd8d8d8]|r: Tear 2 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|tHoofshots|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:17]|h|r |Hplayer:Scitron:4608:TEXT_EMOTE:|h|cff006fdcScitron|r|h dances with Downloaded.",
+					["serverTime"] = 1612504697,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418388,
 					["extraData"] = {
-						2, -- [1]
+						12, -- [1]
 						false, -- [2]
-						47, -- [3]
-						69, -- [4]
+						84, -- [3]
+						152, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430701.181,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [36]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:8522:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:18]|h|r [S] |cffd8d8d8[|r|Hplayer:Downloaded-Kil'jaeden:4609:SAY|h|cffd8bc3f60|r:|cff8687edDownloaded|r:3|h|cffd8d8d8]|r: bark",
+					["serverTime"] = 1612504698,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418388,
 					["extraData"] = {
 						2, -- [1]
 						false, -- [2]
-						47, -- [3]
-						48, -- [4]
+						28, -- [3]
+						39, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430701.448,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [37]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:52]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:19]|h|r |cff00fe97Giyu|r has gone offline.",
+					["serverTime"] = 1612504699,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418392,
 					["extraData"] = {
-						15, -- [1]
+						1, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430703.181,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [38]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:53]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8524:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: 3",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:23]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:4611:RAID|h|cffd8bc3f60|r:|cffa9d271Papisalad|r:1|h|cffd8d8d8]|r: good thing im not SHEJAY",
+					["serverTime"] = 1612504703,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418393,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						9, -- [3]
+						23, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430706.511,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [39]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:53]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8525:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t3",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:24]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:4612:RAID|h|cffd8bc3f60|r:|cffa9d271Papisalad|r:1|h|cffd8d8d8]|r: DELPI",
+					["serverTime"] = 1612504704,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418393,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						9, -- [3]
+						23, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430708.211,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [40]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:53]|h|r [S] |cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:8526:SAY|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t3",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:26]|h|r |cffd8d8d8[|r|Hplayer:Sildor:4613|h|cffd8bc3f60|r:|cfffefefeSildor|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1612504706,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418393,
 					["extraData"] = {
-						2, -- [1]
+						1, -- [1]
 						false, -- [2]
-						47, -- [3]
-						69, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430709.578,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [41]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:54]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8527:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: 2",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:26]|h|r |Hplayer:Downloaded:4614:TEXT_EMOTE:|h|cff8687edDownloaded|r|h dances with Scitron.",
+					["serverTime"] = 1612504706,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418394,
 					["extraData"] = {
-						2, -- [1]
+						12, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						84, -- [3]
+						147, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430709.711,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [42]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:54]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8528:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t2",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:28]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:4615:RAID|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r:1|h|cffd8d8d8]|r: wow",
+					["serverTime"] = 1612504708,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418394,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						9, -- [3]
+						54, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430711.944,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [43]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:55]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8529:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: 1",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:29]|h|r |Hplayer:Downloaded:4616:TEXT_EMOTE:|h|cff8687edDownloaded|r|h dances with Scitron.",
+					["serverTime"] = 1612504709,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418395,
 					["extraData"] = {
-						2, -- [1]
+						12, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						84, -- [3]
+						147, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430713.144,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [44]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:55]|h|r [S] |cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8530:SAY|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:30]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:4617:RAID|h|cffd8bc3f60|r:|cffa9d271Papisalad|r:1|h|cffd8d8d8]|r: 7.7",
+					["serverTime"] = 1612504710,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418395,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						134, -- [4]
+						9, -- [3]
+						23, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430713.544,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [45]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:56]|h|r Artificer Xy'mox yells: Destruction is guaranteed!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:38]|h|r |Hplayer:Downloaded:4618:TEXT_EMOTE:|h|cff8687edDownloaded|r|h dances with Scitron.",
+					["serverTime"] = 1612504718,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418396,
 					["extraData"] = {
-						15, -- [1]
+						12, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						84, -- [3]
+						147, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430721.827,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [46]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:58]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8532:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:44]|h|r |Hplayer:Downloaded:4619:TEXT_EMOTE:|h|cff8687edDownloaded|r|h dances with Scitron.",
+					["serverTime"] = 1612504724,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418398,
 					["extraData"] = {
-						2, -- [1]
+						12, -- [1]
 						false, -- [2]
-						47, -- [3]
-						59, -- [4]
+						84, -- [3]
+						147, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430727.917,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [47]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:58]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8533:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:44]|h|r [S] |cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4620:SAY|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: ez",
+					["serverTime"] = 1612504724,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418398,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						66, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430727.991,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [48]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[00:59:59]|h|r [S] |cffd8d8d8[|r|Hplayer:Spoonerisms-Kil'jaeden:8534:SAY|h|cffd8bc3f60|r:|cfff38bb9Spoonerisms|r:2|h|cffd8d8d8]|r: Glyph of Destruction on |cfff38bb9Spoonerisms|r",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:44]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Hoofshots-Kil'jaeden:4621:RAID|h|cffd8bc3f60|r:|cffa9d271Hoofshots|r:1|h|cffd8d8d8]|r: jc cj",
+					["serverTime"] = 1612504724,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418399,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						152, -- [4]
+						9, -- [3]
+						54, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430728.254,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [49]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:00]|h|r [S] |cffd8d8d8[|r|Hplayer:Spoonerisms-Kil'jaeden:8535:SAY|h|cffd8bc3f60|r:|cfff38bb9Spoonerisms|r:2|h|cffd8d8d8]|r: 3",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:48]|h|r |Hplayer:Brutang:4622:TEXT_EMOTE:|h|cffc31d39Brutang|r|h dances with Scitron.",
+					["serverTime"] = 1612504728,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418400,
 					["extraData"] = {
-						2, -- [1]
+						12, -- [1]
 						false, -- [2]
-						47, -- [3]
-						152, -- [4]
+						84, -- [3]
+						153, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430731.826,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [50]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:13]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:52]|h|r [S] |cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4623:SAY|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: ops",
+					["serverTime"] = 1612504732,
 					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418413,
 					["extraData"] = {
-						42, -- [1]
+						2, -- [1]
 						false, -- [2]
-						74, -- [3]
-						75, -- [4]
+						28, -- [3]
+						29, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430735.785,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [51]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:23]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:58:53]|h|r [S] |cffd8d8d8[|r|Hplayer:Downloaded-Kil'jaeden:4624:SAY|h|cffd8bc3f60|r:|cff8687edDownloaded|r:3|h|cffd8d8d8]|r: yep",
+					["serverTime"] = 1612504733,
 					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418423,
 					["extraData"] = {
-						42, -- [1]
+						2, -- [1]
 						false, -- [2]
-						74, -- [3]
-						75, -- [4]
+						28, -- [3]
+						39, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430737.252,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [52]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:26]|h|r Artificer Xy'mox yells: I hope this wondrous item is as lethal as it looks!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[00:59:01]|h|r |Hplayer:Downloaded:4625:TEXT_EMOTE:|h|cff8687edDownloaded|r|h dances with Scitron.",
+					["serverTime"] = 1612504741,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418426,
 					["extraData"] = {
-						15, -- [1]
+						12, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						84, -- [3]
+						147, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430745.252,
+					["g"] = 0.501960813999176,
+					["b"] = 0.250980406999588,
 				}, -- [53]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:43]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8539:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tUnhealable|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418443,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						138, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[00:59:09]|h|r BigWigs: |cffffff00Pull timer started by BigWigs user Meta.|r",
+					["timestamp"] = 430752.986,
+					["serverTime"] = 1612504749,
 				}, -- [54]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:43]|h|r [S] |cffd8d8d8[|r|Hplayer:Fenniki-Kil'jaeden:8540:SAY|h|cffd8bc3f60|r:|cfffefefeFenniki|r:2|h|cffd8d8d8]|r: Tear 2 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|tFenniki|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418443,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						77, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[00:59:19]|h|r |cffffff00ExRT|r Who Pulled: |cff8687edDownloaded",
+					["timestamp"] = 430762.541,
+					["serverTime"] = 1612504759,
 				}, -- [55]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8543:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t3",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:59:19]|h|r Artificer Xy'mox yells: Wonderful! I have been hoping to test these relics on live targets.",
+					["serverTime"] = 1612504759,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418448,
 					["extraData"] = {
-						2, -- [1]
+						15, -- [1]
 						false, -- [2]
-						47, -- [3]
-						138, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430762.734,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [56]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:49]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8544:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t2",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418449,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						138, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[00:59:19]|h|r |cffffaeaeDetails!:|r |cFFFFBB00First Hit|r: *?* |cFFFFBB00Boss First Target|r: Downloaded    ",
+					["timestamp"] = 430763.054,
+					["serverTime"] = 1612504759,
 				}, -- [57]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:50]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8545:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
-					["b"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[00:59:19]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4627:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
+					["serverTime"] = 1612504759,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418450,
 					["extraData"] = {
-						2, -- [1]
+						4, -- [1]
 						false, -- [2]
-						47, -- [3]
-						138, -- [4]
+						9, -- [3]
+						25, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430763.129,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [58]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:54]|h|r |TInterface\\ICONS\\INV_Archaeology_80_Witch_GuillotineAxe.BLP:20|t The Edge of Annihilation begins casting|cFFFF0000|Hspell:328789|h [Annihilate]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418454,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[00:59:19]|h|r |cffffaeaeDetails!:|r |cFFFFBB00Your Best Score|r: -nan(ind)B [|cFFFFFF00Guild Rank: 0|r]   ",
+					["timestamp"] = 430763.15,
+					["serverTime"] = 1612504759,
 				}, -- [59]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:00:58]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[00:59:20]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4628:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
+					["serverTime"] = 1612504760,
 					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418458,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [60]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:00]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418460,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [61]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:03]|h|r |cfff38bb9Ticklemee|r has gone offline.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418463,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [62]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:12]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418472,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [63]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:13]|h|r |cfffefefeDelpix|r has died.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418473,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [64]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:17]|h|r Artificer Xy'mox yells: The warp beckons!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418477,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [65]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:19]|h|r |cff006fdcYukios|r has died.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418479,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [66]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:19]|h|r [S] |cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:8554:SAY|h|cffd8bc3f60|r:|cffa9d271Papisalad|r|h|cffd8d8d8]|r: Tear 2 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|tPapisalad|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418479,
 					["extraData"] = {
 						2, -- [1]
 						false, -- [2]
-						47, -- [3]
-						180, -- [4]
-						["n"] = 4,
-					},
-				}, -- [67]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:19]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:8555:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:1|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tLilkdog|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418479,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						127, -- [4]
-						["n"] = 4,
-					},
-				}, -- [68]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:19]|h|r Artificer Xy'mox yells: You cannot bargain with death!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418479,
-					["extraData"] = {
-						15, -- [1]
-						false, -- [2]
-						36, -- [3]
-						37, -- [4]
-						["n"] = 4,
-					},
-				}, -- [69]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:22]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8559:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418482,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
-						66, -- [4]
-						["n"] = 4,
-					},
-				}, -- [70]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:22]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:8560:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418482,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						59, -- [4]
-						["n"] = 4,
-					},
-				}, -- [71]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:22]|h|r [S] |cffd8d8d8[|r|Hplayer:Spoonerisms-Kil'jaeden:8561:SAY|h|cffd8bc3f60|r:|cfff38bb9Spoonerisms|r:2|h|cffd8d8d8]|r: Glyph of Destruction on |cfff38bb9Spoonerisms|r",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418482,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						152, -- [4]
-						["n"] = 4,
-					},
-				}, -- [72]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:24]|h|r [S] |cffd8d8d8[|r|Hplayer:Spoonerisms-Kil'jaeden:8562:SAY|h|cffd8bc3f60|r:|cfff38bb9Spoonerisms|r:2|h|cffd8d8d8]|r: 2",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418484,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						152, -- [4]
-						["n"] = 4,
-					},
-				}, -- [73]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:24]|h|r [S] |cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:8563:SAY|h|cffd8bc3f60|r:|cffa9d271Papisalad|r|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t3",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418484,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						180, -- [4]
-						["n"] = 4,
-					},
-				}, -- [74]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:24]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:8564:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t3",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418484,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						127, -- [4]
-						["n"] = 4,
-					},
-				}, -- [75]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:25]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:8565:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t2",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418485,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						127, -- [4]
-						["n"] = 4,
-					},
-				}, -- [76]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:26]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:8566:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418486,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						127, -- [4]
-						["n"] = 4,
-					},
-				}, -- [77]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:33]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:8567:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
-					["b"] = 1,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418493,
-					["extraData"] = {
-						2, -- [1]
-						false, -- [2]
-						47, -- [3]
-						48, -- [4]
-						["n"] = 4,
-					},
-				}, -- [78]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:43]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:8568:RAID|h|cffd8bc3f60|r:|cffa9d271Papisalad|r|h|cffd8d8d8]|r: how did i dieeeee",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418503,
-					["extraData"] = {
-						4, -- [1]
-						false, -- [2]
-						16, -- [3]
+						28, -- [3]
 						40, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430763.339,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [60]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:30]|h|r Unhealable yells: Closer! Come closer... and burn!",
+					["serverTime"] = 1612504770,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						83, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430773.806,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [61]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:32]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4630:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
+					["serverTime"] = 1612504772,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430775.891,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [62]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:35]|h|r [S] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4631:SAY|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tBrutang|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
+					["serverTime"] = 1612504775,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430779.196,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [63]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:35]|h|r [S] |cffd8d8d8[|r|Hplayer:Boomie-Kil'jaeden:4632:SAY|h|cffd8bc3f60|r:|cfffe7b09Boomie|r:4|h|cffd8d8d8]|r: Tear (2|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t) on |cfffe7b09Boomie|r",
+					["serverTime"] = 1612504775,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						71, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430779.196,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [64]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:39]|h|r Artificer Xy'mox yells: Mind your step!",
+					["serverTime"] = 1612504779,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430783.155,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [65]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:44]|h|r Artificer Xy'mox yells: Let us see if the legends of this relic are true!",
+					["serverTime"] = 1612504784,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430788.031,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [66]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:48]|h|r Artificer Xy'mox yells: Destruction is guaranteed!",
+					["serverTime"] = 1612504788,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430791.623,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [67]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:49]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
+					["serverTime"] = 1612504789,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430793.232,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [68]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:51]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4639:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1612504791,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						40, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430795.319,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [69]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:58]|h|r Artificer Xy'mox yells: The anticipation to use this relic is killing me! Though, it will more likely kill you.",
+					["serverTime"] = 1612504798,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430801.409,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [70]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[00:59:58]|h|r |cffffaeaeDetails!:|r Current phase is now: 2   ",
+					["timestamp"] = 430801.409,
+					["serverTime"] = 1612504798,
+				}, -- [71]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:12]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4641:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
+					["serverTime"] = 1612504812,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430815.426,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [72]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:14]|h|r [S] |cffd8d8d8[|r|Hplayer:Papisalad-Kil'jaeden:4642:SAY|h|cffd8bc3f60|r:|cffa9d271Papisalad|r:1|h|cffd8d8d8]|r: Tear 2 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|tPapisalad|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t",
+					["serverTime"] = 1612504814,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						66, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430818.076,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [73]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:14]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:4645:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tUnhealable|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
+					["serverTime"] = 1612504814,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430818.076,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [74]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:18]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4646:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: rly good push",
+					["serverTime"] = 1612504818,
+					["r"] = 1,
+					["extraData"] = {
+						4, -- [1]
+						false, -- [2]
+						9, -- [3]
+						19, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430821.365,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
+				}, -- [75]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:18]|h|r Artificer Xy'mox yells: Mind your step!",
+					["serverTime"] = 1612504818,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430822.045,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [76]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:20]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
+					["serverTime"] = 1612504820,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430823.657,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [77]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:21]|h|r [S] |cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:4649:SAY|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
+					["serverTime"] = 1612504821,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						57, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430825.073,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [78]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:23]|h|r Artificer Xy'mox yells: Destruction is guaranteed!",
+					["serverTime"] = 1612504823,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430826.783,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [79]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:49]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:25]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
+					["serverTime"] = 1612504825,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418509,
 					["extraData"] = {
-						15, -- [1]
+						42, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						26, -- [3]
+						27, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430828.424,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
 				}, -- [80]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:54]|h|r Artificer Xy'mox yells: Destruction is guaranteed!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:25]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4652:RAID|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: Taunted Artificer Xy'mox!",
+					["serverTime"] = 1612504825,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418514,
 					["extraData"] = {
-						15, -- [1]
+						4, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						9, -- [3]
+						25, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430828.873,
+					["g"] = 0.4980392456054688,
+					["b"] = 0,
 				}, -- [81]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:01:58]|h|r Artificer Xy'mox yells: With this power, reality crumbles!",
-					["b"] = 0.250980406999588,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:29]|h|r |cff71d5ff|Hdeath:28|h[You died.]|h",
+					["serverTime"] = 1612504829,
 					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418518,
 					["extraData"] = {
-						15, -- [1]
+						1, -- [1]
 						false, -- [2]
-						36, -- [3]
-						37, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430833.255,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [82]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:00]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:30]|h|r Artificer Xy'mox yells: To die is your only value!",
+					["serverTime"] = 1612504830,
 					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418520,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [83]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:08]|h|r |cfff38bb9Clérik|r has died.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418528,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [84]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:08]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418528,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [85]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:08]|h|r |TInterface\\ICONS\\INV_Archaeology_80_Witch_GuillotineAxe.BLP:20|t The Edge of Annihilation begins casting|cFFFF0000|Hspell:328789|h [Annihilate]|h|r!",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 0.8666667342185974,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418528,
-					["extraData"] = {
-						42, -- [1]
-						false, -- [2]
-						74, -- [3]
-						75, -- [4]
-						["n"] = 4,
-					},
-				}, -- [86]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:22]|h|r |cff71d5ff|Hdeath:19|h[You died.]|h",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418542,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [87]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:22]|h|r |cff006fdcScitron|r has died.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418542,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
-				}, -- [88]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:25]|h|r Artificer Xy'mox yells: Mind your step!",
-					["b"] = 0.250980406999588,
-					["r"] = 1,
-					["g"] = 0.250980406999588,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418545,
 					["extraData"] = {
 						15, -- [1]
 						false, -- [2]
-						36, -- [3]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430833.473,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [83]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:41]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4656:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
+					["serverTime"] = 1612504841,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						38, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430845.176,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [84]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:46]|h|r |cffd8d8d8[|r|Hplayer:Viccious-Kil'jaeden:4657:GUILD|h|cffd8bc3f60|r:|cfffef367Viccious|r|h|cffd8d8d8]|r has earned the achievement |cffffff00|Hachievement:14762:Player-9-09A64D39:1:2:4:21:4294967295:4294967295:4294967295:4294967295|h[Breaking the Stratus Fear]|h|r!",
+					["serverTime"] = 1612504846,
+					["r"] = 0.250980406999588,
+					["extraData"] = {
+						65, -- [1]
+						false, -- [2]
+						16, -- [3]
+						154, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430850.274,
+					["g"] = 1,
+					["b"] = 0.250980406999588,
+				}, -- [85]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:49]|h|r Artificer Xy'mox yells: The warp beckons!",
+					["serverTime"] = 1612504849,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430852.426,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [86]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:51]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:4659:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:2|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tLilkdog|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
+					["serverTime"] = 1612504851,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						68, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430854.51,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [87]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:51]|h|r [S] |cffd8d8d8[|r|Hplayer:Delpix-Kil'jaeden:4662:SAY|h|cffd8bc3f60|r:|cfffefefeDelpix|r:3|h|cffd8d8d8]|r: Tear (2|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t) on |cfffefefeDelpix|r",
+					["serverTime"] = 1612504851,
+					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
 						37, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430854.51,
+					["g"] = 1,
+					["b"] = 1,
+				}, -- [88]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:00:55]|h|r Artificer Xy'mox yells: Mind your step!",
+					["serverTime"] = 1612504855,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430858.479,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [89]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:29]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:8580:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: 40% nice",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:56]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:4664:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t3",
+					["serverTime"] = 1612504856,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418549,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						106, -- [4]
+						28, -- [3]
+						68, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430859.506,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [90]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:31]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:8581:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: first night",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:57]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:4665:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t2",
+					["serverTime"] = 1612504857,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418551,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						106, -- [4]
+						28, -- [3]
+						68, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430860.522,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [91]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:32]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8582:RAID|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: and that's the fight",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:58]|h|r [S] |cffd8d8d8[|r|Hplayer:Lilkdog-Kil'jaeden:4666:SAY|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
+					["serverTime"] = 1612504858,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418552,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						144, -- [4]
+						28, -- [3]
+						68, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430861.436,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [92]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:32]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8583:RAID|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: !",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:00:59]|h|r Artificer Xy'mox yells: You cannot bargain with death!",
+					["serverTime"] = 1612504859,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418552,
 					["extraData"] = {
-						4, -- [1]
+						15, -- [1]
 						false, -- [2]
-						16, -- [3]
-						144, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430863.334,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [93]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:32]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:8584:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: really good",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:03]|h|r [S] |cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4668:SAY|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: 3",
+					["serverTime"] = 1612504863,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418552,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						106, -- [4]
+						28, -- [3]
+						40, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430866.973,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [94]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:36]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8585:RAID|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: dude",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:07]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4669:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
+					["serverTime"] = 1612504867,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418556,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						144, -- [4]
+						28, -- [3]
+						38, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430870.828,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [95]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:40]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8586:RAID|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: we're gonna get a double digit clear",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:16]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
+					["serverTime"] = 1612504876,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418560,
 					["extraData"] = {
-						4, -- [1]
+						42, -- [1]
 						false, -- [2]
-						16, -- [3]
-						144, -- [4]
+						26, -- [3]
+						27, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430879.432,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
 				}, -- [96]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:42]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Unhealable-Kil'jaeden:8587:RAID|h|cffd8bc3f60|r:|cff00fe97Unhealable|r:2|h|cffd8d8d8]|r: i can see it",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:26]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
+					["serverTime"] = 1612504886,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418562,
 					["extraData"] = {
-						4, -- [1]
+						42, -- [1]
 						false, -- [2]
-						16, -- [3]
-						144, -- [4]
+						26, -- [3]
+						27, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430889.438,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
 				}, -- [97]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:02:57]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Clérik-Kil'jaeden:8588:RAID|h|cffd8bc3f60|r:|cfff38bb9Clérik|r:4|h|cffd8d8d8]|r: boooomie ;o",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:31]|h|r Artificer Xy'mox yells: Mind your step!",
+					["serverTime"] = 1612504891,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418577,
 					["extraData"] = {
-						4, -- [1]
+						15, -- [1]
 						false, -- [2]
-						16, -- [3]
-						31, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430894.855,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [98]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:05]|h|r Loot Specialization set to: Windwalker",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:31]|h|r Artificer Xy'mox yells: I hope this wondrous item is as lethal as it looks!",
+					["serverTime"] = 1612504891,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418585,
 					["extraData"] = {
-						1, -- [1]
-						["n"] = 1,
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
 					},
+					["timestamp"] = 430894.855,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [99]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:17]|h|r |cfff38bb9Spoonerisms|r has gone offline.",
-					["b"] = 0,
-					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418597,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						3, -- [3]
-						4, -- [4]
-						["n"] = 4,
-					},
+					["message"] = "|cff979797|Hpratcopy|h[01:01:31]|h|r |cffffaeaeDetails!:|r Current phase is now: 3   ",
+					["timestamp"] = 430894.855,
+					["serverTime"] = 1612504891,
 				}, -- [100]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:21]|h|r |cfffefefeDelpix|r has left the raid group.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:45]|h|r [S] |cffd8d8d8[|r|Hplayer:Orcbum-Kil'jaeden:4674:SAY|h|cffd8bc3f60|r:|cffc59a6cOrcbum|r:1|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t SPELL REFLECTION |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_8:0|t",
+					["serverTime"] = 1612504905,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418601,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						28, -- [3]
+						38, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430909.179,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [101]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:22]|h|r |cff8687edDownloaded|r has gone offline.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Yukios-Kil'jaeden:4677:SAY|h|cffd8bc3f60|r:|cff006fdcYukios|r|h|cffd8d8d8]|r: Tear (2|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_2:0|t) on |cff006fdcYukios|r",
+					["serverTime"] = 1612504908,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418602,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						28, -- [3]
+						149, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430911.523,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [102]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:30]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Fenniki-Kil'jaeden:8593:RAID|h|cffd8bc3f60|r:|cfffefefeFenniki|r:3|h|cffd8d8d8]|r: thx all again cya tomorrow",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:48]|h|r [S] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4678:SAY|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: Tear 1 on |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|tBrutang|TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t",
+					["serverTime"] = 1612504908,
 					["r"] = 1,
-					["g"] = 0.4980392456054688,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418610,
 					["extraData"] = {
-						4, -- [1]
+						2, -- [1]
 						false, -- [2]
-						16, -- [3]
-						142, -- [4]
+						28, -- [3]
+						73, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430911.523,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [103]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:33]|h|r |cfffefefeFenniki|r has left the raid group.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:53]|h|r [S] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4679:SAY|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t3",
+					["serverTime"] = 1612504913,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418613,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						28, -- [3]
+						73, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430916.536,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [104]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:37]|h|r |cff00fe97Unhealable|r has left the raid group.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:54]|h|r [S] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4680:SAY|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t2",
+					["serverTime"] = 1612504914,
 					["r"] = 1,
-					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418617,
 					["extraData"] = {
-						1, -- [1]
+						2, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						28, -- [3]
+						73, -- [4]
 						["n"] = 4,
 					},
+					["timestamp"] = 430917.581,
+					["g"] = 1,
+					["b"] = 1,
 				}, -- [105]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:03:37]|h|r |cffc31d39Brutang|r has left the raid group.",
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:01:55]|h|r [S] |cffd8d8d8[|r|Hplayer:Brutang-Kil'jaeden:4681:SAY|h|cffd8bc3f60|r:|cffc31d39Brutang|r:2|h|cffd8d8d8]|r: |TInterface\\TargetingFrame\\UI-RaidTargetingIcon_1:0|t1",
+					["serverTime"] = 1612504915,
 					["r"] = 1,
+					["extraData"] = {
+						2, -- [1]
+						false, -- [2]
+						28, -- [3]
+						73, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430918.392,
 					["g"] = 1,
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418617,
+					["b"] = 1,
+				}, -- [106]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:01:59]|h|r |TInterface\\ICONS\\INV_Archaeology_80_Witch_GuillotineAxe.BLP:20|t The Edge of Annihilation begins casting|cFFFF0000|Hspell:328789|h [Annihilate]|h|r!",
+					["serverTime"] = 1612504919,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430922.606,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [107]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:03]|h|r |TInterface\\ICONS\\Ability_Ardenweald_Mage.BLP:20|t The Root of Extinction creates|cFFFF0000|Hspell:329834|h [Seeds of Extinction]|h|r!",
+					["serverTime"] = 1612504923,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430926.974,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [108]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:05]|h|r |TInterface\\ICONS\\INV_Cape_Special_Maldraxxus_D_03.blp:20|t The Crystal of Phantasms conjures|cFFFF0000|Hspell:327887|h [Fleeting Spirits]|h|r!",
+					["serverTime"] = 1612504925,
+					["r"] = 1,
+					["extraData"] = {
+						42, -- [1]
+						false, -- [2]
+						26, -- [3]
+						27, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430929.034,
+					["g"] = 0.8666667342185974,
+					["b"] = 0,
+				}, -- [109]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r Artificer Xy'mox yells: Mind your step!",
+					["serverTime"] = 1612504937,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430940.982,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
+				}, -- [110]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r |cfffe7b09Ngow|r has died.",
+					["serverTime"] = 1612504937,
+					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						3, -- [3]
-						4, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-				}, -- [106]
-				{
-					["message"] = "0 |4day:days;, 0 |4hour:hours;, 0 |4minute:minutes;, 58 |4second:seconds;",
-					["timestamp"] = 344679.651,
-				}, -- [107]
-				{
-					["message"] = "========== End of Scrollback ==========",
-					["timestamp"] = 344679.651,
-				}, -- [108]
-				{
-					["message"] = "|cff3399FFBig Dumb Loot Council|r loaded. /bdlc for options",
-					["timestamp"] = 344667.681,
-				}, -- [109]
-				{
-					["message"] = "|cff0099ffBroker_Everything|r: |cff00ff00AddOn loaded...|r",
-					["timestamp"] = 344667.681,
-				}, -- [110]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:29]|h|r |cff9900ffWeakAuras:|r There are 1 updates to your auras ready to be installed!",
-					["timestamp"] = 344667.681,
+					["timestamp"] = 430941.235,
+					["g"] = 1,
+					["b"] = 0,
 				}, -- [111]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:34]|h|r Guild Message of the Day: \"HEROIC CN Tues 7PM! MAIN Raid schedule - W/Th 7-10pm\"",
-					["r"] = 0.250980406999588,
-					["extraData"] = {
-						5, -- [1]
-						["n"] = 1,
-					},
-					["timestamp"] = 344679.254,
-					["g"] = 1,
-					["b"] = 0.250980406999588,
-				}, -- [112]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:36]|h|r Loot Specialization set to: Windwalker",
-					["serverTime"] = 1612418676,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r |cff3ec6eaDrmango|r has died.",
+					["serverTime"] = 1612504937,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
-						["n"] = 1,
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
 					},
-					["timestamp"] = 344679.651,
+					["timestamp"] = 430941.235,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [112]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r |cff71d5ff|Hdeath:29|h[You died.]|h",
+					["serverTime"] = 1612504937,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430941.235,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [113]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:36]|h|r |cff00ccffAdiButtonAuras:|r |cffe7c82aThe spell data for MONK is for the previous expansion and is inaccurate.|r",
-					["timestamp"] = 344679.651,
-					["serverTime"] = 1612418676,
-				}, -- [114]
-				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r Party converted to Raid",
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r |cff006fdcYukios|r has died.",
+					["serverTime"] = 1612504937,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344681.531,
+					["timestamp"] = 430941.235,
+					["g"] = 1,
+					["b"] = 0,
+				}, -- [114]
+				{
+					["message"] = "|cff979797|Hpratcopy|h[01:02:17]|h|r |cff006fdcScitron|r has died.",
+					["serverTime"] = 1612504937,
+					["r"] = 1,
+					["extraData"] = {
+						1, -- [1]
+						false, -- [2]
+						7, -- [3]
+						8, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430941.235,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [115]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r You have joined a raid group. |cffff2020(While in a raid, you cannot earn credit towards most non-raid quests.)|r",
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:21]|h|r Artificer Xy'mox yells: To die is your only value!",
+					["serverTime"] = 1612504941,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344681.531,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 430944.917,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [116]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r Raid Difficulty set to Mythic.",
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:22]|h|r Artificer Xy'mox yells: Die together!",
+					["serverTime"] = 1612504942,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344681.531,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 430945.854,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [117]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r Legacy Raid Difficulty set to 25 Player (Heroic).",
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:24]|h|r Artificer Xy'mox yells: You cannot bargain with death!",
+					["serverTime"] = 1612504944,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						15, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						30, -- [3]
+						65, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344681.531,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 430947.966,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [118]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r |cff9900ffWeakAuras:|r Warning for unknown aura:",
-					["timestamp"] = 344681.531,
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:24]|h|r Artificer Xy'mox yells: You cannot bargain with death!",
+					["serverTime"] = 1612504944,
+					["r"] = 1,
+					["extraData"] = {
+						15, -- [1]
+						false, -- [2]
+						30, -- [3]
+						65, -- [4]
+						["n"] = 4,
+					},
+					["timestamp"] = 430948.287,
+					["g"] = 0.250980406999588,
+					["b"] = 0.250980406999588,
 				}, -- [119]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:37]|h|r |cff9900ffWeakAuras:|r Warning for unknown aura:",
-					["timestamp"] = 344681.531,
-					["serverTime"] = 1612418677,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:27]|h|r |cffffaeaeDetails!:|r Wipe stored, you have now 14 wipes on this boss.    ",
+					["timestamp"] = 430950.521,
+					["serverTime"] = 1612504947,
 				}, -- [120]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:39]|h|r |cff006fdcYukios|r has left the raid group.",
-					["serverTime"] = 1612418679,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 344683.75,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:32]|h|r BigWigs: |cffffff00Wiped on 'Artificer Xy'mox' after 3 |4Min:Min; 12 |4Sec:Sec;.|r",
+					["timestamp"] = 430955.53,
+					["serverTime"] = 1612504952,
 				}, -- [121]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:04:47]|h|r |cfffef367Emosong|r has left the raid group.",
-					["serverTime"] = 1612418687,
-					["r"] = 1,
-					["extraData"] = {
-						1, -- [1]
-						false, -- [2]
-						1, -- [3]
-						2, -- [4]
-						["n"] = 4,
-					},
-					["timestamp"] = 344692.144,
-					["g"] = 1,
-					["b"] = 0,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:32]|h|r BigWigs: |cffffff00Health: Artificer Xy'mox (49.8%).|r",
+					["timestamp"] = 430955.53,
+					["serverTime"] = 1612504952,
 				}, -- [122]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:05:12]|h|r |cfffe7b09Senpaibacon|r has left the raid group.",
-					["serverTime"] = 1612418712,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:39]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Scitron-Kil'jaeden:4697:RAID|h|cffd8bc3f60|r:|cff006fdcScitron|r:4|h|cffd8d8d8]|r: ok ggs guys :)",
+					["serverTime"] = 1612504959,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						4, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						9, -- [3]
+						19, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344716.528,
-					["g"] = 1,
+					["timestamp"] = 430962.489,
+					["g"] = 0.4980392456054688,
 					["b"] = 0,
 				}, -- [123]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:05:24]|h|r |cfff38bb9Clérik|r has left the raid group.",
-					["serverTime"] = 1612418724,
-					["r"] = 1,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:40]|h|r |Hchannel:OFFICER|h[O] |h|cffd8d8d8[|r|Hplayer:Meta-Kil'jaeden:4698:OFFICER|h|cffd8bc3f60|r:|cffa22fc8Meta|r:1|h|cffd8d8d8]|r: |Kv17|k",
+					["serverTime"] = 1612504960,
+					["r"] = 0.5372549295425415,
 					["extraData"] = {
-						1, -- [1]
+						6, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						13, -- [3]
+						18, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344728.84,
-					["g"] = 1,
-					["b"] = 0,
+					["timestamp"] = 430964.06,
+					["g"] = 0.5686274766921997,
+					["b"] = 0.803921639919281,
 				}, -- [124]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:05:25]|h|r You leave the group.",
-					["serverTime"] = 1612418725,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:44]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Delpix-Kil'jaeden:4699:RAID|h|cffd8bc3f60|r:|cfffefefeDelpix|r:3|h|cffd8d8d8]|r: |Hgarrmission:weakauras|h|cFF8800FF[Delpix-Kil'jaeden |r|cFF8800FF- 04 Fixate]|h|r|Hgarrmission:weakauras|h|cFF8800FF[Delpix-Kil'jaeden |r|cFF8800FF- 04 Recombobulation]|h|r",
+					["serverTime"] = 1612504964,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						4, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						9, -- [3]
+						12, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344729.717,
-					["g"] = 1,
+					["timestamp"] = 430967.437,
+					["g"] = 0.4980392456054688,
 					["b"] = 0,
 				}, -- [125]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:05:25]|h|r |cffc31d39Brutang|r has gone offline.",
-					["serverTime"] = 1612418725,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:45]|h|r |cffd8d8d8[|r|Hplayer:Dankestchris:4700|h|cffd8bc3f60|r:|cffa9d271Dankestchris|r|h|cffd8d8d8]|r has come online.",
+					["serverTime"] = 1612504965,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344730.379,
+					["timestamp"] = 430968.994,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [126]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:05:28]|h|r |cffd8d8d8[|r|Hplayer:Lilkdog:8607|h|cffd8bc3f60|r:|cfff38bb9Lilkdog|r|h|cffd8d8d8]|r has come online.",
-					["serverTime"] = 1612418728,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:58]|h|r |cfffefefeDelpix|r has left the raid group.",
+					["serverTime"] = 1612504978,
 					["r"] = 1,
 					["extraData"] = {
 						1, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						7, -- [3]
+						8, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344732.964,
+					["timestamp"] = 430982.088,
 					["g"] = 1,
 					["b"] = 0,
 				}, -- [127]
 				{
-					["message"] = "|cff979797|Hpratcopy|h[01:06:22]|h|r Auction created",
-					["serverTime"] = 1612418782,
+					["message"] = "|cff979797|Hpratcopy|h[01:02:59]|h|r |Hchannel:RAID|h[R] |h|cffd8d8d8[|r|Hplayer:Maserder-Kil'jaeden:4702:RAID|h|cffd8bc3f60|r:|cff3ec6eaMaserder|r:2|h|cffd8d8d8]|r: gg guys xDD",
+					["serverTime"] = 1612504979,
 					["r"] = 1,
 					["extraData"] = {
-						1, -- [1]
+						4, -- [1]
 						false, -- [2]
-						1, -- [3]
-						2, -- [4]
+						9, -- [3]
+						155, -- [4]
 						["n"] = 4,
 					},
-					["timestamp"] = 344786.868,
-					["g"] = 1,
+					["timestamp"] = 430983.317,
+					["g"] = 0.4980392456054688,
 					["b"] = 0,
 				}, -- [128]
 			},
