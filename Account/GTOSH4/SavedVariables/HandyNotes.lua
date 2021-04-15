@@ -3,8 +3,9 @@ HandyNotesDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Kil'jaeden"] = "Toshpriest - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -13,9 +14,11 @@ HandyNotesDB = {
 		},
 		["Toshpriest - Azralon"] = {
 		},
+		["Toshdk - Kil'jaeden"] = {
+		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Toshpriest - Kil'jaeden"] = {
 		},
 		["Toshdruid - Area 52"] = {
 		},
@@ -27,8 +30,9 @@ HandyNotes_HandyNotesDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Kil'jaeden"] = "Toshpriest - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
@@ -37,9 +41,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Toshpriest - Azralon"] = {
 		},
+		["Toshdk - Kil'jaeden"] = {
+		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshdk - Kil'jaeden"] = {
+		["Toshpriest - Kil'jaeden"] = {
 		},
 		["Toshdruid - Area 52"] = {
 		},

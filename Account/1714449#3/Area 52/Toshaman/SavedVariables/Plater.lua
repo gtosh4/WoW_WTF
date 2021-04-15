@@ -7,8 +7,13 @@ PlaterDBChr = {
 	},
 	["buffsBanned"] = {
 	},
+	["minimap"] = {
+		["hide"] = true,
+	},
 	["first_run3"] = {
+		["Player-9-0DF00431"] = true,
 		["Player-3676-0AD945D6"] = true,
+		["Player-3676-0D8F54BF"] = true,
 	},
 	["spellRangeCheck"] = {
 		[263] = "Lightning Bolt",

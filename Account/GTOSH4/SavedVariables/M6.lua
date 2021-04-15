@@ -13,7 +13,120 @@ M6DB = {
 		["priest"] = 2,
 		["holy"] = 5,
 	},
-	["icManaColor"] = "8080ff",
+	["profiles"] = {
+		["Kil'jaeden"] = {
+			["Toshpriest"] = {
+				{
+					["slots"] = {
+						["s05"] = 1,
+						["s07"] = 15,
+						["s08"] = 14,
+						["s0f"] = 13,
+						["s0d"] = 11,
+						["s0b"] = 6,
+						["s0e"] = 7,
+						["s0c"] = 12,
+						["s02"] = 2,
+						["s09"] = 8,
+						["s06"] = 4,
+						["s0a"] = 9,
+						["s04"] = 3,
+						["s03"] = 5,
+						["s01"] = 10,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+						["s03"] = 6,
+						["s04"] = 16,
+						["s01"] = 11,
+						["s06"] = 10,
+						["s02"] = 9,
+						["s05"] = 20,
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+			},
+		},
+		["Area 52"] = {
+			["Toshpriest"] = {
+				{
+					["slots"] = {
+						["s05"] = 5,
+						["s07"] = 7,
+						["s08"] = 8,
+						["s01"] = 1,
+						["s03"] = 3,
+						["s02"] = 2,
+						["s04"] = 4,
+						["s06"] = 6,
+						["s0a"] = 10,
+						["s09"] = 9,
+						["s0e"] = 14,
+						["s0c"] = 12,
+						["s0b"] = 11,
+						["s0d"] = 13,
+						["s0f"] = 15,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+						["s03"] = 20,
+						["s02"] = 16,
+						["s01"] = 10,
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+						["s01"] = 17,
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+			["Toshpal"] = {
+				{
+					["slots"] = {
+						["s01"] = 15,
+						["s02"] = 21,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Toshdruid"] = {
+				{
+					["slots"] = {
+						["s01"] = 19,
+						["s02"] = 18,
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[4] = {
+					["slots"] = {
+						["s01"] = 18,
+						["s02"] = 19,
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
+	},
 	["actions"] = {
 		{
 			"macrotext", -- [1]
@@ -133,66 +246,16 @@ M6DB = {
 			["group"] = 5,
 			["name"] = "renew",
 		}, -- [20]
+		{
+			"macrotext", -- [1]
+			"/run SetCVar('synchronizeBindings', 0)\n/run SetCVar('synchronizeChatFrames', 0)\n/run SetCVar('synchronizeConfig', 0)\n/run SetCVar('synchronizeMacros', 0)\n/run SetCVar('synchronizeSettings', 0)", -- [2]
+			["name"] = "sync off",
+		}, -- [21]
+		{
+			"macrotext", -- [1]
+			"/run SetCVar('synchronizeBindings', 1)\n/run SetCVar('synchronizeChatFrames', 1)\n/run SetCVar('synchronizeConfig', 1)\n/run SetCVar('synchronizeMacros', 1)\n/run SetCVar('synchronizeSettings', 1)", -- [2]
+			["name"] = "sync on",
+		}, -- [22]
 	},
-	["profiles"] = {
-		["Area 52"] = {
-			["Toshpriest"] = {
-				{
-					["slots"] = {
-						["s05"] = 5,
-						["s07"] = 7,
-						["s08"] = 8,
-						["s0f"] = 15,
-						["s0d"] = 13,
-						["s0b"] = 11,
-						["s0e"] = 14,
-						["s0c"] = 12,
-						["s02"] = 2,
-						["s09"] = 9,
-						["s06"] = 6,
-						["s0a"] = 10,
-						["s04"] = 4,
-						["s03"] = 3,
-						["s01"] = 1,
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-						["s03"] = 20,
-						["s02"] = 16,
-						["s01"] = 10,
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-						["s01"] = 17,
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-			["Toshdruid"] = {
-				{
-					["slots"] = {
-						["s01"] = 19,
-						["s02"] = 18,
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[4] = {
-					["slots"] = {
-						["s01"] = 18,
-						["s02"] = 19,
-					},
-					["bind"] = {
-					},
-				},
-			},
-		},
-	},
+	["icManaColor"] = "8080ff",
 }

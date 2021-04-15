@@ -17,6 +17,61 @@ TalentSetManager_Options = {
 	},
 }
 TalentSetManager_CharacterSaves = {
+	["Toshmonk-Area 52"] = {
+		["talents"] = {
+			{
+			}, -- [1]
+			{
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "upwelling",
+					["texture"] = 628135,
+				}, -- [1]
+				{
+					1, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 988196,
+				}, -- [2]
+				{
+					3, -- [1]
+					3, -- [2]
+					3, -- [3]
+					3, -- [4]
+					2, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["tt"] = "talents",
+					["name"] = "rm raid",
+					["texture"] = 1360977,
+				}, -- [3]
+			}, -- [2]
+			{
+			}, -- [3]
+		},
+		["talents_pvp"] = {
+		},
+		["version"] = 0,
+		["interface"] = {
+			["auto_equip4"] = 0,
+			["auto_equip2"] = 0,
+			["auto_equip1"] = 0,
+			["auto_equip3"] = 0,
+		},
+	},
 	["Toshmonk-Kil'jaeden"] = {
 		["talents_pvp"] = {
 		},
@@ -134,61 +189,15 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshaman-Area 52"] = {
+	["Toshaman-Area52"] = {
 		["talents_pvp"] = {
 		},
 		["talents"] = {
 			{
-				{
-					2, -- [1]
-					3, -- [2]
-					1, -- [3]
-					1, -- [4]
-					3, -- [5]
-					3, -- [6]
-					2, -- [7]
-					["texture"] = "interface\\icons\\inv_misc_questionmark",
-					["name"] = "raid",
-					["tt"] = "talents",
-				}, -- [1]
-				{
-					1, -- [1]
-					1, -- [2]
-					1, -- [3]
-					2, -- [4]
-					1, -- [5]
-					2, -- [6]
-					2, -- [7]
-					["texture"] = 1016245,
-					["name"] = "m+",
-					["tt"] = "talents",
-				}, -- [2]
 			}, -- [1]
-			[3] = {
-				{
-					3, -- [1]
-					1, -- [2]
-					3, -- [3]
-					2, -- [4]
-					2, -- [5]
-					3, -- [6]
-					3, -- [7]
-					["texture"] = 135791,
-					["name"] = "dungeon",
-					["tt"] = "talents",
-				}, -- [1]
-				{
-					3, -- [1]
-					1, -- [2]
-					1, -- [3]
-					2, -- [4]
-					2, -- [5]
-					3, -- [6]
-					2, -- [7]
-					["texture"] = 893778,
-					["name"] = "raid",
-					["tt"] = "talents",
-				}, -- [2]
+			{
+			}, -- [2]
+			{
 				{
 					3, -- [1]
 					1, -- [2]
@@ -197,11 +206,38 @@ TalentSetManager_CharacterSaves = {
 					1, -- [5]
 					1, -- [6]
 					3, -- [7]
-					["texture"] = 136060,
-					["name"] = "pvp",
+					["equipment"] = "pvp",
 					["tt"] = "talents",
+					["name"] = "pvp",
+					["texture"] = 136060,
+				}, -- [1]
+				{
+					3, -- [1]
+					1, -- [2]
+					1, -- [3]
+					2, -- [4]
+					3, -- [5]
+					3, -- [6]
+					2, -- [7]
+					["equipment"] = "pve",
+					["tt"] = "talents",
+					["name"] = "raid",
+					["texture"] = 893778,
+				}, -- [2]
+				{
+					2, -- [1]
+					1, -- [2]
+					2, -- [3]
+					1, -- [4]
+					1, -- [5]
+					3, -- [6]
+					3, -- [7]
+					["equipment"] = "pve",
+					["tt"] = "talents",
+					["name"] = "m+",
+					["texture"] = 136043,
 				}, -- [3]
-			},
+			}, -- [3]
 		},
 		["version"] = 0,
 		["interface"] = {
@@ -254,57 +290,91 @@ TalentSetManager_CharacterSaves = {
 			["auto_equip3"] = 0,
 		},
 	},
-	["Toshmonk-Area 52"] = {
+	["Toshaman-Area 52"] = {
+		["talents_pvp"] = {
+		},
 		["talents"] = {
 			{
-			}, -- [1]
-			{
 				{
-					3, -- [1]
+					2, -- [1]
 					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					2, -- [5]
-					2, -- [6]
+					1, -- [3]
+					1, -- [4]
+					3, -- [5]
+					3, -- [6]
 					2, -- [7]
+					["texture"] = "interface\\icons\\inv_misc_questionmark",
+					["name"] = "raid",
 					["tt"] = "talents",
-					["name"] = "upwelling",
-					["texture"] = 628135,
 				}, -- [1]
 				{
 					1, -- [1]
-					3, -- [2]
+					1, -- [2]
+					1, -- [3]
+					2, -- [4]
+					1, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["texture"] = 1016245,
+					["name"] = "m+",
+					["tt"] = "talents",
+				}, -- [2]
+				{
+					2, -- [1]
+					2, -- [2]
+					2, -- [3]
+					1, -- [4]
+					1, -- [5]
+					2, -- [6]
+					2, -- [7]
+					["tt"] = "talents",
+					["name"] = "pvp",
+					["texture"] = 136089,
+				}, -- [3]
+			}, -- [1]
+			[3] = {
+				{
+					3, -- [1]
+					1, -- [2]
 					3, -- [3]
-					3, -- [4]
+					2, -- [4]
 					2, -- [5]
 					3, -- [6]
 					3, -- [7]
+					["texture"] = 135791,
+					["name"] = "dungeon",
 					["tt"] = "talents",
-					["name"] = "m+",
-					["texture"] = 988196,
+				}, -- [1]
+				{
+					3, -- [1]
+					1, -- [2]
+					1, -- [3]
+					2, -- [4]
+					3, -- [5]
+					3, -- [6]
+					2, -- [7]
+					["texture"] = 893778,
+					["name"] = "raid",
+					["tt"] = "talents",
 				}, -- [2]
 				{
 					3, -- [1]
-					3, -- [2]
-					3, -- [3]
-					3, -- [4]
-					2, -- [5]
-					3, -- [6]
+					1, -- [2]
+					2, -- [3]
+					2, -- [4]
+					1, -- [5]
+					1, -- [6]
 					3, -- [7]
+					["texture"] = 136060,
+					["name"] = "pvp",
 					["tt"] = "talents",
-					["name"] = "rm raid",
-					["texture"] = 1360977,
 				}, -- [3]
-			}, -- [2]
-			{
-			}, -- [3]
-		},
-		["talents_pvp"] = {
+			},
 		},
 		["version"] = 0,
 		["interface"] = {
-			["auto_equip4"] = 0,
 			["auto_equip2"] = 0,
+			["auto_equip4"] = 0,
 			["auto_equip1"] = 0,
 			["auto_equip3"] = 0,
 		},

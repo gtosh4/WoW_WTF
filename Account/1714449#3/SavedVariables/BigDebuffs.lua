@@ -6,9 +6,10 @@ BigDebuffsDB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshmonk - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -17,8 +18,8 @@ BigDebuffsDB = {
 				["enabled"] = false,
 			},
 			["nameplates"] = {
-				["anchor"] = "LEFT",
 				["x"] = -6,
+				["anchor"] = "LEFT",
 			},
 			["unitFrames"] = {
 				["arena1"] = {

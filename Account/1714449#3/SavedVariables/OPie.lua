@@ -2,7 +2,7 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "9.0.2",
+	["_GameVersion"] = "9.0.5",
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -14,9 +14,6 @@ OneRing_Config = {
 				["WorldMarkers"] = "ALT-Q",
 				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},
@@ -122,8 +119,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCTA4",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCTAc",
 					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
 				}, -- [5]
 				{
 					"item", -- [1]
@@ -143,8 +140,8 @@ OneRing_Config = {
 					["rotationMode"] = "shuffle",
 				}, -- [8]
 				{
-					["id"] = 556,
 					["sliceToken"] = "OPCTAa",
+					["id"] = 556,
 				}, -- [9]
 				{
 					"item", -- [1]

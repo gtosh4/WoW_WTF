@@ -1,11 +1,12 @@
 
 OmniCCDB = {
 	["global"] = {
-		["addonVersion"] = "9.0.5",
-		["dbVersion"] = 5,
+		["dbVersion"] = 6,
+		["addonVersion"] = "9.0.8",
 	},
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {

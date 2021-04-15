@@ -33,8 +33,8 @@ MADB = {
 				["UIWidgetBelowMinimapContainerFrame"] = {
 					["orgPos"] = {
 						"TOPRIGHT", -- [1]
-						"MinimapCluster", -- [2]
-						"BOTTOMRIGHT", -- [3]
+						"SexyMapCaptureBarMover", -- [2]
+						"TOPRIGHT", -- [3]
 						0, -- [4]
 						0, -- [5]
 					},

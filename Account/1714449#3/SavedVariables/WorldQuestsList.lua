@@ -1,24 +1,6 @@
 
 VWQL = {
-	["Scale"] = 0.8,
-	["AnchorQCBTop"] = 879.166748046875,
-	["DisableArrow"] = true,
-	["AzeriteFormat"] = 20,
-	["ReverseSort"] = true,
-	["DisableIconsGeneralMap947"] = true,
-	["SortPrio"] = {
-	},
-	["Ignore"] = {
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["FilterType"] = {
-		},
-		["Filter"] = 63,
-		["Quests"] = {
-		},
-		["VERSION"] = 98,
-	},
-	["Toshpriest-Area52"] = {
+	["Toshpriest-Kil'jaeden"] = {
 		["FilterType"] = {
 		},
 		["Filter"] = 63,
@@ -34,37 +16,47 @@ VWQL = {
 		},
 		["VERSION"] = 96,
 	},
+	["AnchorQCBTop"] = 879.166748046875,
+	["DisableArrow"] = true,
+	["AzeriteFormat"] = 20,
+	["Scale"] = 0.8,
+	["DisableIconsGeneralMap947"] = true,
+	["SortPrio"] = {
+	},
+	["Ignore"] = {
+	},
+	["ReverseSort"] = true,
+	["Toshmonk-Kil'jaeden"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 99,
+	},
 	["Sort"] = 5,
-	["VERSION"] = 98,
-	["AnchorQCBLeft"] = 1879.166625976563,
+	["VERSION"] = 100,
 	["Toshaman-Area52"] = {
 		["Filter"] = 63,
-		["VERSION"] = 98,
+		["VERSION"] = 100,
 		["Quests"] = {
-			[59599] = true,
-			[60654] = true,
-			[59601] = true,
-			[61060] = true,
-			[60534] = true,
-			[61868] = true,
-			[59578] = true,
-			[59642] = true,
-			[58993] = true,
-			[61784] = true,
-			[61816] = true,
-			[59771] = true,
-			[60609] = true,
-			[61540] = true,
-			[57328] = true,
-			[61885] = true,
-			[61947] = true,
-			[58605] = true,
-			[61520] = true,
-			[59600] = true,
+			[60565] = true,
+			[60659] = true,
+			[60911] = true,
+			[60844] = true,
+			[61787] = true,
+			[59804] = true,
+			[61352] = true,
+			[61539] = true,
+			[61141] = true,
+			[57650] = true,
+			[61867] = true,
+			[60656] = true,
 		},
 		["FilterType"] = {
 		},
 	},
+	["AnchorQCBLeft"] = 1879.166625976563,
 	["Toshmonk-Area52"] = {
 		["Filter"] = 63,
 		["FilterType"] = {
@@ -82,8 +74,8 @@ VWQL = {
 			[51122] = true,
 			[51185] = true,
 			[50503] = true,
-			[55342] = true,
 			[51157] = true,
+			[55342] = true,
 			[54060] = true,
 			[50574] = true,
 			[52803] = true,

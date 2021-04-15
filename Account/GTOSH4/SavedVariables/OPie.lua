@@ -2,13 +2,10 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "9.0.2",
+	["_GameVersion"] = "9.0.5",
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
-			},
 			["Bindings"] = {
 				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-N",
@@ -18,10 +15,10 @@ OneRing_Config = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["WorldMarkers"] = "ALT-Q",
-				["DruidFeral"] = false,
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-G",
 				["OPieTracking"] = false,
+				["OPieAutoQuest"] = "ALT-G",
+				["PaladinAuras"] = false,
+				["DruidFeral"] = false,
 			},
 		},
 	},
@@ -102,8 +99,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["SpecMenu"] = {
 				{

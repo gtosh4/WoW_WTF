@@ -1,8 +1,10 @@
 
 REPorterSettings = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
+		["Toshpriest - Kil'jaeden"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -19,9 +21,13 @@ REPorterSettings = {
 					["wy"] = 463,
 					["wx"] = 2520,
 				},
-				[1366] = {
-					["wy"] = 405,
-					["wx"] = 2424,
+				[1576] = {
+					["my"] = -38,
+					["ww"] = 529,
+					["wh"] = 427,
+					["ms"] = 0.85,
+					["wy"] = 426,
+					["wx"] = 2540,
 				},
 				[112] = {
 					["wy"] = 405,
@@ -31,26 +37,22 @@ REPorterSettings = {
 					["wy"] = 358,
 					["wx"] = 2400,
 				},
-				[1339] = {
-					["wy"] = 467,
-					["wx"] = 2593,
-				},
-				[907] = {
-					["wy"] = 420,
-					["wx"] = 2519,
-				},
 				[423] = {
 					["ms"] = 0.75,
 					["wy"] = 389,
 					["wx"] = 2472,
 				},
-				[1576] = {
-					["my"] = -38,
-					["ww"] = 529,
-					["wh"] = 427,
-					["ms"] = 0.85,
-					["wy"] = 426,
-					["wx"] = 2540,
+				[1366] = {
+					["wy"] = 405,
+					["wx"] = 2424,
+				},
+				[1339] = {
+					["wy"] = 460,
+					["wx"] = 2449,
+				},
+				[907] = {
+					["wy"] = 420,
+					["wx"] = 2519,
 				},
 			},
 			["DisplayHealers"] = true,

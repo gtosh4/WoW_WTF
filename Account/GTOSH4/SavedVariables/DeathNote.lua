@@ -1,21 +1,41 @@
 
 DeathNoteDB = {
 	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshpriest - Kil'jaeden"] = "Toshpriest - Kil'jaeden",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
 	},
 	["profiles"] = {
+		["Toshdruid - Area 52"] = {
+		},
+		["Toshpriest - Kil'jaeden"] = {
+			["searchbox_text"] = "",
+			["display"] = {
+				["w"] = 679.1666259765625,
+				["y"] = 233.7503356933594,
+				["x"] = 506.2505493164063,
+				["h"] = 689.1668701171875,
+				["namelist"] = 2,
+			},
+		},
 		["Toshpriest - Area 52"] = {
 			["searchbox_text"] = "",
 			["display"] = {
-				["w"] = 700.0001220703125,
-				["y"] = 223.3337097167969,
+				["y"] = 272.9176635742188,
 				["namelist"] = 2,
-				["x"] = 764.1660766601562,
-				["h"] = 500.0001831054688,
+				["columns"] = {
+					59.99998092651367, -- [1]
+					105.8333358764648, -- [2]
+					80.8331527709961, -- [3]
+					133.3330383300781, -- [4]
+				},
+				["h"] = 524.166748046875,
+				["w"] = 730.8329467773438,
+				["x"] = 752.0830993652344,
 			},
 		},
-		["Toshdruid - Area 52"] = {
+		["Toshpal - Area 52"] = {
 		},
 	},
 }

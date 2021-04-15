@@ -7,6 +7,8 @@ PlaterDBChr = {
 	},
 	["buffsBanned"] = {
 	},
+	["minimap"] = {
+	},
 	["first_run3"] = {
 		["Player-3676-0AD8DD4D"] = true,
 	},

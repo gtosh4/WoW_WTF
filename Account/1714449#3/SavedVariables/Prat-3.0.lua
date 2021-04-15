@@ -45,7 +45,7 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_Scroll"] = {
 		},
@@ -53,7 +53,7 @@ Prat3DB = {
 		},
 		["Prat_Bubbles"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Sounds"] = {
 		},
@@ -95,7 +95,7 @@ Prat3DB = {
 				},
 			},
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Search"] = {
 		},
@@ -118,9 +118,10 @@ Prat3DB = {
 	},
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshmonk - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

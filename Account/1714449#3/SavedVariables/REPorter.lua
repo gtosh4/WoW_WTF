@@ -2,6 +2,7 @@
 REPorterSettings = {
 	["profileKeys"] = {
 		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
@@ -15,9 +16,14 @@ REPorterSettings = {
 					["wy"] = 470,
 					["wx"] = 2470,
 				},
-				[1366] = {
-					["wy"] = 389,
-					["wx"] = 2436,
+				[169] = {
+					["wy"] = 430,
+					["wx"] = 2160,
+				},
+				[423] = {
+					["ms"] = 0.7,
+					["wy"] = 989,
+					["wx"] = 2183,
 				},
 				[112] = {
 					["wy"] = 421,
@@ -27,9 +33,21 @@ REPorterSettings = {
 					["wy"] = 437,
 					["wx"] = 2456,
 				},
+				[1366] = {
+					["wy"] = 389,
+					["wx"] = 2436,
+				},
+				[91] = {
+					["wy"] = 943,
+					["wx"] = 453,
+				},
 				[1339] = {
 					["wy"] = 453,
 					["wx"] = 2431,
+				},
+				[417] = {
+					["wy"] = 961,
+					["wx"] = 2174,
 				},
 			},
 		},

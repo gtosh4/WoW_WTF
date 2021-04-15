@@ -25,6 +25,14 @@ Broker_Everything_DataDB = {
 	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
+	["Toshmonk-Area 52"] = {
+		["race"] = "Troll",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 4,
+		["class"] = "MONK",
+		["level"] = 50,
+	},
 	["Toshaman-Area 52"] = {
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
@@ -38,17 +46,39 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area 52", -- [2]
 		"Toshmonk-Kil'jaeden", -- [3]
 		"Toshmonk-Area 52", -- [4]
+		"Toshaman-Area52", -- [5]
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshmonk",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["class"] = "MONK",
+	["Toshaman-Area52"] = {
 		["level"] = 60,
+		["race"] = "Goblin",
+		["name"] = "Toshaman",
+		["faction"] = "Horde",
+		["orderId"] = 5,
+		["class"] = "SHAMAN",
+		["garrison"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				0, -- [2]
+			}, -- [3]
+			{
+			}, -- [4]
+		},
+		["garrison_cache"] = {
+			0, -- [1]
+			false, -- [2]
+		},
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -74,32 +104,26 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
 		["level"] = 50,
 		["gold"] = 10753845943,
 		["orderId"] = 1,
 	},
-	["Toshmonk-Area 52"] = {
-		["race"] = "Troll",
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 4,
+		["orderId"] = 3,
 		["class"] = "MONK",
-		["level"] = 50,
+		["level"] = 60,
 	},
 }
 Broker_Everything_AceDB = {
 	["profileKeys"] = {
 		["Toshpriest - Area 52"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
 		["Toshmonk - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -109,11 +133,8 @@ Broker_Everything_AceDB = {
 			["Gold"] = {
 				["enabled"] = false,
 			},
-			["Difficulty"] = {
-				["enabled"] = true,
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["Friends"] = {
+				["enabled"] = false,
 			},
 			["ClassSpecs"] = {
 				["enabled"] = true,
@@ -123,10 +144,11 @@ Broker_Everything_AceDB = {
 				},
 				["showTalents"] = false,
 			},
-			["Volume"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
+			["GPS"] = {
+				["enabled"] = false,
+			},
+			["Bags"] = {
+				["enabled"] = false,
 			},
 			["Clock"] = {
 				["enabled"] = true,
@@ -137,8 +159,11 @@ Broker_Everything_AceDB = {
 				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:time"] = "__NONE",
 			},
-			["GPS"] = {
-				["enabled"] = false,
+			["Garrison"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["showCacheForcastInBroker"] = false,
 			},
 			["System"] = {
 				["minimap"] = {
@@ -146,16 +171,24 @@ Broker_Everything_AceDB = {
 				},
 				["ClickOpt:options"] = "ALTCLICK",
 			},
-			["Bags"] = {
-				["enabled"] = false,
+			["Volume"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
 			},
 			["Professions"] = {
 				["enabled"] = false,
 			},
-			["Friends"] = {
-				["enabled"] = false,
+			["Order hall"] = {
+				["enabled"] = true,
 			},
 			["Equipment"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+			},
+			["Difficulty"] = {
+				["enabled"] = true,
 				["minimap"] = {
 					["hide"] = true,
 				},

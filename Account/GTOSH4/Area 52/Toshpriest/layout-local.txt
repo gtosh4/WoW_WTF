@@ -16,10 +16,10 @@ H: 700
 Frame: ExRTNote
 FrameLevel: 1
 Anchor: BOTTOM
-X: 398
-Y: 44
-W: 294
-H: 244
+X: 379
+Y: 39
+W: 309
+H: 308
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
@@ -30,8 +30,8 @@ H: 938
 Frame: REPorterFrameCoreAnchor
 FrameLevel: 4
 Anchor: RIGHT
-X: -383
-Y: -254
+X: -393
+Y: -236
 W: 10
 H: 10
 Frame: InterfaceOptionsFrame
@@ -55,11 +55,11 @@ X: 0
 Y: 0
 W: 365
 H: 380
-Frame: BDLC
-FrameLevel: 1
+Frame: BDLC Window
+FrameLevel: 27
 Anchor: TOPRIGHT
-X: -512
-Y: -86
+X: -413
+Y: -74
 W: 600
 H: 400
 Frame: BDLC Roll Window
@@ -74,8 +74,8 @@ FrameLevel: 9
 Anchor: CENTER
 X: 0
 Y: 0
-W: 320
-H: 550
+W: 500
+H: 430
 Frame: M6UI
 FrameLevel: 1
 Anchor: TOP
@@ -86,10 +86,10 @@ H: 424
 Frame: REPorterFrame
 FrameLevel: 1
 Anchor: RIGHT
-X: -165
-Y: -211
-W: 460
-H: 350
+X: -311
+Y: -195
+W: 220
+H: 360
 Frame: ViragDevToolFrame
 FrameLevel: 1
 Anchor: CENTER

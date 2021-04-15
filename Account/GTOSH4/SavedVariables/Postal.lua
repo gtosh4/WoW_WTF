@@ -1,19 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
-		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
-		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
-		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
-		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -23,14 +9,30 @@ Postal3DB = {
 				"Toshdruid|Area 52|Horde|50|DRUID", -- [4]
 				"Toshlongboyr|Eldre'Thalas|Horde|110|PRIEST", -- [5]
 				"Toshlongboy|Eldre'Thalas|Horde|20|PRIEST", -- [6]
-				"Toshpal|Area 52|Horde|51|PALADIN", -- [7]
+				"Toshpal|Area 52|Horde|56|PALADIN", -- [7]
 				"Toshpriest|Area 52|Horde|60|PRIEST", -- [8]
 				"Toshpriest|Azralon|Horde|110|PRIEST", -- [9]
-				"Toshtoon|Barthilas|Horde|20|WARLOCK", -- [10]
-				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [11]
-				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [12]
+				"Toshpriest|Kil'jaeden|Horde|60|PRIEST", -- [10]
+				"Toshtoon|Barthilas|Horde|20|WARLOCK", -- [11]
+				"Yelluwuy|Area 52|Horde|1|PRIEST", -- [12]
+				"Yorman|Kil'jaeden|Horde|120|DRUID", -- [13]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
+		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
+		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
+		["Toshpriest - Kil'jaeden"] = "Toshpriest - Kil'jaeden",
+		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
@@ -45,21 +47,26 @@ Postal3DB = {
 		},
 		["Toshtoon - Barthilas"] = {
 		},
-		["Toshpal - Area 52"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshpriest|Area 52|Horde", -- [1]
-					"Toshaman|Area 52|Horde", -- [2]
-				},
-			},
-		},
 		["Toshpriest - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
-					"Yellowy|Area 52|Horde", -- [1]
-					"Neyari|Area 52|Horde", -- [2]
+					"Toshpal|Area 52|Horde", -- [1]
+					"Lyunara|Area 52|Horde", -- [2]
+					"Sci|Area 52|Horde", -- [3]
+					"Yellowy|Area 52|Horde", -- [4]
+					"Neyari|Area 52|Horde", -- [5]
 				},
 			},
+		},
+		["Toshpal - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Area 52|Horde", -- [1]
+					"Toshpriest|Area 52|Horde", -- [2]
+				},
+			},
+		},
+		["Toshlongboyr - Eldre'Thalas"] = {
 		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
@@ -68,9 +75,9 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshpriest - Azralon"] = {
+		["Daggny - Frostwolf"] = {
 		},
-		["Yelluwuy - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["BlackBook"] = {
@@ -79,11 +86,11 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshaman - Area 52"] = {
+		["Toshpriest - Kil'jaeden"] = {
 		},
-		["Toshlongboyr - Eldre'Thalas"] = {
+		["Yelluwuy - Area 52"] = {
 		},
-		["Daggny - Frostwolf"] = {
+		["Toshpriest - Azralon"] = {
 		},
 	},
 }

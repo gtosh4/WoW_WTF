@@ -1,13 +1,68 @@
 
-bdlc_config = {
-	["council_min_rank"] = 2,
-	["custom_qn"] = {
-		["2p"] = true,
-		["BiS"] = true,
-		["4p"] = true,
+BDLC_CONFIG = {
+	["buttons"] = {
+		{
+			"Mainspec", -- [1]
+			{
+				0.2, -- [1]
+				1, -- [2]
+				0.2, -- [3]
+			}, -- [2]
+			true, -- [3]
+			true, -- [4]
+		}, -- [1]
+		{
+			"Minor Up", -- [1]
+			{
+				0.6, -- [1]
+				1, -- [2]
+				0.6, -- [3]
+			}, -- [2]
+			true, -- [3]
+			false, -- [4]
+		}, -- [2]
+		{
+			"Offspec", -- [1]
+			{
+				0.8, -- [1]
+				0.6, -- [2]
+				0.6, -- [3]
+			}, -- [2]
+			true, -- [3]
+			false, -- [4]
+		}, -- [3]
+		{
+			"Reroll", -- [1]
+			{
+				0.1, -- [1]
+				0.6, -- [2]
+				0.6, -- [3]
+			}, -- [2]
+			true, -- [3]
+			false, -- [4]
+		}, -- [4]
+		{
+			"Transmog", -- [1]
+			{
+				0.8, -- [1]
+				0.4, -- [2]
+				1, -- [3]
+			}, -- [2]
+			true, -- [3]
+			false, -- [4]
+		}, -- [5]
 	},
+	["debug"] = false,
+	["shadowlands2"] = true,
+	["council_min_rank"] = 2,
+	["quick_notes"] = {
+		["20%"] = true,
+		["10%"] = true,
+		["BiS"] = true,
+	},
+	["council_votes"] = 1,
 	["custom_council"] = {
 	},
 }
-bdlc_history = {
+BDLC_HISTORY = {
 }
