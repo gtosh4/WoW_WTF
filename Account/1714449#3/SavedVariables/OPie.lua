@@ -11,9 +11,9 @@ OneRing_Config = {
 				["TrinketSlots"] = false,
 				["SpecMenu"] = "ALT-N",
 				["CommonTrades"] = false,
-				["WorldMarkers"] = "ALT-Q",
-				["OPieTracking"] = false,
 				["OPieAutoQuest"] = "ALT-G",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-Q",
 			},
 		},
 	},
@@ -94,8 +94,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 			["SpecMenu"] = {
 				{
