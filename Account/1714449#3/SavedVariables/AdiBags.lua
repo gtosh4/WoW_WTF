@@ -25,13 +25,9 @@ AdiBagsDB = {
 		},
 		["AdiBags_TooltipInfo"] = {
 		},
-		["MoneyFrame"] = {
+		["Covenant Items"] = {
 		},
 		["Equipment"] = {
-		},
-		["ItemSets"] = {
-		},
-		["DataSource"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -48,13 +44,13 @@ AdiBagsDB = {
 						["Echoes of Ny'alotha"] = false,
 						["Seafarer's Dubloon"] = false,
 						["Wakening Essence"] = false,
-						["Seal of Wartorn Fate"] = false,
-						["Curious Coin"] = false,
+						["Coalescing Visions"] = false,
+						["War Resources"] = false,
 						["Infused Ruby"] = false,
 						["Prismatic Manapearl"] = false,
 						["Reservoir Anima"] = false,
-						["War Resources"] = false,
-						["Coalescing Visions"] = false,
+						["Curious Coin"] = false,
+						["Seal of Wartorn Fate"] = false,
 						["Legionfall War Supplies"] = false,
 					},
 					["text"] = {
@@ -63,9 +59,13 @@ AdiBagsDB = {
 				},
 			},
 		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
 		["Junk"] = {
 		},
-		["Covenant Items"] = {
+		["MoneyFrame"] = {
 		},
 	},
 	["char"] = {

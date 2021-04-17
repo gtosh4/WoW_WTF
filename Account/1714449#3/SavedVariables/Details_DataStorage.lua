@@ -6,7 +6,7 @@ DetailsDataStorage = {
 				["time"] = 1616811296,
 				["guild"] = "Aggravated",
 				["servertime"] = 1616811296,
-				["date"] = "22:14 26/03/21",
+				["elapsed"] = 585.5430000000051,
 				["healing"] = {
 					["Billieyelash"] = {
 						3462507, -- [1]
@@ -34,7 +34,7 @@ DetailsDataStorage = {
 						7, -- [3]
 					},
 				},
-				["elapsed"] = 585.5430000000051,
+				["date"] = "22:14 26/03/21",
 				["damage"] = {
 					["Adeno"] = {
 						3362261, -- [1]
@@ -110,6 +110,112 @@ DetailsDataStorage = {
 			}, -- [1]
 		},
 		[2407] = {
+			{
+				["guild"] = "Aggravated",
+				["time"] = 1618630075,
+				["elapsed"] = 602.6430000001565,
+				["date"] = "23:27 16/04/21",
+				["healing"] = {
+					["Sci"] = {
+						4185019, -- [1]
+						227.4375, -- [2]
+						2, -- [3]
+					},
+					["Yellowy"] = {
+						4840424, -- [1]
+						226.1875, -- [2]
+						5, -- [3]
+					},
+					["Billieyelash"] = {
+						4406407, -- [1]
+						224.625, -- [2]
+						5, -- [3]
+					},
+					["Toshaman"] = {
+						4541205, -- [1]
+						223.4375, -- [2]
+						7, -- [3]
+					},
+				},
+				["servertime"] = 1618630076,
+				["damage"] = {
+					["Astralsong"] = {
+						3229401, -- [1]
+						226.5625, -- [2]
+						11, -- [3]
+					},
+					["Yukiox"] = {
+						3982268, -- [1]
+						224.9375, -- [2]
+						8, -- [3]
+					},
+					["Gummybuns"] = {
+						2222948, -- [1]
+						225, -- [2]
+						10, -- [3]
+					},
+					["Smytt"] = {
+						3123951, -- [1]
+						224.1875, -- [2]
+						3, -- [3]
+					},
+					["Adeno"] = {
+						3740214, -- [1]
+						220.6875, -- [2]
+						6, -- [3]
+					},
+					["Warlockmania"] = {
+						3498177, -- [1]
+						225.5, -- [2]
+						9, -- [3]
+					},
+					["Andruw"] = {
+						4500668, -- [1]
+						226.5625, -- [2]
+						12, -- [3]
+					},
+					["Fûzylock"] = {
+						3688590, -- [1]
+						226.1875, -- [2]
+						9, -- [3]
+					},
+					["Lyunara"] = {
+						3190286, -- [1]
+						226.8125, -- [2]
+						3, -- [3]
+					},
+					["Rathux"] = {
+						4090898, -- [1]
+						225.0625, -- [2]
+						6, -- [3]
+					},
+					["Evandh"] = {
+						1994433, -- [1]
+						225.375, -- [2]
+						12, -- [3]
+					},
+					["Thunderrz"] = {
+						3572403, -- [1]
+						223.8125, -- [2]
+						3, -- [3]
+					},
+					["Bouquets"] = {
+						3320037, -- [1]
+						226.1875, -- [2]
+						1, -- [3]
+					},
+					["Delpi"] = {
+						3652241, -- [1]
+						226.1875, -- [2]
+						8, -- [3]
+					},
+					["Nv"] = {
+						3652078, -- [1]
+						226.5625, -- [2]
+						11, -- [3]
+					},
+				},
+			}, -- [1]
 		},
 	},
 	[15] = {
@@ -117,8 +223,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615950923,
-				["date"] = "23:15 16/03/21",
 				["elapsed"] = 203.9980000001378,
+				["date"] = "23:15 16/03/21",
 				["healing"] = {
 					["Billieyelash"] = {
 						1424700, -- [1]
@@ -191,7 +297,7 @@ DetailsDataStorage = {
 				["time"] = 1615947878,
 				["guild"] = "Aggravated",
 				["servertime"] = 1615947878,
-				["date"] = "22:24 16/03/21",
+				["elapsed"] = 220.1790000000037,
 				["healing"] = {
 					["Billieyelash"] = {
 						1317849, -- [1]
@@ -204,7 +310,7 @@ DetailsDataStorage = {
 						7, -- [3]
 					},
 				},
-				["elapsed"] = 220.1790000000037,
+				["date"] = "22:24 16/03/21",
 				["damage"] = {
 					["Drewqt"] = {
 						1301855, -- [1]
@@ -258,8 +364,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615951583,
-				["date"] = "23:26 16/03/21",
 				["elapsed"] = 402.7400000002235,
+				["date"] = "23:26 16/03/21",
 				["healing"] = {
 					["Billieyelash"] = {
 						2323932, -- [1]
@@ -331,8 +437,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615950332,
-				["date"] = "23:05 16/03/21",
 				["elapsed"] = 277.1200000001118,
+				["date"] = "23:05 16/03/21",
 				["healing"] = {
 					["Billieyelash"] = {
 						1280815, -- [1]
@@ -401,8 +507,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615948839,
-				["date"] = "22:40 16/03/21",
 				["elapsed"] = 255.3819999999832,
+				["date"] = "22:40 16/03/21",
 				["healing"] = {
 					["Billieyelash"] = {
 						1869981, -- [1]
@@ -469,8 +575,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615952088,
-				["date"] = "23:34 16/03/21",
 				["elapsed"] = 296.25,
+				["date"] = "23:34 16/03/21",
 				["healing"] = {
 					["Billieyelash"] = {
 						1415971, -- [1]
@@ -542,8 +648,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615954166,
-				["date"] = "00:09 17/03/21",
 				["elapsed"] = 429.627000000095,
+				["date"] = "00:09 17/03/21",
 				["healing"] = {
 					["Yellowy"] = {
 						3293387, -- [1]
@@ -620,8 +726,8 @@ DetailsDataStorage = {
 			{
 				["guild"] = "Aggravated",
 				["time"] = 1615953289,
-				["date"] = "23:54 16/03/21",
 				["elapsed"] = 464.7859999998473,
+				["date"] = "23:54 16/03/21",
 				["healing"] = {
 					["Fûzy"] = {
 						1776080, -- [1]
@@ -694,7 +800,7 @@ DetailsDataStorage = {
 				["time"] = 1615948323,
 				["guild"] = "Aggravated",
 				["servertime"] = 1615948323,
-				["date"] = "22:32 16/03/21",
+				["elapsed"] = 228.5869999998249,
 				["healing"] = {
 					["Billieyelash"] = {
 						1383066, -- [1]
@@ -707,7 +813,7 @@ DetailsDataStorage = {
 						7, -- [3]
 					},
 				},
-				["elapsed"] = 228.5869999998249,
+				["date"] = "22:32 16/03/21",
 				["damage"] = {
 					["Drewqt"] = {
 						1127304, -- [1]
@@ -773,9 +879,9 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 3,
 				["dps_best"] = 719.7670042285462,
-				["dps_best_when"] = 1617158125,
-				["time_fasterkill_when"] = 1616553979,
 				["dps_best_raid_when"] = 1616553979,
+				["time_fasterkill_when"] = 1616553979,
+				["dps_best_when"] = 1617158125,
 				["dps_best_raid"] = 48056.51050046646,
 			},
 		},
@@ -788,8 +894,8 @@ DetailsDataStorage = {
 				["dps_best"] = 1046.039972449599,
 				["dps_best_raid"] = 63571.87358150711,
 				["time_fasterkill_when"] = 1617155847,
-				["dps_best_when"] = 1615947878,
 				["dps_best_raid_when"] = 1616551352,
+				["dps_best_when"] = 1615947878,
 			},
 		},
 		[2412] = {
@@ -799,9 +905,9 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 3,
 				["dps_best"] = 656.6742949988907,
-				["dps_best_when"] = 1615951583,
-				["time_fasterkill_when"] = 1616554752,
 				["dps_best_raid_when"] = 1616554752,
+				["time_fasterkill_when"] = 1616554752,
+				["dps_best_when"] = 1615951583,
 				["dps_best_raid"] = 49315.40826465536,
 			},
 		},
@@ -812,9 +918,9 @@ DetailsDataStorage = {
 				["wipes"] = 6,
 				["kills"] = 3,
 				["dps_best"] = 674.4864401178265,
-				["dps_best_when"] = 1616553399,
-				["time_fasterkill_when"] = 1617158743,
 				["dps_best_raid_when"] = 1616553399,
+				["time_fasterkill_when"] = 1617158743,
+				["dps_best_when"] = 1616553399,
 				["dps_best_raid"] = 45876.80793501487,
 			},
 		},
@@ -827,8 +933,8 @@ DetailsDataStorage = {
 				["dps_best"] = 1041.412022458256,
 				["dps_best_raid"] = 39719.97859746056,
 				["time_fasterkill_when"] = 1615947015,
-				["dps_best_when"] = 1616550780,
 				["dps_best_raid_when"] = 1616550780,
+				["dps_best_when"] = 1616550780,
 			},
 		},
 		[2406] = {
@@ -838,9 +944,9 @@ DetailsDataStorage = {
 				["wipes"] = 3,
 				["kills"] = 3,
 				["dps_best"] = 855.7364050102583,
-				["dps_best_when"] = 1616552313,
-				["time_fasterkill_when"] = 1616552313,
 				["dps_best_raid_when"] = 1617157269,
+				["time_fasterkill_when"] = 1616552313,
+				["dps_best_when"] = 1616552313,
 				["dps_best_raid"] = 56436.19819913386,
 			},
 		},
@@ -851,9 +957,9 @@ DetailsDataStorage = {
 				["wipes"] = 1,
 				["kills"] = 3,
 				["dps_best"] = 1185.383731514975,
-				["dps_best_when"] = 1617160270,
-				["time_fasterkill_when"] = 1615952088,
 				["dps_best_raid_when"] = 1617160270,
+				["time_fasterkill_when"] = 1615952088,
+				["dps_best_when"] = 1617160270,
 				["dps_best_raid"] = 62977.44341591902,
 			},
 		},
@@ -864,21 +970,21 @@ DetailsDataStorage = {
 				["wipes"] = 0,
 				["kills"] = 3,
 				["dps_best"] = 870.2007580279876,
-				["dps_best_when"] = 1616556739,
-				["time_fasterkill_when"] = 1617162102,
 				["dps_best_raid_when"] = 1615954166,
+				["time_fasterkill_when"] = 1617162102,
+				["dps_best_when"] = 1616556739,
 				["dps_best_raid"] = 46171.05302971092,
 			},
 			[16] = {
-				["time_incombat"] = 0,
-				["time_fasterkill"] = 0,
-				["wipes"] = 210,
-				["kills"] = 0,
-				["dps_best"] = 0,
-				["dps_best_raid"] = 0,
-				["time_fasterkill_when"] = 0,
-				["dps_best_when"] = 0,
-				["dps_best_raid_when"] = 0,
+				["time_incombat"] = 602.6430000001565,
+				["time_fasterkill"] = 602.6430000001565,
+				["wipes"] = 221,
+				["kills"] = 1,
+				["dps_best"] = 306.2211082016253,
+				["dps_best_raid"] = 89926.76427003372,
+				["time_fasterkill_when"] = 1618630075,
+				["dps_best_raid_when"] = 1618630075,
+				["dps_best_when"] = 1618630075,
 			},
 		},
 		[2417] = {
@@ -888,9 +994,9 @@ DetailsDataStorage = {
 				["wipes"] = 7,
 				["kills"] = 3,
 				["dps_best"] = 570.2430913863307,
-				["dps_best_when"] = 1615953289,
-				["time_fasterkill_when"] = 1616556072,
 				["dps_best_raid_when"] = 1617161487,
+				["time_fasterkill_when"] = 1616556072,
+				["dps_best_when"] = 1615953289,
 				["dps_best_raid"] = 41543.47273861071,
 			},
 			[16] = {
@@ -901,8 +1007,8 @@ DetailsDataStorage = {
 				["dps_best"] = 848.5337622121615,
 				["dps_best_raid"] = 92948.54007305957,
 				["time_fasterkill_when"] = 1616811296,
-				["dps_best_raid_when"] = 1616811296,
 				["dps_best_when"] = 1616811296,
+				["dps_best_raid_when"] = 1616811296,
 			},
 		},
 		[2383] = {
@@ -914,8 +1020,8 @@ DetailsDataStorage = {
 				["dps_best"] = 854.4665791917507,
 				["dps_best_raid"] = 44719.30999500339,
 				["time_fasterkill_when"] = 1617156409,
-				["dps_best_when"] = 1616551804,
 				["dps_best_raid_when"] = 1617156409,
+				["dps_best_when"] = 1616551804,
 			},
 		},
 	},
