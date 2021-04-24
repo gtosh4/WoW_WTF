@@ -74,10 +74,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["raid"] = "By Group",
-								["solo"] = "By Role",
 								["party"] = "By Role",
+								["arena"] = "By Group",
+								["solo"] = "By Role",
+								["raid"] = "By Group",
 							},
 							["BackgroundB"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -103,10 +103,10 @@ Grid2DB = {
 							["BackgroundTexture"] = "Blizzard ChatFrame Background",
 							["BorderB"] = 0.5019607843137255,
 							["layouts"] = {
-								["arena"] = "By Group",
-								["party"] = "By Group",
-								["solo"] = "By Group",
 								["raid"] = "By Group",
+								["arena"] = "By Group",
+								["solo"] = "By Group",
+								["party"] = "By Group",
 							},
 							["BackgroundR"] = 0.1019607843137255,
 							["ScaleSize"] = 1,
@@ -1108,6 +1108,9 @@ Grid2DB = {
 					["iconSize"] = 18,
 					["level"] = 8,
 				},
+				["shields-color"] = {
+					["type"] = "bar-color",
+				},
 				["health"] = {
 					["type"] = "bar",
 					["location"] = {
@@ -1137,9 +1140,6 @@ Grid2DB = {
 					["level"] = 8,
 					["iconSize"] = 13,
 					["maxIconsPerRow"] = 5,
-				},
-				["shields-color"] = {
-					["type"] = "bar-color",
 				},
 				["heals"] = {
 					["type"] = "bar",
@@ -1184,22 +1184,15 @@ Grid2DB = {
 						["r"] = 1,
 					},
 				},
-				["debuffs-CCs"] = {
+				["buff-GlimmerofLight-mine"] = {
+					["spellName"] = "Glimmer of Light",
+					["type"] = "buff",
+					["mine"] = 1,
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
-					},
-					["useWhiteList"] = true,
-					["type"] = "debuffs",
-					["auras"] = {
-						"Psychic Scream", -- [1]
-						"Hammer of Justice", -- [2]
-						"Fear", -- [3]
-						"Frost Trap", -- [4]
-						"Ring of Frost", -- [5]
-						"Polymorph", -- [6]
+						["r"] = 0.3019607843137255,
+						["g"] = 0.3019607843137255,
+						["b"] = 0.3019607843137255,
 					},
 				},
 				["debuff-Mindgames"] = {
@@ -1378,52 +1371,6 @@ Grid2DB = {
 						["g"] = 1,
 						["b"] = 1,
 					},
-				},
-				["buff-Riptide-mine"] = {
-					["spellName"] = 61295,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-				},
-				["debuff-GrandDelusions"] = {
-					["spellName"] = 319695,
-					["useSpellId"] = true,
-					["type"] = "debuff",
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 0.2,
-						["b"] = 0.2,
-					},
-				},
-				["debuff-Warlock>UnstableAffliction"] = {
-					["type"] = "debuff",
-					["color1"] = {
-						["a"] = 1,
-						["b"] = 0.2,
-						["g"] = 0.2,
-						["r"] = 1,
-					},
-					["spellName"] = 30108,
-				},
-				["buff-EarthShield-mine"] = {
-					["spellName"] = 974,
-					["type"] = "buff",
-					["mine"] = 1,
-					["color1"] = {
-						["a"] = 1,
-						["r"] = 1,
-						["g"] = 1,
-						["b"] = 1,
-					},
-				},
-				["leader"] = {
-					["hideInCombat"] = true,
 				},
 				["raid-debuffs"] = {
 					["debuffs"] = {
@@ -1627,6 +1574,52 @@ Grid2DB = {
 						},
 					},
 				},
+				["debuff-GrandDelusions"] = {
+					["spellName"] = 319695,
+					["useSpellId"] = true,
+					["type"] = "debuff",
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+				},
+				["debuff-Warlock>UnstableAffliction"] = {
+					["type"] = "debuff",
+					["color1"] = {
+						["a"] = 1,
+						["b"] = 0.2,
+						["g"] = 0.2,
+						["r"] = 1,
+					},
+					["spellName"] = 30108,
+				},
+				["buff-EarthShield-mine"] = {
+					["spellName"] = 974,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
+				["leader"] = {
+					["hideInCombat"] = true,
+				},
+				["buff-Riptide-mine"] = {
+					["spellName"] = 61295,
+					["type"] = "buff",
+					["mine"] = 1,
+					["color1"] = {
+						["a"] = 1,
+						["r"] = 1,
+						["g"] = 1,
+						["b"] = 1,
+					},
+				},
 				["raid-debuffs2"] = {
 					["type"] = "raid-debuffs",
 					["debuffs"] = {
@@ -1714,15 +1707,22 @@ Grid2DB = {
 						["b"] = 1,
 					},
 				},
-				["buff-GlimmerofLight-mine"] = {
-					["spellName"] = "Glimmer of Light",
-					["type"] = "buff",
-					["mine"] = 1,
+				["debuffs-CCs"] = {
 					["color1"] = {
 						["a"] = 1,
-						["r"] = 0.3019607843137255,
-						["g"] = 0.3019607843137255,
-						["b"] = 0.3019607843137255,
+						["r"] = 1,
+						["g"] = 0.2,
+						["b"] = 0.2,
+					},
+					["useWhiteList"] = true,
+					["type"] = "debuffs",
+					["auras"] = {
+						"Psychic Scream", -- [1]
+						"Hammer of Justice", -- [2]
+						"Fear", -- [3]
+						"Frost Trap", -- [4]
+						"Ring of Frost", -- [5]
+						"Polymorph", -- [6]
 					},
 				},
 				["health-low"] = {
@@ -1848,9 +1848,9 @@ Grid2DB = {
 				["bar-main"] = {
 					["heal-absorbs"] = 4,
 					["shields"] = 5,
+					["heals-incoming"] = 2,
 					["health-current"] = 1,
 					["my-heals-incoming"] = 3,
-					["heals-incoming"] = 2,
 				},
 				["alpha"] = {
 					["offline"] = 97,
@@ -1898,12 +1898,12 @@ Grid2DB = {
 					["raid@lfr"] = 0,
 					["solo"] = 1,
 					["15"] = 0,
-					["raid"] = 2,
+					["raid@mythic"] = 0,
 					["party"] = 1,
 					["default"] = 1,
-					["raid@mythic"] = 0,
-					["20"] = 0,
 					["arena"] = 1,
+					["20"] = 0,
+					["raid"] = 2,
 					["raid@flex"] = 0,
 					["10"] = 0,
 				},

@@ -14,6 +14,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2982035960,
 		["Contents"] = ":35 fixates\n\n1:07 seeds / bait fixates(fixates go into \nportal after seed explodes)\n\n2:05 seeds / bait fixates go into \nportal after seed explodes)\n\n2:40 seeds / bait fixates(fixates go in\nbefore seed explosion and come back fast)\n\n3:00 LUST\n\n3:45 seeds / suck / bait fixates(fixates go in\nearly before seeds even come out)\n\n5:05 suck\n\n5:20 seeds / fixates(fixates go in before \nseed explosion and come back fast)\n\n6:20+ kill",
 	},
+	[1903778637] = {
+		["Updated"] = 1619232990,
+		["Name"] = "sunking",
+		["Id"] = 1903778637,
+		["UpdateId"] = 1300783413,
+		["Contents"] = "P1\n{square} delpi/me\n{moon}  smytt/johnny\n{triangle} yuki/thun\n{diamond} cj/luna\n\n\nP2\n{square} boquet/delpi\n{moon} adeno/andrew/smytt\n{triangle} evan/yuki/thun\n{diamond} rathux/cj/luna",
+	},
 	[3706735614] = {
 		["Updated"] = 1598066403,
 		["Name"] = "M N'zoth Main",
@@ -22,11 +29,11 @@ AngryAssign_Pages = {
 		["Contents"] = "Necks    \nAfter Psychus Dies    ||cpaladinSci||r ||cpriestJess||r\nBefore 1st Harvest Thoughts    ||cdeathknightEvan||r    ||cmonkBarb||r\nAfter 1st Harvest Thoughts    ||chunterJohnny||r    ||cdemonhunterAndrew||r\nAfter Paranoia (~8:45)    ||cpriestGordy||r  \n\nDisarms    \n1    ||chunterAeth||r    ||cwarriorPangu||r\n2    ||cpriestPenguin||r    ||cwarlockCJ||r    ||cwarlockDirty||r\n3    ||chunterSmytt||r    ||crogueMe||r    ||cmageArn||r\n4    ||cmageDelp||r    ||cmageYuki||r    ||chunterThun||r\n\nSoaks\n1    ||cdeathknightEveryone||r\n2    yuki drew me thun johnny\n3    ||cpaladinSci||r    ||cmageDelpi||r    ||cmageArn||r    ||chunterAeth||r  ||chunterSmytt||r\n4    ||cdeathknightEveryone||r",
 	},
 	[1859327480] = {
-		["Updated"] = 1605331616,
-		["Name"] = "NZOTH main g2",
+		["Updated"] = 1619228601,
+		["Name"] = "huntsman mythic",
 		["Id"] = 1859327480,
-		["UpdateId"] = 3129839131,
-		["Contents"] = "Necks    \nAfter Psychus Dies    ||cdruidFarben||r ||cpaladinSlurp||r\nBefore 1st Harvest Thoughts    ||cpaladinEvan||r    ||cmonkBarb||r\nAfter 1st Harvest Thoughts    ||cdemonhunterLuna||r    ||cdeathknightMoon||r\nAfter Paranoia (~8:45)    ||cpriestJess||r  \n\nDisarms    \n1    ||chunterAeth||r    ||crogueRathux||r\n2    ||cwarlockHax||r    ||cpriestGordy||r    ||cwarriorJohnny||r\n3    ||cmageYuki||r    ||crogueMe||r    ||cmageRazr\n4    ||cwarlockDelpi||r    ||cmageFelside||r    ||chunterThun||r\n\nSoaks\n1    ||cpriestEveryone||r\n2    luna barb rathux slurp yuki\n3    thun raz aeth felside evan\n4    ||cpriestEveryone||r",
+		["UpdateId"] = 762220825,
+		["Contents"] = "g4 + adeno {diamond}\n\ng3 + drew {circle}\n\ng2 + boquet {star}",
 	},
 	[2307865803] = {
 		["Updated"] = 1598069784,
@@ -49,6 +56,13 @@ AngryAssign_Pages = {
 		["UpdateId"] = 2501997093,
 		["Contents"] = "2nd blood price - personals\n\nfirst ravage -",
 	},
+	[491590631] = {
+		["Updated"] = 1619228593,
+		["Name"] = "huntsman",
+		["Id"] = 491590631,
+		["UpdateId"] = 2731303940,
+		["Contents"] = "g1 {circle}\n\ng2 {star}\n\ng3 {triangle}\n\ng4 {diamond}",
+	},
 	[4118338490] = {
 		["Updated"] = 1601172171,
 		["Name"] = "XANESH main",
@@ -63,11 +77,23 @@ AngryAssign_Pages = {
 		["UpdateId"] = 3893391621,
 		["Contents"] = "Far Gaze\n||cdemonhunterBarbados||r\n||chunterThunderrz||r\n||chunterAeth||r\n||chunterCJ||r\n||cmonkThug||r\n||cshamanGordy||r\n||cpriestJess||r\n\n\nG1+2 Left\nG3+4 Right",
 	},
+	[2394373717] = {
+		["Updated"] = 1619240366,
+		["Name"] = "sludge",
+		["Id"] = 2394373717,
+		["UpdateId"] = 1160683914,
+		["Contents"] = "{triangle} - joons/gordy/cj/me/fuzy\n\n{square} - drewadeno//sci/bouquet\n\n{star} - tanks/yuki/delpi\n\n{x} - hunters/johnny/jess",
+	},
 }
 AngryAssign_Categories = {
 }
 AngryAssign_State = {
-	["directionUp"] = false,
+	["window"] = {
+		["height"] = 559.1666259765625,
+		["top"] = 1079.166748046875,
+		["left"] = 242.4997253417969,
+		["width"] = 759.1664428710938,
+	},
 	["display"] = {
 		["y"] = -36.99951171875,
 		["x"] = 306.6667175292969,
@@ -75,13 +101,7 @@ AngryAssign_State = {
 		["scale"] = 1,
 		["hidden"] = false,
 	},
-	["window"] = {
-		["height"] = 559.1666259765625,
-		["top"] = 1079.166748046875,
-		["left"] = 242.4997253417969,
-		["width"] = 759.1664428710938,
-	},
-	["locked"] = true,
+	["directionUp"] = false,
 	["tree"] = {
 		["groups"] = {
 		},
@@ -91,6 +111,7 @@ AngryAssign_State = {
 		["treewidth"] = 175,
 		["fullwidth"] = 725.16650390625,
 	},
+	["locked"] = true,
 }
 AngryAssign_Config = {
 }

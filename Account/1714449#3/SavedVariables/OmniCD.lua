@@ -6,9 +6,10 @@ OmniCDDB = {
 		["Toshaman - Area 52"] = "Default",
 	},
 	["global"] = {
-		["oodVer"] = 2520,
-		["oodChk"] = 210319,
 		["disableElvMsg"] = true,
+		["oodChk"] = 210423,
+		["oodVer"] = 2522,
+		["oodMsg"] = "|cfff16436 A new update is available. (Hotfix)",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {

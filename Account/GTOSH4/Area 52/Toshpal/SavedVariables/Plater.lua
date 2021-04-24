@@ -7,7 +7,10 @@ PlaterDBChr = {
 	},
 	["buffsBanned"] = {
 	},
-	["minimap"] = {
+	["spellRangeCheckRangeEnemy"] = {
+		[70] = 30,
+		[65] = 40,
+		[66] = 30,
 	},
 	["first_run3"] = {
 		["Player-3676-0AD8DD4D"] = true,
@@ -20,9 +23,6 @@ PlaterDBChr = {
 	["resources_on_target"] = false,
 	["debuffsBanned"] = {
 	},
-	["spellRangeCheckRangeEnemy"] = {
-		[70] = 30,
-		[65] = 40,
-		[66] = 30,
+	["minimap"] = {
 	},
 }
