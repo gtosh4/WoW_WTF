@@ -1,7 +1,8 @@
 
 VWQL = {
 	["Toshpriest-Kil'jaeden"] = {
-		["VERSION"] = 96,
+		["FilterType"] = {
+		},
 		["Filter"] = 63,
 		["Quests"] = {
 			[52884] = true,
@@ -10,11 +11,10 @@ VWQL = {
 			[50853] = true,
 			[55342] = true,
 			[52383] = true,
-			[51316] = true,
 			[52937] = true,
+			[51316] = true,
 		},
-		["FilterType"] = {
-		},
+		["VERSION"] = 96,
 	},
 	["AnchorQCBTop"] = 879.166748046875,
 	["DisableArrow"] = true,
@@ -26,8 +26,49 @@ VWQL = {
 	["Ignore"] = {
 	},
 	["ReverseSort"] = true,
+	["Toshmonk-Kil'jaeden"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 99,
+	},
+	["Sort"] = 5,
+	["VERSION"] = 100,
+	["Toshaman-Area52"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["Quests"] = {
+			[62451] = true,
+			[60654] = true,
+			[58207] = true,
+			[60657] = true,
+			[59234] = true,
+			[60786] = true,
+			[62058] = true,
+			[61967] = true,
+			[61813] = true,
+			[61783] = true,
+			[61352] = true,
+			[60564] = true,
+			[61946] = true,
+			[60533] = true,
+			[61886] = true,
+			[60337] = true,
+			[59850] = true,
+			[58975] = true,
+			[61189] = true,
+			[62235] = true,
+			[61866] = true,
+			[60656] = true,
+		},
+		["FilterType"] = {
+		},
+	},
+	["AnchorQCBLeft"] = 1879.166625976563,
 	["Toshmonk-Area52"] = {
-		["VERSION"] = 96,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -39,50 +80,24 @@ VWQL = {
 			[51239] = true,
 			[51179] = true,
 			[55303] = true,
-			[49444] = true,
+			[52884] = true,
 			[51122] = true,
 			[51185] = true,
-			[51108] = true,
-			[52937] = true,
+			[50503] = true,
 			[51157] = true,
-			[50689] = true,
-			[50853] = true,
+			[55342] = true,
+			[54060] = true,
+			[50574] = true,
 			[52803] = true,
 			[51316] = true,
 			[50511] = true,
-			[50574] = true,
-			[54060] = true,
-			[55342] = true,
-			[50503] = true,
-			[52884] = true,
+			[50853] = true,
+			[50689] = true,
+			[52937] = true,
+			[51108] = true,
+			[49444] = true,
 		},
-		["Filter"] = 63,
-	},
-	["Sort"] = 5,
-	["VERSION"] = 100,
-	["AnchorQCBLeft"] = 1879.166625976563,
-	["Toshaman-Area52"] = {
-		["FilterType"] = {
-		},
-		["VERSION"] = 100,
-		["Quests"] = {
-			[61867] = true,
-			[61883] = true,
-			[57328] = true,
-			[58144] = true,
-			[60657] = true,
-			[59581] = true,
-			[61787] = true,
-		},
-		["Filter"] = 63,
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["VERSION"] = 99,
-		["Filter"] = 63,
-		["Quests"] = {
-		},
-		["FilterType"] = {
-		},
+		["VERSION"] = 96,
 	},
 	["HideLegion"] = true,
 }
