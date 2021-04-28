@@ -3,8 +3,10 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshaman-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Erodoriel-area-52"] = true,
-	["us-Kokusen-area-52"] = true,
-	["us-Moghlii-area-52"] = true,
+	["us-Lavérnia-area-52"] = true,
+	["us-Cöndemn-area-52"] = true,
+	["us-Fuelze-area-52"] = true,
+	["us-Dazzlex-area-52"] = true,
+	["us-Dragncläw-area-52"] = true,
 }
 RaiderIO_CachedRuns = nil
