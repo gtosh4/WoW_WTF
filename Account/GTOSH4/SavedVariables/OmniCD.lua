@@ -8,16 +8,15 @@ OmniCDDB = {
 	["global"] = {
 		["oodVer"] = 2522,
 		["oodChk"] = 210424,
-		["oodMsg"] = "|cfff16436 A new update is available. (Hotfix)",
 		["disableElvMsg"] = true,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {

@@ -104,10 +104,3 @@ X: 432
 Y: -286
 W: 27
 H: 26
-Frame: DeathNoteFrame
-FrameLevel: 1
-Anchor: TOPRIGHT
-X: -266
-Y: -24
-W: 679
-H: 689

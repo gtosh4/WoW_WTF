@@ -4,16 +4,16 @@ Details_StreamerDB = {
 		["Toshdk - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Toshdruid - Area 52"] = "Toshpriest - Area 52",
 		["Toshtoon - Barthilas"] = "Toshpriest - Area 52",
-		["Toshpriest - Azralon"] = "Toshpriest - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Toshpal - Area 52"] = "Toshpriest - Area 52",
 		["Toshlongboyr - Eldre'Thalas"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Toshpriest - Area 52",
+		["Daggny - Frostwolf"] = "Toshpriest - Area 52",
 		["Toshaman - Area 52"] = "Toshpriest - Area 52",
-		["Yelluwuy - Area 52"] = "Toshpriest - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshpriest - Area 52",
 		["Toshpriest - Kil'jaeden"] = "Toshpriest - Area 52",
-		["Daggny - Frostwolf"] = "Toshpriest - Area 52",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Yelluwuy - Area 52"] = "Toshpriest - Area 52",
+		["Toshpriest - Azralon"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
 		["Toshpriest - Area 52"] = {
@@ -40,22 +40,17 @@ Details_StreamerDB = {
 				["radius"] = 160,
 				["hide"] = true,
 			},
-			["scale"] = 1,
+			["point"] = "CENTER",
 			["arrow_anchor_x"] = 0,
 			["row_height"] = 20,
 			["row_texture"] = "Details Serenity",
-			["point"] = "CENTER",
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
-			["author"] = "Details! Team",
+			["scale"] = 1,
+			["use_square_mode"] = false,
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -63,9 +58,14 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
+			["y"] = 6.103515625e-05,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -80,10 +80,10 @@ Details_StreamerDB = {
 			["x"] = 6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["y"] = 6.103515625e-05,
-			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
-			["use_square_mode"] = false,
+			["arrow_anchor_y"] = 0,
 		},
 	},
 }
