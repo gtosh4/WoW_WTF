@@ -48,13 +48,6 @@ X: 76
 Y: 426
 W: 286
 H: 76
-Frame: ItemRefTooltip
-FrameLevel: 1
-Anchor: LEFT
-X: 601
-Y: 21
-W: 128
-H: 64
 Frame: ColorPickerFrame
 FrameLevel: 121
 Anchor: CENTER
@@ -64,9 +57,9 @@ W: 365
 H: 380
 Frame: BDLC Window
 FrameLevel: 27
-Anchor: CENTER
-X: 482
-Y: 192
+Anchor: TOP
+X: 491
+Y: -100
 W: 600
 H: 400
 Frame: BDLC Roll Window
@@ -125,3 +118,10 @@ X: 432
 Y: -286
 W: 27
 H: 26
+Frame: ItemRefTooltip
+FrameLevel: 1
+Anchor: LEFT
+X: 601
+Y: 21
+W: 244
+H: 212
