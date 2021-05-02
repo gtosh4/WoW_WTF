@@ -1,5 +1,7 @@
 
 BDLC_CONFIG = {
+	["shadowlands2"] = true,
+	["debug"] = false,
 	["buttons"] = {
 		{
 			"Mainspec", -- [1]
@@ -52,14 +54,12 @@ BDLC_CONFIG = {
 			false, -- [4]
 		}, -- [5]
 	},
-	["debug"] = false,
-	["shadowlands2"] = true,
-	["council_min_rank"] = 2,
 	["quick_notes"] = {
 		["20%"] = true,
 		["10%"] = true,
 		["BiS"] = true,
 	},
+	["council_min_rank"] = 2,
 	["council_votes"] = 1,
 	["custom_council"] = {
 	},

@@ -1,11 +1,4 @@
 Version: 1
-Frame: TooltipMover
-FrameLevel: 2
-Anchor: TOPRIGHT
-X: -252
-Y: -10
-W: 150
-H: 80
 Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
 Anchor: RIGHT
@@ -13,6 +6,13 @@ X: -3
 Y: 8
 W: 235
 H: 700
+Frame: TooltipMover
+FrameLevel: 2
+Anchor: TOPRIGHT
+X: -252
+Y: -10
+W: 150
+H: 80
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
