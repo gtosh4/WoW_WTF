@@ -1,5 +1,6 @@
 
 Broker_Everything_DataDB = {
+	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -22,24 +23,23 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
-	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["level"] = 60,
+		["class"] = "MONK",
+	},
 	["Toshmonk-Area 52"] = {
 		["race"] = "Troll",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
 		["orderId"] = 4,
-		["class"] = "MONK",
 		["level"] = 50,
-	},
-	["Toshaman-Area 52"] = {
-		["race"] = "Goblin",
-		["name"] = "Toshaman",
-		["faction"] = "Horde",
-		["orderId"] = 2,
-		["class"] = "SHAMAN",
-		["level"] = 60,
+		["class"] = "MONK",
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -49,15 +49,15 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area52", -- [5]
 	},
 	["Toshaman-Area52"] = {
-		["orderId"] = 5,
+		["class"] = "SHAMAN",
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
-		["level"] = 60,
 		["garrison_cache"] = {
 			0, -- [1]
 			false, -- [2]
 		},
+		["orderId"] = 5,
 		["garrison"] = {
 			0, -- [1]
 			0, -- [2]
@@ -68,10 +68,14 @@ Broker_Everything_CharacterDB = {
 			{
 			}, -- [4]
 		},
-		["class"] = "SHAMAN",
+		["level"] = 60,
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
+		["orderId"] = 1,
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -97,24 +101,20 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
+		["level"] = 50,
+		["gold"] = 10753845943,
 		["Professions"] = {
 			["learnedRecipes"] = {
 			},
 		},
-		["level"] = 50,
-		["gold"] = 10753845943,
-		["orderId"] = 1,
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshmonk",
+	["Toshaman-Area 52"] = {
+		["race"] = "Goblin",
+		["name"] = "Toshaman",
 		["faction"] = "Horde",
-		["orderId"] = 3,
-		["class"] = "MONK",
+		["orderId"] = 2,
 		["level"] = 60,
+		["class"] = "SHAMAN",
 	},
 }
 Broker_Everything_AceDB = {
@@ -144,8 +144,11 @@ Broker_Everything_AceDB = {
 				},
 				["showTalents"] = false,
 			},
-			["GPS"] = {
-				["enabled"] = false,
+			["Garrison"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["showCacheForcastInBroker"] = false,
 			},
 			["Bags"] = {
 				["enabled"] = false,
@@ -159,11 +162,8 @@ Broker_Everything_AceDB = {
 				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:time"] = "__NONE",
 			},
-			["Garrison"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-				["showCacheForcastInBroker"] = false,
+			["GPS"] = {
+				["enabled"] = false,
 			},
 			["System"] = {
 				["minimap"] = {
