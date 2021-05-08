@@ -4,15 +4,15 @@ WQTrackerDB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshtoon - Barthilas"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Toshpal - Area 52"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
+		["Toshaman - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
 		["Toshpriest - Kil'jaeden"] = "Default",
-		["Toshaman - Area 52"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
 		["Toshpriest - Azralon"] = "Default",
 	},
 	["profiles"] = {
@@ -169,25 +169,25 @@ WQTrackerDB = {
 					["name"] = "Toshaman",
 					["realm"] = "Area 52",
 				},
-				["Player-9-0DF7162C"] = {
+				["Player-3676-0AC0708D"] = {
 					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Kil'jaeden",
+					["name"] = "Yelluwuy",
+					["realm"] = "Area 52",
 				},
-				["Player-127-090CC93F"] = {
-					["class"] = "MONK",
-					["name"] = "Daggny",
-					["realm"] = "Frostwolf",
+				["Player-84-0964B87F"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshlongboy",
+					["realm"] = "Eldre'Thalas",
 				},
 				["Player-3676-0B20F78C"] = {
 					["class"] = "DRUID",
 					["name"] = "Toshdruid",
 					["realm"] = "Area 52",
 				},
-				["Player-3676-0AC0708D"] = {
+				["Player-9-0DF7162C"] = {
 					["class"] = "PRIEST",
-					["name"] = "Yelluwuy",
-					["realm"] = "Area 52",
+					["name"] = "Toshpriest",
+					["realm"] = "Kil'jaeden",
 				},
 				["Player-3676-0AD945E6"] = {
 					["class"] = "PRIEST",
@@ -204,25 +204,25 @@ WQTrackerDB = {
 					["name"] = "Toshlongboyr",
 					["realm"] = "Eldre'Thalas",
 				},
-				["Player-3676-0D0FE5F5"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshpriest",
-					["realm"] = "Area 52",
-				},
 				["Player-9-0A76FA3F"] = {
 					["class"] = "DRUID",
 					["name"] = "Yorman",
 					["realm"] = "Kil'jaeden",
+				},
+				["Player-3676-0D0FE5F5"] = {
+					["class"] = "PRIEST",
+					["name"] = "Toshpriest",
+					["realm"] = "Area 52",
 				},
 				["Player-3723-0B8DAB0A"] = {
 					["class"] = "WARLOCK",
 					["name"] = "Toshtoon",
 					["realm"] = "Barthilas",
 				},
-				["Player-84-0964B87F"] = {
-					["class"] = "PRIEST",
-					["name"] = "Toshlongboy",
-					["realm"] = "Eldre'Thalas",
+				["Player-127-090CC93F"] = {
+					["class"] = "MONK",
+					["name"] = "Daggny",
+					["realm"] = "Frostwolf",
 				},
 				["Player-3209-0B118D99"] = {
 					["class"] = "PRIEST",
@@ -317,13 +317,13 @@ WQTrackerDB = {
 							["quest"] = 2,
 							["gold"] = 2771100,
 						},
-						["201208"] = {
-							["quest"] = 1,
-							["artifact"] = 250,
-						},
 						["201215"] = {
 							["quest"] = 5,
 							["artifact"] = 600,
+						},
+						["201208"] = {
+							["quest"] = 1,
+							["artifact"] = 250,
 						},
 						["201222"] = {
 							["quest"] = 1,
@@ -346,9 +346,9 @@ WQTrackerDB = {
 							["quest"] = 2,
 							["artifact"] = 245,
 						},
-						["201205"] = {
-							["quest"] = 2,
-							["artifact"] = 140,
+						["201221"] = {
+							["quest"] = 3,
+							["artifact"] = 245,
 						},
 						["201224"] = {
 							["quest"] = 1,
@@ -358,9 +358,9 @@ WQTrackerDB = {
 							["quest"] = 3,
 							["artifact"] = 280,
 						},
-						["201221"] = {
-							["quest"] = 3,
-							["artifact"] = 245,
+						["201205"] = {
+							["quest"] = 2,
+							["artifact"] = 140,
 						},
 						["201223"] = {
 							["quest"] = 1,
@@ -420,9 +420,9 @@ WQTrackerDB = {
 							},
 						},
 						["Player-3676-0D0FE5F5"] = {
-							["201209"] = {
-								["quest"] = 1,
-								["artifact"] = 70,
+							["201210"] = {
+								["quest"] = 3,
+								["artifact"] = 350,
 							},
 							["201206"] = {
 								["quest"] = 3,
@@ -435,19 +435,21 @@ WQTrackerDB = {
 								["quest"] = 2,
 								["artifact"] = 105,
 							},
-							["210101"] = {
-								["quest"] = 1,
+							["201213"] = {
+								["quest"] = 2,
+								["artifact"] = 70,
 							},
-							["201212"] = {
+							["201214"] = {
 								["quest"] = 1,
+								["artifact"] = 250,
 							},
 							["201207"] = {
 								["quest"] = 4,
 								["artifact"] = 140,
 							},
-							["201210"] = {
-								["quest"] = 3,
-								["artifact"] = 350,
+							["201209"] = {
+								["quest"] = 1,
+								["artifact"] = 70,
 							},
 							["201217"] = {
 								["quest"] = 2,
@@ -456,9 +458,8 @@ WQTrackerDB = {
 								["quest"] = 3,
 								["artifact"] = 280,
 							},
-							["201214"] = {
+							["201212"] = {
 								["quest"] = 1,
-								["artifact"] = 250,
 							},
 							["201203"] = {
 								["artifact"] = 280,
@@ -469,10 +470,10 @@ WQTrackerDB = {
 								["quest"] = 3,
 								["artifact"] = 245,
 							},
-							["201127"] = {
-								["artifact"] = 245,
-								["quest"] = 9,
-								["resource"] = 350,
+							["201125"] = {
+								["artifact"] = 700,
+								["quest"] = 14,
+								["gold"] = 5251800,
 							},
 							["201208"] = {
 								["quest"] = 1,
@@ -502,13 +503,13 @@ WQTrackerDB = {
 								["quest"] = 2,
 								["artifact"] = 245,
 							},
-							["201223"] = {
-								["quest"] = 1,
-								["artifact"] = 140,
-							},
 							["201211"] = {
 								["quest"] = 3,
 								["artifact"] = 425,
+							},
+							["201223"] = {
+								["quest"] = 1,
+								["artifact"] = 140,
 							},
 							["201224"] = {
 								["quest"] = 1,
@@ -526,18 +527,17 @@ WQTrackerDB = {
 								["quest"] = 1,
 								["artifact"] = 250,
 							},
-							["201213"] = {
-								["quest"] = 2,
-								["artifact"] = 70,
+							["210101"] = {
+								["quest"] = 1,
 							},
 							["201204"] = {
 								["quest"] = 5,
 								["artifact"] = 595,
 							},
-							["201125"] = {
-								["artifact"] = 700,
-								["quest"] = 14,
-								["gold"] = 5251800,
+							["201127"] = {
+								["artifact"] = 245,
+								["quest"] = 9,
+								["resource"] = 350,
 							},
 							["201225"] = {
 								["quest"] = 1,
@@ -644,10 +644,10 @@ WQTrackerDB = {
 							[55359] = 1,
 							[52421] = 1,
 							[57218] = 1,
-							[56180] = 1,
+							[59585] = 1,
 							[56090] = 1,
 							[59601] = 1,
-							[59585] = 1,
+							[56180] = 1,
 						},
 						["Player-3676-0D0FE5F5"] = {
 							[58505] = 1,
@@ -752,45 +752,45 @@ WQTrackerDB = {
 				[154941] = true,
 				[153894] = true,
 				[155162] = true,
-				[154938] = true,
 				[163824] = true,
+				[152635] = true,
 				[152414] = true,
 				[154942] = true,
-				[164290] = true,
-				[163819] = true,
-				[152635] = true,
-				[152517] = true,
+				[162802] = true,
 				[152641] = true,
+				[164290] = true,
+				[152517] = true,
+				[158681] = true,
 				[152533] = true,
 				[152415] = true,
-				[158681] = true,
+				[152416] = true,
 				[163834] = true,
-				[162802] = true,
+				[152417] = true,
 				[152636] = true,
 				[167134] = true,
 				[157818] = true,
-				[162803] = true,
-				[152416] = true,
-				[163821] = true,
+				[152408] = true,
+				[163819] = true,
 				[154940] = true,
+				[162278] = true,
 				[153196] = true,
 				[164292] = true,
 				[164300] = true,
-				[155159] = true,
+				[154938] = true,
 				[152409] = true,
-				[152417] = true,
+				[166655] = true,
 				[152614] = true,
 				[167490] = true,
 				[154205] = true,
 				[152638] = true,
 				[152505] = true,
-				[152639] = true,
+				[155159] = true,
 				[152410] = true,
-				[166656] = true,
+				[163821] = true,
 				[152615] = true,
 				[163837] = true,
 				[154899] = true,
-				[162278] = true,
+				[152639] = true,
 				[154206] = true,
 				[163829] = true,
 				[163436] = true,
@@ -804,10 +804,10 @@ WQTrackerDB = {
 				[163437] = true,
 				[163823] = true,
 				[163831] = true,
-				[166655] = true,
+				[166656] = true,
 				[154208] = true,
 				[155161] = true,
-				[152408] = true,
+				[162803] = true,
 				[154209] = true,
 				[0] = true,
 			},
@@ -844,13 +844,13 @@ WQTrackerDB = {
 				},
 				["Player-3676-0AD945D6"] = {
 				},
-				["Player-9-0DF7162C"] = {
+				["Player-3676-0AC0708D"] = {
 				},
-				["Player-127-090CC93F"] = {
+				["Player-84-0964B87F"] = {
 				},
 				["Player-3676-0B20F78C"] = {
 				},
-				["Player-3676-0AC0708D"] = {
+				["Player-9-0DF7162C"] = {
 				},
 				["Player-3676-0AD945E6"] = {
 				},
@@ -858,13 +858,13 @@ WQTrackerDB = {
 				},
 				["Player-84-098A5875"] = {
 				},
-				["Player-3676-0D0FE5F5"] = {
-				},
 				["Player-9-0A76FA3F"] = {
+				},
+				["Player-3676-0D0FE5F5"] = {
 				},
 				["Player-3723-0B8DAB0A"] = {
 				},
-				["Player-84-0964B87F"] = {
+				["Player-127-090CC93F"] = {
 				},
 				["Player-3209-0B118D99"] = {
 				},
@@ -951,26 +951,6 @@ WQTrackerDB = {
 					},
 				},
 				["Player-9-0DF7162C"] = {
-					[61816] = {
-						["expireAt"] = 1620140448,
-						["rewardAmount"] = 250,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[59234] = {
-						["expireAt"] = 1619984928,
-						["rewardAmount"] = "|cffc557FF187",
-						["rewardTexture"] = "Interface\\ICONS\\INV_Pants_08",
-					},
-					[61189] = {
-						["expireAt"] = 1619950368,
-						["rewardAmount"] = 175,
-						["rewardTexture"] = "Interface\\AddOns\\WorldQuestTracker\\media\\icon_mana",
-					},
-					[61866] = {
-						["expireAt"] = 1619967648,
-						["rewardAmount"] = "6",
-						["rewardTexture"] = 1045112,
-					},
 				},
 			},
 			["groupfinder"] = {

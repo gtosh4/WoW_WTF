@@ -87,16 +87,9 @@ Broker_Everything_CharacterDB = {
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["faction"] = "Horde",
+		["gold"] = 10753845943,
 		["Dungeons"] = {
 		},
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["gold"] = 10753845943,
 		["mail"] = {
 			["total"] = 0,
 			["stored"] = {
@@ -107,7 +100,9 @@ Broker_Everything_CharacterDB = {
 			["new"] = {
 			},
 		},
-		["level"] = 60,
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -132,6 +127,11 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
+		},
+		["level"] = 60,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
 		},
 		["orderId"] = 1,
 	},

@@ -1,7 +1,8 @@
 
 VWQL = {
 	["Toshpriest-Kil'jaeden"] = {
-		["VERSION"] = 96,
+		["FilterType"] = {
+		},
 		["Filter"] = 63,
 		["Quests"] = {
 			[52884] = true,
@@ -10,11 +11,10 @@ VWQL = {
 			[50853] = true,
 			[55342] = true,
 			[52383] = true,
-			[51316] = true,
 			[52937] = true,
+			[51316] = true,
 		},
-		["FilterType"] = {
-		},
+		["VERSION"] = 96,
 	},
 	["AnchorQCBTop"] = 879.166748046875,
 	["DisableArrow"] = true,
@@ -26,8 +26,30 @@ VWQL = {
 	["Ignore"] = {
 	},
 	["ReverseSort"] = true,
+	["Toshmonk-Kil'jaeden"] = {
+		["FilterType"] = {
+		},
+		["Filter"] = 63,
+		["Quests"] = {
+		},
+		["VERSION"] = 99,
+	},
+	["Sort"] = 5,
+	["VERSION"] = 100,
+	["Toshaman-Area52"] = {
+		["Filter"] = 63,
+		["VERSION"] = 100,
+		["Quests"] = {
+			[60899] = true,
+			[59718] = true,
+			[58605] = true,
+		},
+		["FilterType"] = {
+		},
+	},
+	["AnchorQCBLeft"] = 1879.166625976563,
 	["Toshmonk-Area52"] = {
-		["VERSION"] = 96,
+		["Filter"] = 63,
 		["FilterType"] = {
 		},
 		["Quests"] = {
@@ -39,46 +61,24 @@ VWQL = {
 			[51239] = true,
 			[51179] = true,
 			[55303] = true,
-			[49444] = true,
+			[52884] = true,
 			[51122] = true,
 			[51185] = true,
-			[51108] = true,
-			[52937] = true,
+			[50503] = true,
+			[51157] = true,
 			[55342] = true,
-			[50689] = true,
-			[50853] = true,
+			[54060] = true,
+			[50574] = true,
 			[52803] = true,
 			[51316] = true,
 			[50511] = true,
-			[50574] = true,
-			[54060] = true,
-			[51157] = true,
-			[50503] = true,
-			[52884] = true,
+			[50853] = true,
+			[50689] = true,
+			[52937] = true,
+			[51108] = true,
+			[49444] = true,
 		},
-		["Filter"] = 63,
-	},
-	["Sort"] = 5,
-	["VERSION"] = 100,
-	["AnchorQCBLeft"] = 1879.166625976563,
-	["Toshaman-Area52"] = {
-		["FilterType"] = {
-		},
-		["VERSION"] = 100,
-		["Quests"] = {
-			[60899] = true,
-			[59718] = true,
-			[58605] = true,
-		},
-		["Filter"] = 63,
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["VERSION"] = 99,
-		["Filter"] = 63,
-		["Quests"] = {
-		},
-		["FilterType"] = {
-		},
+		["VERSION"] = 96,
 	},
 	["HideLegion"] = true,
 }

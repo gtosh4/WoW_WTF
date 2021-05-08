@@ -4,15 +4,15 @@ Details_StreamerDB = {
 		["Toshdk - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Toshdruid - Area 52"] = "Toshpriest - Area 52",
 		["Toshtoon - Barthilas"] = "Toshpriest - Area 52",
-		["Toshlongboyr - Eldre'Thalas"] = "Toshpriest - Area 52",
-		["Toshpal - Area 52"] = "Toshpriest - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
+		["Toshpal - Area 52"] = "Toshpriest - Area 52",
+		["Toshlongboyr - Eldre'Thalas"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Daggny - Frostwolf"] = "Toshpriest - Area 52",
-		["Yelluwuy - Area 52"] = "Toshpriest - Area 52",
+		["Toshaman - Area 52"] = "Toshpriest - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshpriest - Area 52",
 		["Toshpriest - Kil'jaeden"] = "Toshpriest - Area 52",
-		["Toshaman - Area 52"] = "Toshpriest - Area 52",
+		["Yelluwuy - Area 52"] = "Toshpriest - Area 52",
 		["Toshpriest - Azralon"] = "Toshpriest - Area 52",
 	},
 	["profiles"] = {
@@ -50,6 +50,21 @@ Details_StreamerDB = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
+			["use_spark"] = true,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -61,27 +76,12 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.2, -- [4]
-			},
-			["author"] = "Details! Team",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["font_size"] = 10,
-			["use_spark"] = true,
+			["y"] = 6.103515625e-05,
 			["x"] = 6.103515625e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["y"] = 6.103515625e-05,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["font_size"] = 10,
+			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["arrow_anchor_y"] = 0,
 		},

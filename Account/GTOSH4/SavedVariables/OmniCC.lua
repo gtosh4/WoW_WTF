@@ -2,7 +2,7 @@
 OmniCCDB = {
 	["global"] = {
 		["dbVersion"] = 6,
-		["addonVersion"] = "9.0.8",
+		["addonVersion"] = "9.0.9",
 	},
 	["profileKeys"] = {
 		["Toshdruid - Area 52"] = "Default",

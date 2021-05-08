@@ -30,24 +30,6 @@ CliqueDB3 = {
 			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
 			["specswap"] = false,
 		},
-		["Toshpriest - Kil'jaeden"] = {
-			["spec1_profileKey"] = "Toshpriest - Kil'jaeden",
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshpriest - Kil'jaeden",
-			["downclick"] = true,
-			["specswap"] = false,
-			["spec3_profileKey"] = "Toshpriest - Kil'jaeden",
-		},
-		["Toshdruid - Area 52"] = {
-			["spec1_profileKey"] = "Toshdruid - Area 52",
-			["spec3_profileKey"] = "Toshdruid - Area 52",
-			["downclick"] = true,
-			["fastooc"] = false,
-			["spec4_profileKey"] = "Toshdruid - Area 52",
-			["specswap"] = false,
-			["spec2_profileKey"] = "Toshdruid - Area 52",
-			["alerthidden"] = true,
-		},
 		["Toshtoon - Barthilas"] = {
 			["spec1_profileKey"] = "Toshtoon - Barthilas",
 			["spec3_profileKey"] = "Toshtoon - Barthilas",
@@ -63,6 +45,24 @@ CliqueDB3 = {
 			["fastooc"] = false,
 			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
 			["specswap"] = false,
+		},
+		["Toshpriest - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshpriest - Kil'jaeden",
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshpriest - Kil'jaeden",
+			["downclick"] = true,
+			["specswap"] = false,
+			["spec3_profileKey"] = "Toshpriest - Kil'jaeden",
+		},
+		["Toshdruid - Area 52"] = {
+			["spec1_profileKey"] = "Toshdruid - Area 52",
+			["spec3_profileKey"] = "Toshdruid - Area 52",
+			["downclick"] = true,
+			["spec4_profileKey"] = "Toshdruid - Area 52",
+			["fastooc"] = false,
+			["specswap"] = false,
+			["spec2_profileKey"] = "Toshdruid - Area 52",
+			["alerthidden"] = true,
 		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",
@@ -289,20 +289,12 @@ CliqueDB3 = {
 					["unit"] = "mouseover",
 				}, -- [1]
 				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
 					["type"] = "menu",
 					["key"] = "ALT-BUTTON3",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [3]
+				}, -- [2]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -310,15 +302,15 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [4]
+				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [5]
+				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -326,11 +318,19 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [6]
+				}, -- [5]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
 					["key"] = "ALT-BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [6]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
