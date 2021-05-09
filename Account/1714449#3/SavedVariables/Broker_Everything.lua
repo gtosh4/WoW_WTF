@@ -25,20 +25,20 @@ Broker_Everything_DataDB = {
 	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
+	["Toshmonk-Area 52"] = {
+		["race"] = "Troll",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 4,
+		["class"] = "MONK",
+		["level"] = 50,
+	},
 	["Toshaman-Area 52"] = {
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
 		["orderId"] = 2,
 		["class"] = "SHAMAN",
-		["level"] = 60,
-	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
-		["name"] = "Toshmonk",
-		["faction"] = "Horde",
-		["orderId"] = 3,
-		["class"] = "MONK",
 		["level"] = 60,
 	},
 	["order"] = {
@@ -108,13 +108,13 @@ Broker_Everything_CharacterDB = {
 		["gold"] = 10753845943,
 		["orderId"] = 1,
 	},
-	["Toshmonk-Area 52"] = {
-		["race"] = "Troll",
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 4,
+		["orderId"] = 3,
 		["class"] = "MONK",
-		["level"] = 50,
+		["level"] = 60,
 	},
 }
 Broker_Everything_AceDB = {

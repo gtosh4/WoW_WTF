@@ -3925,14 +3925,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sci",
 		},
-		[323552] = {
-			["school"] = 32,
+		[327646] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "High Adjudicator Aleez",
+			["source"] = "Mueh'zala",
 		},
 		[322527] = {
 			["school"] = 8,
@@ -3986,13 +3986,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sire Denathrius",
 		},
-		[350163] = {
-			["school"] = 1,
+		[323552] = {
+			["school"] = 32,
 			["token"] = {
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Spiteful Shade",
+			["source"] = "High Adjudicator Aleez",
 		},
 		[188196] = {
 			["school"] = 8,
@@ -4052,14 +4053,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hidden Desire",
 		},
-		[329697] = {
-			["school"] = 1,
+		[1044] = {
+			["school"] = 2,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sire Denathrius",
+			["source"] = "Sci",
 		},
 		[28730] = {
 			["school"] = 64,
@@ -4076,14 +4077,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Arnbjorn",
 		},
-		[1044] = {
-			["school"] = 2,
+		[194594] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sci",
+			["source"] = "Thunderrz",
 		},
 		[327649] = {
 			["school"] = 32,
@@ -4116,13 +4116,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azules",
 		},
-		[194594] = {
+		[329697] = {
 			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Thunderrz",
+			["source"] = "Sire Denathrius",
 		},
 		[257946] = {
 			["school"] = 1,
@@ -4173,14 +4174,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magus of the Dead",
 		},
-		[1064] = {
-			["school"] = 8,
+		[326629] = {
+			["school"] = 40,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Yukios-Kil'jaeden",
+			["source"] = "Surgeon Stitchflesh",
 		},
 		[318227] = {
 			["school"] = 32,
@@ -4197,14 +4198,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Datavi",
 		},
-		[343005] = {
-			["school"] = 1,
+		[1064] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Shriekwing",
+			["source"] = "Yukios-Kil'jaeden",
 		},
 		[193316] = {
 			["school"] = 1,
@@ -5917,13 +5918,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Brutang",
 		},
-		[343060] = {
-			["school"] = 1,
+		[326684] = {
+			["school"] = 64,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "General Grashaal",
+			["source"] = "Millhouse Manastorm",
 		},
 		[268854] = {
 			["school"] = 1,
@@ -5999,15 +5999,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Domina Venomblade",
 		},
-		[328731] = {
+		[343060] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_PERIODIC_HEAL"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Reborn Phoenix",
+			["source"] = "General Grashaal",
 		},
 		[196414] = {
 			["school"] = 1,
@@ -6312,13 +6310,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Wrathion",
 		},
-		[187464] = {
+		[319531] = {
 			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Durantye",
+			["source"] = "Kul'tharok",
 		},
 		[315947] = {
 			["school"] = 1,
@@ -6379,14 +6377,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echelon",
 		},
-		[342048] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[187464] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Xira the Underhanded",
+			["source"] = "Durantye",
 		},
 		[100] = {
 			["school"] = 1,
@@ -6395,14 +6392,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bouquets",
 		},
-		[315954] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[303672] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Fury of N'Zoth",
+			["source"] = "Queen Azshara",
 		},
 		[235313] = {
 			["school"] = 4,
@@ -6548,12 +6544,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Domina Venomblade",
 		},
-		[338471] = {
-			["school"] = 1,
+		[315954] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Kryxis the Voracious",
+			["source"] = "Fury of N'Zoth",
 		},
 		[110909] = {
 			["school"] = 64,
@@ -6983,13 +6981,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Billieyelash",
 		},
-		[327227] = {
-			["school"] = 32,
+		[296522] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Sire Denathrius",
 		},
 		[64044] = {
 			["school"] = 32,
@@ -7015,13 +7012,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Clothie",
 		},
-		[193359] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[327227] = {
+			["school"] = 32,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Emosong",
+			["source"] = "Sire Denathrius",
 		},
 		[19801] = {
 			["school"] = 8,
@@ -7091,15 +7088,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Xav the Unfallen",
 		},
-		[300620] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[325184] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Serena Scarscale",
+			["source"] = "Lady Inerva Darkvein",
 		},
 		[192081] = {
 			["school"] = 8,
@@ -7143,16 +7139,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Droman Oulfarran",
 		},
-		[323137] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
+		[300620] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Droman Oulfarran",
+			["source"] = "Serena Scarscale",
 		},
 		[300504] = {
 			["school"] = 64,
@@ -7800,13 +7795,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Vile Occultist",
 		},
-		[346698] = {
-			["school"] = 32,
+		[122] = {
+			["school"] = 16,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Castellan Niklaus",
+			["source"] = "Yukiox",
 		},
 		[340556] = {
 			["school"] = 1,
@@ -7833,20 +7828,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Hungering Destroyer",
 		},
-		[122] = {
-			["school"] = 16,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Yukiox",
-		},
 		[336463] = {
 			["school"] = 32,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Boomie",
+		},
+		[346698] = {
+			["school"] = 32,
+			["token"] = {
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Castellan Niklaus",
 		},
 		[323393] = {
 			["school"] = 1,
@@ -9022,13 +9017,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Aethanel",
 		},
-		[322773] = {
-			["school"] = 32,
-			["type"] = "BUFF",
+		[81269] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_HEAL"] = true,
 			},
-			["source"] = "Hakkar the Soulflayer",
+			["source"] = "Farben-BleedingHollow",
 		},
 		[126664] = {
 			["school"] = 1,
@@ -9129,12 +9123,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Gunker",
 		},
-		[81269] = {
-			["school"] = 8,
+		[341196] = {
+			["school"] = 1,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_HEAL"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Farben-BleedingHollow",
+			["source"] = "Court Enforcer",
 		},
 		[195182] = {
 			["school"] = 1,
@@ -9155,13 +9151,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mordretha, the Endless Empress",
 		},
-		[342647] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[326271] = {
+			["school"] = 64,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Artificer Xy'mox",
 		},
 		[197997] = {
 			["school"] = 8,
@@ -9264,12 +9259,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Heavin the Breaker",
 		},
-		[93402] = {
-			["school"] = 8,
+		[342647] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Farben-BleedingHollow",
+			["source"] = "Unknown",
 		},
 		[324736] = {
 			["school"] = 1,
@@ -9384,20 +9380,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Amarth",
 		},
+		[321669] = {
+			["school"] = 8,
+			["token"] = {
+				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
+			},
+			["source"] = "Illusionary Clone",
+		},
 		[327810] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
 			["source"] = "Sire Denathrius",
-		},
-		[35395] = {
-			["school"] = 1,
-			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
-			},
-			["source"] = "Slurpinho",
 		},
 		[328322] = {
 			["school"] = 32,
@@ -9544,12 +9541,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Volatile Pod",
 		},
-		[5374] = {
-			["school"] = 1,
+		[345215] = {
+			["school"] = 4,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Datavi",
+			["source"] = "Yukiox",
 		},
 		[323209] = {
 			["school"] = 1,
@@ -9576,13 +9573,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Margrave Stradama",
 		},
-		[257622] = {
+		[5374] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lyunara",
+			["source"] = "Datavi",
 		},
 		[325257] = {
 			["school"] = 1,
@@ -9658,14 +9654,13 @@ EncounterDetailsDB = {
 				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
 		},
-		[194679] = {
-			["school"] = 32,
+		[274598] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Rathux",
+			["source"] = "Arnbjorn",
 		},
 		[320142] = {
 			["school"] = 32,
@@ -9723,13 +9718,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Grand Proctor Beryllia",
 		},
-		[17962] = {
-			["school"] = 4,
+		[194679] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Scibolt",
+			["source"] = "Rathux",
 		},
 		[320144] = {
 			["school"] = 1,
@@ -9994,6 +9990,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Remornia",
 		},
+		[322711] = {
+			["school"] = 1,
+			["type"] = "BUFF",
+			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+			},
+			["source"] = "Halkias",
+		},
 		[345228] = {
 			["school"] = 64,
 			["type"] = "BUFF",
@@ -10002,14 +10008,6 @@ EncounterDetailsDB = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
 			["source"] = "Billieyelash",
-		},
-		[64695] = {
-			["school"] = 8,
-			["type"] = "DEBUFF",
-			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-			},
-			["source"] = "Earthgrab Totem",
 		},
 		[298121] = {
 			["school"] = 8,
@@ -10290,12 +10288,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Artificer Xy'mox",
 		},
-		[316068] = {
+		[184709] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Grubby Dirtcruncher",
+			["source"] = "Bouquets",
 		},
 		[123996] = {
 			["school"] = 8,
@@ -10313,14 +10311,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Kryxis the Voracious",
 		},
-		[205179] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[316068] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Warlockmania",
+			["source"] = "Grubby Dirtcruncher",
 		},
 		[85222] = {
 			["school"] = 2,
@@ -10811,14 +10807,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Drmango",
 		},
-		[342694] = {
+		[346788] = {
 			["school"] = 1,
-			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Unknown",
+			["source"] = "Veteran Stoneguard",
 		},
 		[322736] = {
 			["school"] = 1,
@@ -10852,12 +10846,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Drust Harvester",
 		},
-		[315585] = {
-			["school"] = 8,
+		[228478] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Emosong",
+			["source"] = "Meta-Kil'jaeden",
 		},
 		[258921] = {
 			["school"] = 4,
@@ -10930,12 +10924,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lyuneria",
 		},
-		[228478] = {
+		[297162] = {
 			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Meta-Kil'jaeden",
+			["source"] = "Emosong-Kil'jaeden",
 		},
 		[346792] = {
 			["school"] = 1,
@@ -10945,13 +10940,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Veteran Stoneguard",
 		},
-		[208772] = {
-			["school"] = 2,
-			["type"] = "DEBUFF",
+		[147362] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Sci",
+			["source"] = "Papisalad-Kil'jaeden",
 		},
 		[331440] = {
 			["school"] = 1,
@@ -11017,14 +11011,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "HK-8 Aerial Oppression Unit",
 		},
-		[343724] = {
-			["school"] = 2,
+		[333489] = {
+			["school"] = 32,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Lilkdog",
+			["source"] = "Amarth",
 		},
 		[198793] = {
 			["school"] = 1,
@@ -11111,12 +11105,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Amarth",
 		},
-		[96103] = {
+		[328887] = {
 			["school"] = 1,
 			["token"] = {
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Bouquets",
+			["source"] = "Shriekwing",
 		},
 		[224126] = {
 			["school"] = 16,
@@ -11126,12 +11120,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Spirit Wolf",
 		},
-		[328887] = {
-			["school"] = 1,
+		[322746] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_PERIODIC_DAMAGE"] = true,
 			},
-			["source"] = "Shriekwing",
 		},
 		[96231] = {
 			["school"] = 1,
@@ -11140,13 +11135,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Lilkdog",
 		},
-		[322746] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[96103] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
+			["source"] = "Bouquets",
 		},
 		[335540] = {
 			["school"] = 1,
@@ -11244,22 +11238,21 @@ EncounterDetailsDB = {
 			},
 			["source"] = "High Torturer Darithos",
 		},
-		[333489] = {
-			["school"] = 32,
+		[343724] = {
+			["school"] = 2,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Amarth",
+			["source"] = "Lilkdog",
 		},
-		[297162] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[315585] = {
+			["school"] = 8,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Emosong-Kil'jaeden",
+			["source"] = "Emosong",
 		},
 		[85739] = {
 			["school"] = 1,
@@ -11269,12 +11262,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bouquets",
 		},
-		[147362] = {
-			["school"] = 1,
+		[208772] = {
+			["school"] = 2,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Papisalad-Kil'jaeden",
+			["source"] = "Sci",
 		},
 		[343732] = {
 			["school"] = 8,
@@ -11299,12 +11293,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Malignant Spawn",
 		},
-		[346788] = {
-			["school"] = 1,
+		[328365] = {
+			["school"] = 8,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Veteran Stoneguard",
+			["source"] = "Venomous Sniper",
 		},
 		[32390] = {
 			["school"] = 32,
@@ -11337,16 +11335,14 @@ EncounterDetailsDB = {
 				["SPELL_DAMAGE"] = true,
 			},
 		},
-		[328365] = {
-			["school"] = 8,
+		[342694] = {
+			["school"] = 1,
 			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
 			},
-			["source"] = "Venomous Sniper",
+			["source"] = "Unknown",
 		},
 		[23881] = {
 			["school"] = 1,
@@ -11491,12 +11487,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Magister Umbric",
 		},
-		[184709] = {
-			["school"] = 1,
+		[205179] = {
+			["school"] = 32,
+			["type"] = "DEBUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Bouquets",
+			["source"] = "Warlockmania",
 		},
 		[330945] = {
 			["school"] = 64,
@@ -11659,15 +11657,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Remornia",
 		},
-		[322711] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[64695] = {
+			["school"] = 8,
+			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_CAST_START"] = true,
-				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Halkias",
+			["source"] = "Earthgrab Totem",
 		},
 		[217200] = {
 			["school"] = 1,
@@ -11808,13 +11804,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Mechacycle",
 		},
-		[274598] = {
-			["school"] = 1,
-			["type"] = "BUFF",
+		[17962] = {
+			["school"] = 4,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Arnbjorn",
+			["source"] = "Scibolt",
 		},
 		[279715] = {
 			["school"] = 4,
@@ -11865,12 +11861,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Morepheouss-Area52",
 		},
-		[345215] = {
-			["school"] = 4,
+		[257622] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Yukiox",
+			["source"] = "Lyunara",
 		},
 		[193356] = {
 			["school"] = 1,
@@ -11942,14 +11939,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Corpse Harvester",
 		},
-		[321669] = {
-			["school"] = 8,
+		[35395] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_DAMAGE"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Illusionary Clone",
+			["source"] = "Slurpinho",
 		},
 		[344776] = {
 			["school"] = 32,
@@ -12013,21 +12009,20 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Echelon",
 		},
-		[326271] = {
-			["school"] = 64,
+		[93402] = {
+			["school"] = 8,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Artificer Xy'mox",
+			["source"] = "Farben-BleedingHollow",
 		},
-		[341196] = {
-			["school"] = 1,
-			["type"] = "DEBUFF",
+		[322773] = {
+			["school"] = 32,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_AURA_APPLIED"] = true,
 			},
-			["source"] = "Court Enforcer",
+			["source"] = "Hakkar the Soulflayer",
 		},
 		[334971] = {
 			["school"] = 1,
@@ -12780,14 +12775,16 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Queen Azshara",
 		},
-		[325184] = {
-			["school"] = 32,
+		[323137] = {
+			["school"] = 8,
 			["type"] = "DEBUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
-				["SPELL_PERIODIC_DAMAGE"] = true,
+				["SPELL_CAST_START"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Lady Inerva Darkvein",
+			["source"] = "Droman Oulfarran",
 		},
 		[259718] = {
 			["school"] = 1,
@@ -12833,12 +12830,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Papisalad-Kil'jaeden",
 		},
-		[296522] = {
-			["school"] = 8,
+		[193359] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
-				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_CAST_START"] = true,
+				["SPELL_AURA_APPLIED"] = true,
 			},
+			["source"] = "Emosong",
 		},
 		[303351] = {
 			["school"] = 5,
@@ -13033,13 +13031,12 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Bouquets",
 		},
-		[303672] = {
-			["school"] = 64,
+		[338471] = {
+			["school"] = 1,
 			["token"] = {
 				["SPELL_CAST_SUCCESS"] = true,
-				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Queen Azshara",
+			["source"] = "Kryxis the Voracious",
 		},
 		[264464] = {
 			["school"] = 1,
@@ -13082,13 +13079,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Baroness Frieda",
 		},
-		[319531] = {
-			["school"] = 32,
-			["type"] = "DEBUFF",
+		[342048] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
 				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_SUCCESS"] = true,
 			},
-			["source"] = "Kul'tharok",
+			["source"] = "Xira the Underhanded",
 		},
 		[333861] = {
 			["school"] = 1,
@@ -13219,12 +13217,15 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Erupting Ooze",
 		},
-		[326684] = {
-			["school"] = 64,
+		[328731] = {
+			["school"] = 1,
+			["type"] = "BUFF",
 			["token"] = {
+				["SPELL_AURA_APPLIED"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_PERIODIC_HEAL"] = true,
 			},
-			["source"] = "Millhouse Manastorm",
+			["source"] = "Reborn Phoenix",
 		},
 		[190784] = {
 			["school"] = 2,
@@ -14007,14 +14008,14 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Azules",
 		},
-		[326629] = {
-			["school"] = 40,
-			["type"] = "BUFF",
+		[343005] = {
+			["school"] = 1,
 			["token"] = {
-				["SPELL_AURA_APPLIED"] = true,
+				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
+				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Surgeon Stitchflesh",
+			["source"] = "Shriekwing",
 		},
 		[298781] = {
 			["school"] = 64,
@@ -14123,14 +14124,13 @@ EncounterDetailsDB = {
 			},
 			["source"] = "Sageside-Kil'jaeden",
 		},
-		[327646] = {
+		[350163] = {
 			["school"] = 1,
 			["token"] = {
-				["SPELL_CAST_START"] = true,
 				["SPELL_CAST_SUCCESS"] = true,
 				["SPELL_DAMAGE"] = true,
 			},
-			["source"] = "Mueh'zala",
+			["source"] = "Spiteful Shade",
 		},
 		[320278] = {
 			["school"] = 32,
@@ -14542,750 +14542,1152 @@ EncounterDetailsDB = {
 	["emotes"] = {
 		{
 			{
-				0.3490000001620501, -- [1]
-				"You will pay with your life!", -- [2]
-				"Smytt", -- [3]
+				0.2030000002123416, -- [1]
+				"Let your penance begin!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				3.120000000111759, -- [1]
-				"Traitors must die!", -- [2]
-				"General Grashaal", -- [3]
+				1.156000000191853, -- [1]
+				"How's THIS?", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [2]
 			{
-				9.48700000019744, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				2.346000000135973, -- [1]
+				"Mmm, too much fun!", -- [2]
+				"Bouquets", -- [3]
 				7, -- [4]
 			}, -- [3]
 			{
-				10.76600000006147, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				5.8660000001546, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [4]
 			{
-				17.74900000006892, -- [1]
-				"No escape!", -- [2]
-				"General Kaal", -- [3]
+				24.72400000016205, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [5]
 			{
-				32.31800000020303, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				30.23700000019744, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [6]
 			{
-				54.47299999999814, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				50.3090000001248, -- [1]
+				"Remornia! Rid my castle of these pests.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [7]
 			{
-				79.67900000000373, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				56.16300000017509, -- [1]
+				"I'll carve them to itty-bitty pieces!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				88.09000000008382, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				63.7300000002142, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [9]
 			{
-				98.10100000002421, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				71.25900000007823, -- [1]
+				"Down you go!", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [10]
 			{
-				100.3450000002049, -- [1]
-				"Flesh to stone!", -- [2]
-				"General Kaal", -- [3]
+				82.35100000002421, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [11]
 			{
-				100.3450000002049, -- [1]
-				"General Kaal, Get cover! My soldiers will strike from the sky!", -- [2]
-				"General Grashaal", -- [3]
+				88.14500000001863, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [12]
 			{
-				104.7890000001062, -- [1]
-				"Champions, I will clear the skies!", -- [2]
-				"General Draven", -- [3]
+				108.7440000001807, -- [1]
+				"Remornia! Exterminate this vermin.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [13]
 			{
-				110.2390000000596, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				113.9260000002105, -- [1]
+				"I'll splatter them across your walls!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [14]
 			{
-				112.0380000001751, -- [1]
-				"Bring me their anima, heroes!", -- [2]
-				"Prince Renathal", -- [3]
+				122.2890000001062, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [15]
 			{
-				120.4020000000019, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				123.875, -- [1]
+				"Mmm, too much fun!", -- [2]
+				"Bouquets", -- [3]
 				7, -- [4]
 			}, -- [16]
 			{
-				143.0890000001527, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				127.4840000001714, -- [1]
+				"COME ON!", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [17]
 			{
-				144.0250000001397, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				140.6260000001639, -- [1]
+				"Your vanity will cost you everything.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [18]
 			{
-				148.7320000000764, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				146.5860000001267, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [19]
 			{
-				152.5150000001304, -- [1]
-				"No escape!", -- [2]
-				"General Kaal", -- [3]
+				167.0709999999963, -- [1]
+				"Remornia! Exterminate this vermin.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [20]
 			{
-				164.0060000000522, -- [1]
-				"These walls will be your tomb!", -- [2]
-				"Smytt", -- [3]
+				169.5709999999963, -- [1]
+				"It is time you remembered your place, mortals.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [21]
 			{
-				189.0979999999981, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				172.2630000000354, -- [1]
+				"I'll splatter them across your walls!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [22]
 			{
-				199.568000000203, -- [1]
-				"Friends! Shield yourselves!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				175.315000000177, -- [1]
+				"Crawl to me on your knees. Surrender, and I will grant you a merciful end.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [23]
 			{
-				199.7450000001118, -- [1]
-				"|TInterface\\Icons\\INV_Misc_VoljinsShatteredTusk.BLP:20|t%s begins casting |cFFFF0000|Hspell:332683|h[Shattering Blast]|h|r!", -- [2]
-				"Prince Renathal", -- [3]
-				1, -- [4]
+				195.7050000000745, -- [1]
+				"Continue this defiance, and your suffering shall be eternal!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [24]
 			{
-				199.7450000001118, -- [1]
-				"Die by my hand!", -- [2]
-				"General Grashaal", -- [3]
+				195.7050000000745, -- [1]
+				"Servants! Remove this refuse from my sight.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [25]
 			{
-				202.938000000082, -- [1]
-				"You cannot escape my wrath, Kaal!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				195.7050000000745, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
 			}, -- [26]
 			{
-				204.7620000001043, -- [1]
-				"I will not be broken!", -- [2]
-				"General Kaal", -- [3]
+				207.3400000000838, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [27]
 			{
-				207.0720000001602, -- [1]
-				"Tremble in my shadow!", -- [2]
-				"General Kaal", -- [3]
+				225.3819999999832, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [28]
 			{
-				208.7640000001993, -- [1]
-				"Draven! Are you alright?", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				230.2040000001434, -- [1]
+				"You will perish together!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [29]
 			{
-				213.7200000002049, -- [1]
-				"I yet stand, prince. Though I may fly a little stiff in the morning.", -- [2]
-				"General Draven", -- [3]
-				4, -- [4]
+				243.7560000000522, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [30]
 			{
-				220.1280000000261, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				246.6130000001285, -- [1]
+				"Remornia! Carve screams from their flesh!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [31]
 			{
-				231.1280000000261, -- [1]
-				"You cannot run!", -- [2]
-				"General Kaal", -- [3]
+				246.9350000000559, -- [1]
+				"Mmm, too much fun!", -- [2]
+				"Bouquets", -- [3]
 				7, -- [4]
 			}, -- [32]
 			{
-				238.6950000000652, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
+				252.1570000001229, -- [1]
+				"Their agony will echo across the realms of Death!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [33]
 			{
-				261.1640000001062, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				260.7810000001919, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [34]
 			{
-				277.6920000000391, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				263.8680000000168, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [35]
 			{
-				278.7700000000186, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
+				270.7120000000577, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
 				1, -- [4]
 			}, -- [36]
 			{
-				308.4899999999907, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
+				270.7120000000577, -- [1]
+				"Devoted apostles! Handle this filth.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [37]
 			{
-				328.4020000000019, -- [1]
-				"Your blades will break across my skin!", -- [2]
-				"General Grashaal", -- [3]
+				278.8870000001043, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [38]
 			{
-				328.4020000000019, -- [1]
-				"Grashaal, shield yourself! It is time to rain terror from above!", -- [2]
-				"General Kaal", -- [3]
+				290.9560000000056, -- [1]
+				"Remornia! Massacre these whelps!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [39]
 			{
-				328.6190000001807, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				296.2930000000633, -- [1]
+				"Yes! Yes! I'll hack them to pieces!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [40]
 			{
-				332.8600000001025, -- [1]
-				"Champions, I will clear the skies!", -- [2]
-				"General Draven", -- [3]
+				297.219000000041, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [41]
 			{
-				334.7360000000335, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				304.443000000203, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [42]
 			{
-				340.1410000000615, -- [1]
-				"I need more anima!", -- [2]
-				"Prince Renathal", -- [3]
+				315.4459999999963, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [43]
 			{
-				358.6660000002012, -- [1]
-				"You cannot run!", -- [2]
-				"General Kaal", -- [3]
+				325.7460000000428, -- [1]
+				"Cabal! Feast upon these meddlers.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [44]
 			{
-				376.8930000001565, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
-				7, -- [4]
+				325.7460000000428, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
 			}, -- [45]
 			{
-				377.4089999999851, -- [1]
-				"You will pay with your life!", -- [2]
-				"Smytt", -- [3]
+				333.7010000001174, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [46]
 			{
-				388.7550000001211, -- [1]
-				"No escape!", -- [2]
-				"General Kaal", -- [3]
+				336.5740000000224, -- [1]
+				"Remornia! Carve screams from their flesh!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [47]
 			{
-				394.8840000000782, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				342.0850000001956, -- [1]
+				"Their agony will echo across the realms of Death!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
 			}, -- [48]
 			{
-				406.9340000001248, -- [1]
-				"I will drive you into the ground!", -- [2]
-				"General Grashaal", -- [3]
+				349.5690000001341, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [49]
 			{
-				407.1570000001229, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				350.7060000000056, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [50]
 			{
-				418.9160000002012, -- [1]
-				"No escape!", -- [2]
-				"General Kaal", -- [3]
+				368.9729999999981, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [51]
 			{
-				448.9890000000596, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				372.0080000001472, -- [1]
+				"Your defiance is ended!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [52]
 			{
-				455.0310000001919, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				380.9180000000633, -- [1]
+				"Remornia! Massacre these whelps!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [53]
 			{
-				462.9130000001751, -- [1]
-				"Honorless scum!", -- [2]
-				"General Grashaal", -- [3]
+				386.2380000001285, -- [1]
+				"Yes! Yes! I'll hack them to pieces!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [54]
 			{
-				479.0230000000447, -- [1]
-				"You cannot run!", -- [2]
-				"General Kaal", -- [3]
+				387.1800000001676, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [55]
 			{
-				479.3230000000913, -- [1]
-				"|TInterface\\Icons\\INV_Misc_VoljinsShatteredTusk.BLP:20|t%s begins casting |cFFFF0000|Hspell:332683|h[Shattering Blast]|h|r!", -- [2]
-				"Prince Renathal", -- [3]
-				1, -- [4]
+				395.6060000001453, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [56]
 			{
-				479.3500000000931, -- [1]
-				"Allies, brace yourself!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				401.6130000001285, -- [1]
+				"Enough! I have been a patient host. I showed restraint. Even courtesy.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [57]
 			{
-				479.5310000001919, -- [1]
-				"I will end you myself!", -- [2]
-				"General Kaal", -- [3]
+				410.9490000000224, -- [1]
+				"Yet you continue to provoke my wrath. Very well. You shall have it!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [58]
 			{
-				482.9070000001229, -- [1]
-				"There is no stone I cannot break, Grashaal!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				423.9330000001937, -- [1]
+				"You will all die at my feet!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [59]
 			{
-				483.5230000000447, -- [1]
-				"Draven! Are you alright?", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				472.094000000041, -- [1]
+				"My reign is everlasting!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [60]
 			{
-				484.560999999987, -- [1]
-				"I cannot be shattered!", -- [2]
-				"General Grashaal", -- [3]
+				475.9670000001788, -- [1]
+				"Their anguish is delicious!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [61]
 			{
-				485.0180000001565, -- [1]
-				"Old friend, do you still live?", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				496.9230000001844, -- [1]
+				"You will all die at my feet!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [62]
 			{
-				486.1530000001658, -- [1]
-				"The depths take you!", -- [2]
-				"General Kaal", -- [3]
+				531.722000000067, -- [1]
+				"My reign is everlasting!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [63]
 			{
-				488.4810000001453, -- [1]
-				"I yet stand, prince. Though I may fly a little stiff in the morning.", -- [2]
-				"General Draven", -- [3]
-				4, -- [4]
+				535.6160000001546, -- [1]
+				"Their anguish is delicious!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
 			}, -- [64]
 			{
-				491.1589999999851, -- [1]
-				"Treacherous scum!", -- [2]
-				"General Kaal", -- [3]
+				568.721000000136, -- [1]
+				"None will survive!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [65]
 			{
-				492.3570000000764, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				578.3760000001639, -- [1]
+				"Brought to heel!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [66]
 			{
-				492.3570000000764, -- [1]
-				"Yes my prince. I am bruised, but not broken.", -- [2]
-				"General Draven", -- [3]
-				4, -- [4]
+				591.3500000000931, -- [1]
+				"My reign is everlasting!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [67]
 			{
-				495.0900000000838, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				595.1940000001341, -- [1]
+				"Their anguish is delicious!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [68]
 			{
-				497.2430000000168, -- [1]
-				"Treacherous scum!", -- [2]
-				"General Kaal", -- [3]
+				595.7270000001881, -- [1]
+				"Impossible! I am... eternal...", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [69]
-			{
-				503.4130000001751, -- [1]
-				"Honorless scum!", -- [2]
-				"General Grashaal", -- [3]
-				7, -- [4]
-			}, -- [70]
-			{
-				504.3919999999926, -- [1]
-				"I will drive you into the ground!", -- [2]
-				"General Grashaal", -- [3]
-				7, -- [4]
-			}, -- [71]
-			{
-				513.0160000000615, -- [1]
-				"|TInterface\\Icons\\Spell_warrior_wildstrike.blp:20|t%s targets you with |cFFFF0000|Hspell:333716|h[Wicked Blade]|h|r!", -- [2]
-				"General Kaal", -- [3]
-				2, -- [4]
-			}, -- [72]
-			["boss"] = "Stone Legion Generals",
+			["boss"] = "Sire Denathrius",
 		}, -- [1]
 		{
 			{
-				3.261999999871478, -- [1]
-				"Traitors must die!", -- [2]
-				"General Grashaal", -- [3]
+				0.1, -- [1]
+				"Your pride will be your downfall!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				8.08199999993667, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				0.1, -- [1]
+				"By the power of the sun!", -- [2]
+				"Evanpal", -- [3]
 				7, -- [4]
 			}, -- [2]
 			{
-				9.389999999897555, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				3.908999999985099, -- [1]
+				"COME ON!", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [3]
 			{
-				18.84499999997206, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				5.820999999996275, -- [1]
+				"Slay them all! No excuses! No mercy! No rest! ", -- [2]
+				"Rathux", -- [3]
 				7, -- [4]
 			}, -- [4]
 			{
-				31.34499999997206, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				6.125999999931082, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [5]
 			{
-				32.18799999984913, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				13.28900000010617, -- [1]
+				"Hrm, interesting...", -- [2]
+				"Thunderrz", -- [3]
+				7, -- [4]
 			}, -- [6]
 			{
-				49.23399999993853, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				13.63299999991432, -- [1]
+				"Get up! Oh... weakling!", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [7]
 			{
-				55.52899999986403, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				14.01200000010431, -- [1]
+				"I am a warrior born!", -- [2]
+				"Rathux", -- [3]
 				7, -- [4]
 			}, -- [8]
 			{
-				80.66200000001118, -- [1]
-				"You cannot run!", -- [2]
-				"General Kaal", -- [3]
+				23.85400000005029, -- [1]
+				"Your vanity will cost you everything.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [9]
 			{
-				88.06299999984913, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				30.74300000001676, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [10]
 			{
-				90.48799999989569, -- [1]
-				"Flesh to stone!", -- [2]
-				"General Kaal", -- [3]
+				39.45200000004843, -- [1]
+				"I hope your friends can do better.", -- [2]
+				"Bouquets", -- [3]
 				7, -- [4]
 			}, -- [11]
 			{
-				90.48799999989569, -- [1]
-				"General Kaal, Get cover! My soldiers will strike from the sky!", -- [2]
-				"General Grashaal", -- [3]
+				50.1359999999404, -- [1]
+				"Remornia! Exterminate this vermin.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [12]
 			{
-				95.19900000002235, -- [1]
-				"Champions, I will clear the skies!", -- [2]
-				"General Draven", -- [3]
+				55.32199999992736, -- [1]
+				"I'll splatter them across your walls!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [13]
 			{
-				102.1080000000075, -- [1]
-				"Bring me their anima, heroes!", -- [2]
-				"Prince Renathal", -- [3]
+				57.23600000003353, -- [1]
+				"Just an ordinary gas cloud, but watch out because that's no ordinary gas cloud!", -- [2]
+				"Thunderrz", -- [3]
 				7, -- [4]
 			}, -- [14]
 			{
-				111.1720000000205, -- [1]
-				"No escape!", -- [2]
-				"General Kaal", -- [3]
+				63.5339999999851, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [15]
 			{
-				122.3070000000298, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				74.38700000010431, -- [1]
+				"Let's get to work, shall we?", -- [2]
+				"Bouquets", -- [3]
 				7, -- [4]
 			}, -- [16]
 			{
-				137.7209999999031, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				82.31700000003912, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [17]
 			{
-				141.5069999999832, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				88.05600000009872, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [18]
 			{
-				147.7959999998566, -- [1]
-				"Bleed!", -- [2]
-				"General Kaal", -- [3]
+				91.11000000010245, -- [1]
+				"Did you think you could win?", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [19]
 			{
-				148.0239999999758, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				97.0930000001099, -- [1]
+				"|TInterface\\Icons\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t Denathrius looks upon you with |cFFFF0000|Hspell:327823|h[Insatiable Hunger]|h|r!", -- [2]
+				"Toshaman", -- [3]
+				2, -- [4]
 			}, -- [20]
 			{
-				169.7360000000335, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				108.5100000000093, -- [1]
+				"Remornia! Rid my castle of these pests.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [21]
 			{
-				191.0270000000019, -- [1]
-				"Friends! Shield yourselves!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				114.2819999998901, -- [1]
+				"I'll carve them to itty-bitty pieces!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
 			}, -- [22]
 			{
-				191.219000000041, -- [1]
-				"|TInterface\\Icons\\INV_Misc_VoljinsShatteredTusk.BLP:20|t%s begins casting |cFFFF0000|Hspell:332683|h[Shattering Blast]|h|r!", -- [2]
-				"Prince Renathal", -- [3]
-				1, -- [4]
+				120.8919999999926, -- [1]
+				"Bow to my will!", -- [2]
+				"Evanpal", -- [3]
+				7, -- [4]
 			}, -- [23]
 			{
-				191.219000000041, -- [1]
-				"Die by my hand!", -- [2]
-				"General Grashaal", -- [3]
+				122.0770000000484, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [24]
 			{
-				191.5249999999069, -- [1]
-				"Tear you asunder!", -- [2]
-				"General Kaal", -- [3]
+				128.2439999999479, -- [1]
+				"Var-jorgg gramalch!", -- [2]
+				"Rathux", -- [3]
 				7, -- [4]
 			}, -- [25]
 			{
-				194.3869999998715, -- [1]
-				"You cannot escape my wrath, Kaal!", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				140.6669999998994, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [26]
 			{
-				196.2509999999311, -- [1]
-				"I will not be broken!", -- [2]
-				"General Kaal", -- [3]
+				146.5120000001043, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [27]
 			{
-				198.5169999999926, -- [1]
-				"Tremble in my shadow!", -- [2]
-				"General Kaal", -- [3]
+				148.3340000000317, -- [1]
+				"How's THIS?", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [28]
 			{
-				198.9679999998771, -- [1]
-				"Draven! Are you alright?", -- [2]
-				"Prince Renathal", -- [3]
-				4, -- [4]
+				159.8260000001174, -- [1]
+				"It is time you remembered your place, mortals.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [29]
 			{
-				203.9239999998827, -- [1]
-				"I yet stand, prince. Though I may fly a little stiff in the morning.", -- [2]
-				"General Draven", -- [3]
-				4, -- [4]
+				165.5230000000447, -- [1]
+				"Crawl to me on your knees. Surrender, and I will grant you a merciful end.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [30]
 			{
-				211.6480000000447, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				185.9550000000745, -- [1]
+				"Continue this defiance, and your suffering shall be eternal!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [31]
 			{
-				254.1669999998994, -- [1]
-				"My blade will find you!", -- [2]
-				"General Kaal", -- [3]
+				185.9550000000745, -- [1]
+				"Servants! Remove this refuse from my sight.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [32]
 			{
-				260.5060000000522, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
-				7, -- [4]
+				185.9550000000745, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
 			}, -- [33]
 			{
-				263.2109999998938, -- [1]
-				"I will drive you into the ground!", -- [2]
-				"General Grashaal", -- [3]
+				192.2069999999367, -- [1]
+				"Two oozes, one room. So many delightful possibilities!", -- [2]
+				"Thunderrz", -- [3]
 				7, -- [4]
 			}, -- [34]
 			{
-				271.2749999999069, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				197.2779999999329, -- [1]
+				"Let's get to work, shall we?", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
 			}, -- [35]
 			{
-				297.2129999999888, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
+				197.6180000000168, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [36]
 			{
-				315.1699999999255, -- [1]
-				"Your blades will break across my skin!", -- [2]
-				"General Grashaal", -- [3]
+				215.8610000000335, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [37]
 			{
-				315.1699999999255, -- [1]
-				"Grashaal, shield yourself! It is time to rain terror from above!", -- [2]
-				"General Kaal", -- [3]
+				220.6310000000522, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [38]
 			{
-				320.3889999999665, -- [1]
-				"Champions, I will clear the skies!", -- [2]
-				"General Draven", -- [3]
+				233.8799999998882, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [39]
 			{
-				328.0679999999702, -- [1]
-				"I need more anima!", -- [2]
-				"Prince Renathal", -- [3]
+				236.9029999999329, -- [1]
+				"Remornia! Carve screams from their flesh!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [40]
 			{
-				330.3529999998864, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				242.438000000082, -- [1]
+				"Their agony will echo across the realms of Death!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
 			}, -- [41]
 			{
-				338.3739999998361, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
+				251.0889999999199, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [42]
 			{
-				350.5659999998752, -- [1]
-				"You cannot run!", -- [2]
-				"General Kaal", -- [3]
+				254.1389999999665, -- [1]
+				"You will perish together!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [43]
 			{
-				368.3170000000391, -- [1]
-				"I will break you!", -- [2]
-				"General Grashaal", -- [3]
-				7, -- [4]
+				260.9010000000708, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
 			}, -- [44]
 			{
-				387.6119999999646, -- [1]
-				"Infidels! They must be purified!", -- [2]
-				"Warlockmania", -- [3]
+				260.9010000000708, -- [1]
+				"Devoted apostles! Handle this filth.", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [45]
 			{
-				390.3789999999572, -- [1]
-				"|TInterface\\Icons\\INV_DataCrystal06.blp:20|t%s begins casting |cFFFF0000|Hspell:339690|h[Crystalize]|h|r!", -- [2]
-				"General Grashaal", -- [3]
-				1, -- [4]
+				269.377000000095, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
 			}, -- [46]
 			{
-				398.4590000000317, -- [1]
-				"I will drive you into the ground!", -- [2]
-				"General Grashaal", -- [3]
+				281.3240000000224, -- [1]
+				"Remornia! Massacre these whelps!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [47]
 			{
-				402.8229999998584, -- [1]
-				"Serve your penitence!", -- [2]
-				"Smytt", -- [3]
+				286.658000000054, -- [1]
+				"Yes! Yes! I'll hack them to pieces!", -- [2]
+				"Remornia", -- [3]
 				7, -- [4]
 			}, -- [48]
 			{
-				434.436999999918, -- [1]
-				"This is... where I belong.", -- [2]
-				"Smytt", -- [3]
+				287.6010000000242, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [49]
-			["boss"] = "Stone Legion Generals",
+			{
+				294.7399999999907, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				305.7879999999423, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				315.9869999999646, -- [1]
+				"Cabal! Feast upon these meddlers.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [52]
+			{
+				315.9869999999646, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
+			}, -- [53]
+			{
+				324, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [54]
+			{
+				326.8600000001025, -- [1]
+				"Remornia! Carve screams from their flesh!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [55]
+			{
+				332.3789999999572, -- [1]
+				"Their agony will echo across the realms of Death!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [56]
+			{
+				339.7639999999665, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [57]
+			{
+				341.0530000000726, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [58]
+			{
+				345.3870000001043, -- [1]
+				"You're much... better... than I thought...", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
+			}, -- [59]
+			{
+				345.8970000001136, -- [1]
+				"Well... done, heh. But I wonder if you're good enough... to best him.", -- [2]
+				"Yukiox", -- [3]
+				7, -- [4]
+			}, -- [60]
+			{
+				345.8970000001136, -- [1]
+				"Down you go!", -- [2]
+				"Yukiox", -- [3]
+				7, -- [4]
+			}, -- [61]
+			{
+				346.8829999999143, -- [1]
+				"You were never my equal!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [62]
+			["boss"] = "Sire Denathrius",
 		}, -- [2]
 		{
 			{
-				0.1, -- [1]
-				"Your rebellion ends here!", -- [2]
-				"General Kaal", -- [3]
+				0.2069999999366701, -- [1]
+				"You will answer for your arrogance!", -- [2]
+				"Sire Denathrius", -- [3]
 				7, -- [4]
 			}, -- [1]
 			{
-				3.679999999934807, -- [1]
-				"Traitors must die!", -- [2]
-				"General Grashaal", -- [3]
+				0.2069999999366701, -- [1]
+				"How's THIS?", -- [2]
+				"Yukiox", -- [3]
 				7, -- [4]
 			}, -- [2]
-			["boss"] = "Stone Legion Generals",
+			{
+				2.345999999903143, -- [1]
+				"Bow to my will!", -- [2]
+				"Evanpal", -- [3]
+				7, -- [4]
+			}, -- [3]
+			{
+				4.166999999899417, -- [1]
+				"I prefer to be hands-on...", -- [2]
+				"Adeno", -- [3]
+				7, -- [4]
+			}, -- [4]
+			{
+				4.411000000080094, -- [1]
+				"Bye-bye.", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
+			}, -- [5]
+			{
+				6.060000000055879, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [6]
+			{
+				24.01600000006147, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [7]
+			{
+				30.93399999989197, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [8]
+			{
+				39.26600000006147, -- [1]
+				"Hrm, interesting...", -- [2]
+				"Thunderrz", -- [3]
+				7, -- [4]
+			}, -- [9]
+			{
+				50.21799999987707, -- [1]
+				"Remornia! Rid my castle of these pests.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [10]
+			{
+				56.07599999988452, -- [1]
+				"I'll carve them to itty-bitty pieces!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [11]
+			{
+				63.59799999999814, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [12]
+			{
+				71.32700000004843, -- [1]
+				"Good night...", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
+			}, -- [13]
+			{
+				82.26399999996647, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [14]
+			{
+				89.33199999993667, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [15]
+			{
+				91.22799999988638, -- [1]
+				"Great news, everyone! The slime is flowing again!", -- [2]
+				"Thunderrz", -- [3]
+				7, -- [4]
+			}, -- [16]
+			{
+				108.5430000000633, -- [1]
+				"Remornia! Exterminate this vermin.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [17]
+			{
+				113.7299999999814, -- [1]
+				"I'll splatter them across your walls!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [18]
+			{
+				122.0130000000354, -- [1]
+				"Confess your sins, lest they consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [19]
+			{
+				122.2870000000112, -- [1]
+				"Slay them all! No excuses! No mercy! No rest! ", -- [2]
+				"Rathux", -- [3]
+				7, -- [4]
+			}, -- [20]
+			{
+				126.719000000041, -- [1]
+				"Mmm, too much fun!", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
+			}, -- [21]
+			{
+				127.9750000000931, -- [1]
+				"Anar'anel belore!", -- [2]
+				"Evanpal", -- [3]
+				7, -- [4]
+			}, -- [22]
+			{
+				130.2160000000149, -- [1]
+				"|TInterface\\Icons\\Sha_Ability_Rogue_BloodyEye_nightmare.blp:20|t Denathrius looks upon you with |cFFFF0000|Hspell:327823|h[Insatiable Hunger]|h|r!", -- [2]
+				"Toshaman", -- [3]
+				2, -- [4]
+			}, -- [23]
+			{
+				131.4560000000056, -- [1]
+				"I'm looking for a team player...", -- [2]
+				"Adeno", -- [3]
+				7, -- [4]
+			}, -- [24]
+			{
+				140.7109999998938, -- [1]
+				"Your hubris amassed a debt you cannot pay!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [25]
+			{
+				146.2579999999143, -- [1]
+				"Pain cleanses the soul.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [26]
+			{
+				151.533000000054, -- [1]
+				"How's THIS?", -- [2]
+				"Yukiox", -- [3]
+				7, -- [4]
+			}, -- [27]
+			{
+				153.3429999998771, -- [1]
+				"Mjul orm agn gjor!", -- [2]
+				"Rathux", -- [3]
+				7, -- [4]
+			}, -- [28]
+			{
+				155.1820000000298, -- [1]
+				"Down you go!", -- [2]
+				"Yukiox", -- [3]
+				7, -- [4]
+			}, -- [29]
+			{
+				166.9820000000764, -- [1]
+				"Remornia! Exterminate this vermin.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [30]
+			{
+				169.4739999999292, -- [1]
+				"It is time you remembered your place, mortals.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [31]
+			{
+				172.1739999998827, -- [1]
+				"I'll splatter them across your walls!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [32]
+			{
+				175.2220000000671, -- [1]
+				"Crawl to me on your knees. Surrender, and I will grant you a merciful end.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [33]
+			{
+				195.5929999998771, -- [1]
+				"Continue this defiance, and your suffering shall be eternal!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [34]
+			{
+				195.5929999998771, -- [1]
+				"Servants! Remove this refuse from my sight.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [35]
+			{
+				195.5929999998771, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
+			}, -- [36]
+			{
+				207.1959999999963, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [37]
+			{
+				225.308999999892, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [38]
+			{
+				230.186999999918, -- [1]
+				"Shadows consume you!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [39]
+			{
+				243.6929999999702, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [40]
+			{
+				244.4629999999888, -- [1]
+				"Var-jorgg gramalch!", -- [2]
+				"Rathux", -- [3]
+				7, -- [4]
+			}, -- [41]
+			{
+				246.5260000000708, -- [1]
+				"Remornia! Carve screams from their flesh!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [42]
+			{
+				249.3529999998864, -- [1]
+				"Bye-bye.", -- [2]
+				"Bouquets", -- [3]
+				7, -- [4]
+			}, -- [43]
+			{
+				252.058999999892, -- [1]
+				"Their agony will echo across the realms of Death!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [44]
+			{
+				253.1540000000969, -- [1]
+				"I'm looking for a team player...", -- [2]
+				"Adeno", -- [3]
+				7, -- [4]
+			}, -- [45]
+			{
+				260.5970000000671, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [46]
+			{
+				263.6180000000168, -- [1]
+				"You will perish together!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [47]
+			{
+				270.658000000054, -- [1]
+				"Crimson Cabalists answer the call of Denathrius.", -- [2]
+				"Sire Denathrius", -- [3]
+				1, -- [4]
+			}, -- [48]
+			{
+				270.658000000054, -- [1]
+				"Devoted apostles! Handle this filth.", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [49]
+			{
+				278.9469999999274, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [50]
+			{
+				290.9709999999031, -- [1]
+				"Remornia! Massacre these whelps!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [51]
+			{
+				296.2989999998827, -- [1]
+				"Yes! Yes! I'll hack them to pieces!", -- [2]
+				"Remornia", -- [3]
+				7, -- [4]
+			}, -- [52]
+			{
+				297.252000000095, -- [1]
+				"I will cut you down!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [53]
+			{
+				304.4879999998957, -- [1]
+				"You will perish together!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [54]
+			{
+				311.5770000000484, -- [1]
+				"Your defiance is ended!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [55]
+			{
+				315.408000000054, -- [1]
+				"Scream for me!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [56]
+			{
+				321.9310000000987, -- [1]
+				"My life for the... death god!", -- [2]
+				"Rathux", -- [3]
+				7, -- [4]
+			}, -- [57]
+			{
+				321.9310000000987, -- [1]
+				"Bad news, everyone... I don't think I'm going to make it...", -- [2]
+				"Thunderrz", -- [3]
+				7, -- [4]
+			}, -- [58]
+			{
+				322.7730000000447, -- [1]
+				"Your defiance is ended!", -- [2]
+				"Sire Denathrius", -- [3]
+				7, -- [4]
+			}, -- [59]
+			["boss"] = "Sire Denathrius",
 		}, -- [3]
 	},
 }

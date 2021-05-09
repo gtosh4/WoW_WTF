@@ -2456,6 +2456,22 @@ VExRT = {
 				"^2417^16^1620451349^6^0^20^205.77^", -- [1128]
 				"^2417^16^1620451508^445^0^20^205.77^Haxpaxy-Illidan", -- [1129]
 				"^2417^16^1620452043^522^0^20^222.80^Haxpaxy-Illidan", -- [1130]
+				"^2417^16^1620524301^10^0^20^221.73^", -- [1131]
+				"^2417^16^1620524954^415^0^20^225.53^Bouquets", -- [1132]
+				"^2417^16^1620525476^417^0^20^225.56^Lyunara", -- [1133]
+				"^2417^16^1620526044^522^0^20^226.28^Warlockmania", -- [1134]
+				"^2417^16^1620526656^406^0^20^226.28^Andruw", -- [1135]
+				"^2417^16^1620527135^567^0^20^226.28^Adeno", -- [1136]
+				"^2417^16^1620527903^225^0^20^226.28^Bouquets", -- [1137]
+				"^2417^16^1620528212^453^0^20^226.28^Fayori", -- [1138]
+				"^2417^16^1620528750^580^1^20^226.28^Smytt", -- [1139]
+				"^2407^16^1620529595^509^0^20^226.40^Bouquets", -- [1140]
+				"^2407^16^1620530210^585^0^20^226.03^Yellowy", -- [1141]
+				"^2407^16^1620530875^616^0^20^226.33^Lyunara", -- [1142]
+				"^2407^16^1620531617^438^0^20^226.33^Haxpaxy-Illidan", -- [1143]
+				"^2407^16^1620532169^323^0^20^226.33^Andruw", -- [1144]
+				"^2407^16^1620532593^353^0^20^226.33^Yellowy", -- [1145]
+				"^2407^16^1620533060^596^1^20^226.33^Adeno", -- [1146]
 			},
 		},
 		["names"] = {
@@ -2719,6 +2735,7 @@ VExRT = {
 			["Aethaelfotm-Area52"] = 102,
 			["Micahel"] = 102,
 			["Bullyeet"] = 102,
+			["Lyunara"] = 254,
 			["Brutang"] = 252,
 			["Guerreraa-Ragnaros"] = 71,
 			["Skyfist-WyrmrestAccord"] = 269,
@@ -2764,9 +2781,7 @@ VExRT = {
 			["Xblades-Frostmourne"] = 71,
 			["Finxalpha-Ragnaros"] = 70,
 			["Purc-Kel'Thuzad"] = 63,
-			["Bouquets"] = 72,
 			["Daninkai-Illidan"] = 63,
-			["Adeno"] = 252,
 			["Impslap-Dunemaul"] = 266,
 			["Annefrankbtw-Tichondrius"] = 256,
 			["Naticitä-Drakkari"] = 65,
@@ -2774,40 +2789,38 @@ VExRT = {
 			["Delpixd-Kil'jaeden"] = 102,
 			["Icyflow-Blackrock"] = 64,
 			["Shapers-Lothar"] = 70,
-			["Nv"] = 102,
-			["Rykah"] = 260,
 			["Delpi"] = 63,
-			["Thunderrz"] = 254,
-			["Ereec-Tichondrius"] = 102,
-			["Warlockmania"] = 265,
-			["Gebbeine-Ragnaros"] = 259,
+			["Nv"] = 102,
 			["Wígglemorph"] = 71,
+			["Rykah"] = 260,
+			["Thunderrz"] = 254,
+			["Gebbeine-Ragnaros"] = 259,
 			["Ceesong-Kil'jaeden"] = 63,
+			["Ngow"] = 105,
 			["Miu-Mal'Ganis"] = 102,
 			["Declining-Area52"] = 72,
-			["Burningchaos-Kil'jaeden"] = 70,
+			["Downloaded"] = 265,
 			["Lilsweep-Mal'Ganis"] = 71,
 			["Datavi-Area52"] = 261,
-			["Downloaded"] = 265,
+			["Ereec-Tichondrius"] = 102,
 			["Mischief-Rexxar"] = 71,
 			["Rogrend-Lethon"] = 269,
 			["Kaitastrophe-Tortheldrin"] = 252,
-			["Ngow"] = 105,
+			["Ariyell-Mal'Ganis"] = 265,
 			["Oofbringer-Tichondrius"] = 70,
 			["Xçel"] = 70,
 			["Heavens"] = 70,
-			["Badflood-Uldum"] = 261,
 			["Delpix-Kil'jaeden"] = 258,
-			["Ariyell-Mal'Ganis"] = 265,
+			["Burningchaos-Kil'jaeden"] = 70,
+			["Kabane-Quel'Thalas"] = 259,
 			["Anglewaffle-Mal'Ganis"] = 71,
 			["Fûzylock"] = 265,
 			["Shambalo-Runetotem"] = 254,
 			["Qyndra"] = 102,
 			["Holytoast-Kil'jaeden"] = 65,
-			["Kabane-Quel'Thalas"] = 259,
+			["Badflood-Uldum"] = 261,
 			["Orcbum"] = 72,
 			["Woesong"] = 267,
-			["Yukiox"] = 63,
 			["Slapsong-Area52"] = 72,
 			["Judgemen-Mal'Ganis"] = 65,
 			["Khargaro-Ragnaros"] = 255,
@@ -2818,7 +2831,6 @@ VExRT = {
 			["Fayfay-Kil'jaeden"] = 254,
 			["Aveon"] = 577,
 			["Micahel-Kil'jaeden"] = 102,
-			["Rathux"] = 251,
 			["Ln"] = 268,
 			["Porgon-Kil'jaeden"] = 71,
 			["Berserkzx-Tichondrius"] = 71,
@@ -2833,128 +2845,129 @@ VExRT = {
 			["Felfanatic"] = 577,
 			["Roostersauce-BlackDragonflight"] = 105,
 			["Qkr-Mal'Ganis"] = 261,
-			["Gummybuns-Area52"] = 268,
 			["Bloodswipes-Ragnaros"] = 71,
+			["Skillx-Ragnaros"] = 71,
 			["Snowker-Tichondrius"] = 63,
 			["Rathicc-Area52"] = 70,
-			["Zorgath-Tichondrius"] = 267,
+			["Vèrsace"] = 65,
 			["Oghaze-Tichondrius"] = 65,
 			["Kemozi-Area52"] = 71,
-			["Skillx-Ragnaros"] = 71,
-			["Bendtheknee-Tichondrius"] = 261,
-			["Vèrsace"] = 65,
-			["Gottwald-Gallywix"] = 71,
+			["Gummybuns-Area52"] = 268,
 			["Artsong"] = 254,
+			["Gottwald-Gallywix"] = 71,
+			["Hexxd"] = 267,
+			["Zorgath-Tichondrius"] = 267,
 			["Immuneislove-Ragnaros"] = 70,
 			["Skrubby-Illidan"] = 63,
 			["Eazylee"] = 581,
 			["Ðevastation"] = 577,
 			["Jojo-Area52"] = 262,
 			["Chickenfail-Illidan"] = 102,
-			["Hexxd"] = 267,
+			["Spiritualso-Ragnaros"] = 262,
 			["Chuggernåut-WyrmrestAccord"] = 72,
+			["Bouquets"] = 72,
 			["Nv-Area52"] = 102,
-			["Lilkdog"] = 70,
 			["Maybesci-Area52"] = 261,
-			["Holyjules-Tichondrius"] = 65,
+			["Lilkdog"] = 70,
 			["Kapustin-Kel'Thuzad"] = 258,
-			["Dideyedothat"] = 264,
-			["Spoonerisms"] = 66,
+			["Gorddy-Mal'Ganis"] = 65,
+			["Awesomeman-Kil'jaeden"] = 262,
 			["Mosesshaman"] = 263,
 			["Werid"] = 65,
 			["Preia-Mal'Ganis"] = 102,
-			["Gorddy-Mal'Ganis"] = 65,
 			["Jdragon-Illidan"] = 251,
-			["Hunterbison"] = 254,
-			["Awesomeman-Kil'jaeden"] = 262,
-			["Drakariano-Ragnaros"] = 261,
-			["Porksausage-Darkspear"] = 70,
-			["Haxers-Llane"] = 71,
 			["Anaheimadin"] = 65,
+			["Hunterbison"] = 254,
+			["Jädeë-Khaz'goroth"] = 63,
+			["Drakariano-Ragnaros"] = 261,
+			["Algotrox-Drakkari"] = 102,
+			["Haxers-Llane"] = 71,
+			["Spoonerisms"] = 66,
 			["Lugon-Azralon"] = 65,
 			["Acidrage"] = 71,
-			["Jädeë-Khaz'goroth"] = 63,
+			["Leés-Frostmourne"] = 65,
 			["Stargates-Area52"] = 577,
 			["Staybrutal-Thrall"] = 251,
-			["Leés-Frostmourne"] = 65,
-			["Soulrend-MoonGuard"] = 265,
+			["Senpaibacon"] = 102,
+			["Cruelhand-Tichondrius"] = 71,
 			["Pressedbud-EarthenRing"] = 269,
-			["Shamtauren-Arthas"] = 262,
+			["Ademysk-Thrall"] = 267,
 			["Sploshye"] = 258,
-			["Noxcy"] = 65,
 			["Pawgers"] = 70,
+			["Myton-Area52"] = 71,
 			["Deathsmoke-Mal'Ganis"] = 254,
 			["Vonsteevan-Mal'Ganis"] = 265,
 			["Kreutzet-BleedingHollow"] = 251,
-			["Cruelhand-Tichondrius"] = 71,
+			["Wrekeditoo"] = 105,
 			["Jutic-ShadowCouncil"] = 262,
 			["Kurisutinah-Drakkari"] = 261,
 			["Coggter-Uther"] = 254,
 			["Hukmojo-BleedingHollow"] = 66,
 			["Babynv-Area52"] = 264,
-			["Wrekeditoo"] = 105,
-			["Krexai-EmeraldDream"] = 262,
-			["Drmango"] = 63,
-			["Lockecole-Bonechewer"] = 261,
-			["Ledzep-Thaurissan"] = 261,
 			["Kaeldan"] = 70,
-			["Papisalad"] = 254,
+			["Painboi-Tichondrius"] = 261,
+			["Drmango"] = 63,
+			["Shamtauren-Arthas"] = 262,
+			["Ledzep-Thaurissan"] = 261,
 			["Aniripssa-Ragnaros"] = 262,
-			["Fayori"] = 254,
-			["Critsauce-Darkspear"] = 102,
+			["Papisalad"] = 254,
 			["Kitariel-Caelestrasz"] = 258,
-			["Airmax-Tichondrius"] = 577,
+			["Fayori"] = 254,
+			["Lockecole-Bonechewer"] = 261,
 			["Drewqt-Area52"] = 254,
-			["Pkay-Gundrak"] = 70,
 			["Fûzy"] = 102,
-			["Neyari"] = 70,
-			["Joons"] = 264,
+			["Dideyedothat"] = 264,
+			["Aethael-Area52"] = 254,
 			["Langdon-Lightninghoof"] = 250,
-			["Taùriel-Azralon"] = 254,
-			["Bølton"] = 269,
+			["Neyari"] = 70,
+			["Joons"] = 262,
+			["Airmax-Tichondrius"] = 577,
 			["Styxman-Kael'thas"] = 64,
-			["Tirinor-Mal'Ganis"] = 70,
 			["Greentooth-Ragnaros"] = 103,
+			["Taùriel-Azralon"] = 254,
+			["Tirinor-Mal'Ganis"] = 70,
+			["Maserder"] = 63,
 			["Voldini-Azralon"] = 105,
 			["Rathux-Area52"] = 251,
 			["Axelion-Mal'Ganis"] = 71,
 			["Scibolt"] = 265,
 			["Bigpapipanda-Kil'jaeden"] = 64,
-			["Khay-Ragnaros"] = 64,
+			["Bølton"] = 269,
 			["Evilxsavage-Hyjal"] = 262,
-			["Tekdar"] = 262,
-			["Maserder"] = 63,
+			["Khay-Ragnaros"] = 64,
+			["Pkay-Gundrak"] = 70,
 			["Elementalry-Boulderfist"] = 262,
 			["Molôch-BlackDragonflight"] = 70,
 			["Hazel-Spirestone"] = 64,
-			["Aethael-Area52"] = 254,
+			["Tekdar"] = 262,
 			["Andruw-Area52"] = 581,
+			["Critsauce-Darkspear"] = 102,
+			["Krexai-EmeraldDream"] = 262,
 			["Sixth"] = 262,
-			["Myton-Area52"] = 71,
-			["Painboi-Tichondrius"] = 261,
 			["Néekô-Area52"] = 102,
 			["Strossus"] = 71,
 			["Genghiskhan-TheUnderbog"] = 251,
 			["Tacticalx-Tichondrius"] = 71,
-			["Slimshiesty-Moonrunner"] = 253,
-			["Ademysk-Thrall"] = 267,
+			["Noxcy"] = 65,
+			["Soulrend-MoonGuard"] = 265,
 			["Evanpal"] = 66,
-			["Adeno-Area52"] = 252,
+			["Slimshiesty-Moonrunner"] = 253,
 			["Paxington-Illidan"] = 254,
-			["Senpaibacon"] = 102,
-			["Frannym"] = 62,
+			["Porksausage-Darkspear"] = 70,
+			["Adeno-Area52"] = 252,
 			["Jloh-Quel'Thalas"] = 256,
 			["Astralsong"] = 102,
-			["Algotrox-Drakkari"] = 102,
+			["Holyjules-Tichondrius"] = 65,
 			["Redbullying-Quel'Thalas"] = 71,
+			["Frannym"] = 62,
 			["Baesong-Kil'jaeden"] = 72,
-			["Froobister-Area52"] = 269,
 			["Kikkii-Hakkar"] = 254,
+			["Froobister-Area52"] = 269,
+			["Bendtheknee-Tichondrius"] = 261,
 			["Krizzone-Akama"] = 261,
-			["Spiritualso-Ragnaros"] = 262,
 			["Joeactually"] = 72,
-			["Bouquets-Area52"] = 72,
 			["Delpi-Area52"] = 63,
+			["Bouquets-Area52"] = 72,
 			["Uwildie"] = 251,
 			["Wallywall-Illidan"] = 72,
 			["Newtivaki-Quel'Thalas"] = 250,
@@ -2977,8 +2990,10 @@ VExRT = {
 			["Drugfreegirl-Kil'jaeden"] = 254,
 			["Blinklul"] = 63,
 			["Ikillyo-Tichondrius"] = 261,
-			["Delpixd"] = 102,
 			["Toshaman"] = 264,
+			["Delpixd"] = 102,
+			["Warlockmania"] = 265,
+			["Adeno"] = 252,
 			["Rubntug"] = 258,
 			["Saal-Mal'Ganis"] = 262,
 		},
@@ -2989,9 +3004,9 @@ VExRT = {
 		},
 		["NoRaid"] = true,
 		["CDECol"] = {
-			["51052;2"] = 1,
 			["51052;1"] = 1,
 			["108280;4"] = 1,
+			["51052;2"] = 1,
 			["51052;4"] = 1,
 			["16191;4"] = 2,
 			["51052;3"] = 1,
@@ -6230,13 +6245,73 @@ VExRT = {
 				["g"] = 20,
 				["eI"] = 2407,
 			}, -- [100]
+			{
+				"LAndruw", -- [1]
+				"JGummybuns", -- [2]
+				"BSci", -- [3]
+				"BEvanpal", -- [4]
+				"HDelpi", -- [5]
+				"FAdeno", -- [6]
+				"FRathux", -- [7]
+				"ABouquets", -- [8]
+				"CSmytt", -- [9]
+				"CThunderrz", -- [10]
+				"GJoons", -- [11]
+				"GToshaman", -- [12]
+				"IWarlockmania", -- [13]
+				"EYellowy", -- [14]
+				"EBillieyelash", -- [15]
+				"KNv", -- [16]
+				"HYukiox", -- [17]
+				"KHaxpaxy-Illidan", -- [18]
+				"CFayori", -- [19]
+				"KAstralsong", -- [20]
+				["k"] = true,
+				["eN"] = "Stone Legion Generals",
+				["c"] = "Toshaman-Area52",
+				["t"] = 1620529330,
+				["eI"] = 2417,
+				["d"] = 16,
+				["g"] = 20,
+				[26] = "CLyunara",
+			}, -- [101]
+			{
+				"LAndruw", -- [1]
+				"JGummybuns", -- [2]
+				"BSci", -- [3]
+				"BEvanpal", -- [4]
+				"HDelpi", -- [5]
+				"FAdeno", -- [6]
+				"FRathux", -- [7]
+				"ABouquets", -- [8]
+				"CLyunara", -- [9]
+				"CThunderrz", -- [10]
+				"GJoons", -- [11]
+				"GToshaman", -- [12]
+				"IWarlockmania", -- [13]
+				"EYellowy", -- [14]
+				"EBillieyelash", -- [15]
+				"KNv", -- [16]
+				"HYukiox", -- [17]
+				"KHaxpaxy-Illidan", -- [18]
+				"CFayori", -- [19]
+				"KAstralsong", -- [20]
+				[26] = "CSmytt",
+				["d"] = 16,
+				["k"] = true,
+				["c"] = "Toshaman-Area52",
+				["eI"] = 2407,
+				["t"] = 1620533656,
+				["g"] = 20,
+				["eN"] = "Sire Denathrius",
+			}, -- [102]
 		},
 		["alts"] = {
 		},
 	},
 	["Inspect"] = {
 		["Soulbinds"] = {
-			["Smytt-Area52"] = "1620452043:3:6:325066:140-7-1:325067:175-5-0:325072:170-7-2:166-6-2:325069",
+			["Smytt-Area52"] = "1620528750:3:1:322721:140-7-1:342270:175-5-0:320687:170-7-2:166-6-2:320659",
 			["Novae-Area52"] = "1612998812:3:1:322721:279-6-1:342270:257-6-0:320668:271-6-2:263-6-1:320660",
 			["Froobisters-Area52"] = "1612998812:2:8:331586:153-5-1:331576:135-3-0:331579:132-5-2:150-5-1",
 			["Bukklao-Area52"] = "1612998812:3:1:322721:202-6-1:342270:144-6-0:320687:222-7-2:174-6-1:320660",
@@ -6258,57 +6333,57 @@ VExRT = {
 			["Neyari-Area52"] = "1619837693:1:7:328266:216-5-1:328261:129-6-2:328265:176-5-1:159-1-0",
 			["Miu-Mal'Ganis"] = "1614733955:3:1:322721:279-5-1:342270:258-7-0:320668:254-6-2:271-5-2:320659",
 			["Tumtumm-Kil'jaeden"] = "1608789494:1:7:328266:22-5-1:328261:15-5-2:328263",
-			["Warlockmania-Area52"] = "1620452043:3:1:322721:202-5-1:342270:171-7-0:320687:222-6-2:203-5-1:320660",
+			["Warlockmania-Area52"] = "1620533060:3:1:322721:202-5-1:342270:171-7-0:320687:222-7-2:203-5-1:320660",
 			["Ronald-Kil'jaeden"] = "1619297848:2:8:331586:11-5-1:331576:8-6-0:331579:27-6-2",
 			["Shmehdh-Area52"] = "1614733955:1:7:328266:153-5-1:328261:130-5-2:328265:187-5-1:132-4-2:328257",
 			["Declining-Area52"] = "1617161637:3:6:325066:190-6-1:325067:8-6-0:325073:5-6-2:7-6-2:325069",
 			["Datavi-Area52"] = "1613542735:3:1:322721:246-4-1:342270:234-1-0:320668",
 			["Jamdon-Kil'jaeden"] = "1613017315:3:1:322721:202-5-1:342270:171-5-0:320668:222-6-2:162-6-2:320659",
 			["Arnbjorn-Area52"] = "1619838452:3:6:325066:30-7-1:325067:26-6-0:325072:48-6-2:38-5-1:325068",
-			["Sci-Area52"] = "1620452628:2:9:336239:159-7-0:336147:215-6-1:336247:133-7-2:193-7-1:336245",
-			["Joons-Area52"] = "1620452628:4:5:342156:118-6-1:323921:95-7-0:324440:94-7-2:147-6-1:323918",
-			["Yukiox-Area52"] = "1619926935:3:6:325066:38-7-1:325067:26-6-0:325072:48-7-2:30-6-1:325068",
+			["Sci-Area52"] = "1620533060:2:9:336239:159-7-0:336147:215-6-1:336247:133-7-2:193-7-1:336245",
+			["Joons-Area52"] = "1620533060:4:10:326514:104-6-1:326507:98-7-0:326513:92-6-2:94-7-2:326572",
+			["Yukiox-Area52"] = "1620533060:3:6:325066:38-7-1:325067:26-6-0:325072:48-7-2:30-6-1:325068",
 			["Cacrinolass-Kil'jaeden"] = "1610687971:4:4:323074:107-5-1:323091:66-6-2:323081:115-5-1",
 			["Bloodnofsky-Kil'jaeden"] = "1613621518:3:6:325066:244-5-1:325067:233-6-0:325073:231-4-2:241-5-1",
 			["Clothie-Area52"] = "1619908550:3:1:322721:107-6-1:342270:69-6-0:320687:72-6-2:115-5-1:320660",
 			["Idc-Kil'jaeden"] = "1607765815:3:1:322721:265-4-1:342270",
 			["Slapsong-Area52"] = "1614733955:2:8:331586:11-5-1:331576:8-5-0:331579:5-6-2:50-5-1:331582",
 			["Delpix-Kil'jaeden"] = "1617257806:3:1:322721:115-5-1:342270:69-7-0:320687:66-7-2:107-5-1",
-			["Billieyelash-Area52"] = "1620452043:2:9:336239:73-7-0:336147:77-6-1:336184:66-6-2:105-7-1:336245",
+			["Billieyelash-Area52"] = "1620533060:2:9:336239:73-7-0:336147:77-6-1:336184:66-6-2:105-7-1:336245",
 			["Fayfay-Kil'jaeden"] = "1619300421:3:1:322721:140-5-1:342270:175-5-0:320687:157-5-2:192-5-1:320660",
 			["Celaevia-Illidan"] = "1612998812:1:7:328266:216-4-1:328261:133-6-2:328263:193-5-1:141-6-2",
 			["Morepheouss-Area52"] = "1617161637:3:1:322721:279-5-1:342270:258-5-0:320687:271-5-2:264-6-1:320660",
 			["Rivalry-Area52"] = "1612846428:3:2:319217:135-6-0:153-5-1:319211:150-5-1",
-			["Bouquets-Area52"] = "1620452043:2:8:331586:11-7-1:331576:8-7-0:331579:5-6-2:50-6-1:331582",
+			["Bouquets-Area52"] = "1620533060:2:8:331586:11-7-1:331576:8-7-0:331579:5-6-2:50-6-1:331582",
 			["Toshmonk-Kil'jaeden"] = "1613888349:1:7:328266:31-5-1:328261:33-6-2:328263:28-5-1",
 			["Numbersx-Zul'jin"] = "1609311588:1:7:328266:216-4-1:328261:133-6-2",
 			["Scitron-Kil'jaeden"] = "1614663567:4:5:342156:118-5-1:323921:96-7-0:324441:0",
 			["Stargatez-Area52"] = "1614733166:4:4:323074:60-1-1:323091:25-6-2:323081:19-4-1",
-			["Yellowy-Area52"] = "1620452043:4:5:342156:84-7-1:323921:73-7-0:324441:66-6-2:116-5-1:323918",
+			["Yellowy-Area52"] = "1620533060:4:5:342156:84-7-1:323921:73-7-0:324441:66-6-2:116-5-1:323918",
 			["Rathicc-Area52"] = "1619295780:1:7:328266:195-5-1:328261:197-5-2:328263:216-6-1:133-6-2",
 			["Kemozi-Area52"] = "1613541374:2:8:331586:169-4-1:331576:8-1-0:331579:10-5-2",
 			["Palhadin-Tichondrius"] = "1609204629:2:8:331586:133-4-2:331577:159-4-0:331579",
 			["Boomie-Kil'jaeden"] = "1614318966:3:1:322721:279-6-1:342270:258-7-0:320668:271-5-2:263-6-1:320660",
 			["Ngow-Kil'jaeden"] = "1615351229:3:2:319217:271-5-2:273-5-1:319211:279-5-1:256-6-2:319216:319191",
 			["Nìghtfáll-Illidan"] = "1612998812:3:1:322721:140-6-1:342270:181-6-0:320687:170-6-2:192-6-1:320660",
-			["Astralsong-Area52"] = "1620452043:3:1:322721:279-7-1:342270:259-7-0:320668:271-5-2:263-7-1:320660",
+			["Astralsong-Area52"] = "1620533060:3:1:322721:279-7-1:342270:259-7-0:320668:271-5-2:263-7-1:320660",
 			["Jojo-Area52"] = "1614733955:4:5:342156:118-5-1:323921:96-7-0:324440:92-6-2:147-5-1:323918",
 			["Thunderzhunt-Area52"] = "1609311588:3:1:322721:140-3-1:342270:178-3-0",
-			["Thunderrz-Area52"] = "1620452043:3:1:322721:140-7-1:342270:178-7-0:320668:173-5-2:192-5-1:320660",
+			["Thunderrz-Area52"] = "1620533060:3:1:322721:140-7-1:342270:178-7-0:320668:173-5-2:157-7-2:320659",
 			["Shunli-Kil'jaeden"] = "1608096792:1:13:329791:31-4-1:334066:41-1-0",
 			["Nerf-Kil'jaeden"] = "1608871945:2:8:331586:80-5-1:331576",
 			["Delpix-Area52"] = "1611713271:3:1:322721:115-5-1:342270:69-6-0:320687:66-7-2:107-5-1",
 			["Sherbe-Kil'jaeden"] = "1608096792:1:7:328266:193-5-1:328261:141-1-2",
 			["Preia-Mal'Ganis"] = "1617421345:3:1:322721:279-6-1:342270:260-6-0:320668:271-5-2:254-5-2:320659",
-			["Adeno-Area52"] = "1620452628:4:10:326514:65-6-1:326507:99-6-0:326512:88-6-2:74-7-2:326572",
+			["Adeno-Area52"] = "1620533060:4:10:326514:65-6-1:326507:99-6-0:326512:88-6-2:74-7-2:326572",
 			["Drmango-Kil'jaeden"] = "1614318966:3:6:325066:30-5-1:325067:26-6-0:325072:61-7-2:38-5-1:325068",
 			["Clérik-Kil'jaeden"] = "1614318966:1:7:328266:193-5-1:328261:141-5-2:328265:216-5-1:133-7-2:328257",
 			["Araux-Kil'jaeden"] = "1609204628:3:1:322721:30-3-1:342270:26-5-0:320687",
 			["Meta-Kil'jaeden"] = "1619908550:1:7:328266:153-5-1:328261:130-7-2:328263:187-5-1:131-6-2:328257",
 			["Toshmonk"] = "1609310922:1:13:329791:28-5-1:334066:37-5-0:329784",
-			["Toshaman-Area52"] = "1620452043:2:3:340159:92-6-2:319982:118-6-1:332755:94-7-2:149-7-1:332754",
+			["Toshaman-Area52"] = "1620533060:2:3:340159:92-6-2:319982:118-6-1:332755:94-7-2:149-7-1:332754",
 			["Focalaire-Kil'jaeden"] = "1608265404:3:1:322721:30-4-1:342270:26-5-0:320668",
-			["Lyunara-Area52"] = "1619926935:3:1:322721:140-6-1:342270:175-7-0:320668:170-7-2:157-7-2:320659",
+			["Lyunara-Area52"] = "1620533060:3:1:322721:140-6-1:342270:175-7-0:320668:170-7-2:157-7-2:320659",
 			["Babynv-Area52"] = "1616810711:4:4:323074:118-5-1:323091:93-6-2:323079:147-5-1",
 			["Joeactually-Kil'jaeden"] = "1613534808:2:8:331586:50-5-1:331576:8-4-0:331579:5-4-2:11-5-1:331582",
 			["Thunderzboom-Area52"] = "1617161637:3:1:322721:279-6-1:342270:257-6-0:320687:255-4-2:256-6-2:320659",
@@ -6318,7 +6393,7 @@ VExRT = {
 			["Weedsong-Area52"] = "1609912264:3:1:322721:279-5-1:342270:258-4-0:320687:271-5-2",
 			["Woesong-Area52"] = "1619837693:3:1:322721:211-5-1:342270:171-5-0:320668:222-5-2:160-5-2:320659",
 			["Vilsana-Mal'Ganis"] = "1609302672:4:5:342156:65-5-1:323921:99-5-0:324441",
-			["Rathux-Area52"] = "1620452043:4:5:342156:79-5-1:323921:99-6-0:324440:88-7-2:91-5-1:323918",
+			["Rathux-Area52"] = "1620533060:4:10:326514:65-7-1:326507:99-6-0:326512:74-7-2:88-7-2:326572",
 			["Senpaibacon-Kil'jaeden"] = "1614318966:3:1:322721:279-5-1:342270:259-6-0:320687:256-6-2:271-5-2:320659",
 			["Aethaelfotm-Area52"] = "1613888349:3:1:322721:279-5-1:342270:257-6-0:320668:271-5-2:256-6-2:320659",
 			["Drewqt-Area52"] = "1617161637:3:1:322721:140-6-1:342270:175-6-0:320687:170-6-2:157-6-2:320659",
@@ -6326,7 +6401,7 @@ VExRT = {
 			["Néekô-Area52"] = "1616300666:3:1:322721:279-5-1:342270:258-5-0:320687:271-5-2:256-5-2:320659",
 			["Aveon-Kil'jaeden"] = "1614318966:3:6:325066:153-6-1:325067:134-6-0:325072:131-6-2:130-7-2:325069",
 			["Sploshye-Area52"] = "1619926935:3:1:322721:115-5-1:342270:69-7-0:320668:66-7-2:107-5-1:320660",
-			["Fayori-Area52"] = "1620452043:3:1:322721:140-5-1:342270:175-5-0:320687:157-5-2:173-5-2:320659",
+			["Fayori-Area52"] = "1620533060:3:6:325066:140-5-1:325067:175-5-0:325072:157-5-2:166-7-2:325069",
 			["Azian-Kil'jaeden"] = "1615351229:3:1:322721:202-5-1:342270:171-5-0:320668:222-6-2:160-7-2:320659",
 			["Paxington-Illidan"] = "1614733955:3:1:322721:140-5-1:342270:178-7-0:320687:170-7-2:173-4-2:320659",
 			["Clérik-Tichondrius"] = "1612326508:1:13:329791:193-5-1:334066:159-5-0:328258:141-4-2:133-6-2",
@@ -6341,14 +6416,14 @@ VExRT = {
 			["Seksï-Thrall"] = "1609204629:3:1:322721:140-1-1:342270:175-3-0:320668",
 			["Brutang-Kil'jaeden"] = "1614318966:4:5:342156:65-6-1:323921:70-7-0:324440:74-7-2:124-5-1:323918",
 			["Toshpriest-Kil'jaeden"] = "1614733955:2:9:336239:69-7-0:336147:77-5-1:336184:66-6-2:105-5-1:336245",
-			["Nv-Area52"] = "1620452043:3:1:322721:279-7-1:342270:259-7-0:320668:271-5-2:263-5-1:320660",
-			["Druitardado-Azralon"] = "1609204629:3:1:322721:279-1-1:342270:259-3-0:320668",
+			["Nv-Area52"] = "1620533060:3:1:322721:279-7-1:342270:259-7-0:320668:271-5-2:256-7-2:320659",
+			["Delpi-Area52"] = "1620533060:3:6:325066:38-6-1:325067:26-7-0:325073:48-6-2:30-7-1:325068",
 			["Arborus-Kil'jaeden"] = "1609204628:3:1:322721:279-4-1:342270:258-4-0:320687",
 			["Ceesong-Kil'jaeden"] = "1619908550:3:6:325066:38-6-1:325067:58-6-0:325073:48-6-2:30-5-1:325068",
 			["Chickenfail-Illidan"] = "1616982398:3:1:322721:279-6-1:342270:257-5-0:320687:271-5-2:256-6-2:320659",
 			["Treanne-Thrall"] = "1609302672:1:7:328266:182-4-1:328261:133-6-2:328265",
 			["Blazenut-Kil'jaeden"] = "1612935142:3:1:322721:153-5-1:342270:134-5-0:320687:132-6-2:131-5-2:320659",
-			["Gummybuns-Area52"] = "1620452043:1:7:328266:57-6-1:328261:15-7-2:328263:59-6-1:33-7-2:328257",
+			["Gummybuns-Area52"] = "1620533060:1:7:328266:57-6-1:328261:15-7-2:328263:59-6-1:33-7-2:328257",
 			["Felfanatic-Area52"] = "1615953737:1:13:329791:150-4-1:334066:134-4-0:329784:131-4-2:130-4-2:329778",
 			["Downloaded-Kil'jaeden"] = "1614222358:3:1:322721:202-5-1:342270:171-6-0:320687:222-6-2",
 			["Yaners-Area52"] = "1609302672:3:1:322721:140-5-1:342270:175-3-0:320668",
@@ -6357,16 +6432,16 @@ VExRT = {
 			["Hyperchudles-Tichondrius"] = "1612998812:4:5:342156:118-5-1:323921:95-4-0:324441:94-6-2:119-5-1",
 			["Nikkoo-Illidan"] = "1614137536:4:5:342156:65-5-1:323921:70-6-0:324440:74-6-2:124-5-1:323918",
 			["Stargates-Area52"] = "1614733955:2:8:331586:150-5-1:331576:134-6-0:331579:130-6-2:153-5-1:331582",
-			["Haxpaxy-Illidan"] = "1620452043:3:1:322721:279-7-1:342270:258-6-0:320687:271-5-2:256-7-2:320659",
+			["Haxpaxy-Illidan"] = "1620533060:3:1:322721:279-7-1:342270:258-6-0:320687:271-5-2:256-7-2:320659",
 			["Melborn-Kil'jaeden"] = "1609217180:2:9:336239:231-5-2:336140:245-5-1:336247",
 			["Maseychan-Kil'jaeden"] = "1612930457:1:13:329791:216-5-1:334066:163-4-0:329784:133-4-2:193-4-1",
 			["Drkarma-Kil'jaeden"] = "1608698554:1:7:328266:57-4-1:328261:15-3-2:328263",
 			["Blasterjoe-Kil'jaeden"] = "1609302672:3:2:319217:26-1-0:30-2-1:319211",
 			["Artsong-Area52"] = "1619300421:3:1:322721:140-5-1:342270:175-5-0:320668:166-5-2:192-5-1:320660",
-			["Andruw-Area52"] = "1620452043:3:6:325066:153-7-1:325067:134-7-0:325073:131-7-2:130-7-2:325069",
+			["Andruw-Area52"] = "1620533060:3:6:325066:153-7-1:325067:134-7-0:325073:131-7-2:130-7-2:325069",
 			["Bloodbather-Mal'Ganis"] = "1612998812:3:6:325066:30-6-1:325067:26-6-0:325072:48-6-2:38-5-1:325068",
-			["Delpi-Area52"] = "1620452043:3:6:325066:38-6-1:325067:26-7-0:325073:48-6-2:30-7-1:325068",
 			["Spoonerisms-Kil'jaeden"] = "1614661784:2:8:331586:215-5-1:331576:159-5-0:331579:197-4-2:163-6-0:331584",
+			["Druitardado-Azralon"] = "1609204629:3:1:322721:279-1-1:342270:259-3-0:320668",
 			["Nammy-Illidan"] = "1609204629:1:7:328266:115-3-1:328261:72-3-2:328263",
 			["Haxpax-Illidan"] = "1619926935:3:1:322721:202-5-1:342270:144-6-0:320687:222-4-2:203-5-1",
 			["Draynez-BleedingHollow"] = "1611713271:1:7:328266:216-5-1:328261:133-5-2:328263:164-5-1:159-5-0",
@@ -6443,28 +6518,43 @@ VExRT = {
 	["WhoPulled"] = {
 	},
 	["Addon"] = {
-		["PreVersion"] = 4520,
-		["Version"] = 4520,
-		["IconMiniMapLeft"] = -43.8422319805596,
 		["Timer"] = 0.1,
-		["IconMiniMapTop"] = -66.91680427936467,
-		["Scale"] = 1,
+		["Version"] = 4520,
 		["IconMiniMapHide"] = true,
+		["Scale"] = 1,
+		["IconMiniMapTop"] = -66.91680427936467,
+		["IconMiniMapLeft"] = -43.8422319805596,
+		["PreVersion"] = 4520,
 	},
 	["RaidCheck"] = {
 		["ReadyCheckFrameOnlyRL"] = true,
-		["ReadyCheckTop"] = 1112.499877929688,
+		["ReadyCheckFrameTimerFade"] = 4,
 		["BuffsCheck"] = true,
 		["ReadyCheckFrame"] = true,
+		["ReadyCheckTop"] = 1112.499877929688,
+		["ReadyCheckLeft"] = 1988.33544921875,
+		["FlaskExp"] = 1,
 		["WeaponEnch"] = {
 			["Toshaman-Area52"] = 171285,
 			["Toshmonk-Kil'jaeden"] = 171285,
 		},
-		["ReadyCheckLeft"] = 1988.33544921875,
-		["FlaskExp"] = 1,
-		["ReadyCheckFrameTimerFade"] = 4,
+	},
+	["BossWatcher"] = {
+		["optionsDamageGraph"] = true,
+		["fightsNum"] = 2,
+		["optionsPositionsDist"] = true,
+		["optionsHealingGraph"] = true,
+		["trackingDamageSpells"] = {
+		},
 	},
 	["Profiles"] = {
+	},
+	["Profile"] = "default",
+	["LootLink"] = {
+	},
+	["RaidGroups"] = {
+		["profiles"] = {
+		},
 	},
 	["LootHistory"] = {
 		["list"] = {
@@ -9076,6 +9166,21 @@ VExRT = {
 			"1619927590#2407#2296#16#Yellowy#5#1#item:181981::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2606]
 			"1619927591#2407#2296#16#Thunderrz#3#1#item:184587::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2607]
 			"1619927593#2407#2296#16#Sploshye#5#1#item:181840::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2608]
+			"1620529333#2417#2296#16#Toshaman#7#1#item:182108::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2609]
+			"1620529333#2417#2296#16#Rathux#6#1#item:183002::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::", -- [2610]
+			"1620529333#2417#2296#16#Toshaman#7#1#item:183032::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::", -- [2611]
+			"1620529333#2417#2296#16#Rathux#6#1#item:182133::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2612]
+			"1620529335#2417#2296#16#Smytt#3#1#item:183032::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::", -- [2613]
+			"1620529339#2417#2296#16#Delpi#8#1#item:183032::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::", -- [2614]
+			"1620533694#2407#2296#16#Nv#11#1#item:183897::::::::60:264::85:3:7187:1498:6646:1:28:753:::", -- [2615]
+			"1620533694#2407#2296#16#Thunderrz#3#1#item:183395::::::::60:264::6::1:28:373:::", -- [2616]
+			"1620533695#2407#2296#16#Adeno#6#1#item:182113::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2617]
+			"1620533695#2407#2296#16#Adeno#6#1#item:183896::::::::60:264::85:3:7187:1498:6646:1:28:753:::", -- [2618]
+			"1620533697#2407#2296#16#Evanpal#2#1#item:182777::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2619]
+			"1620533697#2407#2296#16#Warlockmania#9#1#item:184030::::::::60:264::85:4:7187:6652:1498:6646:1:28:753:::", -- [2620]
+			"1620533699#2407#2296#16#Rathux#6#1#item:182292::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2621]
+			"1620533702#2407#2296#16#Toshaman#7#1#item:182105::::::::60:264::6:2:1553:7245:2:28:753:37:7:::", -- [2622]
+			"1620533702#2407#2296#16#Joons#7#1#item:183898::::::::60:264::85:3:7187:1498:6646:1:28:753:::", -- [2623]
 		},
 		["bossNames"] = {
 			[2395] = "Hakkar, the Soulflayer",
@@ -9166,33 +9271,18 @@ VExRT = {
 			[33] = "Shadowfang Keep",
 			[2217] = "Ny'alotha, the Waking City",
 			[761] = "The Battle for Gilneas",
-			[968] = "Rated Eye of the Storm",
+			[2287] = "Halls of Atonement",
 			[2285] = "Spires of Ascension",
-			[2070] = "Battle of Dazar'alor",
+			[968] = "Rated Eye of the Storm",
 			[2289] = "Plaguefall",
 			[2291] = "De Other Side",
 			[2293] = "Theater of Pain",
 			[658] = "Pit of Saron",
 			[575] = "Utgarde Pinnacle",
 			[2222] = "The Shadowlands",
-			[2287] = "Halls of Atonement",
+			[2070] = "Battle of Dazar'alor",
 			[2286] = "The Necrotic Wake",
 			[619] = "Ahn'kahet: The Old Kingdom",
-		},
-	},
-	["Profile"] = "default",
-	["LootLink"] = {
-	},
-	["RaidGroups"] = {
-		["profiles"] = {
-		},
-	},
-	["BossWatcher"] = {
-		["optionsDamageGraph"] = true,
-		["fightsNum"] = 2,
-		["optionsPositionsDist"] = true,
-		["optionsHealingGraph"] = true,
-		["trackingDamageSpells"] = {
 		},
 	},
 	["Logging"] = {
@@ -9231,7 +9321,7 @@ VExRT = {
 		["OnlyPromoted"] = true,
 		["Fix"] = true,
 		["ScaleBack"] = 0,
-		["Text1"] = "start\n||cff3ec6eaDelpi||r \n||cfffe7b09Nv||r \n||cffa9d271Thunderrz||r \n||cffa9d271Smytt||r  \n||cfffe7b09Astralsong||r \n||cffa9d271Fayori||r \n||cff8687edWarlockmania||r \n||cff006fdcToshaman||r \n||cff006fdcJoons||r \nbackup\n||cffa22fc8Andruw||r \n||cffc59a6cBouquets||r \n||cfffef367Rykah||r \n||cffc31d39Rathux||r  \n||cfffefefeYellowy||r \n||cffc31d39Adeno||r \nend",
+		["Text1"] = "startLine\n{skull} ||cfff38bb9Evanpal||r ||cffa22fc8Andruw||r ||cffc59a6cBouquets||r ||cffc31d39Adeno||r ||cffc31d39Rathux||r \n{cross} ||cff00fe97Gummybuns||r ||cffa9d271Lyunara||r ||cffa9d271Fayori||r  ||cffa9d271Thunderrz||r  ||cff006fdcToshaman||r \nendLine",
 		["OptionsFormatting"] = true,
 		["enabled"] = true,
 		["LastUpdateName"] = "Nv-Area52",
@@ -9240,7 +9330,7 @@ VExRT = {
 		["Width"] = 299.9999084472656,
 		["BlackLastUpdateName"] = {
 		},
-		["LastUpdateTime"] = 1620450808,
+		["LastUpdateTime"] = 1620530162,
 		["Black"] = {
 			"", -- [1]
 			"", -- [2]
