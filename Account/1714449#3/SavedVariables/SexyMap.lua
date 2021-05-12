@@ -1,6 +1,6 @@
 
 SexyMap2DB = {
-	["Toshpal-Area 52"] = "global",
+	["Toshdruid-Area 52"] = "global",
 	["Toshpriest-Azralon"] = {
 		["core"] = {
 			["clamp"] = true,
@@ -27,11 +27,26 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+				["LibDBIcon10_Grid2"] = 195.8911802100031,
+				["LibDBIcon10_SimulationCraft"] = 172.3520565837722,
+				["LibDBIcon10_REFlex"] = 239.8998851432848,
+			},
+			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -122,26 +137,11 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-				["LibDBIcon10_Grid2"] = 195.8911802100031,
-				["LibDBIcon10_SimulationCraft"] = 172.3520565837722,
-				["LibDBIcon10_REFlex"] = 239.8998851432848,
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 	},
 	["global"] = {
@@ -176,49 +176,39 @@ SexyMap2DB = {
 			["shape"] = 130871,
 			["rightClickToConfig"] = true,
 		},
-		["movers"] = {
-			["lockDurability"] = true,
-			["lockObjectives"] = true,
-			["moveDurability"] = true,
-			["lockCaptureBar"] = true,
-			["moveVehicle"] = true,
-			["lockVehicle"] = true,
-			["moverPositions"] = {
-				["durability"] = {
-					"TOPLEFT", -- [1]
-					"TOPLEFT", -- [2]
-					2.699969530105591, -- [3]
-					-54.93297958374023, -- [4]
-				},
-				["capturebar"] = {
-					"TOPRIGHT", -- [1]
-					"TOPRIGHT", -- [2]
-					-202.8667449951172, -- [3]
-					-168.9999542236328, -- [4]
-				},
-				["vehicle"] = {
-					"BOTTOMRIGHT", -- [1]
-					"BOTTOMRIGHT", -- [2]
-					-402.8000183105469, -- [3]
-					0.1333678662776947, -- [4]
-				},
-				["buffs"] = {
-					"TOPRIGHT", -- [1]
-					"TOPRIGHT", -- [2]
-					-6.866725921630859, -- [3]
-					-3.766664266586304, -- [4]
-				},
-				["objectives"] = {
-					"BOTTOMRIGHT", -- [1]
-					"BOTTOMRIGHT", -- [2]
-					-0.3664356172084808, -- [3]
-					3.466556787490845, -- [4]
-				},
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MiniMapMailFrame"] = "never",
+				["MiniMapChallengeMode"] = "never",
+				["TimeManagerClockButton"] = "never",
+				["GameTimeFrame"] = "never",
+				["LibDBIcon10_Dominos"] = "never",
+				["MiniMapWorldMapButton"] = "never",
+				["SexyMapZoneTextButton"] = "never",
+				["GuildInstanceDifficulty"] = "never",
+				["GarrisonLandingPageMinimapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["MiniMapTracking"] = "never",
+				["MiniMapInstanceDifficulty"] = "never",
+				["LibDBIcon10_SavedInstances"] = "never",
+				["MinimapZoomOut"] = "never",
 			},
-			["moveBuffs"] = true,
-			["lockBuffs"] = true,
-			["moveCaptureBar"] = true,
-			["moveObjectives"] = true,
+			["dragPositions"] = {
+				["GameTimeFrame"] = 43.8597518352463,
+				["MiniMapTracking"] = 29.75885204016652,
+				["LibDBIcon10_SavedInstances"] = 180.4162643872903,
+				["LibDBIcon10_SimulationCraft"] = 198.4673776858481,
+				["QueueStatusMinimapButton"] = 36.55837946620706,
+				["GarrisonLandingPageMinimapButton"] = -4.853091590334242,
+				["LibDBIcon10_BugSack"] = 187.8530548582654,
+				["GuildInstanceDifficulty"] = -27.76190129645581,
+				["LibDBIcon10_REFlex"] = 197.0691461092269,
+			},
+			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -285,42 +275,52 @@ SexyMap2DB = {
 			["width"] = 140,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MiniMapMailFrame"] = "never",
-				["MiniMapChallengeMode"] = "never",
-				["MiniMapWorldMapButton"] = "never",
-				["GameTimeFrame"] = "never",
-				["LibDBIcon10_Dominos"] = "never",
-				["TimeManagerClockButton"] = "never",
-				["MinimapZoomOut"] = "never",
-				["GuildInstanceDifficulty"] = "never",
-				["MiniMapTracking"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "never",
-				["MiniMapInstanceDifficulty"] = "never",
-				["LibDBIcon10_SavedInstances"] = "never",
-				["SexyMapZoneTextButton"] = "never",
+		["movers"] = {
+			["lockDurability"] = true,
+			["lockObjectives"] = true,
+			["moveDurability"] = true,
+			["lockCaptureBar"] = true,
+			["moveVehicle"] = true,
+			["lockVehicle"] = true,
+			["moverPositions"] = {
+				["durability"] = {
+					"TOPLEFT", -- [1]
+					"TOPLEFT", -- [2]
+					2.699969530105591, -- [3]
+					-54.93297958374023, -- [4]
+				},
+				["capturebar"] = {
+					"TOPRIGHT", -- [1]
+					"TOPRIGHT", -- [2]
+					-202.8667449951172, -- [3]
+					-168.9999542236328, -- [4]
+				},
+				["vehicle"] = {
+					"BOTTOMRIGHT", -- [1]
+					"BOTTOMRIGHT", -- [2]
+					-402.8000183105469, -- [3]
+					0.1333678662776947, -- [4]
+				},
+				["buffs"] = {
+					"TOPRIGHT", -- [1]
+					"TOPRIGHT", -- [2]
+					-6.866725921630859, -- [3]
+					-3.766664266586304, -- [4]
+				},
+				["objectives"] = {
+					"BOTTOMRIGHT", -- [1]
+					"BOTTOMRIGHT", -- [2]
+					-0.3664356172084808, -- [3]
+					3.466556787490845, -- [4]
+				},
 			},
-			["dragPositions"] = {
-				["GameTimeFrame"] = 43.8597518352463,
-				["GarrisonLandingPageMinimapButton"] = -4.853091590334242,
-				["LibDBIcon10_SavedInstances"] = 180.4162643872903,
-				["LibDBIcon10_SimulationCraft"] = 198.4673776858481,
-				["LibDBIcon10_REFlex"] = 197.0691461092269,
-				["MiniMapTracking"] = 29.75885204016652,
-				["LibDBIcon10_BugSack"] = 187.8530548582654,
-				["GuildInstanceDifficulty"] = -27.76190129645581,
-				["QueueStatusMinimapButton"] = 36.55837946620706,
-			},
-			["controlVisibility"] = true,
+			["moveBuffs"] = true,
+			["lockBuffs"] = true,
+			["moveCaptureBar"] = true,
+			["moveObjectives"] = true,
 		},
 	},
-	["Toshaman-Area 52"] = "global",
+	["Toshmonk-Kil'jaeden"] = "global",
 	["Yelluwuy-Area 52"] = {
 		["core"] = {
 			["clamp"] = true,
@@ -347,11 +347,23 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -442,26 +454,14 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 	},
-	["Toshdruid-Area 52"] = "global",
+	["Toshpal-Area 52"] = "global",
 	["Toshpriest-Area 52"] = "global",
 	["Toshlongboyr-Eldre'Thalas"] = {
 		["core"] = {
@@ -485,6 +485,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -502,12 +508,6 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -629,11 +629,23 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -724,23 +736,11 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 	},
 	["Toshaman-Area52"] = "global",
@@ -771,23 +771,11 @@ SexyMap2DB = {
 			["showPing"] = true,
 			["showAt"] = "map",
 		},
-		["buttons"] = {
-			["radius"] = 10,
-			["lockDragging"] = false,
-			["allowDragging"] = true,
-			["visibilitySettings"] = {
-				["MinimapZoomIn"] = "never",
-				["MinimapZoneTextButton"] = "always",
-				["MiniMapWorldMapButton"] = "never",
-				["QueueStatusMinimapButton"] = "always",
-				["GarrisonLandingPageMinimapButton"] = "always",
-				["MinimapZoomOut"] = "never",
-				["MiniMapMailFrame"] = "always",
-				["TimeManagerClockButton"] = "always",
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
 			},
-			["dragPositions"] = {
-			},
-			["controlVisibility"] = true,
+			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -878,11 +866,23 @@ SexyMap2DB = {
 			["xOffset"] = 0,
 			["yOffset"] = 0,
 		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
+		["buttons"] = {
+			["radius"] = 10,
+			["lockDragging"] = false,
+			["allowDragging"] = true,
+			["visibilitySettings"] = {
+				["MinimapZoomIn"] = "never",
+				["MinimapZoneTextButton"] = "always",
+				["MiniMapWorldMapButton"] = "never",
+				["QueueStatusMinimapButton"] = "always",
+				["GarrisonLandingPageMinimapButton"] = "always",
+				["MinimapZoomOut"] = "never",
+				["MiniMapMailFrame"] = "always",
+				["TimeManagerClockButton"] = "always",
 			},
-			["lock"] = false,
+			["dragPositions"] = {
+			},
+			["controlVisibility"] = true,
 		},
 	},
 	["Daggny-Frostwolf"] = {
@@ -907,6 +907,12 @@ SexyMap2DB = {
 			},
 			["yOffset"] = 10,
 		},
+		["movers"] = {
+			["enabled"] = false,
+			["framePositions"] = {
+			},
+			["lock"] = false,
+		},
 		["buttons"] = {
 			["radius"] = 10,
 			["lockDragging"] = false,
@@ -924,12 +930,6 @@ SexyMap2DB = {
 			["dragPositions"] = {
 			},
 			["controlVisibility"] = true,
-		},
-		["movers"] = {
-			["enabled"] = false,
-			["framePositions"] = {
-			},
-			["lock"] = false,
 		},
 		["clock"] = {
 			["bgColor"] = {
@@ -1028,5 +1028,5 @@ SexyMap2DB = {
 	["Toshdk-Kil'jaeden"] = "global",
 	["presets"] = {
 	},
-	["Toshmonk-Kil'jaeden"] = "global",
+	["Toshaman-Area 52"] = "global",
 }

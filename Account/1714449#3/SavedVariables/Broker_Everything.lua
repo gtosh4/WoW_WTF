@@ -25,20 +25,20 @@ Broker_Everything_DataDB = {
 	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
-	["Toshmonk-Area 52"] = {
-		["race"] = "Troll",
-		["name"] = "Toshmonk",
-		["faction"] = "Horde",
-		["orderId"] = 4,
-		["class"] = "MONK",
-		["level"] = 50,
-	},
 	["Toshaman-Area 52"] = {
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
 		["orderId"] = 2,
 		["class"] = "SHAMAN",
+		["level"] = 60,
+	},
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["class"] = "MONK",
 		["level"] = 60,
 	},
 	["order"] = {
@@ -49,12 +49,15 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area52", -- [5]
 	},
 	["Toshaman-Area52"] = {
-		["level"] = 60,
+		["orderId"] = 5,
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
-		["orderId"] = 5,
-		["class"] = "SHAMAN",
+		["level"] = 60,
+		["garrison_cache"] = {
+			0, -- [1]
+			false, -- [2]
+		},
 		["garrison"] = {
 			0, -- [1]
 			0, -- [2]
@@ -65,20 +68,10 @@ Broker_Everything_CharacterDB = {
 			{
 			}, -- [4]
 		},
-		["garrison_cache"] = {
-			0, -- [1]
-			false, -- [2]
-		},
+		["class"] = "SHAMAN",
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -104,17 +97,24 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 		["level"] = 50,
 		["gold"] = 10753845943,
 		["orderId"] = 1,
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
+	["Toshmonk-Area 52"] = {
+		["race"] = "Troll",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 3,
+		["orderId"] = 4,
 		["class"] = "MONK",
-		["level"] = 60,
+		["level"] = 50,
 	},
 }
 Broker_Everything_AceDB = {
