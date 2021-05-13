@@ -1,14 +1,14 @@
 
 OmniCCDB = {
-	["global"] = {
-		["dbVersion"] = 6,
-		["addonVersion"] = "9.0.9",
-	},
 	["profileKeys"] = {
 		["Toshdruid - Area 52"] = "Default",
 		["Toshpriest - Kil'jaeden"] = "Default",
 		["Toshpriest - Area 52"] = "Default",
 		["Toshpal - Area 52"] = "Default",
+	},
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "9.0.9",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -61,10 +61,10 @@ OmniCCDB = {
 			["themes"] = {
 				["Plater Nameplates Theme"] = {
 					["textStyles"] = {
+						["soon"] = {
+						},
 						["seconds"] = {
 							["b"] = 1,
-						},
-						["soon"] = {
 						},
 						["minutes"] = {
 						},
@@ -77,9 +77,9 @@ OmniCCDB = {
 				},
 				["Default"] = {
 					["textStyles"] = {
-						["seconds"] = {
-						},
 						["soon"] = {
+						},
+						["seconds"] = {
 						},
 						["minutes"] = {
 						},
@@ -87,9 +87,9 @@ OmniCCDB = {
 				},
 				["GridAuras"] = {
 					["textStyles"] = {
-						["soon"] = {
-						},
 						["seconds"] = {
+						},
+						["soon"] = {
 						},
 						["minutes"] = {
 						},
