@@ -136,12 +136,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Bosses_Castle Nathria Trash"] = {
 		},
-		["BigWigs_Bosses_Thrall"] = {
-			["profiles"] = {
-				["Default"] = {
-					[306828] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 		["BigWigs_Plugins_Victory"] = {
 		},
@@ -190,7 +185,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Bosses_Thrall"] = {
+			["profiles"] = {
+				["Default"] = {
+					[306828] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -254,7 +254,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
@@ -311,8 +311,9 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Mordretha, the Endless Empress"] = {
 							[339706] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Heartsbane Triad"] = {
-							[260741] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Hungering Destroyer"] = {
+							[334266] = "English: Overwatch: Orisa",
+							[329455] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Shriekwing"] = {
 							[330711] = "English: Overwatch: Reaper",
@@ -348,8 +349,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Carapace of N'Zoth"] = {
 							[313039] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Thrall"] = {
-							[306828] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Rezan"] = {
+							[255371] = "English: Overwatch: Roadhog",
 						},
 						["BigWigs_Bosses_The Council of Tribes"] = {
 							[266231] = "English: Overwatch: Reaper",
@@ -363,8 +364,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Tussle Tonks"] = {
 							[285388] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Rezan"] = {
-							[255371] = "English: Overwatch: Roadhog",
+						["BigWigs_Bosses_Thrall"] = {
+							[306828] = "English: Overwatch: Reaper",
 						},
 						["BigWigs_Bosses_Stone Legion Generals"] = {
 							[333387] = "English: Overwatch: Reaper",
@@ -372,9 +373,8 @@ BigWigs3DB = {
 						["BigWigs_Bosses_King Mechagon"] = {
 							[283551] = "English: Overwatch: Reaper",
 						},
-						["BigWigs_Bosses_Hungering Destroyer"] = {
-							[334266] = "English: Overwatch: Orisa",
-							[329455] = "English: Overwatch: Reaper",
+						["BigWigs_Bosses_Heartsbane Triad"] = {
+							[260741] = "English: Overwatch: Reaper",
 						},
 					},
 				},
@@ -596,9 +596,9 @@ BigWigsStatsDB = {
 				["best"] = 252.4459999999963,
 			},
 			["mythic"] = {
-				["kills"] = 1,
-				["wipes"] = 7,
-				["best"] = 328.7860000000073,
+				["kills"] = 2,
+				["wipes"] = 17,
+				["best"] = 317.3640000000596,
 			},
 			["normal"] = {
 				["kills"] = 3,
@@ -617,9 +617,9 @@ BigWigsStatsDB = {
 				["kills"] = 4,
 			},
 			["mythic"] = {
-				["kills"] = 4,
+				["kills"] = 5,
 				["wipes"] = 207,
-				["best"] = 580.1380000000354,
+				["best"] = 571.6660000002012,
 			},
 		},
 		[2418] = {
@@ -629,8 +629,8 @@ BigWigsStatsDB = {
 				["best"] = 242.362000000081,
 			},
 			["mythic"] = {
-				["kills"] = 4,
-				["wipes"] = 89,
+				["kills"] = 5,
+				["wipes"] = 90,
 				["best"] = 306.8069999999716,
 			},
 			["normal"] = {
@@ -646,9 +646,9 @@ BigWigsStatsDB = {
 				["best"] = 364.2229999999981,
 			},
 			["mythic"] = {
-				["kills"] = 2,
-				["wipes"] = 33,
-				["best"] = 632.4959999999264,
+				["kills"] = 3,
+				["wipes"] = 34,
+				["best"] = 606.2669999999925,
 			},
 			["normal"] = {
 				["kills"] = 3,
@@ -663,9 +663,9 @@ BigWigsStatsDB = {
 				["best"] = 217.8449999999721,
 			},
 			["mythic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["wipes"] = 37,
-				["best"] = 319.4760000000097,
+				["best"] = 271.1329999999143,
 			},
 			["normal"] = {
 				["kills"] = 3,
@@ -685,9 +685,9 @@ BigWigsStatsDB = {
 				["best"] = 218.4290000000037,
 			},
 			["mythic"] = {
-				["kills"] = 7,
+				["kills"] = 8,
 				["wipes"] = 46,
-				["best"] = 297.4440000000177,
+				["best"] = 284.6659999999683,
 			},
 		},
 		[2429] = {
@@ -722,8 +722,8 @@ BigWigsStatsDB = {
 				["best"] = 288.3830000001472,
 			},
 			["mythic"] = {
-				["kills"] = 7,
-				["wipes"] = 53,
+				["kills"] = 8,
+				["wipes"] = 54,
 				["best"] = 278.6490000000049,
 			},
 		},
@@ -739,7 +739,7 @@ BigWigsStatsDB = {
 				["best"] = 206.8769999998622,
 			},
 			["mythic"] = {
-				["kills"] = 8,
+				["kills"] = 9,
 				["wipes"] = 7,
 				["best"] = 215.8369999999413,
 			},
@@ -757,7 +757,7 @@ BigWigsStatsDB = {
 			},
 			["mythic"] = {
 				["kills"] = 3,
-				["wipes"] = 253,
+				["wipes"] = 258,
 				["best"] = 595.7450000001118,
 			},
 		},

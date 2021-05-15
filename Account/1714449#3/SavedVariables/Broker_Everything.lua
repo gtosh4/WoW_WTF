@@ -49,15 +49,12 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area52", -- [5]
 	},
 	["Toshaman-Area52"] = {
-		["orderId"] = 5,
+		["level"] = 60,
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
-		["level"] = 60,
-		["garrison_cache"] = {
-			0, -- [1]
-			false, -- [2]
-		},
+		["orderId"] = 5,
+		["class"] = "SHAMAN",
 		["garrison"] = {
 			0, -- [1]
 			0, -- [2]
@@ -68,10 +65,20 @@ Broker_Everything_CharacterDB = {
 			{
 			}, -- [4]
 		},
-		["class"] = "SHAMAN",
+		["garrison_cache"] = {
+			0, -- [1]
+			false, -- [2]
+		},
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -96,13 +103,6 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
 		},
 		["level"] = 50,
 		["gold"] = 10753845943,

@@ -45,7 +45,7 @@ BetterWardrobe_SavedSetData = {
 		["sets"] = {
 			["Toshmonk - Kil'jaeden"] = {
 				{
-					["name"] = "chiji",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -53,8 +53,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						77344, -- [1]
 						0, -- [2]
@@ -76,15 +75,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "chiji",
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [1]
 				{
-					["name"] = "pirate",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -92,8 +92,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						98476, -- [1]
 						0, -- [2]
@@ -115,15 +114,16 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "pirate",
 					["setID"] = 5002,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [2]
 				{
-					["name"] = "slands",
+					["isClass"] = true,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -131,8 +131,7 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["sources"] = {
 						112883, -- [1]
 						0, -- [2]
@@ -154,18 +153,18 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "slands",
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 				}, -- [3]
 			},
 			["Toshpriest - Area 52"] = {
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -173,7 +172,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						96552, -- [1]
 						0, -- [2]
@@ -195,16 +195,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "something",
 					["patchID"] = "",
 					["setID"] = 5000,
 					["uiOrder"] = 100,
 					["icon"] = 2059677,
-					["name"] = "something",
+					["isClass"] = true,
 				}, -- [1]
 				{
-					["items"] = {
-					},
+					["expansionID"] = 1,
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -212,7 +211,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["collected"] = true,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						73196, -- [1]
 						0, -- [2]
@@ -234,17 +234,17 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["isClass"] = true,
+					["name"] = "something2",
 					["patchID"] = "",
 					["setID"] = 5001,
 					["uiOrder"] = 200,
 					["icon"] = 1091093,
-					["name"] = "something2",
+					["isClass"] = true,
 				}, -- [2]
 			},
 			["Toshaman - Kil'jaeden"] = {
 				{
-					["isClass"] = true,
+					["name"] = "deathspeaker",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -252,7 +252,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 100,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						97062, -- [1]
 						0, -- [2]
@@ -274,16 +275,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "deathspeaker",
+					["isClass"] = true,
 					["setID"] = 5000,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [1]
 				{
-					["isClass"] = true,
+					["name"] = "cool i guess",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -291,7 +291,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 200,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						66666, -- [1]
 						0, -- [2]
@@ -313,16 +314,15 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "cool i guess",
+					["isClass"] = true,
 					["setID"] = 5001,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [2]
 				{
-					["isClass"] = true,
+					["name"] = "cool2",
 					["type"] = "Saved",
 					["description"] = "",
 					["label"] = "Saved Set",
@@ -330,7 +330,8 @@ BetterWardrobe_SavedSetData = {
 					["limitedTimeSet"] = false,
 					["uiOrder"] = 300,
 					["hiddenUtilCollected"] = false,
-					["expansionID"] = 1,
+					["items"] = {
+					},
 					["sources"] = {
 						101894, -- [1]
 						0, -- [2]
@@ -352,13 +353,12 @@ BetterWardrobe_SavedSetData = {
 						0, -- [18]
 						0, -- [19]
 					},
-					["name"] = "cool2",
+					["isClass"] = true,
 					["setID"] = 5002,
 					["patchID"] = "",
 					["collected"] = true,
 					["favorite"] = false,
-					["items"] = {
-					},
+					["expansionID"] = 1,
 				}, -- [3]
 			},
 			["Toshaman - Area 52"] = {
