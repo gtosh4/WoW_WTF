@@ -1,5 +1,6 @@
 
 Broker_Everything_DataDB = {
+	["AceDBfix"] = 1,
 	["Gold"] = {
 		["Profit"] = {
 			["monthly"] = {
@@ -22,7 +23,6 @@ Broker_Everything_DataDB = {
 			},
 		},
 	},
-	["AceDBfix"] = 1,
 }
 Broker_Everything_CharacterDB = {
 	["Toshaman-Area 52"] = {
@@ -30,16 +30,16 @@ Broker_Everything_CharacterDB = {
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
 		["orderId"] = 2,
-		["class"] = "SHAMAN",
 		["level"] = 60,
+		["class"] = "SHAMAN",
 	},
 	["Toshmonk-Kil'jaeden"] = {
 		["race"] = "BloodElf",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
 		["orderId"] = 3,
-		["class"] = "MONK",
 		["level"] = 60,
+		["class"] = "MONK",
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -49,12 +49,15 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area52", -- [5]
 	},
 	["Toshaman-Area52"] = {
-		["level"] = 60,
+		["class"] = "SHAMAN",
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
 		["faction"] = "Horde",
+		["garrison_cache"] = {
+			0, -- [1]
+			false, -- [2]
+		},
 		["orderId"] = 5,
-		["class"] = "SHAMAN",
 		["garrison"] = {
 			0, -- [1]
 			0, -- [2]
@@ -65,17 +68,11 @@ Broker_Everything_CharacterDB = {
 			{
 			}, -- [4]
 		},
-		["garrison_cache"] = {
-			0, -- [1]
-			false, -- [2]
-		},
+		["level"] = 60,
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
+		["orderId"] = 1,
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
@@ -106,15 +103,18 @@ Broker_Everything_CharacterDB = {
 		},
 		["level"] = 50,
 		["gold"] = 10753845943,
-		["orderId"] = 1,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
 	},
 	["Toshmonk-Area 52"] = {
 		["race"] = "Troll",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
 		["orderId"] = 4,
-		["class"] = "MONK",
 		["level"] = 50,
+		["class"] = "MONK",
 	},
 }
 Broker_Everything_AceDB = {
@@ -144,8 +144,11 @@ Broker_Everything_AceDB = {
 				},
 				["showTalents"] = false,
 			},
-			["GPS"] = {
-				["enabled"] = false,
+			["Garrison"] = {
+				["minimap"] = {
+					["hide"] = true,
+				},
+				["showCacheForcastInBroker"] = false,
 			},
 			["Bags"] = {
 				["enabled"] = false,
@@ -159,11 +162,8 @@ Broker_Everything_AceDB = {
 				["ClickOpt:calendar"] = "_RIGHT",
 				["ClickOpt:time"] = "__NONE",
 			},
-			["Garrison"] = {
-				["minimap"] = {
-					["hide"] = true,
-				},
-				["showCacheForcastInBroker"] = false,
+			["GPS"] = {
+				["enabled"] = false,
 			},
 			["System"] = {
 				["minimap"] = {
