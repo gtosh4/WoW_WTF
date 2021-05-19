@@ -3,10 +3,8 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshaman-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Bëuford-area-52"] = true,
-	["us-Syrasong-area-52"] = true,
-	["us-Soviet-area-52"] = true,
-	["us-Pótstickers-area-52"] = true,
+	["us-Pier-area-52"] = true,
+	["us-Delpix-tichondrius"] = true,
 }
 RaiderIO_MissingServers = {
 }
