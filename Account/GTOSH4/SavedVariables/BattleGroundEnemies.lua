@@ -24,9 +24,9 @@ BattleGroundEnemiesDB = {
 					["Racial"] = false,
 					["Power"] = false,
 					["BuffContainer"] = false,
-					["Spec"] = false,
-					["ObjectiveAndRespawn"] = false,
 					["Trinket"] = false,
+					["ObjectiveAndRespawn"] = false,
+					["Spec"] = false,
 				},
 				["15"] = {
 					["Auras_Debuffs_Container_RelativeTo"] = "BuffContainer",

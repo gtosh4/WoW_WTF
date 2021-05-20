@@ -1,11 +1,13 @@
 
 BigWigs3DB = {
-	["profileKeys"] = {
-		["Toshpriest - Area 52"] = "Default",
-		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshdruid - Area 52"] = "Default",
-		["Toshpriest - Kil'jaeden"] = "Default",
-		["Toshpal - Area 52"] = "Default",
+	["global"] = {
+		["watchedMovies"] = {
+			[656] = true,
+			[-1004] = true,
+			[-1597] = true,
+			[886] = true,
+			[927] = true,
+		},
 	},
 	["namespaces"] = {
 		["BigWigs_Bosses_Lord Stormsong"] = {
@@ -60,8 +62,6 @@ BigWigs3DB = {
 					[330711] = 3129591,
 				},
 			},
-		},
-		["BigWigs_Bosses_Castle Nathria Trash"] = {
 		},
 		["BigWigs_Bosses_Ring of Booty"] = {
 			["profiles"] = {
@@ -171,8 +171,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
-		},
 		["BigWigs_Bosses_An Affront of Challengers"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -181,18 +179,19 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Huntsman Altimor"] = {
+		["BigWigs_Plugins_Victory"] = {
+		},
+		["BigWigs_Bosses_Knight Captain Valyri"] = {
 			["profiles"] = {
 				["Default"] = {
-					[335114] = 3129591,
-					[334797] = 3133687,
+					[256955] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Sun King's Salvation"] = {
+		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
 				["Default"] = {
-					[337859] = 3129591,
+					[311401] = 3129591,
 				},
 			},
 		},
@@ -203,10 +202,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Knight Captain Valyri"] = {
+		["BigWigs_Bosses_Huntsman Altimor"] = {
 			["profiles"] = {
 				["Default"] = {
-					[256955] = 3129591,
+					[335114] = 3129591,
+					[334797] = 3133687,
 				},
 			},
 		},
@@ -225,10 +225,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
+		["BigWigs_Bosses_Sun King's Salvation"] = {
 			["profiles"] = {
 				["Default"] = {
-					[311401] = 3129591,
+					[337859] = 3129591,
 				},
 			},
 		},
@@ -412,12 +412,12 @@ BigWigs3DB = {
 						["BigWigs_Bosses_Stone Legion Generals"] = {
 							[334765] = "English: Overwatch: Orisa",
 						},
-						["BigWigs_Bosses_Sludgefist"] = {
-							[335470] = "English: Overwatch: Pharah",
-						},
 						["BigWigs_Bosses_Sire Denathrius"] = {
 							[326851] = "English: Overwatch: Reaper",
 							[333932] = "English: Overwatch: Reaper",
+						},
+						["BigWigs_Bosses_Sludgefist"] = {
+							[335470] = "English: Overwatch: Pharah",
 						},
 						["BigWigs_Bosses_Huntsman Altimor"] = {
 							[334797] = "English: Overwatch: Orisa",
@@ -551,14 +551,12 @@ BigWigs3DB = {
 			},
 		},
 	},
-	["global"] = {
-		["watchedMovies"] = {
-			[656] = true,
-			[-1004] = true,
-			[-1597] = true,
-			[886] = true,
-			[927] = true,
-		},
+	["profileKeys"] = {
+		["Toshpriest - Area 52"] = "Default",
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
+		["Toshpriest - Kil'jaeden"] = "Default",
+		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -699,7 +697,7 @@ BigWigsStatsDB = {
 				["best"] = 374.8000000002794,
 			},
 			["mythic"] = {
-				["wipes"] = 86,
+				["wipes"] = 111,
 			},
 			["normal"] = {
 				["kills"] = 5,
@@ -867,9 +865,13 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2354] = {
+		[2347] = {
 			["mythic"] = {
-				["best"] = 67.5109999999404,
+				["best"] = 70.24699999997392,
+				["kills"] = 1,
+			},
+			["normal"] = {
+				["best"] = 80.97400000000198,
 				["kills"] = 1,
 			},
 		},
@@ -895,14 +897,11 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
+		[2361] = {
 			["mythic"] = {
-				["best"] = 70.24699999997392,
 				["kills"] = 1,
-			},
-			["normal"] = {
-				["best"] = 80.97400000000198,
-				["kills"] = 1,
+				["wipes"] = 6,
+				["best"] = 388.6110000000335,
 			},
 		},
 		[2359] = {
@@ -917,11 +916,10 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2361] = {
+		[2354] = {
 			["mythic"] = {
+				["best"] = 67.5109999999404,
 				["kills"] = 1,
-				["wipes"] = 6,
-				["best"] = 388.6110000000335,
 			},
 		},
 	},
