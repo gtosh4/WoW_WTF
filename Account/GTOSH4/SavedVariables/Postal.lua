@@ -23,15 +23,15 @@ Postal3DB = {
 		["Toshdk - Kil'jaeden"] = "Toshdk - Kil'jaeden",
 		["Toshdruid - Area 52"] = "Toshdruid - Area 52",
 		["Toshtoon - Barthilas"] = "Toshtoon - Barthilas",
-		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshpal - Area 52"] = "Toshpal - Area 52",
 		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
+		["Toshpal - Area 52"] = "Toshpal - Area 52",
+		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
 		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
-		["Toshaman - Area 52"] = "Toshaman - Area 52",
+		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpriest - Kil'jaeden"] = "Toshpriest - Kil'jaeden",
-		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
+		["Toshaman - Area 52"] = "Toshaman - Area 52",
 		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 	},
 	["profiles"] = {
@@ -47,6 +47,16 @@ Postal3DB = {
 		},
 		["Toshtoon - Barthilas"] = {
 		},
+		["Toshlongboyr - Eldre'Thalas"] = {
+		},
+		["Toshpal - Area 52"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Toshaman|Area 52|Horde", -- [1]
+					"Toshpriest|Area 52|Horde", -- [2]
+				},
+			},
+		},
 		["Toshpriest - Area 52"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -58,16 +68,6 @@ Postal3DB = {
 				},
 			},
 		},
-		["Toshpal - Area 52"] = {
-			["BlackBook"] = {
-				["recent"] = {
-					"Toshaman|Area 52|Horde", -- [1]
-					"Toshpriest|Area 52|Horde", -- [2]
-				},
-			},
-		},
-		["Toshlongboyr - Eldre'Thalas"] = {
-		},
 		["Yorman - Kil'jaeden"] = {
 			["BlackBook"] = {
 				["recent"] = {
@@ -77,7 +77,7 @@ Postal3DB = {
 		},
 		["Daggny - Frostwolf"] = {
 		},
-		["Toshaman - Area 52"] = {
+		["Yelluwuy - Area 52"] = {
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["BlackBook"] = {
@@ -88,7 +88,7 @@ Postal3DB = {
 		},
 		["Toshpriest - Kil'jaeden"] = {
 		},
-		["Yelluwuy - Area 52"] = {
+		["Toshaman - Area 52"] = {
 		},
 		["Toshpriest - Azralon"] = {
 		},

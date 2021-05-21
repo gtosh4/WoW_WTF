@@ -54,8 +54,8 @@ AdvancedInterfaceOptionsSaved = {
 		["miniworldmap"] = "...rface\\AddOns\\Blizzard_WorldMap\\Blizzard_WorldMap.lua:243",
 		["minicommunitiesframe"] = "Interface\\SharedXML\\SharedUIPanelTemplates.lua:805",
 		["nameplateshowfriendlytotems"] = "Interface\\AddOns\\Plater\\Plater.lua:8092",
-		["sound_sfxvolume"] = "Interface\\SharedXML\\OptionsPanelTemplates.lua:196",
 		["nameplateminalphadistance"] = "Interface\\AddOns\\Plater\\Plater.lua:3659",
+		["sound_sfxvolume"] = "Interface\\SharedXML\\OptionsPanelTemplates.lua:196",
 	},
 	["CharVars"] = {
 	},
