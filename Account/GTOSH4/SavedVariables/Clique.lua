@@ -18,50 +18,50 @@ CliqueDB3 = {
 			["spec3_profileKey"] = "Yorman - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Yorman - Kil'jaeden",
 			["spec4_profileKey"] = "Yorman - Kil'jaeden",
+			["spec2_profileKey"] = "Yorman - Kil'jaeden",
+			["specswap"] = false,
 		},
 		["Toshdk - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Toshdk - Kil'jaeden",
 			["spec3_profileKey"] = "Toshdk - Kil'jaeden",
 			["downclick"] = false,
 			["fastooc"] = false,
+			["specswap"] = false,
 			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
-			["specswap"] = false,
-		},
-		["Toshpriest - Kil'jaeden"] = {
-			["spec1_profileKey"] = "Toshpriest - Kil'jaeden",
-			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshpriest - Kil'jaeden",
-			["downclick"] = true,
-			["specswap"] = false,
-			["spec3_profileKey"] = "Toshpriest - Kil'jaeden",
-		},
-		["Toshdruid - Area 52"] = {
-			["spec1_profileKey"] = "Toshdruid - Area 52",
-			["spec3_profileKey"] = "Toshdruid - Area 52",
-			["downclick"] = true,
-			["fastooc"] = false,
-			["spec4_profileKey"] = "Toshdruid - Area 52",
-			["specswap"] = false,
-			["spec2_profileKey"] = "Toshdruid - Area 52",
-			["alerthidden"] = true,
-		},
-		["Toshtoon - Barthilas"] = {
-			["spec1_profileKey"] = "Toshtoon - Barthilas",
-			["spec3_profileKey"] = "Toshtoon - Barthilas",
-			["downclick"] = false,
-			["fastooc"] = false,
-			["specswap"] = false,
-			["spec2_profileKey"] = "Toshtoon - Barthilas",
 		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
 			["spec2_profileKey"] = "Toshlongboy - Eldre'Thalas",
 			["downclick"] = false,
 			["fastooc"] = false,
+			["specswap"] = false,
 			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
+		},
+		["Toshdruid - Area 52"] = {
+			["spec1_profileKey"] = "Toshdruid - Area 52",
+			["spec3_profileKey"] = "Toshdruid - Area 52",
+			["downclick"] = true,
+			["alerthidden"] = true,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshdruid - Area 52",
+			["specswap"] = false,
+			["spec4_profileKey"] = "Toshdruid - Area 52",
+		},
+		["Toshpriest - Kil'jaeden"] = {
+			["spec1_profileKey"] = "Toshpriest - Kil'jaeden",
+			["fastooc"] = false,
+			["specswap"] = false,
+			["downclick"] = true,
+			["spec2_profileKey"] = "Toshpriest - Kil'jaeden",
+			["spec3_profileKey"] = "Toshpriest - Kil'jaeden",
+		},
+		["Toshtoon - Barthilas"] = {
+			["spec1_profileKey"] = "Toshtoon - Barthilas",
+			["spec3_profileKey"] = "Toshtoon - Barthilas",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshtoon - Barthilas",
 			["specswap"] = false,
 		},
 		["Toshpal - Area 52"] = {
@@ -69,8 +69,8 @@ CliqueDB3 = {
 			["specswap"] = false,
 			["downclick"] = true,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshpal - Area 52",
 			["spec3_profileKey"] = "Toshpal - Area 52",
+			["spec2_profileKey"] = "Toshpal - Area 52",
 		},
 	},
 	["profileKeys"] = {
@@ -80,21 +80,21 @@ CliqueDB3 = {
 		["Toshpal - Area 52"] = "Toshpriest - Area 52",
 		["Toshlongboyr - Eldre'Thalas"] = "Toshlongboyr - Eldre'Thalas",
 		["Yorman - Kil'jaeden"] = "Yorman - Kil'jaeden",
-		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
+		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
 		["Yelluwuy - Area 52"] = "Yelluwuy - Area 52",
 		["Toshlongboy - Eldre'Thalas"] = "Toshlongboy - Eldre'Thalas",
 		["Toshpriest - Kil'jaeden"] = "Toshpriest - Area 52",
 		["Toshpriest - Area 52"] = "Toshpriest - Area 52",
-		["Toshpriest - Azralon"] = "Toshpriest - Azralon",
+		["Daggny - Frostwolf"] = "Daggny - Frostwolf",
 	},
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -110,10 +110,10 @@ CliqueDB3 = {
 		["Toshdruid - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -129,10 +129,10 @@ CliqueDB3 = {
 		["Toshtoon - Barthilas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -148,10 +148,10 @@ CliqueDB3 = {
 		["Toshpal - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -167,10 +167,10 @@ CliqueDB3 = {
 		["Toshlongboyr - Eldre'Thalas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -186,10 +186,10 @@ CliqueDB3 = {
 		["Yorman - Kil'jaeden"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -202,7 +202,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Daggny - Frostwolf"] = {
+		["Toshpriest - Azralon"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -224,10 +224,10 @@ CliqueDB3 = {
 		["Yelluwuy - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -243,10 +243,10 @@ CliqueDB3 = {
 		["Toshlongboy - Eldre'Thalas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -262,10 +262,10 @@ CliqueDB3 = {
 		["Toshpriest - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -281,10 +281,10 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -345,7 +345,7 @@ CliqueDB3 = {
 				}, -- [8]
 			},
 		},
-		["Toshpriest - Azralon"] = {
+		["Daggny - Frostwolf"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
