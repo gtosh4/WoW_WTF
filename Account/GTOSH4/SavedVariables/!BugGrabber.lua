@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 672,
 	["lastSanitation"] = 3,
+	["session"] = 673,
 	["errors"] = {
 		{
 			["message"] = "...e\\AddOns\\AdiBags_Shadowlands\\AdiBags_Shadowlands-1.0.lua:59: bad argument #1 to 'IsItemConduit' (Usage: local isConduit = C_Item.IsItemConduit(itemLoc))",

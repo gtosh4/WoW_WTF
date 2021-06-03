@@ -14,9 +14,9 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
