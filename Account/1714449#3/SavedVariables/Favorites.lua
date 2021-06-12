@@ -10,7 +10,6 @@ favsDB = {
 	["profiles"] = {
 		["Default"] = {
 			["showClass"] = true,
-			["classColorOtherProject"] = 2,
 			["favTypes"] = {
 				["Favorites"] = {
 					["Haxpaxington#1572"] = true,
@@ -21,6 +20,7 @@ favsDB = {
 					["Sci#11555"] = true,
 				},
 			},
+			["classColorOtherProject"] = 2,
 			["showLevel"] = true,
 		},
 	},

@@ -1,11 +1,4 @@
 Version: 1
-Frame: ObjectiveTrackerFrameMover
-FrameLevel: 1
-Anchor: RIGHT
-X: -3
-Y: 8
-W: 235
-H: 700
 Frame: TooltipMover
 FrameLevel: 2
 Anchor: TOPRIGHT
@@ -13,13 +6,13 @@ X: -252
 Y: -10
 W: 150
 H: 80
-Frame: ExRTNote
+Frame: ObjectiveTrackerFrameMover
 FrameLevel: 1
-Anchor: BOTTOM
-X: 379
-Y: 39
-W: 309
-H: 308
+Anchor: RIGHT
+X: -3
+Y: 8
+W: 235
+H: 700
 Frame: ObjectiveTrackerFrame
 FrameLevel: 1
 Anchor: BOTTOMRIGHT
@@ -27,6 +20,13 @@ X: -1
 Y: 5
 W: 235
 H: 938
+Frame: ExRTNote
+FrameLevel: 1
+Anchor: BOTTOM
+X: 379
+Y: 39
+W: 309
+H: 308
 Frame: REPorterFrameCoreAnchor
 FrameLevel: 4
 Anchor: RIGHT
@@ -62,13 +62,6 @@ X: -413
 Y: -74
 W: 600
 H: 400
-Frame: BDLC Roll Window
-FrameLevel: 10
-Anchor: RIGHT
-X: -573
-Y: 0
-W: 520
-H: 1
 Frame: BDLC Config
 FrameLevel: 9
 Anchor: CENTER
@@ -104,3 +97,10 @@ X: 432
 Y: -286
 W: 27
 H: 26
+Frame: BDLC Roll Window
+FrameLevel: 10
+Anchor: RIGHT
+X: -573
+Y: 0
+W: 520
+H: 1
