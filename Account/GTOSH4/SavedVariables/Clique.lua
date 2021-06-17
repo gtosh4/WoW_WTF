@@ -30,16 +30,6 @@ CliqueDB3 = {
 			["specswap"] = false,
 			["spec2_profileKey"] = "Toshdk - Kil'jaeden",
 		},
-		["Toshdruid - Area 52"] = {
-			["spec1_profileKey"] = "Toshdruid - Area 52",
-			["spec3_profileKey"] = "Toshdruid - Area 52",
-			["downclick"] = true,
-			["alerthidden"] = true,
-			["spec4_profileKey"] = "Toshdruid - Area 52",
-			["spec2_profileKey"] = "Toshdruid - Area 52",
-			["specswap"] = false,
-			["fastooc"] = false,
-		},
 		["Toshlongboy - Eldre'Thalas"] = {
 			["spec1_profileKey"] = "Toshlongboy - Eldre'Thalas",
 			["spec2_profileKey"] = "Toshlongboy - Eldre'Thalas",
@@ -48,13 +38,15 @@ CliqueDB3 = {
 			["specswap"] = false,
 			["spec3_profileKey"] = "Toshlongboy - Eldre'Thalas",
 		},
-		["Toshtoon - Barthilas"] = {
-			["spec1_profileKey"] = "Toshtoon - Barthilas",
-			["spec3_profileKey"] = "Toshtoon - Barthilas",
-			["downclick"] = false,
+		["Toshdruid - Area 52"] = {
+			["spec1_profileKey"] = "Toshdruid - Area 52",
+			["spec3_profileKey"] = "Toshdruid - Area 52",
+			["downclick"] = true,
+			["alerthidden"] = true,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshtoon - Barthilas",
+			["spec2_profileKey"] = "Toshdruid - Area 52",
 			["specswap"] = false,
+			["spec4_profileKey"] = "Toshdruid - Area 52",
 		},
 		["Toshpriest - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Toshpriest - Kil'jaeden",
@@ -63,6 +55,14 @@ CliqueDB3 = {
 			["downclick"] = true,
 			["spec2_profileKey"] = "Toshpriest - Kil'jaeden",
 			["spec3_profileKey"] = "Toshpriest - Kil'jaeden",
+		},
+		["Toshtoon - Barthilas"] = {
+			["spec1_profileKey"] = "Toshtoon - Barthilas",
+			["spec3_profileKey"] = "Toshtoon - Barthilas",
+			["downclick"] = false,
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Toshtoon - Barthilas",
+			["specswap"] = false,
 		},
 		["Toshpal - Area 52"] = {
 			["spec1_profileKey"] = "Toshpal - Area 52",

@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 674,
+	["session"] = 676,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -10,5 +10,12 @@ BugGrabberDB = {
 			["session"] = 667,
 			["counter"] = 1,
 		}, -- [1]
+		{
+			["message"] = "AceLocale-3.0-6: OmniCD: Missing entry for 'A new update is available. (%s)'",
+			["time"] = "2021/06/16 15:52:19",
+			["stack"] = "[string \"@Interface\\AddOns\\OmniCD\\Core\\load.lua\"]:131: in function <Interface\\AddOns\\OmniCD\\Core\\load.lua:121>",
+			["session"] = 675,
+			["counter"] = 1,
+		}, -- [2]
 	},
 }

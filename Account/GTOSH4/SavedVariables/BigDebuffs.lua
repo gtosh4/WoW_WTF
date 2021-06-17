@@ -8,10 +8,10 @@ BigDebuffsDB = {
 		["Toshpriest - Area 52"] = "Default",
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshpriest - Azralon"] = "Default",
-		["Toshdruid - Area 52"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
-		["Toshtoon - Barthilas"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 		["Toshpriest - Kil'jaeden"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
 		["Toshpal - Area 52"] = "Default",
 	},
 	["profiles"] = {

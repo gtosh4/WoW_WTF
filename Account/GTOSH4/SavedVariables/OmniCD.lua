@@ -6,9 +6,10 @@ OmniCDDB = {
 		["Toshpal - Area 52"] = "Default",
 	},
 	["global"] = {
-		["oodVer"] = 2522,
-		["oodChk"] = 210424,
 		["disableElvMsg"] = true,
+		["oodChk"] = 210616,
+		["oodVer"] = 2602,
+		["oodMsg"] = "|cfff16436 A new update is available. (Major update)",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
