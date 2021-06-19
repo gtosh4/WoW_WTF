@@ -6,6 +6,9 @@ OneRing_Config = {
 	["_OPieVersion"] = "Xe 2a (3.104)",
 	["ProfileStorage"] = {
 		["default"] = {
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSh",
+			},
 			["Bindings"] = {
 				["WarlockLTS"] = false,
 				["SpecMenu"] = "ALT-N",
@@ -15,13 +18,10 @@ OneRing_Config = {
 				["RaidSymbols"] = "ALT-E",
 				["TrinketSlots"] = false,
 				["WorldMarkers"] = "ALT-Q",
-				["DruidFeral"] = false,
-				["PaladinAuras"] = false,
-				["OPieAutoQuest"] = "ALT-G",
 				["OPieTracking"] = false,
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPieAutoQuest"] = "ALT-G",
+				["PaladinAuras"] = false,
+				["DruidFeral"] = false,
 			},
 		},
 	},
@@ -102,8 +102,8 @@ OneRing_Config = {
 					["sliceToken"] = "OPCHSm",
 				}, -- [14]
 				["name"] = "Hearthstones",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["SpecMenu"] = {
 				{

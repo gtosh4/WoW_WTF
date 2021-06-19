@@ -14,7 +14,7 @@ Prat3DB = {
 				["Default"] = {
 					["minchatwidthdefault"] = 296,
 					["maxchatheightdefault"] = 400,
-					["maxchatwidthdefault"] = 608,
+					["maxchatwidthdefault"] = 608.0000610351562,
 					["initialized"] = true,
 				},
 			},
@@ -45,7 +45,7 @@ Prat3DB = {
 		},
 		["Prat_Bubbles"] = {
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Sounds"] = {
 		},
@@ -53,7 +53,7 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Scroll"] = {
 		},
@@ -71,6 +71,12 @@ Prat3DB = {
 				["Default"] = {
 					["fontface"] = "Friz Quadrata TT",
 					["rememberfont"] = true,
+					["size"] = {
+						["ChatFrame2"] = 14,
+						["ChatFrame4"] = 14,
+						["ChatFrame1"] = 14,
+						["ChatFrame3"] = 14,
+					},
 				},
 			},
 		},
@@ -95,7 +101,7 @@ Prat3DB = {
 				},
 			},
 		},
-		["Prat_ChatLog"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_Search"] = {
 		},

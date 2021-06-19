@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1121,
+	["session"] = 1131,
 	["errors"] = {
 		{
 			["message"] = "[string \"Error in: Chain Distance 2':'custom text\"]:33: attempt to concatenate a nil value",
@@ -35,5 +35,21 @@ BugGrabberDB = {
 			["session"] = 1121,
 			["counter"] = 1,
 		}, -- [4]
+		{
+			["message"] = "Interface\\AddOns\\Details\\Libs\\DF\\cooltip.lua:1036: GameCooltipMainButton1_StatusBar_TextRight:SetFontObject(): Couldn't find font named Bazooka",
+			["time"] = "2021/06/18 21:19:30",
+			["locals"] = "(*temporary) = GameCooltipMainButton1_StatusBar_TextRight {\n 0 = <userdata>\n}\n(*temporary) = \"Bazooka\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `SetFontObject'\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\cooltip.lua\"]:1036: in function `TextAndIcon'\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\cooltip.lua\"]:1595: in function <Interface\\AddOns\\Details\\Libs\\DF\\cooltip.lua:1557>\n[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\Details\\Libs\\DF\\dropdown.lua\"]:586: in function <Interface\\AddOns\\Details\\Libs\\DF\\dropdown.lua:572>",
+			["session"] = 1124,
+			["counter"] = 1,
+		}, -- [5]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'ActionButton5:Show()'.",
+			["time"] = "2021/06/18 23:04:25",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:348: in function <Interface\\FrameXML\\ActionButton.lua:332>\n[string \"=[C]\"]: in function `Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:854: in function `OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:265: in function <Interface\\FrameXML\\ActionButton.lua:257>",
+			["session"] = 1131,
+			["counter"] = 2,
+		}, -- [6]
 	},
 }
