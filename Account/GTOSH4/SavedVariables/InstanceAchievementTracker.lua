@@ -13,10 +13,10 @@ AchievementTrackerOptions = {
 	["announceTrackedAchievements"] = false,
 	["hideCompletedAchievements"] = false,
 	["changeMinimapIcon"] = false,
-	["trackAchievementsAutomatically"] = false,
+	["announceToRaidWarning"] = true,
 	["onlyTrackMissingAchievements"] = false,
 	["trackAchievementsInBlizzardUI"] = false,
-	["announceToRaidWarning"] = true,
+	["trackAchievementsAutomatically"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -10620,6 +10620,262 @@ AchievementTrackerDebug = {
 	"24/4/2021 4:40 [DEBUG] Unable to fetch DifficultyID for current instance. Waiting 2 seconds then trying again", -- [10599]
 	"24/4/2021 4:40 [DEBUG] Player has entered instance", -- [10600]
 	"24/4/2021 4:40 [DEBUG] Unable to fetch DifficultyID for current instance. Waiting 2 seconds then trying again", -- [10601]
+	"25/6/2021 23:0 [DEBUG] ---IAT Runtime---", -- [10602]
+	"25/6/2021 23:0 [DEBUG] Version: 3.24.0", -- [10603]
+	"25/6/2021 23:0 [DEBUG] Attempting to load from local NPC Cache", -- [10604]
+	"25/6/2021 23:0 [DEBUG] Generating NPC Cache...", -- [10605]
+	"25/6/2021 23:0 [DEBUG] Enabling Addon", -- [10606]
+	"25/6/2021 23:0 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [10607]
+	"26/6/2021 2:1 [DEBUG] Hiding Minimap Icon", -- [10608]
+	"26/6/2021 2:1 [DEBUG] NPC cache generated", -- [10609]
+	"26/6/2021 2:4 [DEBUG] Player has entered instance", -- [10610]
+	"26/6/2021 2:4 [DEBUG] 2287", -- [10611]
+	"26/6/2021 2:4 [DEBUG] Offical Instance Name: 2287 _2287", -- [10612]
+	"26/6/2021 2:4 [DEBUG] Expansion: 2", -- [10613]
+	"26/6/2021 2:4 [DEBUG] Instance Type: Dungeons", -- [10614]
+	"26/6/2021 2:4 [DEBUG] Instance: 2287", -- [10615]
+	"26/6/2021 2:4 [DEBUG] DifficultyID: 1", -- [10616]
+	"26/6/2021 2:4 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10617]
+	"26/6/2021 2:17 [DEBUG] Clearing Instance Variables", -- [10618]
+	"26/6/2021 2:17 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to index field '?' (a nil value).", -- [10619]
+	"26/6/2021 2:17 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to index field '?' (a nil value).", -- [10620]
+	"26/6/2021 2:17 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10621]
+	"26/6/2021 2:17 [DEBUG] Clearing Instance Variables if exists", -- [10622]
+	"26/6/2021 2:17 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to index field '?' (a nil value).", -- [10623]
+	"26/6/2021 2:17 [DEBUG] Clearing Instance Variables if exists", -- [10624]
+	"26/6/2021 2:17 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3770: attempt to index field '?' (a nil value).", -- [10625]
+	"26/6/2021 2:17 [DEBUG] Resetting Global Variables", -- [10626]
+	"26/6/2021 2:17 [DEBUG] InfoFrame does not need to be reset", -- [10627]
+	"26/6/2021 2:17 [DEBUG] Resetting PlayerRank", -- [10628]
+	"26/6/2021 2:17 [DEBUG] InfoFrame was not active", -- [10629]
+	"26/6/2021 2:17 [DEBUG] 6", -- [10630]
+	"26/6/2021 2:18 [DEBUG] Player has entered instance", -- [10631]
+	"26/6/2021 2:18 [DEBUG] 2289", -- [10632]
+	"26/6/2021 2:18 [DEBUG] Offical Instance Name: 2289 _2289", -- [10633]
+	"26/6/2021 2:18 [DEBUG] Expansion: 2", -- [10634]
+	"26/6/2021 2:18 [DEBUG] Instance Type: Dungeons", -- [10635]
+	"26/6/2021 2:18 [DEBUG] Instance: 2289", -- [10636]
+	"26/6/2021 2:18 [DEBUG] DifficultyID: 1", -- [10637]
+	"26/6/2021 2:18 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10638]
+	"26/6/2021 2:26 [DEBUG] Clearing Instance Variables", -- [10639]
+	"26/6/2021 2:26 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10640]
+	"26/6/2021 2:26 [DEBUG] Function failed, error text: Interface\\AddOns\\InstanceAchievementTracker\\GUI.lua:2245: attempt to index upvalue 'InfoFrame' (a nil value).", -- [10641]
+	"26/6/2021 2:26 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10642]
+	"26/6/2021 2:26 [DEBUG] Clearing Instance Variables if exists", -- [10643]
+	"26/6/2021 2:26 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10644]
+	"26/6/2021 2:26 [DEBUG] Clearing Instance Variables if exists", -- [10645]
+	"26/6/2021 2:26 [DEBUG] Clearing Instance Variables", -- [10646]
+	"26/6/2021 2:26 [DEBUG] Resetting Global Variables", -- [10647]
+	"26/6/2021 2:26 [DEBUG] InfoFrame does not need to be reset", -- [10648]
+	"26/6/2021 2:26 [DEBUG] Resetting PlayerRank", -- [10649]
+	"26/6/2021 2:26 [DEBUG] InfoFrame was not active", -- [10650]
+	"26/6/2021 2:26 [DEBUG] 6", -- [10651]
+	"26/6/2021 2:27 [DEBUG] Player has entered instance", -- [10652]
+	"26/6/2021 2:27 [DEBUG] 2286", -- [10653]
+	"26/6/2021 2:27 [DEBUG] Offical Instance Name: 2286 _2286", -- [10654]
+	"26/6/2021 2:27 [DEBUG] Expansion: 2", -- [10655]
+	"26/6/2021 2:27 [DEBUG] Instance Type: Dungeons", -- [10656]
+	"26/6/2021 2:27 [DEBUG] Instance: 2286", -- [10657]
+	"26/6/2021 2:27 [DEBUG] DifficultyID: 1", -- [10658]
+	"26/6/2021 2:27 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10659]
+	"26/6/2021 2:45 [DEBUG] Clearing Instance Variables", -- [10660]
+	"26/6/2021 2:45 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10661]
+	"26/6/2021 2:45 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10662]
+	"26/6/2021 2:45 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10663]
+	"26/6/2021 2:45 [DEBUG] Clearing Instance Variables if exists", -- [10664]
+	"26/6/2021 2:45 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10665]
+	"26/6/2021 2:45 [DEBUG] Clearing Instance Variables if exists", -- [10666]
+	"26/6/2021 2:45 [DEBUG] Clearing Instance Variables", -- [10667]
+	"26/6/2021 2:45 [DEBUG] Resetting Global Variables", -- [10668]
+	"26/6/2021 2:45 [DEBUG] InfoFrame does not need to be reset", -- [10669]
+	"26/6/2021 2:45 [DEBUG] Resetting PlayerRank", -- [10670]
+	"26/6/2021 2:45 [DEBUG] InfoFrame was not active", -- [10671]
+	"26/6/2021 2:45 [DEBUG] 6", -- [10672]
+	"26/6/2021 2:47 [DEBUG] Player has entered instance", -- [10673]
+	"26/6/2021 2:47 [DEBUG] 2287", -- [10674]
+	"26/6/2021 2:47 [DEBUG] Offical Instance Name: 2287 _2287", -- [10675]
+	"26/6/2021 2:47 [DEBUG] Expansion: 2", -- [10676]
+	"26/6/2021 2:47 [DEBUG] Instance Type: Dungeons", -- [10677]
+	"26/6/2021 2:47 [DEBUG] Instance: 2287", -- [10678]
+	"26/6/2021 2:47 [DEBUG] DifficultyID: 1", -- [10679]
+	"26/6/2021 2:47 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10680]
+	"26/6/2021 3:0 [DEBUG] Clearing Instance Variables", -- [10681]
+	"26/6/2021 3:0 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to index field '?' (a nil value).", -- [10682]
+	"26/6/2021 3:0 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to index field '?' (a nil value).", -- [10683]
+	"26/6/2021 3:0 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10684]
+	"26/6/2021 3:0 [DEBUG] Clearing Instance Variables if exists", -- [10685]
+	"26/6/2021 3:0 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to index field '?' (a nil value).", -- [10686]
+	"26/6/2021 3:0 [DEBUG] Clearing Instance Variables if exists", -- [10687]
+	"26/6/2021 3:0 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3770: attempt to index field '?' (a nil value).", -- [10688]
+	"26/6/2021 3:0 [DEBUG] Resetting Global Variables", -- [10689]
+	"26/6/2021 3:0 [DEBUG] InfoFrame does not need to be reset", -- [10690]
+	"26/6/2021 3:0 [DEBUG] Resetting PlayerRank", -- [10691]
+	"26/6/2021 3:0 [DEBUG] InfoFrame was not active", -- [10692]
+	"26/6/2021 3:0 [DEBUG] 6", -- [10693]
+	"26/6/2021 3:14 [DEBUG] Player has entered instance", -- [10694]
+	"26/6/2021 3:14 [DEBUG] 2289", -- [10695]
+	"26/6/2021 3:14 [DEBUG] Offical Instance Name: 2289 _2289", -- [10696]
+	"26/6/2021 3:14 [DEBUG] Expansion: 2", -- [10697]
+	"26/6/2021 3:14 [DEBUG] Instance Type: Dungeons", -- [10698]
+	"26/6/2021 3:14 [DEBUG] Instance: 2289", -- [10699]
+	"26/6/2021 3:14 [DEBUG] DifficultyID: 1", -- [10700]
+	"26/6/2021 3:14 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10701]
+	"26/6/2021 3:22 [DEBUG] Clearing Instance Variables", -- [10702]
+	"26/6/2021 3:22 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10703]
+	"26/6/2021 3:22 [DEBUG] Function failed, error text: Interface\\AddOns\\InstanceAchievementTracker\\GUI.lua:2245: attempt to index upvalue 'InfoFrame' (a nil value).", -- [10704]
+	"26/6/2021 3:22 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10705]
+	"26/6/2021 3:22 [DEBUG] Clearing Instance Variables if exists", -- [10706]
+	"26/6/2021 3:22 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10707]
+	"26/6/2021 3:22 [DEBUG] Clearing Instance Variables if exists", -- [10708]
+	"26/6/2021 3:22 [DEBUG] Clearing Instance Variables", -- [10709]
+	"26/6/2021 3:22 [DEBUG] Resetting Global Variables", -- [10710]
+	"26/6/2021 3:22 [DEBUG] InfoFrame does not need to be reset", -- [10711]
+	"26/6/2021 3:22 [DEBUG] Resetting PlayerRank", -- [10712]
+	"26/6/2021 3:22 [DEBUG] InfoFrame was not active", -- [10713]
+	"26/6/2021 3:22 [DEBUG] 6", -- [10714]
+	"26/6/2021 3:24 [DEBUG] Player has entered instance", -- [10715]
+	"26/6/2021 3:24 [DEBUG] 2286", -- [10716]
+	"26/6/2021 3:24 [DEBUG] Offical Instance Name: 2286 _2286", -- [10717]
+	"26/6/2021 3:24 [DEBUG] Expansion: 2", -- [10718]
+	"26/6/2021 3:24 [DEBUG] Instance Type: Dungeons", -- [10719]
+	"26/6/2021 3:24 [DEBUG] Instance: 2286", -- [10720]
+	"26/6/2021 3:24 [DEBUG] DifficultyID: 1", -- [10721]
+	"26/6/2021 3:24 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10722]
+	"26/6/2021 3:38 [DEBUG] Clearing Instance Variables", -- [10723]
+	"26/6/2021 3:38 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10724]
+	"26/6/2021 3:38 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10725]
+	"26/6/2021 3:38 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10726]
+	"26/6/2021 3:38 [DEBUG] Clearing Instance Variables if exists", -- [10727]
+	"26/6/2021 3:38 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10728]
+	"26/6/2021 3:38 [DEBUG] Clearing Instance Variables if exists", -- [10729]
+	"26/6/2021 3:38 [DEBUG] Clearing Instance Variables", -- [10730]
+	"26/6/2021 3:38 [DEBUG] Resetting Global Variables", -- [10731]
+	"26/6/2021 3:38 [DEBUG] InfoFrame does not need to be reset", -- [10732]
+	"26/6/2021 3:38 [DEBUG] Resetting PlayerRank", -- [10733]
+	"26/6/2021 3:38 [DEBUG] InfoFrame was not active", -- [10734]
+	"26/6/2021 3:38 [DEBUG] 6", -- [10735]
+	"26/6/2021 3:40 [DEBUG] Player has entered instance", -- [10736]
+	"26/6/2021 3:40 [DEBUG] 2290", -- [10737]
+	"26/6/2021 3:40 [DEBUG] Offical Instance Name: 2290 _2290", -- [10738]
+	"26/6/2021 3:40 [DEBUG] Expansion: 2", -- [10739]
+	"26/6/2021 3:40 [DEBUG] Instance Type: Dungeons", -- [10740]
+	"26/6/2021 3:40 [DEBUG] Instance: 2290", -- [10741]
+	"26/6/2021 3:40 [DEBUG] DifficultyID: 1", -- [10742]
+	"26/6/2021 3:40 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10743]
+	"26/6/2021 3:51 [DEBUG] Clearing Instance Variables", -- [10744]
+	"26/6/2021 3:51 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10745]
+	"26/6/2021 3:51 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10746]
+	"26/6/2021 3:51 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10747]
+	"26/6/2021 3:51 [DEBUG] Clearing Instance Variables if exists", -- [10748]
+	"26/6/2021 3:51 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10749]
+	"26/6/2021 3:51 [DEBUG] Clearing Instance Variables if exists", -- [10750]
+	"26/6/2021 3:51 [DEBUG] Clearing Instance Variables", -- [10751]
+	"26/6/2021 3:51 [DEBUG] Resetting Global Variables", -- [10752]
+	"26/6/2021 3:51 [DEBUG] InfoFrame does not need to be reset", -- [10753]
+	"26/6/2021 3:51 [DEBUG] Resetting PlayerRank", -- [10754]
+	"26/6/2021 3:51 [DEBUG] InfoFrame was not active", -- [10755]
+	"26/6/2021 3:51 [DEBUG] 6", -- [10756]
+	"26/6/2021 3:52 [DEBUG] Player has entered instance", -- [10757]
+	"26/6/2021 3:52 [DEBUG] 2289", -- [10758]
+	"26/6/2021 3:52 [DEBUG] Offical Instance Name: 2289 _2289", -- [10759]
+	"26/6/2021 3:52 [DEBUG] Expansion: 2", -- [10760]
+	"26/6/2021 3:52 [DEBUG] Instance Type: Dungeons", -- [10761]
+	"26/6/2021 3:52 [DEBUG] Instance: 2289", -- [10762]
+	"26/6/2021 3:52 [DEBUG] DifficultyID: 1", -- [10763]
+	"26/6/2021 3:52 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10764]
+	"26/6/2021 3:56 [DEBUG] Clearing Instance Variables", -- [10765]
+	"26/6/2021 3:56 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10766]
+	"26/6/2021 3:56 [DEBUG] Function failed, error text: Interface\\AddOns\\InstanceAchievementTracker\\GUI.lua:2245: attempt to index upvalue 'InfoFrame' (a nil value).", -- [10767]
+	"26/6/2021 3:56 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10768]
+	"26/6/2021 3:56 [DEBUG] Clearing Instance Variables if exists", -- [10769]
+	"26/6/2021 3:56 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10770]
+	"26/6/2021 3:56 [DEBUG] Clearing Instance Variables if exists", -- [10771]
+	"26/6/2021 3:56 [DEBUG] Clearing Instance Variables", -- [10772]
+	"26/6/2021 3:56 [DEBUG] Resetting Global Variables", -- [10773]
+	"26/6/2021 3:56 [DEBUG] InfoFrame does not need to be reset", -- [10774]
+	"26/6/2021 3:56 [DEBUG] Resetting PlayerRank", -- [10775]
+	"26/6/2021 3:56 [DEBUG] InfoFrame was not active", -- [10776]
+	"26/6/2021 3:56 [DEBUG] Player has entered instance", -- [10777]
+	"26/6/2021 3:56 [DEBUG] 2286", -- [10778]
+	"26/6/2021 3:56 [DEBUG] Offical Instance Name: 2286 _2286", -- [10779]
+	"26/6/2021 3:56 [DEBUG] Expansion: 2", -- [10780]
+	"26/6/2021 3:56 [DEBUG] Instance Type: Dungeons", -- [10781]
+	"26/6/2021 3:56 [DEBUG] Instance: 2286", -- [10782]
+	"26/6/2021 3:56 [DEBUG] DifficultyID: 1", -- [10783]
+	"26/6/2021 3:56 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10784]
+	"26/6/2021 4:6 [DEBUG] Clearing Instance Variables", -- [10785]
+	"26/6/2021 4:6 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10786]
+	"26/6/2021 4:6 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10787]
+	"26/6/2021 4:6 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10788]
+	"26/6/2021 4:6 [DEBUG] Clearing Instance Variables if exists", -- [10789]
+	"26/6/2021 4:6 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10790]
+	"26/6/2021 4:6 [DEBUG] Clearing Instance Variables if exists", -- [10791]
+	"26/6/2021 4:6 [DEBUG] Clearing Instance Variables", -- [10792]
+	"26/6/2021 4:6 [DEBUG] Resetting Global Variables", -- [10793]
+	"26/6/2021 4:6 [DEBUG] InfoFrame does not need to be reset", -- [10794]
+	"26/6/2021 4:6 [DEBUG] Resetting PlayerRank", -- [10795]
+	"26/6/2021 4:6 [DEBUG] InfoFrame was not active", -- [10796]
+	"26/6/2021 4:6 [DEBUG] Player has entered instance", -- [10797]
+	"26/6/2021 4:6 [DEBUG] 2290", -- [10798]
+	"26/6/2021 4:6 [DEBUG] Offical Instance Name: 2290 _2290", -- [10799]
+	"26/6/2021 4:6 [DEBUG] Expansion: 2", -- [10800]
+	"26/6/2021 4:6 [DEBUG] Instance Type: Dungeons", -- [10801]
+	"26/6/2021 4:6 [DEBUG] Instance: 2290", -- [10802]
+	"26/6/2021 4:6 [DEBUG] DifficultyID: 1", -- [10803]
+	"26/6/2021 4:6 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10804]
+	"26/6/2021 4:16 [DEBUG] Clearing Instance Variables", -- [10805]
+	"26/6/2021 4:16 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10806]
+	"26/6/2021 4:16 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10807]
+	"26/6/2021 4:16 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10808]
+	"26/6/2021 4:16 [DEBUG] Clearing Instance Variables if exists", -- [10809]
+	"26/6/2021 4:16 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10810]
+	"26/6/2021 4:16 [DEBUG] Clearing Instance Variables if exists", -- [10811]
+	"26/6/2021 4:16 [DEBUG] Clearing Instance Variables", -- [10812]
+	"26/6/2021 4:16 [DEBUG] Resetting Global Variables", -- [10813]
+	"26/6/2021 4:16 [DEBUG] InfoFrame does not need to be reset", -- [10814]
+	"26/6/2021 4:16 [DEBUG] Resetting PlayerRank", -- [10815]
+	"26/6/2021 4:16 [DEBUG] InfoFrame was not active", -- [10816]
+	"26/6/2021 4:16 [DEBUG] Player has entered instance", -- [10817]
+	"26/6/2021 4:16 [DEBUG] 2289", -- [10818]
+	"26/6/2021 4:16 [DEBUG] Offical Instance Name: 2289 _2289", -- [10819]
+	"26/6/2021 4:16 [DEBUG] Expansion: 2", -- [10820]
+	"26/6/2021 4:16 [DEBUG] Instance Type: Dungeons", -- [10821]
+	"26/6/2021 4:16 [DEBUG] Instance: 2289", -- [10822]
+	"26/6/2021 4:16 [DEBUG] DifficultyID: 1", -- [10823]
+	"26/6/2021 4:16 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10824]
+	"26/6/2021 4:25 [DEBUG] Clearing Instance Variables", -- [10825]
+	"26/6/2021 4:25 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10826]
+	"26/6/2021 4:25 [DEBUG] Function failed, error text: Interface\\AddOns\\InstanceAchievementTracker\\GUI.lua:2245: attempt to index upvalue 'InfoFrame' (a nil value).", -- [10827]
+	"26/6/2021 4:25 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10828]
+	"26/6/2021 4:25 [DEBUG] Clearing Instance Variables if exists", -- [10829]
+	"26/6/2021 4:25 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10830]
+	"26/6/2021 4:25 [DEBUG] Clearing Instance Variables if exists", -- [10831]
+	"26/6/2021 4:25 [DEBUG] Clearing Instance Variables", -- [10832]
+	"26/6/2021 4:25 [DEBUG] Resetting Global Variables", -- [10833]
+	"26/6/2021 4:25 [DEBUG] InfoFrame does not need to be reset", -- [10834]
+	"26/6/2021 4:25 [DEBUG] Resetting PlayerRank", -- [10835]
+	"26/6/2021 4:25 [DEBUG] InfoFrame was not active", -- [10836]
+	"26/6/2021 4:25 [DEBUG] Player has entered instance", -- [10837]
+	"26/6/2021 4:25 [DEBUG] 2286", -- [10838]
+	"26/6/2021 4:25 [DEBUG] Offical Instance Name: 2286 _2286", -- [10839]
+	"26/6/2021 4:25 [DEBUG] Expansion: 2", -- [10840]
+	"26/6/2021 4:25 [DEBUG] Instance Type: Dungeons", -- [10841]
+	"26/6/2021 4:25 [DEBUG] Instance: 2286", -- [10842]
+	"26/6/2021 4:25 [DEBUG] DifficultyID: 1", -- [10843]
+	"26/6/2021 4:25 [DEBUG] Achievements cannot be earned for the following difficulty 1", -- [10844]
+	"26/6/2021 4:35 [DEBUG] Clearing Instance Variables", -- [10845]
+	"26/6/2021 4:35 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1904: attempt to call method 'IATInstanceCleanup' (a nil value).", -- [10846]
+	"26/6/2021 4:35 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:1912: attempt to call method 'InstanceCleanup' (a nil value).", -- [10847]
+	"26/6/2021 4:35 [DEBUG] Player has left instance. Unregestering events and resetting variables", -- [10848]
+	"26/6/2021 4:35 [DEBUG] Clearing Instance Variables if exists", -- [10849]
+	"26/6/2021 4:35 [DEBUG] Function failed, error text: ...nstanceAchievementTracker\\AchievementTrackerCore.lua:3762: attempt to call method 'clearVariables' (a nil value).", -- [10850]
+	"26/6/2021 4:35 [DEBUG] Clearing Instance Variables if exists", -- [10851]
+	"26/6/2021 4:35 [DEBUG] Clearing Instance Variables", -- [10852]
+	"26/6/2021 4:35 [DEBUG] Resetting Global Variables", -- [10853]
+	"26/6/2021 4:35 [DEBUG] InfoFrame does not need to be reset", -- [10854]
+	"26/6/2021 4:35 [DEBUG] Resetting PlayerRank", -- [10855]
+	"26/6/2021 4:35 [DEBUG] InfoFrame was not active", -- [10856]
+	"26/6/2021 4:35 [DEBUG] 6", -- [10857]
 }
 AchievementTrackerNPCCache = {
 	[75829] = "Nhallish",
@@ -10683,6 +10939,7 @@ AchievementTrackerNPCCache = {
 	[131595] = "Governess Tabitha",
 	[80951] = "Ore Grinder",
 	[154741] = "Squirt Bot",
+	[164076] = "Ji Firepaw",
 	[67844] = "Malkorok",
 	[126283] = "Urjad",
 	[122319] = "Darkfang",
@@ -10707,6 +10964,7 @@ AchievementTrackerNPCCache = {
 	[33572] = "Steelforged Defender",
 	[55087] = "General Nazgrim",
 	[128652] = "Viq'Goth",
+	[72451] = "Kor'kron Dark Shaman",
 	[150017] = "Gal'darah",
 	[151168] = "Annihilo-tron 5000",
 	[92208] = "Doomfire Spirit",
@@ -10734,6 +10992,7 @@ AchievementTrackerNPCCache = {
 	[76227] = "Solar Flare",
 	[31125] = "Archavon the Stone Watcher",
 	[124436] = "Blightscale Worm",
+	[72455] = "Overseer Komak",
 	[52148] = "Jin'do the Godbreaker",
 	[164475] = "Amarth",
 	[37890] = "Cult Fanatic",
@@ -10772,6 +11031,7 @@ AchievementTrackerNPCCache = {
 	[74570] = "Ruination",
 	[47739] = "\"Captain\" Cookie",
 	[168962] = "Reborn Phoenix",
+	[155919] = "Stormling",
 	[74571] = "Calamity",
 	[58321] = "Jade Serpent Egg",
 	[27658] = "Belgaristrasz",
@@ -10811,6 +11071,7 @@ AchievementTrackerNPCCache = {
 	[77006] = "Corpse Skitterling",
 	[153245] = "Stolen Shock Coil",
 	[97083] = "King Ranulf",
+	[64526] = "Ancient Mogu Artifact",
 	[144807] = "Ravenous Stalker",
 	[52442] = "Florawing Hive Queen",
 	[58676] = "Scarlet Defender",
@@ -10823,6 +11084,7 @@ AchievementTrackerNPCCache = {
 	[107698] = "Spellblade Aluriel",
 	[169617] = "Duraka the Unbreakable",
 	[68057] = "Duff McStrum",
+	[54105] = "Shannox",
 	[122532] = "Ember of Taeshalach",
 	[174733] = "Sludgefist",
 	[156575] = "Dark Inquisitor Xanesh",
@@ -10830,17 +11092,20 @@ AchievementTrackerNPCCache = {
 	[27756] = "Ruby Drake",
 	[33134] = "Sara",
 	[78736] = "Warlord Zaela",
+	[46753] = "Al'Akir",
 	[54969] = "Mannoroth",
 	[149289] = "De Lurker Be'loa",
 	[34605] = "Swarm Scarab",
 	[63313] = "Little Liuyang",
 	[60276] = "Hozen Clinger",
+	[61427] = "Subetai the Swift",
 	[157602] = "Drest'agath",
 	[75029] = "Soulbinder Nyami",
 	[47297] = "Lumbering Oaf",
 	[157475] = "Synthesis Growth",
 	[162719] = "Void Ascendant",
 	[86219] = "Azzakel",
+	[99646] = "Gastropod",
 	[69212] = "Twisted Spirit",
 	[164255] = "Globgrog",
 	[160291] = "Ashwalker Assassin",
@@ -10896,11 +11161,13 @@ AchievementTrackerNPCCache = {
 	[165805] = "Shade of Kael'thas",
 	[123503] = "Torment of Norgannon",
 	[94923] = "Lord Kur'talos Ravencrest",
+	[72545] = "Mokvar the Treasurer",
 	[115831] = "Mana Devourer",
 	[77149] = "Rat",
 	[81305] = "Fleshrender Nok'gar",
 	[144324] = "Gorak Tul",
 	[138314] = "Patches",
+	[53696] = "Fandral's Flame",
 	[137036] = "Awoken Void",
 	[59930] = "Empowered Zombie",
 	[43658] = "Frenzied Crocolisk",
@@ -10943,235 +11210,258 @@ AchievementTrackerNPCCache = {
 	[135129] = "Projection of Yogg-Saron",
 	[70250] = "Frozen Head",
 	[135513] = "Ancient Tome",
+	[71529] = "Thok the Bloodthirsty",
 	[90199] = "Gorefiend",
 	[115902] = "Razorjaw Waverunner",
+	[144637] = "Grong",
 	[138967] = "Zul",
+	[173768] = "Fiery Brazier",
+	[172094] = "Dissectible Dessert",
 	[70251] = "Venomous Head",
 	[105097] = "Glow Bug",
+	[15363] = "Spirit Totem",
+	[71466] = "Iron Juggernaut",
+	[60709] = "Qiang the Merciless",
+	[53694] = "Riplimb",
+	[72889] = "Superheated Crawler Mine",
+	[53695] = "Rageface",
+	[52571] = "Majordomo Staghelm",
+	[52936] = "Druid of the Flame",
+	[52675] = "Beth'tilac",
+	[53494] = "Baleroc",
 	[99663] = "Frustrated Soul",
 	[87451] = "Fleshrender Nok'gar",
+	[51405] = "Angered Earth",
+	[88938] = "Ragnaros",
 	[70252] = "Arcane Head",
 	[144596] = "Chest o' Booty",
+	[53501] = "Living Meteor",
 	[139737] = "Lord Stormsong",
 	[61884] = "Xin the Weaponmaster",
+	[39665] = "Rom'ogg Bonecrusher",
+	[71984] = "Siege Engineer",
+	[72496] = "Overseer Thathung",
 	[56897] = "Raigonn",
+	[72490] = "Overseer Mojka",
+	[90049] = "Iron Star Mk. II",
 	[71979] = "Kor'kron Warbringer",
 	[49864] = "Twilight Fiend",
-	[155247] = "Ventfeeder Worm",
+	[71983] = "Farseer Wolf Rider",
+	[61431] = "Glintrok Scout",
 	[61213] = "Krik'thik Conscript",
-	[165512] = "Cocoon of Lakali",
+	[155245] = "Depth Skulker",
 	[64346] = "Parasitoid Sha",
 	[152910] = "Queen Azshara",
-	[116691] = "Belac",
-	[52405] = "Mor'Lek the Dismantler",
+	[162102] = "Grand Proctor Beryllia",
+	[104217] = "Talixae Flamewreath",
 	[135903] = "Manifestation of the Deep",
-	[149995] = "High Priestess Azil",
-	[138705] = "Gourmet Parrot Chow",
+	[123531] = "Manifestation of Taeshalach",
+	[164501] = "Mistcaller",
 	[32857] = "Stormcaller Brundir",
 	[164967] = "Doctor Ickus",
-	[118924] = "Engine of Souls",
+	[113971] = "Maiden of Virtue",
 	[56843] = "Lorewalker Stonestep",
 	[50376] = "Angered Earth",
 	[15687] = "Moroes",
-	[114895] = "Nightbane",
+	[73195] = "Kor'kron Jailer",
 	[136160] = "King Dazar",
 	[33113] = "Flame Leviathan",
-	[61442] = "Kuai the Brute",
 	[108996] = "Specter of Vengeance",
+	[114462] = "The Curator",
 	[138718] = "Sharkbait's Empty Dish",
 	[33241] = "Freya",
-	[111864] = "Sticky",
+	[32927] = "Runemaster Molgeim",
 	[67569] = "Elder Adler",
-	[86250] = "Kyrak",
+	[83775] = "Ogron Laborer",
 	[77927] = "Son of the Beast",
 	[56930] = "Krik'thik Swarm Bringer",
-	[83775] = "Ogron Laborer",
+	[23574] = "Akil'zon",
 	[138719] = "Serve Sharkbait's Meal",
 	[103758] = "Star Augur Etraeus",
-	[35013] = "Koralon the Flame Watcher",
-	[64556] = "Captain Ook",
-	[40634] = "Naz'jar Tempest Witch",
+	[91349] = "Mannoroth",
+	[94996] = "Fragment of the Crone",
+	[155144] = "Abyssal Commander Sivara",
 	[164934] = "Manastorm",
-	[28860] = "Sartharion",
+	[52414] = "Tor-Tun",
 	[74475] = "Magmolatus",
 	[76585] = "Ragewing the Untamed",
-	[52414] = "Tor-Tun",
+	[52440] = "Gub",
 	[26627] = "Crystal Handler",
 	[93145] = "Soul of the Crone",
 	[39987] = "Evolved Twilight Zealot",
 	[116802] = "Rodent of Usual Size",
 	[108682] = "Amber Drake",
-	[105742] = "Turbax",
-	[52440] = "Gub",
 	[76283] = "Malefic Defender",
-	[86928] = "Empowered Construct",
+	[152703] = "Walkie Shockie X1",
 	[141792] = "Liz Vilepot",
+	[77816] = "Borka the Brute",
+	[129440] = "Harlan Sweete",
 	[172992] = "Overgrown Hydra",
 	[94808] = "Hellfire Guardian",
-	[61567] = "Vizier Jin'bak",
+	[150995] = "Mimiron",
 	[175422] = "Coalesced Anima",
-	[77816] = "Borka the Brute",
+	[172386] = "Anima Conduit",
 	[153172] = "Stolen Scrapbot",
 	[109450] = "Saronite Vapors",
 	[67571] = "Millhouse Manastorm",
-	[126712] = "Training Dummy",
-	[155760] = "Tank Buster MK2",
-	[115844] = "Goroth",
-	[134069] = "Vol'zith the Whisperer",
 	[36535] = "Corrupted Soul Fragment",
 	[99664] = "Restless Soul",
-	[58605] = "Scarlet Judicator",
+	[115844] = "Goroth",
+	[155595] = "Sacred Gear",
+	[105742] = "Turbax",
 	[147896] = "Zandalari Crusader",
+	[104528] = "High Botanist Tel'arn",
+	[155243] = "Scavenging Crab",
 	[122366] = "Varimathras",
-	[63091] = "Jade Quilen",
+	[105743] = "Whipsnap",
 	[165066] = "Huntsman Altimor",
 	[153941] = "Zoatroid",
-	[155243] = "Scavenging Crab",
-	[144637] = "Grong",
+	[78948] = "Tectus",
+	[102169] = "Black Bile",
 	[36855] = "Lady Deathwhisper",
-	[171474] = "Finger Food",
+	[155277] = "Gorjesh the Smasher",
 	[174018] = "Volatile Plague Bomb",
 	[100436] = "Illysanna Ravencrest",
-	[147895] = "Rezani Disciple",
-	[129208] = "Dread Captain Lockwood",
+	[110758] = "High Inquisitor Whitemane",
+	[61567] = "Vizier Jin'bak",
 	[52392] = "Gurubashi Master Chef",
-	[77814] = "Teron'gor",
 	[67231] = "Trial of the King",
-	[172995] = "Hydra Seed",
-	[34035] = "Feral Defender",
+	[166644] = "Artificer Xy'mox",
+	[135713] = "Vile Pod",
+	[28514] = "Nalorakk",
 	[95833] = "Hyrja",
 	[156884] = "Essence of Vita",
-	[131667] = "Soulbound Goliath",
+	[166266] = "Spare Parts",
 	[69427] = "Dark Animus",
-	[56637] = "Ook-Ook",
-	[164557] = "Shard of Halkias",
 	[111941] = "Hodir",
-	[81834] = "Priceless Paraphernalia",
+	[164557] = "Shard of Halkias",
+	[32273] = "Infinite Corruptor",
+	[61709] = "Spawn of Anger",
 	[64061] = "Mogu'shan Warden",
 	[119938] = "Reanimated Templar",
-	[98696] = "Illysanna Ravencrest",
+	[158190] = "Medivh",
 	[105744] = "Blaze",
 	[146016] = "Leeroy Jenkins",
-	[61709] = "Spawn of Anger",
+	[80551] = "Shard of Tectus",
 	[115143] = "Snaplasher",
-	[62465] = "Captain Ook",
-	[131140] = "Fatal Corruption",
-	[105301] = "Expedient Elemental",
-	[141805] = "Threshanator 3000",
+	[53258] = "Lord Rhyolith",
 	[55312] = "Yor'sahj the Unsleeping",
-	[164218] = "Lord Chamberlain",
-	[26628] = "Drakkari Scytheclaw",
+	[169554] = "Disused Anima Container",
+	[91938] = "Haunting Soul",
+	[127503] = "Overseer Korgus",
 	[78121] = "Gorian Warmage",
+	[26628] = "Drakkari Scytheclaw",
+	[171456] = "Shattered Devastator",
 	[55334] = "Void of the Unmaking",
 	[59458] = "Hopling",
 	[110732] = "Creature of Madness",
-	[171456] = "Shattered Devastator",
+	[41440] = "Aberration",
 	[136683] = "Trade Prince Gallywix",
-	[131853] = "Huntmaster Grath",
+	[142949] = "Theramore Citizen",
 	[173767] = "Embered Brazier",
-	[172093] = "Hearty Haunch",
+	[59368] = "Krastinovian Carver",
 	[73265] = "Corrupted Amalgamation",
-	[104251] = "Duskwatch Sentry",
-	[52422] = "Kaulema the Mover",
+	[120564] = "Titanic Anomaly",
+	[29023] = "Jan'alai",
 	[129722] = "Mote of Titanic Power",
 	[58787] = "Big Bessa",
 	[33244] = "Mimiron",
 	[71603] = "Sha Puddle",
-	[145903] = "Darkforged Crusader",
-	[67966] = "Whirl Turtle",
+	[32913] = "Elder Ironbranch",
 	[32867] = "Steelbreaker",
+	[154074] = "Void Orb",
 	[165073] = "Forlorn Captive",
-	[102423] = "Mug of Mead",
+	[147430] = "Virmen",
 	[141800] = "Brutik Blackanvil",
-	[59822] = "Auntie Stormstout",
+	[33552] = "Yogg-Saron",
 	[173769] = "Smoldering Brazier",
-	[44530] = "Naz'jar Honor Guard",
-	[122314] = "L'ura",
-	[33202] = "Ancient Water Spirit",
-	[59779] = "Thunderpaw Guardian",
+	[104341] = "Torment",
+	[144683] = "Ra'wani Kanae",
+	[38135] = "Deformed Fanatic",
+	[72436] = "Immerseus",
 	[158041] = "N'Zoth the Corruptor",
-	[162317] = "Gorechop",
+	[90018] = "Hellfire Cannon",
 	[105299] = "Recursive Elemental",
-	[173770] = "Blazing Brazier",
+	[81834] = "Priceless Paraphernalia",
 	[68599] = "Ferra Pearl",
 	[34826] = "Mistress of Pain",
 	[111882] = "Sparky",
 	[50284] = "Twilight Zealot",
-	[161414] = "Evolved Specimen",
-	[69086] = "Flaming Head",
-	[175474] = "Belligerent Waiter",
-	[160271] = "Forbidden Manifestation",
 	[36330] = "Lord Godfrey",
+	[160271] = "Forbidden Manifestation",
+	[175474] = "Belligerent Waiter",
+	[69086] = "Flaming Head",
+	[161414] = "Evolved Specimen",
 	[84520] = "Pitwarden Gwarnok",
 	[49485] = "Aberration",
-	[90018] = "Hellfire Cannon",
-	[72436] = "Immerseus",
-	[38135] = "Deformed Fanatic",
-	[144683] = "Ra'wani Kanae",
-	[104341] = "Torment",
-	[33552] = "Yogg-Saron",
-	[147430] = "Virmen",
-	[154074] = "Void Orb",
+	[173770] = "Blazing Brazier",
+	[59779] = "Thunderpaw Guardian",
+	[162317] = "Gorechop",
+	[33202] = "Ancient Water Spirit",
+	[44530] = "Naz'jar Honor Guard",
+	[122314] = "L'ura",
+	[102423] = "Mug of Mead",
+	[59822] = "Auntie Stormstout",
 	[131318] = "Elder Leaxa",
-	[32913] = "Elder Ironbranch",
-	[29023] = "Jan'alai",
-	[120564] = "Titanic Anomaly",
-	[59368] = "Krastinovian Carver",
-	[173768] = "Fiery Brazier",
-	[41440] = "Aberration",
+	[67966] = "Whirl Turtle",
+	[145903] = "Darkforged Crusader",
+	[52422] = "Kaulema the Mover",
+	[104251] = "Duskwatch Sentry",
+	[172093] = "Hearty Haunch",
+	[131853] = "Huntmaster Grath",
 	[101976] = "Millificent Manastorm",
 	[80557] = "Mote of Tectus",
-	[127503] = "Overseer Korgus",
-	[91938] = "Haunting Soul",
-	[169554] = "Disused Anima Container",
+	[164218] = "Lord Chamberlain",
+	[141805] = "Threshanator 3000",
+	[105301] = "Expedient Elemental",
 	[64479] = "Gatecrusher",
-	[53258] = "Lord Rhyolith",
-	[80551] = "Shard of Tectus",
-	[158190] = "Medivh",
+	[61442] = "Kuai the Brute",
+	[131140] = "Fatal Corruption",
+	[62465] = "Captain Ook",
 	[38009] = "Reanimated Fanatic",
-	[32273] = "Infinite Corruptor",
+	[98696] = "Illysanna Ravencrest",
 	[145898] = "Anointed Disciple",
-	[166266] = "Spare Parts",
-	[28514] = "Nalorakk",
-	[135713] = "Vile Pod",
-	[166644] = "Artificer Xy'mox",
+	[56637] = "Ook-Ook",
+	[131667] = "Soulbound Goliath",
+	[34035] = "Feral Defender",
+	[172995] = "Hydra Seed",
 	[33118] = "Ignis the Furnace Master",
-	[110758] = "High Inquisitor Whitemane",
-	[155277] = "Gorjesh the Smasher",
-	[102169] = "Black Bile",
-	[78948] = "Tectus",
-	[105743] = "Whipsnap",
+	[77814] = "Teron'gor",
+	[129208] = "Dread Captain Lockwood",
+	[171474] = "Finger Food",
+	[147895] = "Rezani Disciple",
+	[148201] = "Crawler Mine",
 	[96223] = "Gamon",
-	[104528] = "High Botanist Tel'arn",
+	[63091] = "Jade Quilen",
 	[151654] = "Deuce Mecha-Buffer",
-	[155595] = "Sacred Gear",
+	[58605] = "Scarlet Judicator",
 	[137588] = "Gasping Flounder",
 	[124164] = "Torment of Golganneth",
-	[172386] = "Anima Conduit",
-	[150995] = "Mimiron",
-	[129440] = "Harlan Sweete",
+	[134069] = "Vol'zith the Whisperer",
+	[155760] = "Tank Buster MK2",
+	[126712] = "Training Dummy",
 	[99868] = "Fenryr",
 	[45906] = "Camel",
-	[152703] = "Walkie Shockie X1",
+	[86928] = "Empowered Construct",
 	[65407] = "Shado-Pan Novice",
 	[138740] = "Musashitake",
 	[127809] = "Reorigination Module",
-	[155144] = "Abyssal Commander Sivara",
-	[94996] = "Fragment of the Crone",
-	[91349] = "Mannoroth",
-	[23574] = "Akil'zon",
+	[28860] = "Sartharion",
+	[40634] = "Naz'jar Tempest Witch",
+	[64556] = "Captain Ook",
+	[35013] = "Koralon the Flame Watcher",
 	[38010] = "Reanimated Adherent",
-	[32927] = "Runemaster Molgeim",
-	[114462] = "The Curator",
+	[86250] = "Kyrak",
+	[111864] = "Sticky",
 	[161375] = "Promising Specimen",
-	[172094] = "Dissectible Dessert",
+	[114895] = "Nightbane",
 	[61699] = "Sik'thik Amberwing",
-	[113971] = "Maiden of Virtue",
+	[118924] = "Engine of Souls",
 	[171094] = "Grisly Curio",
-	[164501] = "Mistcaller",
-	[123531] = "Manifestation of Taeshalach",
-	[104217] = "Talixae Flamewreath",
-	[162102] = "Grand Proctor Beryllia",
-	[155245] = "Depth Skulker",
-	[61431] = "Glintrok Scout",
+	[138705] = "Gourmet Parrot Chow",
+	[52405] = "Mor'Lek the Dismantler",
+	[149995] = "High Priestess Azil",
+	[116691] = "Belac",
+	[165512] = "Cocoon of Lakali",
+	[155247] = "Ventfeeder Worm",
 }

@@ -1,21 +1,15 @@
 
 BugGrabberDB = {
+	["session"] = 682,
 	["lastSanitation"] = 3,
-	["session"] = 677,
 	["errors"] = {
 		{
-			["message"] = "...e\\AddOns\\AdiBags_Shadowlands\\AdiBags_Shadowlands-1.0.lua:59: bad argument #1 to 'IsItemConduit' (Usage: local isConduit = C_Item.IsItemConduit(itemLoc))",
-			["time"] = "2021/05/18 22:22:52",
-			["stack"] = "[string \"=(tail call)\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\core\\Filters-Filters.lua\"]:146: in function `Filter'\n[string \"@Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua\"]:718: in function `FilterSlot'\n[string \"@Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua\"]:752: in function `DispatchItem'\n[string \"@Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua\"]:913: in function `RedispatchAllItems'\n[string \"@Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua\"]:1056: in function <Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:1043>\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:129: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:129>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function `SendMessage'\n[string \"@Interface\\AddOns\\AdiBags\\core\\Core.lua\"]:445: in function `?'\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:119: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:29: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n[string \"@Interface\\AddOns\\Scrap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0-7.lua\"]:64: in function <...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:59>\n[string \"=(tail call)\"]: ?",
-			["session"] = 667,
-			["counter"] = 1,
+			["message"] = "Interface\\AddOns\\MythicPlusTimer\\criteria.lua:209: attempt to index field '?' (a nil value)",
+			["time"] = "2021/06/26 03:00:13",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\MythicPlusTimer\\criteria.lua\"]:209: in function <Interface\\AddOns\\MythicPlusTimer\\criteria.lua:170>\n[string \"@Interface\\AddOns\\MythicPlusTimer\\criteria.lua\"]:486: in function `update_step'\n[string \"@Interface\\AddOns\\MythicPlusTimer\\criteria.lua\"]:425: in function `update'\n[string \"@Interface\\AddOns\\MythicPlusTimer\\criteria.lua\"]:374: in function `callback'\n[string \"@Interface\\AddOns\\MythicPlusTimer\\addon.lua\"]:100: in function <Interface\\AddOns\\MythicPlusTimer\\addon.lua:94>",
+			["session"] = 682,
+			["counter"] = 6,
 		}, -- [1]
-		{
-			["message"] = "AceLocale-3.0-6: OmniCD: Missing entry for 'A new update is available. (%s)'",
-			["time"] = "2021/06/16 15:52:19",
-			["stack"] = "[string \"@Interface\\AddOns\\OmniCD\\Core\\load.lua\"]:131: in function <Interface\\AddOns\\OmniCD\\Core\\load.lua:121>",
-			["session"] = 675,
-			["counter"] = 1,
-		}, -- [2]
 	},
 }

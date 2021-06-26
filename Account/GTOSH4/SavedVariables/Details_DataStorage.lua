@@ -1,6 +1,6 @@
 
 DetailsDataStorage = {
-	["mythic_plus"] = {
+	["saved_encounters"] = {
 	},
 	[15] = {
 		[2398] = {
@@ -13,10 +13,6 @@ DetailsDataStorage = {
 		},
 	},
 	["VERSION"] = 5,
-	["saved_encounters"] = {
-	},
-	[14] = {
-	},
 	[16] = {
 		[2417] = {
 			{
@@ -236,6 +232,10 @@ DetailsDataStorage = {
 		[2402] = {
 		},
 	},
+	[14] = {
+	},
+	["mythic_plus"] = {
+	},
 	["totalkills"] = {
 		[2417] = {
 			[15] = {
@@ -365,7 +365,7 @@ DetailsDataStorage = {
 			[16] = {
 				["time_incombat"] = 0,
 				["time_fasterkill"] = 0,
-				["wipes"] = 142,
+				["wipes"] = 163,
 				["kills"] = 0,
 				["dps_best"] = 0,
 				["dps_best_raid"] = 0,

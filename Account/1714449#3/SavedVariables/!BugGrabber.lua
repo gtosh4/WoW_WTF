@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1131,
+	["session"] = 1133,
 	["errors"] = {
 		{
 			["message"] = "[string \"Error in: Chain Distance 2':'custom text\"]:33: attempt to concatenate a nil value",
@@ -51,5 +51,20 @@ BugGrabberDB = {
 			["session"] = 1131,
 			["counter"] = 2,
 		}, -- [6]
+		{
+			["message"] = "AceLocale-3.0-6: OmniCD: Missing entry for 'A new update is available. (%s)'",
+			["time"] = "2021/06/26 01:04:04",
+			["stack"] = "[string \"@Interface\\AddOns\\OmniCD\\Core\\load.lua\"]:131: in function <Interface\\AddOns\\OmniCD\\Core\\load.lua:121>",
+			["session"] = 1133,
+			["counter"] = 1,
+		}, -- [7]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'MultiBarLeftButton6:Show()'.",
+			["time"] = "2021/06/26 01:34:50",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:348: in function <Interface\\FrameXML\\ActionButton.lua:332>\n[string \"=[C]\"]: in function `Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:854: in function `OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:265: in function <Interface\\FrameXML\\ActionButton.lua:257>",
+			["session"] = 1133,
+			["counter"] = 1,
+		}, -- [8]
 	},
 }

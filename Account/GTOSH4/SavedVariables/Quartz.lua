@@ -13,25 +13,26 @@ Quartz3DB = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 25,
-					["y"] = -258.3328857421875,
-					["x"] = -6.66650390625,
-					["point"] = "TOP",
+					["y"] = -188.8330078125,
+					["x"] = -310.6663818359375,
+					["point"] = "CENTER",
 					["texture"] = "Smooth v2",
 				},
 			},
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Mirror"] = {
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 15,
 					["w"] = 386,
-					["y"] = 307.5,
-					["x"] = 1230.000366210938,
+					["y"] = -272.9989929199219,
+					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
+					["x"] = 5.00091552734375,
 					["texture"] = "Smooth v2",
 				},
 			},
@@ -51,16 +52,17 @@ Quartz3DB = {
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["y"] = 307.5001831054688,
+					["y"] = -118.4993896484375,
+					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
 					["texture"] = "Smooth v2",
-					["x"] = 1628.33154296875,
+					["x"] = 329.331787109375,
 				},
 			},
 		},
 		["Range"] = {
 		},
-		["EnemyCasts"] = {
+		["Mirror"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
@@ -74,16 +76,16 @@ Quartz3DB = {
 		["Toshdk - Kil'jaeden"] = "Default",
 		["Toshdruid - Area 52"] = "Default",
 		["Toshtoon - Barthilas"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
 		["Toshpal - Area 52"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
 		["Toshaman - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
 		["Toshpriest - Kil'jaeden"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

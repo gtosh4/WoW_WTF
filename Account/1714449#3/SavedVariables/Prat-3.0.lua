@@ -45,7 +45,7 @@ Prat3DB = {
 		},
 		["Prat_Bubbles"] = {
 		},
-		["Prat_Timestamps"] = {
+		["Prat_PopupMessage"] = {
 		},
 		["Prat_Sounds"] = {
 		},
@@ -53,7 +53,7 @@ Prat3DB = {
 		},
 		["Prat_KeyBindings"] = {
 		},
-		["Prat_ChatLog"] = {
+		["Prat_Timestamps"] = {
 		},
 		["Prat_Scroll"] = {
 		},
@@ -101,7 +101,7 @@ Prat3DB = {
 				},
 			},
 		},
-		["Prat_PopupMessage"] = {
+		["Prat_ChatLog"] = {
 		},
 		["Prat_Search"] = {
 		},

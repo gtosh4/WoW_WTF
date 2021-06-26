@@ -6,17 +6,18 @@ OmniCDDB = {
 		["Toshpal - Area 52"] = "Default",
 	},
 	["global"] = {
+		["oodVer"] = 2603,
+		["oodChk"] = 210625,
+		["oodMsg"] = "|cfff16436 A new update is available. (Hotfix)",
 		["disableElvMsg"] = true,
-		["oodChk"] = 210616,
-		["oodVer"] = 2602,
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["version"] = 2.51,
 	["cooldowns"] = {
 	},
+	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
