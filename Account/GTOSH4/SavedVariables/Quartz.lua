@@ -22,20 +22,20 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["EnemyCasts"] = {
-		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 15,
 					["w"] = 386,
-					["y"] = -272.9989929199219,
+					["y"] = -237.4435729980469,
 					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
-					["x"] = 5.00091552734375,
+					["x"] = 32.55633544921875,
 					["texture"] = "Smooth v2",
 				},
 			},
+		},
+		["EnemyCasts"] = {
 		},
 		["GCD"] = {
 		},
@@ -52,11 +52,11 @@ Quartz3DB = {
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["y"] = -118.4993896484375,
+					["y"] = -158.4992980957031,
 					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
 					["texture"] = "Smooth v2",
-					["x"] = 329.331787109375,
+					["x"] = 127.5542602539063,
 				},
 			},
 		},
@@ -78,14 +78,14 @@ Quartz3DB = {
 		["Toshtoon - Barthilas"] = "Default",
 		["Toshpriest - Azralon"] = "Default",
 		["Toshpal - Area 52"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
 		["Yorman - Kil'jaeden"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
 		["Toshaman - Area 52"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
 		["Toshlongboy - Eldre'Thalas"] = "Default",
 		["Toshpriest - Kil'jaeden"] = "Default",
 		["Daggny - Frostwolf"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

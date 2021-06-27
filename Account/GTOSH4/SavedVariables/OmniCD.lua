@@ -21,9 +21,30 @@ OmniCDDB = {
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
+				["party"] = {
+					["extraBars"] = {
+						["interruptBar"] = {
+							["locked"] = true,
+						},
+						["raidCDBar"] = {
+							["locked"] = true,
+						},
+					},
+					["manualPos"] = {
+						["raidCDBar"] = {
+							["y"] = 310.2447311855067,
+							["x"] = 413.666558898487,
+						},
+						["interruptBar"] = {
+							["y"] = 406.9556212984862,
+							["x"] = 782.7335565855137,
+						},
+					},
+				},
 				["visibility"] = {
-					["party"] = false,
-					["arena"] = false,
+					["scenario"] = true,
+					["finder"] = true,
+					["none"] = true,
 				},
 			},
 			["tooltipID"] = true,

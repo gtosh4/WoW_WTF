@@ -136,11 +136,13 @@ M6DB = {
 		{
 			"macrotext", -- [1]
 			"/run SetCVar('synchronizeBindings', 0)\n/run SetCVar('synchronizeChatFrames', 0)\n/run SetCVar('synchronizeConfig', 0)\n/run SetCVar('synchronizeMacros', 0)\n/run SetCVar('synchronizeSettings', 0)", -- [2]
+			["icon"] = 132094,
 			["name"] = "sync off",
 		}, -- [21]
 		{
 			"macrotext", -- [1]
 			"/run SetCVar('synchronizeBindings', 1)\n/run SetCVar('synchronizeChatFrames', 1)\n/run SetCVar('synchronizeConfig', 1)\n/run SetCVar('synchronizeMacros', 1)\n/run SetCVar('synchronizeSettings', 1)", -- [2]
+			["icon"] = 132096,
 			["name"] = "sync on",
 		}, -- [22]
 	},
@@ -155,13 +157,13 @@ M6DB = {
 						["s0f"] = 15,
 						["s0d"] = 13,
 						["s0b"] = 11,
-						["s0c"] = 12,
 						["s0e"] = 14,
-						["s02"] = 2,
+						["s0c"] = 12,
+						["s04"] = 4,
 						["s09"] = 9,
 						["s06"] = 6,
+						["s02"] = 2,
 						["s0a"] = 10,
-						["s04"] = 4,
 						["s03"] = 3,
 						["s01"] = 1,
 					},
@@ -229,13 +231,13 @@ M6DB = {
 						["s08"] = 14,
 						["s01"] = 10,
 						["s03"] = 5,
-						["s04"] = 3,
 						["s0a"] = 9,
-						["s06"] = 4,
 						["s02"] = 2,
+						["s06"] = 4,
+						["s04"] = 3,
 						["s09"] = 8,
-						["s0e"] = 7,
 						["s0c"] = 12,
+						["s0e"] = 7,
 						["s0b"] = 6,
 						["s0d"] = 11,
 						["s0f"] = 13,

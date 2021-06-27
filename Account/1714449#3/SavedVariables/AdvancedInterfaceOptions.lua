@@ -26,7 +26,7 @@ AdvancedInterfaceOptionsSaved = {
 		["nameplateshowfriendlytotems"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
 		["sound_sfxvolume"] = "Interface\\SharedXML\\OptionsPanelTemplates.lua:196",
 		["nameplatepersonalshowalways"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
-		["blocktrades"] = "...rap\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119",
+		["blocktrades"] = "...ale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:119",
 		["nameplateshowenemyminions"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
 		["sound_ambiencevolume"] = "Interface\\SharedXML\\OptionsPanelTemplates.lua:196",
 		["nameplateverticalscale"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
@@ -46,7 +46,7 @@ AdvancedInterfaceOptionsSaved = {
 		["nameplateclassificationscale"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
 		["nameplateothertopinset"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
 		["nameplateshowall"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
-		["petjournaltab"] = "Interface\\SharedXML\\CvarUtil.lua:9",
+		["petjournaltab"] = "...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:937",
 		["nameplateshowenemies"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
 		["synchronizechatframes"] = "Interface\\FrameXML\\ChatFrame.lua:5040",
 		["nameplateshowfriendlyminions"] = "Interface\\AddOns\\Plater\\Plater.lua:8408",
@@ -74,11 +74,11 @@ AdvancedInterfaceOptionsSaved = {
 	["CharVars"] = {
 	},
 	["AccountVars"] = {
-		["cameraDistanceMaxZoomFactor"] = "2.5999999046326",
+		["floatingCombatTextCombatLogPeriodicSpells"] = "0",
 		["rawMouseAccelerationEnable"] = "0",
 		["floatingCombatTextCombatDamage"] = "1",
 		["rawMouseEnable"] = "0",
-		["floatingCombatTextCombatLogPeriodicSpells"] = "0",
+		["cameraDistanceMaxZoomFactor"] = "2.5999999046326",
 	},
 	["EnforceSettings"] = false,
 }

@@ -27,3 +27,4 @@ BigWigs_EternalPalace: enabled
 BigWigs_BattleOfDazaralor: enabled
 miirGui: disabled
 AAP-Core: disabled
+BigWigs_CastleNathria: enabled

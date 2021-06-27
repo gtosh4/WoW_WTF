@@ -25,14 +25,6 @@ Broker_Everything_DataDB = {
 	},
 }
 Broker_Everything_CharacterDB = {
-	["Toshmonk-Area 52"] = {
-		["race"] = "Troll",
-		["name"] = "Toshmonk",
-		["faction"] = "Horde",
-		["orderId"] = 4,
-		["level"] = 50,
-		["class"] = "MONK",
-	},
 	["Toshaman-Area 52"] = {
 		["race"] = "Goblin",
 		["name"] = "Toshaman",
@@ -40,6 +32,14 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 2,
 		["level"] = 60,
 		["class"] = "SHAMAN",
+	},
+	["Toshmonk-Kil'jaeden"] = {
+		["race"] = "BloodElf",
+		["name"] = "Toshmonk",
+		["faction"] = "Horde",
+		["orderId"] = 3,
+		["level"] = 60,
+		["class"] = "MONK",
 	},
 	["order"] = {
 		"Toshpriest-Area 52", -- [1]
@@ -49,15 +49,15 @@ Broker_Everything_CharacterDB = {
 		"Toshaman-Area52", -- [5]
 	},
 	["Toshaman-Area52"] = {
-		["class"] = "SHAMAN",
-		["race"] = "Goblin",
-		["name"] = "Toshaman",
-		["faction"] = "Horde",
 		["garrison_cache"] = {
 			0, -- [1]
 			false, -- [2]
 		},
-		["orderId"] = 5,
+		["race"] = "Goblin",
+		["name"] = "Toshaman",
+		["faction"] = "Horde",
+		["class"] = "SHAMAN",
+		["level"] = 60,
 		["garrison"] = {
 			0, -- [1]
 			0, -- [2]
@@ -68,7 +68,7 @@ Broker_Everything_CharacterDB = {
 			{
 			}, -- [4]
 		},
-		["level"] = 60,
+		["orderId"] = 5,
 	},
 	["Toshpriest-Area 52"] = {
 		["class"] = "PRIEST",
@@ -76,6 +76,12 @@ Broker_Everything_CharacterDB = {
 		["race"] = "Goblin",
 		["name"] = "Toshpriest",
 		["faction"] = "Horde",
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["level"] = 50,
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -101,19 +107,13 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["level"] = 50,
-		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
 	},
-	["Toshmonk-Kil'jaeden"] = {
-		["race"] = "BloodElf",
+	["Toshmonk-Area 52"] = {
+		["race"] = "Troll",
 		["name"] = "Toshmonk",
 		["faction"] = "Horde",
-		["orderId"] = 3,
-		["level"] = 60,
+		["orderId"] = 4,
+		["level"] = 50,
 		["class"] = "MONK",
 	},
 }

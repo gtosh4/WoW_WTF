@@ -90,6 +90,24 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 1,
 		["Dungeons"] = {
 		},
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
+		["mail"] = {
+			["total"] = 0,
+			["stored"] = {
+			},
+			["num"] = 0,
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["level"] = 60,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -115,25 +133,7 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
 		["gold"] = 10753845943,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 60,
-		["mail"] = {
-			["total"] = 0,
-			["stored"] = {
-			},
-			["num"] = 0,
-			["store"] = {
-			},
-			["new"] = {
-			},
-		},
-		["faction"] = "Horde",
 	},
 	["Toshtoon-Barthilas"] = {
 		["race"] = "Vulpera",
@@ -245,6 +245,7 @@ Broker_Everything_CharacterDB = {
 			["store"] = {
 			},
 			["new"] = {
+				"The Postmaster-Area52", -- [1]
 			},
 		},
 		["orderId"] = 2,

@@ -21,7 +21,7 @@ OneRing_Config = {
 				["OPieTracking"] = false,
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
+				["OPCTAt"] = "OPCHSh",
 			},
 		},
 	},

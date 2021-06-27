@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1133,
+	["session"] = 1135,
 	["errors"] = {
 		{
 			["message"] = "[string \"Error in: Chain Distance 2':'custom text\"]:33: attempt to concatenate a nil value",
