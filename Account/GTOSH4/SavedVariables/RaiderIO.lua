@@ -3,9 +3,10 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshpal-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Failina-thrall"] = true,
-	["us-Leírann-alterac-mountains"] = true,
-	["us-Ppboytwq-destromath"] = true,
+	["us-Argaus-area-52"] = true,
+	["us-Logolor-area-52"] = true,
+	["us-Diabolis-area-52"] = true,
+	["us-Bunzico-area-52"] = true,
 }
 RaiderIO_MissingServers = {
 }

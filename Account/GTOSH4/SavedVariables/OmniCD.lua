@@ -8,7 +8,6 @@ OmniCDDB = {
 	["global"] = {
 		["oodVer"] = 2603,
 		["oodChk"] = 210625,
-		["oodMsg"] = "|cfff16436 A new update is available. (Hotfix)",
 		["disableElvMsg"] = true,
 	},
 	["namespaces"] = {

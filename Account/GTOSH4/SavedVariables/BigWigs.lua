@@ -24,12 +24,10 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Heartsbane Triad"] = {
+		["BigWigs_Bosses_Viq'Goth"] = {
 			["profiles"] = {
 				["Default"] = {
-					[260741] = 3129591,
+					[275014] = 3129591,
 				},
 			},
 		},
@@ -48,7 +46,13 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_AutoReply"] = {
+			["profiles"] = {
+				["Default"] = {
+					["exitCombat"] = 1,
+					["mode"] = 4,
+				},
+			},
 		},
 		["BigWigs_Bosses_Hungering Destroyer"] = {
 			["profiles"] = {
@@ -61,13 +65,6 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[330711] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Plugins_Pull"] = {
-			["profiles"] = {
-				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
@@ -88,21 +85,16 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Viq'Goth"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
+		},
+		["BigWigs_Bosses_Unbound Abomination"] = {
 			["profiles"] = {
 				["Default"] = {
-					[275014] = 3129591,
+					[269843] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
-		["BigWigs_Bosses_Rezan"] = {
-			["profiles"] = {
-				["Default"] = {
-					[255371] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Alt Power"] = {
 		},
 		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
@@ -133,13 +125,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sludgefist"] = {
-			["profiles"] = {
-				["Default"] = {
-					[335470] = 3129591,
-					[332687] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Bosses_Jes Howlis"] = {
 			["profiles"] = {
@@ -169,21 +155,22 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Alt Power"] = {
-		},
-		["BigWigs_Bosses_Sun King's Salvation"] = {
+		["BigWigs_Bosses_Heartsbane Triad"] = {
 			["profiles"] = {
 				["Default"] = {
-					[337859] = 3129591,
+					[260741] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
+		["BigWigs_Bosses_Stone Legion Generals"] = {
 			["profiles"] = {
 				["Default"] = {
-					[269843] = 3129591,
+					[334765] = 3129591,
+					[344496] = 4178167,
 				},
 			},
+		},
+		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Bosses_An Affront of Challengers"] = {
 			["profiles"] = {
@@ -193,11 +180,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Stone Legion Generals"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
 				["Default"] = {
-					[334765] = 3129591,
-					[344496] = 4178167,
+					["posx"] = 437.8665470610031,
+					["posy"] = 239.9999841100635,
 				},
 			},
 		},
@@ -238,12 +225,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Amarth, The Reanimator"] = {
-			["profiles"] = {
-				["Default"] = {
-					[333488] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -300,23 +282,28 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Council o' Captains"] = {
+		["BigWigs_Bosses_Amarth, The Reanimator"] = {
 			["profiles"] = {
 				["Default"] = {
-					[258381] = 3129591,
-					[256979] = 3129591,
-					[258338] = 3129591,
+					[333488] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Bosses_Knight Captain Valyri"] = {
+		["BigWigs_Plugins_Pull"] = {
 			["profiles"] = {
 				["Default"] = {
-					[256955] = 3129591,
+					["voice"] = "English: Overwatch: Roadhog",
 				},
 			},
 		},
-		["BigWigs_Plugins_Colors"] = {
+		["BigWigs_Plugins_BossBlock"] = {
+		},
+		["BigWigs_Bosses_Gorechop"] = {
+			["profiles"] = {
+				["Default"] = {
+					[318406] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Bosses_HK-8 Aerial Oppression Unit"] = {
 			["profiles"] = {
@@ -446,20 +433,29 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Gorechop"] = {
+		["BigWigs_Bosses_Rezan"] = {
 			["profiles"] = {
 				["Default"] = {
-					[318406] = 3129591,
+					[255371] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Plugins_Victory"] = {
+		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["BigWigs_Bosses_Sludgefist"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 437.8665470610031,
-					["posy"] = 239.9999841100635,
+					[335470] = 3129591,
+					[332687] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Council o' Captains"] = {
+			["profiles"] = {
+				["Default"] = {
+					[258381] = 3129591,
+					[256979] = 3129591,
+					[258338] = 3129591,
 				},
 			},
 		},
@@ -496,13 +492,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Bosses_Knight Captain Valyri"] = {
 			["profiles"] = {
 				["Default"] = {
-					["exitCombat"] = 1,
-					["mode"] = 4,
+					[256955] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Sun King's Salvation"] = {
+			["profiles"] = {
+				["Default"] = {
+					[337859] = 3129591,
 				},
 			},
 		},
@@ -874,13 +874,9 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2347] = {
+		[2354] = {
 			["mythic"] = {
-				["best"] = 70.24699999997392,
-				["kills"] = 1,
-			},
-			["normal"] = {
-				["best"] = 80.97400000000198,
+				["best"] = 67.5109999999404,
 				["kills"] = 1,
 			},
 		},
@@ -906,11 +902,14 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2361] = {
+		[2347] = {
 			["mythic"] = {
+				["best"] = 70.24699999997392,
 				["kills"] = 1,
-				["wipes"] = 6,
-				["best"] = 388.6110000000335,
+			},
+			["normal"] = {
+				["best"] = 80.97400000000198,
+				["kills"] = 1,
 			},
 		},
 		[2359] = {
@@ -925,10 +924,11 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2354] = {
+		[2361] = {
 			["mythic"] = {
-				["best"] = 67.5109999999404,
 				["kills"] = 1,
+				["wipes"] = 6,
+				["best"] = 388.6110000000335,
 			},
 		},
 	},

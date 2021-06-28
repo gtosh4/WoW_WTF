@@ -72,72 +72,133 @@ TellMeWhenDB = {
 			},
 		},
 		["AuraCache"] = {
-			[32752] = 2,
-			[204366] = 2,
-			[212653] = 2,
-			[290512] = 2,
+			[319529] = 1,
+			[329086] = 1,
+			[310703] = 1,
+			[853] = 2,
+			[344803] = 2,
+			[25771] = 2,
+			[314641] = 2,
+			[339946] = 2,
+			[335533] = 2,
+			[281209] = 2,
 			[333089] = 2,
-			[20707] = 2,
+			[228354] = 2,
+			[1604] = 1,
+			[26297] = 2,
+			[331937] = 2,
 			[347600] = 2,
+			[223143] = 2,
+			[191034] = 2,
+			[314422] = 2,
 			[6673] = 2,
-			[194384] = 2,
-			[292360] = 2,
-			[113746] = 2,
-			[201846] = 2,
-			[186257] = 2,
-			[227723] = 2,
-			[5225] = 2,
-			[186258] = 2,
-			[118922] = 2,
-			[242551] = 2,
-			[187878] = 2,
-			[248473] = 2,
-			[29175] = 2,
-			[108366] = 2,
+			[316935] = 1,
+			[329867] = 1,
+			[333600] = 1,
+			[190446] = 2,
+			[157228] = 2,
+			[2823] = 2,
+			[57724] = 2,
+			[465] = 2,
+			[204242] = 2,
+			[331939] = 2,
+			[319251] = 1,
+			[310765] = 1,
+			[334428] = 2,
+			[44544] = 2,
+			[210053] = 2,
+			[328970] = 1,
+			[310364] = 1,
+			[311474] = 2,
+			[231390] = 2,
+			[1022] = 2,
+			[236645] = 2,
+			[311475] = 2,
+			[48517] = 2,
+			[292362] = 2,
+			[311190] = 1,
+			[311476] = 2,
+			[304510] = 2,
+			[324748] = 2,
+			[312461] = 1,
+			[312451] = 1,
+			[165961] = 2,
+			[311483] = 2,
+			[311497] = 2,
+			[80354] = 2,
+			[311495] = 2,
+			[327104] = 2,
+			[194223] = 2,
+			[308685] = 2,
+			[310143] = 2,
+			[289308] = 2,
+			[327704] = 2,
+			[345230] = 2,
+			[164273] = 2,
 			[47585] = 2,
 			[186403] = 2,
-			[2983] = 2,
+			[323546] = 2,
 			[280398] = 2,
+			[228358] = 2,
+			[11426] = 2,
+			[205708] = 2,
+			[322906] = 2,
+			[278310] = 2,
 			[17] = 2,
-			[1850] = 2,
-			[188389] = 2,
+			[334343] = 2,
+			[48518] = 2,
+			[314793] = 2,
+			[334058] = 2,
+			[112042] = 2,
 			[2383] = 2,
-			[351077] = 2,
-			[343173] = 2,
-			[340094] = 2,
-			[232698] = 2,
-			[335904] = 2,
-			[264689] = 2,
-			[233397] = 2,
-			[45181] = 2,
-			[196980] = 2,
-			[205648] = 2,
-			[1784] = 2,
-			[213602] = 2,
-			[143625] = 2,
-			[54861] = 2,
-			[43308] = 2,
-			[167898] = 2,
-			[315584] = 2,
-			[2580] = 2,
-			[331939] = 2,
-			[334511] = 2,
-			[211793] = 2,
-			[334448] = 2,
-			[333889] = 2,
-			[3408] = 2,
-			[8679] = 2,
-			[262652] = 2,
-			[198300] = 2,
-			[2645] = 2,
-			[65081] = 2,
-			[77764] = 2,
-			[334863] = 2,
-			[21562] = 2,
+			[327478] = 2,
+			[116014] = 2,
+			[311485] = 2,
+			[343648] = 2,
+			[221886] = 2,
+			[235450] = 2,
+			[1459] = 2,
+			[336135] = 2,
 			[768] = 2,
+			[329404] = 1,
+			[307185] = 2,
+			[322695] = 2,
+			[52127] = 2,
+			[232698] = 2,
+			[311488] = 2,
+			[315584] = 2,
+			[334443] = 2,
+			[330380] = 2,
+			[205473] = 2,
+			[12472] = 2,
+			[21562] = 2,
+			[5761] = 2,
+			[311490] = 2,
+			[320592] = 1,
+			[54149] = 2,
+			[311459] = 2,
+			[43308] = 2,
+			[328287] = 1,
+			[2580] = 2,
+			[227723] = 2,
+			[323557] = 2,
+			[245686] = 2,
+			[314424] = 2,
+			[334448] = 2,
+			[292361] = 2,
+			[223306] = 2,
+			[158486] = 2,
+			[1490] = 2,
+			[24858] = 2,
+			[132403] = 2,
+			[65081] = 2,
+			[340546] = 2,
+			[339943] = 2,
 			[6788] = 2,
-			[344179] = 2,
-			[72968] = 2,
+			[332514] = 2,
+			[311464] = 2,
+			[193475] = 2,
+			[214222] = 2,
 		},
 		["HelpSettings"] = {
 			["CNDT_ANDOR_FIRSTSEE"] = true,
@@ -1289,6 +1350,7 @@ TellMeWhenDB = {
 	["profiles"] = {
 		["Toshdk - Kil'jaeden"] = {
 			["Locked"] = true,
+			["Version"] = 90201,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -9495,7 +9557,6 @@ TellMeWhenDB = {
 				}, -- [15]
 			},
 			["NumGroups"] = 15,
-			["Version"] = 90201,
 		},
 		["Toshpriest - Azralon"] = {
 			["Locked"] = true,
@@ -14674,8 +14735,6 @@ TellMeWhenDB = {
 			["TextureName"] = "Smooth v2",
 		},
 		["Empty"] = {
-			["Version"] = 87505,
-			["NumGroups"] = 15,
 			["Groups"] = {
 				{
 					["GUID"] = "TMW:group:1V5SM70Zxg8d",
@@ -22442,6 +22501,8 @@ TellMeWhenDB = {
 					},
 				}, -- [15]
 			},
+			["Version"] = 87505,
+			["NumGroups"] = 15,
 		},
 		["Toshpal - Area 52"] = {
 			["Version"] = 90701,
@@ -22471,6 +22532,7 @@ TellMeWhenDB = {
 							["Name"] = "Holy Shock",
 							["SettingsPerView"] = {
 								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 									["Texts"] = {
 										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"E\"]", -- [1]
 									},
@@ -22518,13 +22580,19 @@ TellMeWhenDB = {
 						{
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
-							["Name"] = "Light of Dawn",
-							["ManaCheck"] = true,
+							["Name"] = "Bestow Faith",
+							["Conditions"] = {
+								{
+									["Type"] = "TALENTLEARNED",
+									["Name"] = "Bestow Faith",
+								}, -- [1]
+								["n"] = 1,
+							},
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
 									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"SE\"]", -- [1]
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"3\"]", -- [1]
 									},
 								},
 							},
@@ -22538,8 +22606,6 @@ TellMeWhenDB = {
 								{
 								}, -- [3]
 								{
-									["Color"] = "ff2c4ebcd",
-									["Alpha"] = 1,
 								}, -- [4]
 							},
 							["Enabled"] = true,
@@ -22548,35 +22614,6 @@ TellMeWhenDB = {
 							["ShowTimer"] = true,
 							["Type"] = "cooldown",
 							["Name"] = "Judgment",
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "TALENTLEARNED",
-											["Name"] = "Judgment of Light",
-										}, -- [1]
-										{
-											["Type"] = "REACT",
-											["Unit"] = "target",
-											["Level"] = 1,
-										}, -- [2]
-										{
-											["Type"] = "BUFFDUR",
-											["Unit"] = "target",
-											["Name"] = "Judgment of Light",
-										}, -- [3]
-										{
-											["Type"] = "SPELLCD",
-											["Name"] = "Judgment",
-										}, -- [4]
-										["n"] = 4,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
 							["SettingsPerView"] = {
 								["icon"] = {
 									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
@@ -22603,54 +22640,15 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [4]
 						{
-							["ShowTimer"] = true,
-							["Type"] = "cooldown",
-							["Name"] = "Hammer of Wrath",
-							["Conditions"] = {
-								{
-									["Type"] = "OVERLAYED",
-									["Name"] = "Hammer of Wrath",
-								}, -- [1]
-								["n"] = 1,
-							},
-							["Events"] = {
-								{
-									["Type"] = "Animations",
-									["Animation"] = "ACTVTNGLOW",
-									["Event"] = "WCSP",
-									["OnConditionConditions"] = {
-										{
-											["Type"] = "OVERLAYED",
-										}, -- [1]
-										["n"] = 1,
-									},
-								}, -- [1]
-								["n"] = 1,
-							},
-							["SettingsPerView"] = {
-								["icon"] = {
-									["Texts"] = {
-										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"C2\"]", -- [1]
-									},
-								},
-							},
 							["States"] = {
 								{
 								}, -- [1]
-								{
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								}, -- [2]
+								nil, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
-								[102] = {
-									["Color"] = "ffffffffd",
-									["Alpha"] = 1,
-								},
 							},
-							["Enabled"] = true,
 						}, -- [5]
 						{
 							["States"] = {
@@ -23455,15 +23453,56 @@ TellMeWhenDB = {
 							["Enabled"] = true,
 						}, -- [4]
 						{
+							["ShowTimer"] = true,
+							["Type"] = "cooldown",
+							["Name"] = "Hammer of Wrath",
+							["Conditions"] = {
+								{
+									["Type"] = "OVERLAYED",
+									["Name"] = "Hammer of Wrath",
+								}, -- [1]
+								["n"] = 1,
+							},
+							["Events"] = {
+								{
+									["Type"] = "Animations",
+									["Animation"] = "ACTVTNGLOW",
+									["Event"] = "WCSP",
+									["OnConditionConditions"] = {
+										{
+											["Type"] = "OVERLAYED",
+											["Name"] = "Hammer of Wrath",
+										}, -- [1]
+										["n"] = 1,
+									},
+								}, -- [1]
+								["n"] = 1,
+							},
+							["SettingsPerView"] = {
+								["icon"] = {
+									["TextLayout"] = "TMW:textlayout:1V5QQ40UvCe4",
+									["Texts"] = {
+										"[Stacks = 0 and Duration(gcd=false) > 0 ? \"\" ! \"C2\"]", -- [1]
+									},
+								},
+							},
 							["States"] = {
 								{
 								}, -- [1]
-								nil, -- [2]
+								{
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								}, -- [2]
 								{
 								}, -- [3]
 								{
 								}, -- [4]
+								[102] = {
+									["Color"] = "ffffffffd",
+									["Alpha"] = 1,
+								},
 							},
+							["Enabled"] = true,
 						}, -- [5]
 						{
 							["States"] = {
@@ -31193,7 +31232,6 @@ TellMeWhenDB = {
 			["Locked"] = true,
 		},
 		["Toshpriest - Area 52"] = {
-			["NumGroups"] = 10,
 			["Version"] = 90201,
 			["Groups"] = {
 				{
@@ -34282,6 +34320,7 @@ TellMeWhenDB = {
 					["ShrinkGroup"] = true,
 				}, -- [10]
 			},
+			["NumGroups"] = 10,
 			["TextureName"] = "Smooth v2",
 		},
 		["Yorman - Kil'jaeden"] = {
@@ -34341,6 +34380,7 @@ TellMeWhenDB = {
 		},
 		["Toshaman - Area 52"] = {
 			["Locked"] = true,
+			["Version"] = 87505,
 			["NumGroups"] = 5,
 			["Groups"] = {
 				{
@@ -37595,7 +37635,6 @@ TellMeWhenDB = {
 					},
 				}, -- [6]
 			},
-			["Version"] = 87505,
 		},
 		["Yelluwuy - Area 52"] = {
 			["Version"] = 87505,

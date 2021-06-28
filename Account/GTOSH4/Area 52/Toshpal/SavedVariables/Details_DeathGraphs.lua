@@ -1232,13 +1232,13 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Baylesstv-Kil'jaeden"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
+			["Ancestràl-Kil'jaeden"] = {
 				["overall"] = {
 				},
-				["name"] = "Baylesstv-Kil'jaeden",
+				["deaths"] = {
+				},
+				["name"] = "Ancestràl-Kil'jaeden",
+				["class"] = "SHAMAN",
 			},
 			["Sci"] = {
 				["name"] = "Sci",
@@ -1344,8 +1344,8 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Artsong"] = {
-				["name"] = "Artsong",
+			["Smytt"] = {
+				["name"] = "Smytt",
 				["class"] = "HUNTER",
 				["overall"] = {
 				},
@@ -1360,16 +1360,16 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Ancestràl-Kil'jaeden"] = {
-				["overall"] = {
-				},
+			["Baylesstv-Kil'jaeden"] = {
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["name"] = "Ancestràl-Kil'jaeden",
-				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
 			},
-			["Smytt"] = {
-				["name"] = "Smytt",
+			["Artsong"] = {
+				["name"] = "Artsong",
 				["class"] = "HUNTER",
 				["overall"] = {
 				},
@@ -8034,6 +8034,78 @@ DeathGraphsDBEndurance = {
 					}, -- [5]
 				},
 			},
+			["Esperance-Kil'jaeden"] = {
+				["encounters"] = 89,
+				["points"] = 8770,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						12, -- [1]
+						490.2050000000745, -- [2]
+						"Stupefying Glare |cFFFF3333409,978|r", -- [3]
+					}, -- [1]
+					{
+						3, -- [1]
+						472.5840000000317, -- [2]
+						"Anguish (DoT) |cFFFF3333287,012|r", -- [3]
+					}, -- [2]
+					{
+						13, -- [1]
+						431.9720000000671, -- [2]
+						"Infinity's Toll (DoT) |cFFFF333337,533|r", -- [3]
+					}, -- [3]
+					{
+						4, -- [1]
+						390.7139999999199, -- [2]
+						"Melee |cFFFF3333775,822|r", -- [3]
+					}, -- [4]
+					{
+						13, -- [1]
+						160.6629999999423, -- [2]
+						"Anguish (DoT) |cFFFF3333285,811|r", -- [3]
+					}, -- [5]
+					{
+						15, -- [1]
+						117.4939999999479, -- [2]
+						"Anguish (DoT) |cFFFF3333288,269|r", -- [3]
+					}, -- [6]
+					{
+						1, -- [1]
+						141.8910000000615, -- [2]
+						"Anguish (DoT) |cFFFF3333276,127|r", -- [3]
+					}, -- [7]
+					{
+						2, -- [1]
+						272.2450000001118, -- [2]
+						"Anguish (DoT) |cFFFF3333284,873|r", -- [3]
+					}, -- [8]
+					{
+						5, -- [1]
+						302.2750000001397, -- [2]
+						"Anguish (DoT) |cFFFF3333284,873|r", -- [3]
+					}, -- [9]
+					{
+						2, -- [1]
+						176.2510000001639, -- [2]
+						"Anguish (DoT) |cFFFF3333286,186|r", -- [3]
+					}, -- [10]
+					{
+						11, -- [1]
+						145.3189999999013, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [11]
+					{
+						12, -- [1]
+						160.9300000001676, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [12]
+					{
+						16, -- [1]
+						153.2820000001229, -- [2]
+						"Probe Mind |cFFFF333379,693|r", -- [3]
+					}, -- [13]
+				},
+			},
 			["Felside-Kil'jaeden"] = {
 				["encounters"] = 96,
 				["points"] = 9430,
@@ -8126,13 +8198,6 @@ DeathGraphsDBEndurance = {
 					}, -- [17]
 				},
 			},
-			["Wilwar"] = {
-				["encounters"] = 15,
-				["points"] = 1500,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
 			["Sci"] = {
 				["encounters"] = 17,
 				["points"] = 1670,
@@ -8216,12 +8281,27 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Smytt"] = {
-				["encounters"] = 15,
-				["points"] = 1500,
+			["Ancestràl-Kil'jaeden"] = {
+				["encounters"] = 17,
+				["points"] = 1670,
 				["deaths"] = {
+					{
+						2, -- [1]
+						298.0709999999963, -- [2]
+						"Anguish (DoT) |cFFFF3333274,007|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						153.3660000001546, -- [2]
+						"Eye of Corruption |cFFFF333322,017|r", -- [3]
+					}, -- [2]
+					{
+						7, -- [1]
+						436.2299999999814, -- [2]
+						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
+					}, -- [3]
 				},
-				["class"] = "HUNTER",
+				["class"] = "SHAMAN",
 			},
 			["Wilhun"] = {
 				["encounters"] = 8,
@@ -8626,28 +8706,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Ancestràl-Kil'jaeden"] = {
-				["encounters"] = 17,
-				["points"] = 1670,
-				["deaths"] = {
-					{
-						2, -- [1]
-						298.0709999999963, -- [2]
-						"Anguish (DoT) |cFFFF3333274,007|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						153.3660000001546, -- [2]
-						"Eye of Corruption |cFFFF333322,017|r", -- [3]
-					}, -- [2]
-					{
-						7, -- [1]
-						436.2299999999814, -- [2]
-						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
-					}, -- [3]
-				},
-				["class"] = "SHAMAN",
-			},
 			["Artsong"] = {
 				["encounters"] = 8,
 				["points"] = 800,
@@ -8655,77 +8713,19 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Esperance-Kil'jaeden"] = {
-				["encounters"] = 89,
-				["points"] = 8770,
-				["class"] = "MAGE",
+			["Smytt"] = {
+				["encounters"] = 15,
+				["points"] = 1500,
 				["deaths"] = {
-					{
-						12, -- [1]
-						490.2050000000745, -- [2]
-						"Stupefying Glare |cFFFF3333409,978|r", -- [3]
-					}, -- [1]
-					{
-						3, -- [1]
-						472.5840000000317, -- [2]
-						"Anguish (DoT) |cFFFF3333287,012|r", -- [3]
-					}, -- [2]
-					{
-						13, -- [1]
-						431.9720000000671, -- [2]
-						"Infinity's Toll (DoT) |cFFFF333337,533|r", -- [3]
-					}, -- [3]
-					{
-						4, -- [1]
-						390.7139999999199, -- [2]
-						"Melee |cFFFF3333775,822|r", -- [3]
-					}, -- [4]
-					{
-						13, -- [1]
-						160.6629999999423, -- [2]
-						"Anguish (DoT) |cFFFF3333285,811|r", -- [3]
-					}, -- [5]
-					{
-						15, -- [1]
-						117.4939999999479, -- [2]
-						"Anguish (DoT) |cFFFF3333288,269|r", -- [3]
-					}, -- [6]
-					{
-						1, -- [1]
-						141.8910000000615, -- [2]
-						"Anguish (DoT) |cFFFF3333276,127|r", -- [3]
-					}, -- [7]
-					{
-						2, -- [1]
-						272.2450000001118, -- [2]
-						"Anguish (DoT) |cFFFF3333284,873|r", -- [3]
-					}, -- [8]
-					{
-						5, -- [1]
-						302.2750000001397, -- [2]
-						"Anguish (DoT) |cFFFF3333284,873|r", -- [3]
-					}, -- [9]
-					{
-						2, -- [1]
-						176.2510000001639, -- [2]
-						"Anguish (DoT) |cFFFF3333286,186|r", -- [3]
-					}, -- [10]
-					{
-						11, -- [1]
-						145.3189999999013, -- [2]
-						"Probe Mind |cFFFF333379,693|r", -- [3]
-					}, -- [11]
-					{
-						12, -- [1]
-						160.9300000001676, -- [2]
-						"Probe Mind |cFFFF333379,693|r", -- [3]
-					}, -- [12]
-					{
-						16, -- [1]
-						153.2820000001229, -- [2]
-						"Probe Mind |cFFFF333379,693|r", -- [3]
-					}, -- [13]
 				},
+				["class"] = "HUNTER",
+			},
+			["Wilwar"] = {
+				["encounters"] = 15,
+				["points"] = 1500,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
 			},
 			["Lethalweapwn-Illidan"] = {
 				["encounters"] = 5,
@@ -10583,6 +10583,34 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
+			["Artsong"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Wilhun"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Tianarrae-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Warlockmania"] = {
+				["encounters"] = 3,
+				["points"] = 300,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
 			["Baylesstv-Kil'jaeden"] = {
 				["encounters"] = 1,
 				["points"] = 100,
@@ -10605,39 +10633,6 @@ DeathGraphsDBEndurance = {
 						91.8640000000596, -- [2]
 						"Consuming Shadows |cFFFF33331,276|r", -- [3]
 					}, -- [2]
-				},
-			},
-			["Tianarrae-Kil'jaeden"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Warlockmania"] = {
-				["encounters"] = 3,
-				["points"] = 300,
-				["class"] = "WARLOCK",
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "HUNTER",
-				["deaths"] = {
-					{
-						2, -- [1]
-						127.4020000000019, -- [2]
-						"Drain Essence |cFFFF333346,826|r", -- [3]
-					}, -- [1]
-				},
-			},
-			["Thunderrz"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
 				},
 			},
 			["Delpix"] = {
@@ -10764,18 +10759,23 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Wilhun"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Artsong"] = {
+			["Thunderrz"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "HUNTER",
 				["deaths"] = {
+				},
+			},
+			["Smytt"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						127.4020000000019, -- [2]
+						"Drain Essence |cFFFF333346,826|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Lovesmash"] = {
@@ -11646,16 +11646,11 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Cohava-Illidan"] = {
+			["Zanlet-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
+				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Baesong-Kil'jaeden"] = {
@@ -11672,10 +11667,10 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Zanlet-Illidan"] = {
+			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
@@ -11700,11 +11695,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Haschwàlth-Ragnaros"] = {
+			["Cohava-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
+				["points"] = 90,
+				["class"] = "PRIEST",
 				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Evandh-Illidan"] = {
