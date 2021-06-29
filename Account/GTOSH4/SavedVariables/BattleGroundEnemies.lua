@@ -8,6 +8,7 @@ BattleGroundEnemiesDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["onlyShowWhenNewVersion"] = true,
 			["Allies"] = {
 				["Enabled"] = false,
 				["15"] = {
@@ -17,6 +18,7 @@ BattleGroundEnemiesDB = {
 			},
 			["Font"] = "Friz Quadrata TT",
 			["Locked"] = true,
+			["lastReadVersion"] = "9.0.5.6",
 			["Enemies"] = {
 				["RangeIndicator_Everything"] = true,
 				["ShowRealmnames"] = false,

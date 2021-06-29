@@ -17,6 +17,13 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Pull"] = {
+			["profiles"] = {
+				["Default"] = {
+					["voice"] = "English: Overwatch: Roadhog",
+				},
+			},
+		},
 		["BigWigs_Bosses_Adderis and Aspix"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -28,6 +35,19 @@ BigWigs3DB = {
 			["profiles"] = {
 				["Default"] = {
 					[275014] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Bosses_Mistcaller"] = {
+		},
+		["BigWigs_Bosses_Ingra Maloch"] = {
+		},
+		["BigWigs_Bosses_Mists of Tirna Scithe Trash"] = {
+		},
+		["BigWigs_Bosses_Unbound Abomination"] = {
+			["profiles"] = {
+				["Default"] = {
+					[269843] = 3129591,
 				},
 			},
 		},
@@ -68,6 +88,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Bosses_Halls of Atonement Trash"] = {
+		},
 		["BigWigs_Bosses_Ring of Booty"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -76,7 +98,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_AltPower"] = {
+		["BigWigs_Bosses_Kul'tharok"] = {
+			["profiles"] = {
+				["Default"] = {
+					[319626] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Bosses_Doctor Ickus"] = {
 			["profiles"] = {
@@ -87,14 +114,14 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Bosses_Unbound Abomination"] = {
+		["BigWigs_Bosses_Sporecaller Zancha"] = {
 			["profiles"] = {
 				["Default"] = {
-					[269843] = 3129591,
+					[259732] = 3129591,
 				},
 			},
 		},
-		["BigWigs_Plugins_Alt Power"] = {
+		["BigWigs_Bosses_Tred'ova"] = {
 		},
 		["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 			["profiles"] = {
@@ -125,7 +152,7 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Bosses_Lord Chamberlain"] = {
 		},
 		["BigWigs_Bosses_Jes Howlis"] = {
 			["profiles"] = {
@@ -150,8 +177,18 @@ BigWigs3DB = {
 						24.16709136962891, -- [3]
 						129.1666412353516, -- [4]
 					},
-					["fontName"] = "Friz Quadrata TT",
 					["align"] = "LEFT",
+					["fontName"] = "Friz Quadrata TT",
+				},
+			},
+		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Sludgefist"] = {
+			["profiles"] = {
+				["Default"] = {
+					[335470] = 3129591,
+					[332687] = 3129591,
 				},
 			},
 		},
@@ -162,31 +199,9 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Stone Legion Generals"] = {
-			["profiles"] = {
-				["Default"] = {
-					[334765] = 3129591,
-					[344496] = 4178167,
-				},
-			},
-		},
 		["BigWigs_Plugins_Victory"] = {
 		},
-		["BigWigs_Bosses_An Affront of Challengers"] = {
-			["profiles"] = {
-				["Default"] = {
-					[320069] = 3129591,
-					[333540] = 3129591,
-				},
-			},
-		},
-		["BigWigs_Plugins_InfoBox"] = {
-			["profiles"] = {
-				["Default"] = {
-					["posx"] = 437.8665470610031,
-					["posy"] = 239.9999841100635,
-				},
-			},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Bosses_Il'gynoth, Corruption Reborn"] = {
 			["profiles"] = {
@@ -225,7 +240,12 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Bosses_Knight Captain Valyri"] = {
+			["profiles"] = {
+				["Default"] = {
+					[256955] = 3129591,
+				},
+			},
 		},
 		["BigWigs_Plugins_Sounds"] = {
 			["profiles"] = {
@@ -246,17 +266,6 @@ BigWigs3DB = {
 							[315762] = "|cFFFF0000Move|r",
 						},
 					},
-					["Alert"] = {
-						["BigWigs_Bosses_Lord Stormsong"] = {
-							[268896] = "|cFFFF0000Dispell|r",
-						},
-						["BigWigs_Bosses_Vexiona"] = {
-							[307639] = "BigWigs: [DBM] Run Away Little Girl (Big Bad Wolf)",
-						},
-						["BigWigs_Bosses_K.U.-J.0."] = {
-							[294929] = "|cFFFF0000Dispell|r",
-						},
-					},
 					["Alarm"] = {
 						["BigWigs_Bosses_N'Zoth, the Corruptor"] = {
 							[318971] = "|cFFFF0000Move|r",
@@ -269,6 +278,17 @@ BigWigs3DB = {
 						},
 						["BigWigs_Bosses_Machinist's Garden"] = {
 							[285440] = "|cFFFF0000Move|r",
+						},
+					},
+					["Alert"] = {
+						["BigWigs_Bosses_Lord Stormsong"] = {
+							[268896] = "|cFFFF0000Dispell|r",
+						},
+						["BigWigs_Bosses_Vexiona"] = {
+							[307639] = "BigWigs: [DBM] Run Away Little Girl (Big Bad Wolf)",
+						},
+						["BigWigs_Bosses_K.U.-J.0."] = {
+							[294929] = "|cFFFF0000Dispell|r",
 						},
 					},
 				},
@@ -289,19 +309,27 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Pull"] = {
+		["BigWigs_Bosses_Stone Legion Generals"] = {
 			["profiles"] = {
 				["Default"] = {
-					["voice"] = "English: Overwatch: Roadhog",
+					[334765] = 3129591,
+					[344496] = 4178167,
 				},
 			},
 		},
-		["BigWigs_Plugins_BossBlock"] = {
-		},
-		["BigWigs_Bosses_Gorechop"] = {
+		["BigWigs_Bosses_An Affront of Challengers"] = {
 			["profiles"] = {
 				["Default"] = {
-					[318406] = 3129591,
+					[320069] = 3129591,
+					[333540] = 3129591,
+				},
+			},
+		},
+		["BigWigs_Plugins_InfoBox"] = {
+			["profiles"] = {
+				["Default"] = {
+					["posx"] = 437.8665470610031,
+					["posy"] = 239.9999841100635,
 				},
 			},
 		},
@@ -442,11 +470,10 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Sludgefist"] = {
+		["BigWigs_Bosses_Gorechop"] = {
 			["profiles"] = {
 				["Default"] = {
-					[335470] = 3129591,
-					[332687] = 3129591,
+					[318406] = 3129591,
 				},
 			},
 		},
@@ -462,22 +489,22 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 577.0310903613426,
 					["emphasize"] = false,
-					["visibleBarLimit"] = 10,
 					["BigWigsAnchor_width"] = 280.9999694824219,
-					["BigWigsAnchor_y"] = 519.6089535542342,
-					["BigWigsAnchor_x"] = 477.5116435070959,
-					["spacing"] = 4,
-					["emphasizeTime"] = 15,
-					["barStyle"] = "ElvUI",
 					["BigWigsEmphasizeAnchor_height"] = 36.99988174438477,
 					["growup"] = true,
-					["fontSizeEmph"] = 12,
 					["fontName"] = "Friz Quadrata TT",
 					["BigWigsAnchor_height"] = 33.00012969970703,
+					["visibleBarLimit"] = 10,
+					["BigWigsAnchor_y"] = 519.6089535542342,
+					["spacing"] = 4,
 					["texture"] = "Smooth v2",
+					["barStyle"] = "ElvUI",
+					["emphasizeTime"] = 15,
+					["BigWigsAnchor_x"] = 477.5116435070959,
+					["fontSizeEmph"] = 12,
 					["BigWigsEmphasizeAnchor_x"] = 313.7781325979449,
+					["BigWigsEmphasizeAnchor_y"] = 577.0310903613426,
 					["BigWigsEmphasizeAnchor_width"] = 182.0000610351563,
 				},
 			},
@@ -492,19 +519,14 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Bosses_Knight Captain Valyri"] = {
-			["profiles"] = {
-				["Default"] = {
-					[256955] = 3129591,
-				},
-			},
-		},
 		["BigWigs_Bosses_Sun King's Salvation"] = {
 			["profiles"] = {
 				["Default"] = {
 					[337859] = 3129591,
 				},
 			},
+		},
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Bosses_Sire Denathrius"] = {
 			["profiles"] = {
@@ -515,31 +537,21 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Bosses_Sporecaller Zancha"] = {
-			["profiles"] = {
-				["Default"] = {
-					[259732] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_Alt Power"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
-					["posx"] = 759.999592387685,
+					["fontName"] = "Friz Quadrata TT",
+					["width"] = 139.9999542236328,
 					["posy"] = 396.8001473808254,
 					["lock"] = true,
 					["height"] = 120.0000534057617,
-					["fontName"] = "Friz Quadrata TT",
-					["width"] = 139.9999542236328,
+					["posx"] = 759.999592387685,
 				},
 			},
 		},
-		["BigWigs_Bosses_Kul'tharok"] = {
-			["profiles"] = {
-				["Default"] = {
-					[319626] = 3129591,
-				},
-			},
+		["BigWigs_Plugins_AltPower"] = {
 		},
 		["BigWigs_Bosses_King Mechagon"] = {
 			["profiles"] = {
@@ -874,10 +886,11 @@ BigWigsStatsDB = {
 		},
 	},
 	[2164] = {
-		[2354] = {
+		[2361] = {
 			["mythic"] = {
-				["best"] = 67.5109999999404,
 				["kills"] = 1,
+				["wipes"] = 6,
+				["best"] = 388.6110000000335,
 			},
 		},
 		[2351] = {
@@ -902,13 +915,9 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2347] = {
+		[2354] = {
 			["mythic"] = {
-				["best"] = 70.24699999997392,
-				["kills"] = 1,
-			},
-			["normal"] = {
-				["best"] = 80.97400000000198,
+				["best"] = 67.5109999999404,
 				["kills"] = 1,
 			},
 		},
@@ -924,11 +933,14 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2361] = {
+		[2347] = {
 			["mythic"] = {
+				["best"] = 70.24699999997392,
 				["kills"] = 1,
-				["wipes"] = 6,
-				["best"] = 388.6110000000335,
+			},
+			["normal"] = {
+				["best"] = 80.97400000000198,
+				["kills"] = 1,
 			},
 		},
 	},

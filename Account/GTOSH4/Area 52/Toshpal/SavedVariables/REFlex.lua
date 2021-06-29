@@ -1041,7 +1041,7 @@ REFlexDatabase = {
 		["Players"] = {
 		},
 		["isArena"] = false,
-		["PlayerSide"] = 0,
+		["Time"] = 1624864511,
 		["isRated"] = false,
 		["BGPlace"] = {
 			{
@@ -1059,9 +1059,9 @@ REFlexDatabase = {
 				1, -- [5]
 			}, -- [2]
 		},
-		["Time"] = 1624864511,
-		["isBrawl"] = false,
 		["Version"] = 313,
+		["isBrawl"] = false,
+		["PlayerSide"] = 0,
 	}, -- [12]
 	{
 		["Map"] = 1825,

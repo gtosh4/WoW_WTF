@@ -1232,13 +1232,13 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Ancestràl-Kil'jaeden"] = {
-				["overall"] = {
-				},
+			["Baylesstv-Kil'jaeden"] = {
+				["class"] = "DRUID",
 				["deaths"] = {
 				},
-				["name"] = "Ancestràl-Kil'jaeden",
-				["class"] = "SHAMAN",
+				["overall"] = {
+				},
+				["name"] = "Baylesstv-Kil'jaeden",
 			},
 			["Sci"] = {
 				["name"] = "Sci",
@@ -1344,8 +1344,8 @@ DeathGraphsDBDeaths = {
 				["overall"] = {
 				},
 			},
-			["Smytt"] = {
-				["name"] = "Smytt",
+			["Artsong"] = {
+				["name"] = "Artsong",
 				["class"] = "HUNTER",
 				["overall"] = {
 				},
@@ -1360,16 +1360,16 @@ DeathGraphsDBDeaths = {
 				["deaths"] = {
 				},
 			},
-			["Baylesstv-Kil'jaeden"] = {
-				["class"] = "DRUID",
-				["deaths"] = {
-				},
+			["Ancestràl-Kil'jaeden"] = {
 				["overall"] = {
 				},
-				["name"] = "Baylesstv-Kil'jaeden",
+				["deaths"] = {
+				},
+				["name"] = "Ancestràl-Kil'jaeden",
+				["class"] = "SHAMAN",
 			},
-			["Artsong"] = {
-				["name"] = "Artsong",
+			["Smytt"] = {
+				["name"] = "Smytt",
 				["class"] = "HUNTER",
 				["overall"] = {
 				},
@@ -8034,6 +8034,13 @@ DeathGraphsDBEndurance = {
 					}, -- [5]
 				},
 			},
+			["Wilwar"] = {
+				["encounters"] = 15,
+				["points"] = 1500,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
 			["Esperance-Kil'jaeden"] = {
 				["encounters"] = 89,
 				["points"] = 8770,
@@ -8104,98 +8111,6 @@ DeathGraphsDBEndurance = {
 						153.2820000001229, -- [2]
 						"Probe Mind |cFFFF333379,693|r", -- [3]
 					}, -- [13]
-				},
-			},
-			["Felside-Kil'jaeden"] = {
-				["encounters"] = 96,
-				["points"] = 9430,
-				["class"] = "DEMONHUNTER",
-				["deaths"] = {
-					{
-						8, -- [1]
-						451.9590000000317, -- [2]
-						"Harvest Thoughts |cFFFF3333128,161|r", -- [3]
-					}, -- [1]
-					{
-						9, -- [1]
-						115.6449999999022, -- [2]
-						"Anguish (DoT) |cFFFF3333239,057|r", -- [3]
-					}, -- [2]
-					{
-						11, -- [1]
-						308.6160000000382, -- [2]
-						"Melee |cFFFF3333387,637|r", -- [3]
-					}, -- [3]
-					{
-						1, -- [1]
-						152.6850000000559, -- [2]
-						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
-					}, -- [4]
-					{
-						6, -- [1]
-						420.0520000001416, -- [2]
-						"Anguish (DoT) |cFFFF3333236,523|r", -- [3]
-					}, -- [5]
-					{
-						12, -- [1]
-						310.813000000082, -- [2]
-						"Pain Spike |cFFFF333356,942|r", -- [3]
-					}, -- [6]
-					{
-						7, -- [1]
-						78.76399999996647, -- [2]
-						"Melee |cFFFF3333353,525|r", -- [3]
-					}, -- [7]
-					{
-						9, -- [1]
-						160.6489999999758, -- [2]
-						"Anguish (DoT) |cFFFF3333243,279|r", -- [3]
-					}, -- [8]
-					{
-						10, -- [1]
-						261.1319999999832, -- [2]
-						"Anguish (DoT) |cFFFF3333246,657|r", -- [3]
-					}, -- [9]
-					{
-						11, -- [1]
-						159.1180000000168, -- [2]
-						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
-					}, -- [10]
-					{
-						16, -- [1]
-						174.2419999998529, -- [2]
-						"Anguish (DoT) |cFFFF3333249,258|r", -- [3]
-					}, -- [11]
-					{
-						17, -- [1]
-						283.971000000136, -- [2]
-						"Paranoia |cFFFF333342,842|r", -- [3]
-					}, -- [12]
-					{
-						7, -- [1]
-						91.17500000004657, -- [2]
-						"Melee |cFFFF3333279,763|r", -- [3]
-					}, -- [13]
-					{
-						17, -- [1]
-						602.3980000000447, -- [2]
-						"Eye of Corruption |cFFFF333365,792|r", -- [3]
-					}, -- [14]
-					{
-						19, -- [1]
-						115.3630000001285, -- [2]
-						"Anguish (DoT) |cFFFF3333250,879|r", -- [3]
-					}, -- [15]
-					{
-						20, -- [1]
-						310.8269999998156, -- [2]
-						"Melee |cFFFF3333478,559|r", -- [3]
-					}, -- [16]
-					{
-						3, -- [1]
-						159.2339999999385, -- [2]
-						"Cataclysmic Flames |cFFFF333327,878|r", -- [3]
-					}, -- [17]
 				},
 			},
 			["Sci"] = {
@@ -8281,27 +8196,12 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEATHKNIGHT",
 			},
-			["Ancestràl-Kil'jaeden"] = {
-				["encounters"] = 17,
-				["points"] = 1670,
+			["Artsong"] = {
+				["encounters"] = 8,
+				["points"] = 800,
+				["class"] = "HUNTER",
 				["deaths"] = {
-					{
-						2, -- [1]
-						298.0709999999963, -- [2]
-						"Anguish (DoT) |cFFFF3333274,007|r", -- [3]
-					}, -- [1]
-					{
-						6, -- [1]
-						153.3660000001546, -- [2]
-						"Eye of Corruption |cFFFF333322,017|r", -- [3]
-					}, -- [2]
-					{
-						7, -- [1]
-						436.2299999999814, -- [2]
-						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
-					}, -- [3]
 				},
-				["class"] = "SHAMAN",
 			},
 			["Wilhun"] = {
 				["encounters"] = 8,
@@ -8706,13 +8606,6 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Artsong"] = {
-				["encounters"] = 8,
-				["points"] = 800,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
 			["Smytt"] = {
 				["encounters"] = 15,
 				["points"] = 1500,
@@ -8720,12 +8613,119 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "HUNTER",
 			},
-			["Wilwar"] = {
-				["encounters"] = 15,
-				["points"] = 1500,
+			["Ancestràl-Kil'jaeden"] = {
+				["encounters"] = 17,
+				["points"] = 1670,
 				["deaths"] = {
+					{
+						2, -- [1]
+						298.0709999999963, -- [2]
+						"Anguish (DoT) |cFFFF3333274,007|r", -- [3]
+					}, -- [1]
+					{
+						6, -- [1]
+						153.3660000001546, -- [2]
+						"Eye of Corruption |cFFFF333322,017|r", -- [3]
+					}, -- [2]
+					{
+						7, -- [1]
+						436.2299999999814, -- [2]
+						"Anguish (DoT) |cFFFF3333278,585|r", -- [3]
+					}, -- [3]
 				},
-				["class"] = "WARRIOR",
+				["class"] = "SHAMAN",
+			},
+			["Felside-Kil'jaeden"] = {
+				["encounters"] = 96,
+				["points"] = 9430,
+				["class"] = "DEMONHUNTER",
+				["deaths"] = {
+					{
+						8, -- [1]
+						451.9590000000317, -- [2]
+						"Harvest Thoughts |cFFFF3333128,161|r", -- [3]
+					}, -- [1]
+					{
+						9, -- [1]
+						115.6449999999022, -- [2]
+						"Anguish (DoT) |cFFFF3333239,057|r", -- [3]
+					}, -- [2]
+					{
+						11, -- [1]
+						308.6160000000382, -- [2]
+						"Melee |cFFFF3333387,637|r", -- [3]
+					}, -- [3]
+					{
+						1, -- [1]
+						152.6850000000559, -- [2]
+						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
+					}, -- [4]
+					{
+						6, -- [1]
+						420.0520000001416, -- [2]
+						"Anguish (DoT) |cFFFF3333236,523|r", -- [3]
+					}, -- [5]
+					{
+						12, -- [1]
+						310.813000000082, -- [2]
+						"Pain Spike |cFFFF333356,942|r", -- [3]
+					}, -- [6]
+					{
+						7, -- [1]
+						78.76399999996647, -- [2]
+						"Melee |cFFFF3333353,525|r", -- [3]
+					}, -- [7]
+					{
+						9, -- [1]
+						160.6489999999758, -- [2]
+						"Anguish (DoT) |cFFFF3333243,279|r", -- [3]
+					}, -- [8]
+					{
+						10, -- [1]
+						261.1319999999832, -- [2]
+						"Anguish (DoT) |cFFFF3333246,657|r", -- [3]
+					}, -- [9]
+					{
+						11, -- [1]
+						159.1180000000168, -- [2]
+						"Anguish (DoT) |cFFFF3333244,123|r", -- [3]
+					}, -- [10]
+					{
+						16, -- [1]
+						174.2419999998529, -- [2]
+						"Anguish (DoT) |cFFFF3333249,258|r", -- [3]
+					}, -- [11]
+					{
+						17, -- [1]
+						283.971000000136, -- [2]
+						"Paranoia |cFFFF333342,842|r", -- [3]
+					}, -- [12]
+					{
+						7, -- [1]
+						91.17500000004657, -- [2]
+						"Melee |cFFFF3333279,763|r", -- [3]
+					}, -- [13]
+					{
+						17, -- [1]
+						602.3980000000447, -- [2]
+						"Eye of Corruption |cFFFF333365,792|r", -- [3]
+					}, -- [14]
+					{
+						19, -- [1]
+						115.3630000001285, -- [2]
+						"Anguish (DoT) |cFFFF3333250,879|r", -- [3]
+					}, -- [15]
+					{
+						20, -- [1]
+						310.8269999998156, -- [2]
+						"Melee |cFFFF3333478,559|r", -- [3]
+					}, -- [16]
+					{
+						3, -- [1]
+						159.2339999999385, -- [2]
+						"Cataclysmic Flames |cFFFF333327,878|r", -- [3]
+					}, -- [17]
+				},
 			},
 			["Lethalweapwn-Illidan"] = {
 				["encounters"] = 5,
@@ -10583,19 +10583,24 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "MAGE",
 			},
-			["Artsong"] = {
+			["Smytt"] = {
+				["encounters"] = 3,
+				["points"] = 290,
+				["class"] = "HUNTER",
+				["deaths"] = {
+					{
+						2, -- [1]
+						127.4020000000019, -- [2]
+						"Drain Essence |cFFFF333346,826|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Thunderrz"] = {
 				["encounters"] = 2,
 				["points"] = 200,
 				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-			},
-			["Wilhun"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
 			},
 			["Tianarrae-Kil'jaeden"] = {
 				["encounters"] = 1,
@@ -10611,29 +10616,19 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Baylesstv-Kil'jaeden"] = {
+			["Artsong"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Wilhun"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
-			},
-			["Sci"] = {
-				["encounters"] = 4,
-				["points"] = 370,
-				["class"] = "PALADIN",
-				["deaths"] = {
-					{
-						2, -- [1]
-						41.99700000043958, -- [2]
-						"Consuming Shadows |cFFFF3333829|r", -- [3]
-					}, -- [1]
-					{
-						2, -- [1]
-						91.8640000000596, -- [2]
-						"Consuming Shadows |cFFFF33331,276|r", -- [3]
-					}, -- [2]
-				},
+				["class"] = "HUNTER",
 			},
 			["Delpix"] = {
 				["encounters"] = 1,
@@ -10759,24 +10754,29 @@ DeathGraphsDBEndurance = {
 				},
 				["class"] = "DEMONHUNTER",
 			},
-			["Thunderrz"] = {
-				["encounters"] = 2,
-				["points"] = 200,
-				["class"] = "HUNTER",
-				["deaths"] = {
-				},
-			},
-			["Smytt"] = {
-				["encounters"] = 3,
-				["points"] = 290,
-				["class"] = "HUNTER",
+			["Sci"] = {
+				["encounters"] = 4,
+				["points"] = 370,
+				["class"] = "PALADIN",
 				["deaths"] = {
 					{
 						2, -- [1]
-						127.4020000000019, -- [2]
-						"Drain Essence |cFFFF333346,826|r", -- [3]
+						41.99700000043958, -- [2]
+						"Consuming Shadows |cFFFF3333829|r", -- [3]
 					}, -- [1]
+					{
+						2, -- [1]
+						91.8640000000596, -- [2]
+						"Consuming Shadows |cFFFF33331,276|r", -- [3]
+					}, -- [2]
 				},
+			},
+			["Baylesstv-Kil'jaeden"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
 			},
 			["Lovesmash"] = {
 				["encounters"] = 1,
@@ -11646,10 +11646,10 @@ DeathGraphsDBEndurance = {
 					}, -- [1]
 				},
 			},
-			["Zanlet-Illidan"] = {
+			["Haschwàlth-Ragnaros"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["class"] = "MAGE",
+				["class"] = "WARRIOR",
 				["deaths"] = {
 				},
 			},
@@ -11667,11 +11667,16 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Haschwàlth-Ragnaros"] = {
+			["Cohava-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 100,
-				["class"] = "WARRIOR",
+				["points"] = 90,
+				["class"] = "PRIEST",
 				["deaths"] = {
+					{
+						2, -- [1]
+						91.92900000000373, -- [2]
+						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
+					}, -- [1]
 				},
 			},
 			["Taistoi-Illidan"] = {
@@ -11695,16 +11700,11 @@ DeathGraphsDBEndurance = {
 				["deaths"] = {
 				},
 			},
-			["Cohava-Illidan"] = {
+			["Zanlet-Illidan"] = {
 				["encounters"] = 1,
-				["points"] = 90,
-				["class"] = "PRIEST",
+				["points"] = 100,
+				["class"] = "MAGE",
 				["deaths"] = {
-					{
-						2, -- [1]
-						91.92900000000373, -- [2]
-						"Unstable Vita |cFFFF33331,129,778|r", -- [3]
-					}, -- [1]
 				},
 			},
 			["Evandh-Illidan"] = {

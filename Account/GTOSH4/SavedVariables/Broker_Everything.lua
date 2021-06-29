@@ -90,6 +90,19 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 1,
 		["Dungeons"] = {
 		},
+		["mail"] = {
+			["total"] = 0,
+			["stored"] = {
+			},
+			["num"] = 0,
+			["store"] = {
+			},
+			["new"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -115,22 +128,9 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
+		["level"] = 60,
 		["Professions"] = {
 			["learnedRecipes"] = {
-			},
-		},
-		["level"] = 60,
-		["mail"] = {
-			["total"] = 0,
-			["stored"] = {
-			},
-			["num"] = 0,
-			["store"] = {
-			},
-			["new"] = {
 			},
 		},
 		["gold"] = 10753845943,
