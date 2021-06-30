@@ -2,7 +2,7 @@
 OneRing_Config = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "9.0.5",
+	["_GameVersion"] = "9.1.0",
 	["_OPieVersion"] = "Xe 6 (3.106)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -19,9 +19,6 @@ OneRing_Config = {
 				["PaladinAuras"] = false,
 				["OPieAutoQuest"] = "ALT-G",
 				["OPieTracking"] = false,
-			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "ABuejUSlLKe",
 			},
 		},
 	},

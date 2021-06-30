@@ -1,9 +1,9 @@
 
 pixelPerfectAlignSaved = {
 	["showMinimapIcon"] = true,
-	["addonVersion"] = "v1.11.00",
+	["addonVersion"] = "v1.11.01",
 	["numX"] = 16,
-	["addonHash"] = "9a6a4e5",
+	["addonHash"] = "2a6609a",
 	["lineLength"] = 16,
 	["showSplash"] = 0,
 	["startWithGridOn"] = false,

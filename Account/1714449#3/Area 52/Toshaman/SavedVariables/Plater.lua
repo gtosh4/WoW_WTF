@@ -3,10 +3,8 @@ PlaterDBChr = {
 	["resources_on_target"] = false,
 	["debuffsBanned"] = {
 	},
-	["spellRangeCheckRangeEnemy"] = {
-		[263] = 40,
-		[264] = 40,
-		[262] = 40,
+	["minimap"] = {
+		["hide"] = true,
 	},
 	["spellRangeCheckRangeFriendly"] = {
 		[263] = 40,
@@ -25,7 +23,9 @@ PlaterDBChr = {
 		[264] = "Lightning Bolt",
 		[262] = "Lightning Bolt",
 	},
-	["minimap"] = {
-		["hide"] = true,
+	["spellRangeCheckRangeEnemy"] = {
+		[263] = 40,
+		[264] = 40,
+		[262] = 40,
 	},
 }

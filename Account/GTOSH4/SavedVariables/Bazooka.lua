@@ -146,6 +146,11 @@ BazookaDB = {
 					},
 				},
 				["launcher"] = {
+					["SavedInstances"] = {
+						["showValue"] = false,
+						["bar"] = 2,
+						["pos"] = 2,
+					},
 					["BigWigs"] = {
 						["enabled"] = false,
 						["pos"] = 6,
@@ -154,47 +159,45 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 2,
 					},
-					["Dominos"] = {
-						["enabled"] = false,
-						["pos"] = 7,
-					},
 					["TellMeWhen"] = {
 						["enabled"] = false,
 						["pos"] = 4,
-					},
-					["ExRT"] = {
-						["enabled"] = false,
-						["pos"] = 3,
 					},
 					["Altoholic"] = {
 						["pos"] = 3,
 						["bar"] = 4,
 					},
+					["ExRT"] = {
+						["enabled"] = false,
+						["pos"] = 3,
+					},
+					["Dominos"] = {
+						["enabled"] = false,
+						["pos"] = 7,
+					},
 					["InstanceAchievementTracker"] = {
 						["pos"] = 2,
 					},
-					["Leatrix_Plus"] = {
-						["enabled"] = false,
-						["pos"] = 10,
+					["PitBull4"] = {
+						["pos"] = 2,
 					},
 					["Prat"] = {
 						["enabled"] = false,
 						["pos"] = 9,
 					},
-					["PitBull4"] = {
-						["pos"] = 2,
-					},
 					["Bazooka"] = {
 						["enabled"] = false,
+					},
+					["Leatrix_Plus"] = {
+						["enabled"] = false,
+						["pos"] = 10,
 					},
 					["WeakAuras"] = {
 						["enabled"] = false,
 						["pos"] = 8,
 					},
-					["SavedInstances"] = {
-						["showValue"] = false,
-						["bar"] = 2,
-						["pos"] = 2,
+					["MRT"] = {
+						["pos"] = 13,
 					},
 				},
 			},

@@ -7,15 +7,7 @@ BattleGroundEnemiesDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Allies"] = {
-				["Enabled"] = false,
-				["15"] = {
-					["Position_Y"] = 656.5332665753376,
-					["Position_X"] = 1269.866690366267,
-				},
-			},
-			["Font"] = "Friz Quadrata TT",
-			["Locked"] = true,
+			["onlyShowWhenNewVersion"] = true,
 			["Enemies"] = {
 				["40"] = {
 					["Position_Y"] = 767.999904708864,
@@ -24,6 +16,16 @@ BattleGroundEnemiesDB = {
 				["15"] = {
 					["Position_Y"] = 495.4663951754628,
 					["Position_X"] = 1252.266456384663,
+				},
+			},
+			["Font"] = "Friz Quadrata TT",
+			["Locked"] = true,
+			["lastReadVersion"] = "9.0.5.6",
+			["Allies"] = {
+				["Enabled"] = false,
+				["15"] = {
+					["Position_Y"] = 656.5332665753376,
+					["Position_X"] = 1269.866690366267,
 				},
 			},
 		},

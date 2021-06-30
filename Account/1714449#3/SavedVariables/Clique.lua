@@ -18,32 +18,32 @@ CliqueDB3 = {
 			["specswap"] = false,
 			["downclick"] = false,
 			["fastooc"] = false,
-			["spec3_profileKey"] = "Toshmonk - Area 52",
 			["spec2_profileKey"] = "Toshmonk - Area 52",
+			["spec3_profileKey"] = "Toshmonk - Area 52",
 		},
 		["Toshmonk - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Toshmonk - Kil'jaeden",
 			["spec3_profileKey"] = "Toshmonk - Kil'jaeden",
 			["downclick"] = true,
 			["fastooc"] = false,
-			["spec2_profileKey"] = "Toshmonk - Kil'jaeden",
-			["alerthidden"] = true,
 			["specswap"] = false,
+			["alerthidden"] = true,
+			["spec2_profileKey"] = "Toshmonk - Kil'jaeden",
 		},
 		["Toshaman - Kil'jaeden"] = {
 			["spec1_profileKey"] = "Toshaman - Kil'jaeden",
 			["spec2_profileKey"] = "Toshaman - Kil'jaeden",
 			["downclick"] = true,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec3_profileKey"] = "Toshaman - Kil'jaeden",
+			["specswap"] = false,
 		},
 		["Toshaman - Area 52"] = {
 			["spec1_profileKey"] = "Toshaman - Area 52",
 			["fastooc"] = false,
-			["specswap"] = false,
-			["downclick"] = true,
 			["spec3_profileKey"] = "Toshaman - Area 52",
+			["downclick"] = true,
+			["specswap"] = false,
 			["spec2_profileKey"] = "Toshaman - Area 52",
 		},
 	},
@@ -58,28 +58,13 @@ CliqueDB3 = {
 		["Toshpriest - Area 52"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
-				{
-					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
-					["type"] = "macro",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-				{
-					["type"] = "menu",
-					["key"] = "ALT-BUTTON3",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [3]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
@@ -87,11 +72,26 @@ CliqueDB3 = {
 					["sets"] = {
 						["default"] = true,
 					},
+				}, -- [2]
+				{
+					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
+					["type"] = "macro",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [3]
+				{
+					["type"] = "menu",
+					["key"] = "ALT-BUTTON3",
+					["sets"] = {
+						["default"] = true,
+					},
 				}, -- [4]
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "SHIFT-BUTTON2",
+					["key"] = "ALT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -99,7 +99,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "CTRL-SHIFT-BUTTON2",
+					["key"] = "SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -107,7 +107,7 @@ CliqueDB3 = {
 				{
 					["macrotext"] = "/script if not IsMouselooking() then MouselookStart() end",
 					["type"] = "macro",
-					["key"] = "ALT-BUTTON2",
+					["key"] = "CTRL-SHIFT-BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
@@ -125,10 +125,10 @@ CliqueDB3 = {
 		["Toshmonk - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -144,10 +144,10 @@ CliqueDB3 = {
 		["Toshmonk - Kil'jaeden"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -163,10 +163,10 @@ CliqueDB3 = {
 		["Toshaman - Kil'jaeden"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -182,10 +182,10 @@ CliqueDB3 = {
 		["Toshaman - Area 52"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]

@@ -37,6 +37,7 @@ Broker_Everything_CharacterDB = {
 			["store"] = {
 			},
 			["new"] = {
+				"The Postmaster-Kil'jaeden", -- [1]
 			},
 		},
 		["orderId"] = 12,
@@ -90,6 +91,13 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 1,
 		["Dungeons"] = {
 		},
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["faction"] = "Horde",
 		["mail"] = {
 			["total"] = 0,
 			["stored"] = {
@@ -100,9 +108,7 @@ Broker_Everything_CharacterDB = {
 			["new"] = {
 			},
 		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
+		["level"] = 60,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -127,11 +133,6 @@ Broker_Everything_CharacterDB = {
 				2259, -- [7]
 			},
 			["hasCooldowns"] = false,
-		},
-		["level"] = 60,
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
 		},
 		["gold"] = 10753845943,
 	},
@@ -314,8 +315,6 @@ Broker_Everything_AceDB = {
 				["minimap"] = {
 					["hide"] = true,
 				},
-				["showOutboundOnBroker"] = true,
-				["showInboundOnBroker"] = true,
 			},
 			["Clock"] = {
 				["enabled"] = true,

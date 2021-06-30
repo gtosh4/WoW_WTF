@@ -17,7 +17,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["version"] = 9000501,
+			["version"] = 9010001,
 			["skin"] = "rlst-colour",
 			["anchors"] = {
 				{
@@ -41,6 +41,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 					["track_loss"] = false,
 					["filters"] = {
 						[824] = 0,
+						[1904] = 0,
 						[1719] = 0,
 						[1755] = 0,
 						[1885] = 0,
@@ -53,6 +54,7 @@ LS_TOASTS_GLOBAL_CONFIG = {
 						[823] = 0,
 						[1508] = 0,
 						[1268] = 0,
+						[1906] = 0,
 						[1721] = 0,
 						[1792] = 25,
 						[1166] = 0,

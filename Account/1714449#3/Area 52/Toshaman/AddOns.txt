@@ -36,3 +36,4 @@ BigWigs_Shadowlands: enabled
 BigWigs_CastleNathria: enabled
 HandyNotes_Shadowlands: enabled
 LittleWigs_Classic: enabled
+WorldQuestsList: disabled

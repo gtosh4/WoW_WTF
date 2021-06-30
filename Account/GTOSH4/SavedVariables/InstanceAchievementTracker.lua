@@ -11,16 +11,16 @@ AchievementTrackerOptions = {
 	["toggleSound"] = false,
 	["toggleSoundFailed"] = false,
 	["displayInfoFrame"] = true,
-	["announceToRaidWarning"] = true,
-	["InfoFramescale"] = 1,
 	["hideCompletedAchievements"] = false,
+	["announceTrackedAchievements"] = false,
+	["announceToRaidWarning"] = true,
 	["InfoFramepoint"] = "CENTER",
 	["onlyTrackMissingAchievements"] = false,
 	["changeMinimapIcon"] = false,
 	["trackAchievementsAutomatically"] = false,
 	["InfoFramey"] = 385.77783203125,
 	["trackAchievementsInBlizzardUI"] = false,
-	["announceTrackedAchievements"] = false,
+	["InfoFramescale"] = 1,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -16834,6 +16834,182 @@ AchievementTrackerDebug = {
 	"29/6/2021 3:20 [DEBUG] InfoFrame was not active", -- [16809]
 	"29/6/2021 3:20 [DEBUG] 6", -- [16810]
 	"29/6/2021 3:20 [DEBUG] Hiding Tracking UI", -- [16811]
+	"29/6/2021 17:30 [DEBUG] ---IAT Runtime---", -- [16812]
+	"29/6/2021 17:30 [DEBUG] Version: 3.25.0", -- [16813]
+	"29/6/2021 17:30 [DEBUG] Attempting to load from local NPC Cache", -- [16814]
+	"29/6/2021 17:30 [DEBUG] Generating NPC Cache...", -- [16815]
+	"29/6/2021 17:30 [DEBUG] Enabling Addon", -- [16816]
+	"29/6/2021 17:30 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [16817]
+	"29/6/2021 20:30 [DEBUG] Hiding Minimap Icon", -- [16818]
+	"29/6/2021 20:30 [DEBUG] NPC cache generated", -- [16819]
+	"29/6/2021 20:42 [DEBUG] Player has entered instance", -- [16820]
+	"29/6/2021 20:42 [DEBUG] 2162", -- [16821]
+	"29/6/2021 20:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16822]
+	"29/6/2021 20:42 [DEBUG] DifficultyID: 167", -- [16823]
+	"29/6/2021 20:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16824]
+	"29/6/2021 20:42 [DEBUG] Player has entered instance", -- [16825]
+	"29/6/2021 20:42 [DEBUG] 2162", -- [16826]
+	"29/6/2021 20:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16827]
+	"29/6/2021 20:42 [DEBUG] DifficultyID: 167", -- [16828]
+	"29/6/2021 20:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16829]
+	"29/6/2021 21:10 [DEBUG] Player has entered instance", -- [16830]
+	"29/6/2021 21:10 [DEBUG] 2162", -- [16831]
+	"29/6/2021 21:10 [DEBUG] Offical Instance Name: 2162 _2162", -- [16832]
+	"29/6/2021 21:10 [DEBUG] DifficultyID: 167", -- [16833]
+	"29/6/2021 21:10 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16834]
+	"29/6/2021 21:10 [DEBUG] Player has entered instance", -- [16835]
+	"29/6/2021 21:10 [DEBUG] 2162", -- [16836]
+	"29/6/2021 21:10 [DEBUG] Offical Instance Name: 2162 _2162", -- [16837]
+	"29/6/2021 21:10 [DEBUG] DifficultyID: 167", -- [16838]
+	"29/6/2021 21:10 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16839]
+	"29/6/2021 21:36 [DEBUG] Player has entered instance", -- [16840]
+	"29/6/2021 21:36 [DEBUG] 2162", -- [16841]
+	"29/6/2021 21:36 [DEBUG] Offical Instance Name: 2162 _2162", -- [16842]
+	"29/6/2021 21:36 [DEBUG] DifficultyID: 167", -- [16843]
+	"29/6/2021 21:36 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16844]
+	"29/6/2021 21:36 [DEBUG] Player has entered instance", -- [16845]
+	"29/6/2021 21:36 [DEBUG] 2162", -- [16846]
+	"29/6/2021 21:36 [DEBUG] Offical Instance Name: 2162 _2162", -- [16847]
+	"29/6/2021 21:36 [DEBUG] DifficultyID: 167", -- [16848]
+	"29/6/2021 21:36 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16849]
+	"29/6/2021 21:39 [DEBUG] Player has entered instance", -- [16850]
+	"29/6/2021 21:39 [DEBUG] 2162", -- [16851]
+	"29/6/2021 21:39 [DEBUG] Offical Instance Name: 2162 _2162", -- [16852]
+	"29/6/2021 21:39 [DEBUG] DifficultyID: 167", -- [16853]
+	"29/6/2021 21:39 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16854]
+	"29/6/2021 21:39 [DEBUG] Player has entered instance", -- [16855]
+	"29/6/2021 21:39 [DEBUG] 2162", -- [16856]
+	"29/6/2021 21:39 [DEBUG] Offical Instance Name: 2162 _2162", -- [16857]
+	"29/6/2021 21:39 [DEBUG] DifficultyID: 167", -- [16858]
+	"29/6/2021 21:39 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16859]
+	"29/6/2021 21:40 [DEBUG] Player has entered instance", -- [16860]
+	"29/6/2021 21:40 [DEBUG] 2162", -- [16861]
+	"29/6/2021 21:40 [DEBUG] Offical Instance Name: 2162 _2162", -- [16862]
+	"29/6/2021 21:40 [DEBUG] DifficultyID: 167", -- [16863]
+	"29/6/2021 21:40 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16864]
+	"29/6/2021 21:40 [DEBUG] Player has entered instance", -- [16865]
+	"29/6/2021 21:40 [DEBUG] 2162", -- [16866]
+	"29/6/2021 21:40 [DEBUG] Offical Instance Name: 2162 _2162", -- [16867]
+	"29/6/2021 21:40 [DEBUG] DifficultyID: 167", -- [16868]
+	"29/6/2021 21:40 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16869]
+	"29/6/2021 21:40 [DEBUG] Player has entered instance", -- [16870]
+	"29/6/2021 21:40 [DEBUG] 2162", -- [16871]
+	"29/6/2021 21:40 [DEBUG] Offical Instance Name: 2162 _2162", -- [16872]
+	"29/6/2021 21:40 [DEBUG] DifficultyID: 167", -- [16873]
+	"29/6/2021 21:40 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16874]
+	"29/6/2021 21:40 [DEBUG] Player has entered instance", -- [16875]
+	"29/6/2021 21:40 [DEBUG] 2162", -- [16876]
+	"29/6/2021 21:40 [DEBUG] Offical Instance Name: 2162 _2162", -- [16877]
+	"29/6/2021 21:40 [DEBUG] DifficultyID: 167", -- [16878]
+	"29/6/2021 21:40 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16879]
+	"29/6/2021 21:41 [DEBUG] Player has entered instance", -- [16880]
+	"29/6/2021 21:41 [DEBUG] 2162", -- [16881]
+	"29/6/2021 21:41 [DEBUG] Offical Instance Name: 2162 _2162", -- [16882]
+	"29/6/2021 21:41 [DEBUG] DifficultyID: 167", -- [16883]
+	"29/6/2021 21:41 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16884]
+	"29/6/2021 21:41 [DEBUG] Player has entered instance", -- [16885]
+	"29/6/2021 21:41 [DEBUG] 2162", -- [16886]
+	"29/6/2021 21:41 [DEBUG] Offical Instance Name: 2162 _2162", -- [16887]
+	"29/6/2021 21:41 [DEBUG] DifficultyID: 167", -- [16888]
+	"29/6/2021 21:41 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16889]
+	"29/6/2021 21:41 [DEBUG] Player has entered instance", -- [16890]
+	"29/6/2021 21:41 [DEBUG] 2162", -- [16891]
+	"29/6/2021 21:41 [DEBUG] Offical Instance Name: 2162 _2162", -- [16892]
+	"29/6/2021 21:41 [DEBUG] DifficultyID: 167", -- [16893]
+	"29/6/2021 21:41 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16894]
+	"29/6/2021 21:41 [DEBUG] Player has entered instance", -- [16895]
+	"29/6/2021 21:41 [DEBUG] 2162", -- [16896]
+	"29/6/2021 21:41 [DEBUG] Offical Instance Name: 2162 _2162", -- [16897]
+	"29/6/2021 21:41 [DEBUG] DifficultyID: 167", -- [16898]
+	"29/6/2021 21:41 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16899]
+	"29/6/2021 21:42 [DEBUG] Player has entered instance", -- [16900]
+	"29/6/2021 21:42 [DEBUG] 2162", -- [16901]
+	"29/6/2021 21:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16902]
+	"29/6/2021 21:42 [DEBUG] DifficultyID: 167", -- [16903]
+	"29/6/2021 21:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16904]
+	"29/6/2021 21:42 [DEBUG] Player has entered instance", -- [16905]
+	"29/6/2021 21:42 [DEBUG] 2162", -- [16906]
+	"29/6/2021 21:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16907]
+	"29/6/2021 21:42 [DEBUG] DifficultyID: 167", -- [16908]
+	"29/6/2021 21:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16909]
+	"29/6/2021 21:42 [DEBUG] Player has entered instance", -- [16910]
+	"29/6/2021 21:42 [DEBUG] 2162", -- [16911]
+	"29/6/2021 21:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16912]
+	"29/6/2021 21:42 [DEBUG] DifficultyID: 167", -- [16913]
+	"29/6/2021 21:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16914]
+	"29/6/2021 21:42 [DEBUG] Player has entered instance", -- [16915]
+	"29/6/2021 21:42 [DEBUG] 2162", -- [16916]
+	"29/6/2021 21:42 [DEBUG] Offical Instance Name: 2162 _2162", -- [16917]
+	"29/6/2021 21:42 [DEBUG] DifficultyID: 167", -- [16918]
+	"29/6/2021 21:42 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16919]
+	"29/6/2021 21:43 [DEBUG] Player has entered instance", -- [16920]
+	"29/6/2021 21:43 [DEBUG] 2162", -- [16921]
+	"29/6/2021 21:43 [DEBUG] Offical Instance Name: 2162 _2162", -- [16922]
+	"29/6/2021 21:43 [DEBUG] DifficultyID: 167", -- [16923]
+	"29/6/2021 21:43 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16924]
+	"29/6/2021 21:43 [DEBUG] Player has entered instance", -- [16925]
+	"29/6/2021 21:43 [DEBUG] 2162", -- [16926]
+	"29/6/2021 21:43 [DEBUG] Offical Instance Name: 2162 _2162", -- [16927]
+	"29/6/2021 21:43 [DEBUG] DifficultyID: 167", -- [16928]
+	"29/6/2021 21:43 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16929]
+	"29/6/2021 21:44 [DEBUG] Player has entered instance", -- [16930]
+	"29/6/2021 21:44 [DEBUG] 2162", -- [16931]
+	"29/6/2021 21:44 [DEBUG] Offical Instance Name: 2162 _2162", -- [16932]
+	"29/6/2021 21:44 [DEBUG] DifficultyID: 167", -- [16933]
+	"29/6/2021 21:44 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16934]
+	"29/6/2021 21:44 [DEBUG] Player has entered instance", -- [16935]
+	"29/6/2021 21:44 [DEBUG] 2162", -- [16936]
+	"29/6/2021 21:44 [DEBUG] Offical Instance Name: 2162 _2162", -- [16937]
+	"29/6/2021 21:44 [DEBUG] DifficultyID: 167", -- [16938]
+	"29/6/2021 21:44 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16939]
+	"29/6/2021 21:45 [DEBUG] Player has entered instance", -- [16940]
+	"29/6/2021 21:45 [DEBUG] 2162", -- [16941]
+	"29/6/2021 21:45 [DEBUG] Offical Instance Name: 2162 _2162", -- [16942]
+	"29/6/2021 21:45 [DEBUG] DifficultyID: 167", -- [16943]
+	"29/6/2021 21:45 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16944]
+	"29/6/2021 21:45 [DEBUG] Player has entered instance", -- [16945]
+	"29/6/2021 21:45 [DEBUG] 2162", -- [16946]
+	"29/6/2021 21:45 [DEBUG] Offical Instance Name: 2162 _2162", -- [16947]
+	"29/6/2021 21:45 [DEBUG] DifficultyID: 167", -- [16948]
+	"29/6/2021 21:45 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16949]
+	"29/6/2021 21:45 [DEBUG] Player has entered instance", -- [16950]
+	"29/6/2021 21:45 [DEBUG] 2162", -- [16951]
+	"29/6/2021 21:45 [DEBUG] Offical Instance Name: 2162 _2162", -- [16952]
+	"29/6/2021 21:45 [DEBUG] DifficultyID: 167", -- [16953]
+	"29/6/2021 21:45 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16954]
+	"29/6/2021 21:45 [DEBUG] Player has entered instance", -- [16955]
+	"29/6/2021 21:45 [DEBUG] 2162", -- [16956]
+	"29/6/2021 21:45 [DEBUG] Offical Instance Name: 2162 _2162", -- [16957]
+	"29/6/2021 21:45 [DEBUG] DifficultyID: 167", -- [16958]
+	"29/6/2021 21:45 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16959]
+	"29/6/2021 21:46 [DEBUG] Player has entered instance", -- [16960]
+	"29/6/2021 21:46 [DEBUG] 2162", -- [16961]
+	"29/6/2021 21:46 [DEBUG] Offical Instance Name: 2162 _2162", -- [16962]
+	"29/6/2021 21:46 [DEBUG] DifficultyID: 167", -- [16963]
+	"29/6/2021 21:46 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16964]
+	"29/6/2021 21:46 [DEBUG] Player has entered instance", -- [16965]
+	"29/6/2021 21:46 [DEBUG] 2162", -- [16966]
+	"29/6/2021 21:46 [DEBUG] Offical Instance Name: 2162 _2162", -- [16967]
+	"29/6/2021 21:46 [DEBUG] DifficultyID: 167", -- [16968]
+	"29/6/2021 21:46 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16969]
+	"29/6/2021 21:47 [DEBUG] Player has entered instance", -- [16970]
+	"29/6/2021 21:47 [DEBUG] 2162", -- [16971]
+	"29/6/2021 21:47 [DEBUG] Offical Instance Name: 2162 _2162", -- [16972]
+	"29/6/2021 21:47 [DEBUG] DifficultyID: 167", -- [16973]
+	"29/6/2021 21:47 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16974]
+	"29/6/2021 21:47 [DEBUG] Player has entered instance", -- [16975]
+	"29/6/2021 21:47 [DEBUG] 2162", -- [16976]
+	"29/6/2021 21:47 [DEBUG] Offical Instance Name: 2162 _2162", -- [16977]
+	"29/6/2021 21:47 [DEBUG] DifficultyID: 167", -- [16978]
+	"29/6/2021 21:47 [DEBUG] Achievements cannot be earned for the following difficulty 167", -- [16979]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [16980]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.25.0", -- [16981]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [16982]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [16983]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [16984]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [16985]
+	"30/6/2021 1:27 [DEBUG] Hiding Minimap Icon", -- [16986]
+	"30/6/2021 1:27 [DEBUG] NPC cache generated", -- [16987]
 }
 AchievementTrackerNPCCache = {
 	[75829] = "Nhallish",
@@ -17195,7 +17371,7 @@ AchievementTrackerNPCCache = {
 	[70252] = "Arcane Head",
 	[144596] = "Chest o' Booty",
 	[90049] = "Iron Star Mk. II",
-	[72490] = "Overseer Mojka",
+	[139737] = "Lord Stormsong",
 	[61884] = "Xin the Weaponmaster",
 	[61431] = "Glintrok Scout",
 	[155245] = "Depth Skulker",
@@ -17246,7 +17422,7 @@ AchievementTrackerNPCCache = {
 	[126712] = "Training Dummy",
 	[150995] = "Mimiron",
 	[26627] = "Crystal Handler",
-	[93145] = "Soul of the Crone",
+	[23574] = "Akil'zon",
 	[39987] = "Evolved Twilight Zealot",
 	[116802] = "Rodent of Usual Size",
 	[108682] = "Amber Drake",
@@ -17263,11 +17439,11 @@ AchievementTrackerNPCCache = {
 	[153172] = "Stolen Scrapbot",
 	[109450] = "Saronite Vapors",
 	[67571] = "Millhouse Manastorm",
-	[141792] = "Liz Vilepot",
+	[36535] = "Corrupted Soul Fragment",
 	[53258] = "Lord Rhyolith",
 	[115844] = "Goroth",
-	[36535] = "Corrupted Soul Fragment",
-	[105742] = "Turbax",
+	[141792] = "Liz Vilepot",
+	[71983] = "Farseer Wolf Rider",
 	[169554] = "Disused Anima Container",
 	[91938] = "Haunting Soul",
 	[172093] = "Hearty Haunch",
@@ -17276,30 +17452,30 @@ AchievementTrackerNPCCache = {
 	[165066] = "Huntsman Altimor",
 	[153941] = "Zoatroid",
 	[166644] = "Artificer Xy'mox",
-	[174018] = "Volatile Plague Bomb",
-	[36855] = "Lady Deathwhisper",
-	[100436] = "Illysanna Ravencrest",
 	[172995] = "Hydra Seed",
+	[36855] = "Lady Deathwhisper",
 	[104528] = "High Botanist Tel'arn",
+	[174018] = "Volatile Plague Bomb",
+	[100436] = "Illysanna Ravencrest",
 	[135713] = "Vile Pod",
-	[129208] = "Dread Captain Lockwood",
-	[52392] = "Gurubashi Master Chef",
+	[61567] = "Vizier Jin'bak",
+	[71984] = "Siege Engineer",
 	[166266] = "Spare Parts",
 	[111941] = "Hodir",
 	[32273] = "Infinite Corruptor",
 	[61709] = "Spawn of Anger",
 	[95833] = "Hyrja",
 	[156884] = "Essence of Vita",
-	[69427] = "Dark Animus",
 	[72496] = "Overseer Thathung",
+	[69427] = "Dark Animus",
 	[147430] = "Virmen",
 	[164557] = "Shard of Halkias",
 	[80551] = "Shard of Tectus",
 	[104341] = "Torment",
 	[64061] = "Mogu'shan Warden",
 	[119938] = "Reanimated Templar",
-	[105744] = "Blaze",
 	[28514] = "Nalorakk",
+	[105744] = "Blaze",
 	[52936] = "Druid of the Flame",
 	[105743] = "Whipsnap",
 	[115143] = "Snaplasher",
@@ -17321,14 +17497,14 @@ AchievementTrackerNPCCache = {
 	[120564] = "Titanic Anomaly",
 	[73265] = "Corrupted Amalgamation",
 	[111882] = "Sparky",
-	[71603] = "Sha Puddle",
+	[173768] = "Fiery Brazier",
 	[129722] = "Mote of Titanic Power",
 	[58787] = "Big Bessa",
 	[33244] = "Mimiron",
-	[173768] = "Fiery Brazier",
+	[71603] = "Sha Puddle",
 	[32913] = "Elder Ironbranch",
+	[90018] = "Hellfire Cannon",
 	[173770] = "Blazing Brazier",
-	[81834] = "Priceless Paraphernalia",
 	[165073] = "Forlorn Captive",
 	[158190] = "Medivh",
 	[141800] = "Brutik Blackanvil",
@@ -17341,7 +17517,7 @@ AchievementTrackerNPCCache = {
 	[158041] = "N'Zoth the Corruptor",
 	[154074] = "Void Orb",
 	[105299] = "Recursive Elemental",
-	[90018] = "Hellfire Cannon",
+	[81834] = "Priceless Paraphernalia",
 	[68599] = "Ferra Pearl",
 	[32867] = "Steelbreaker",
 	[34826] = "Mistress of Pain",
@@ -17365,8 +17541,8 @@ AchievementTrackerNPCCache = {
 	[67966] = "Whirl Turtle",
 	[145903] = "Darkforged Crusader",
 	[52422] = "Kaulema the Mover",
-	[71984] = "Siege Engineer",
-	[61567] = "Vizier Jin'bak",
+	[52392] = "Gurubashi Master Chef",
+	[129208] = "Dread Captain Lockwood",
 	[104251] = "Duskwatch Sentry",
 	[101976] = "Millificent Manastorm",
 	[80557] = "Mote of Tectus",
@@ -17374,16 +17550,16 @@ AchievementTrackerNPCCache = {
 	[141805] = "Threshanator 3000",
 	[105301] = "Expedient Elemental",
 	[64479] = "Gatecrusher",
-	[62465] = "Captain Ook",
-	[71983] = "Farseer Wolf Rider",
 	[61442] = "Kuai the Brute",
+	[105742] = "Turbax",
+	[62465] = "Captain Ook",
 	[38009] = "Reanimated Fanatic",
 	[147896] = "Zandalari Crusader",
 	[145898] = "Anointed Disciple",
 	[98696] = "Illysanna Ravencrest",
 	[99664] = "Restless Soul",
 	[56637] = "Ook-Ook",
-	[23574] = "Akil'zon",
+	[93145] = "Soul of the Crone",
 	[33118] = "Ignis the Furnace Master",
 	[131667] = "Soulbound Goliath",
 	[77816] = "Borka the Brute",
@@ -17408,7 +17584,7 @@ AchievementTrackerNPCCache = {
 	[28860] = "Sartharion",
 	[40634] = "Naz'jar Tempest Witch",
 	[64556] = "Captain Ook",
-	[139737] = "Lord Stormsong",
+	[72490] = "Overseer Mojka",
 	[38010] = "Reanimated Adherent",
 	[86250] = "Kyrak",
 	[111864] = "Sticky",

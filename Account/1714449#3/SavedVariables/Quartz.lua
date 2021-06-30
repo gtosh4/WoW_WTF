@@ -19,17 +19,17 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Range"] = {
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
 				["Default"] = {
 					["h"] = 15,
 					["w"] = 386,
-					["y"] = -272.0004272460938,
+					["y"] = -240.8893737792969,
 					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
-					["x"] = 1.99993896484375,
+					["x"] = 32.22210693359375,
 					["texture"] = "Smooth v2",
 				},
 			},
@@ -50,17 +50,17 @@ Quartz3DB = {
 		["Target"] = {
 			["profiles"] = {
 				["Default"] = {
-					["y"] = -196.4991455078125,
+					["y"] = -155.6101684570313,
 					["point"] = "CENTER",
 					["border"] = "Details BarBorder 3",
 					["texture"] = "Smooth v2",
-					["x"] = -0.66717529296875,
+					["x"] = -53.11138916015625,
 				},
 			},
 		},
 		["Mirror"] = {
 		},
-		["EnemyCasts"] = {
+		["Range"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {
