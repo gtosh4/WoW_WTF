@@ -11,16 +11,16 @@ AchievementTrackerOptions = {
 	["toggleSound"] = false,
 	["toggleSoundFailed"] = false,
 	["displayInfoFrame"] = true,
-	["hideCompletedAchievements"] = false,
-	["announceTrackedAchievements"] = false,
 	["announceToRaidWarning"] = true,
+	["InfoFramescale"] = 1,
+	["hideCompletedAchievements"] = false,
 	["InfoFramepoint"] = "CENTER",
 	["onlyTrackMissingAchievements"] = false,
 	["changeMinimapIcon"] = false,
 	["trackAchievementsAutomatically"] = false,
 	["InfoFramey"] = 385.77783203125,
 	["trackAchievementsInBlizzardUI"] = false,
-	["InfoFramescale"] = 1,
+	["announceTrackedAchievements"] = false,
 }
 AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [1]
@@ -17010,6 +17010,32 @@ AchievementTrackerDebug = {
 	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [16985]
 	"30/6/2021 1:27 [DEBUG] Hiding Minimap Icon", -- [16986]
 	"30/6/2021 1:27 [DEBUG] NPC cache generated", -- [16987]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [16988]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.26.0", -- [16989]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [16990]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [16991]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [16992]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [16993]
+	"30/6/2021 20:27 [DEBUG] Hiding Minimap Icon", -- [16994]
+	"30/6/2021 20:27 [DEBUG] NPC cache generated", -- [16995]
+	"0/0/1999 -1:-1 [DEBUG] ---IAT Runtime---", -- [16996]
+	"0/0/1999 -1:-1 [DEBUG] Version: 3.26.0", -- [16997]
+	"0/0/1999 -1:-1 [DEBUG] Attempting to load from local NPC Cache", -- [16998]
+	"0/0/1999 -1:-1 [DEBUG] Generating NPC Cache...", -- [16999]
+	"0/0/1999 -1:-1 [DEBUG] Enabling Addon", -- [17000]
+	"0/0/1999 -1:-1 [DEBUG] Registering CHAT_MSG_ADDON prefix", -- [17001]
+	"30/6/2021 21:58 [DEBUG] Hiding Minimap Icon", -- [17002]
+	"30/6/2021 21:58 [DEBUG] NPC cache generated", -- [17003]
+	"30/6/2021 22:24 [DEBUG] Player has entered instance", -- [17004]
+	"30/6/2021 22:24 [DEBUG] 2464", -- [17005]
+	"30/6/2021 22:24 [DEBUG] Offical Instance Name: 2464 _2464", -- [17006]
+	"30/6/2021 22:24 [DEBUG] DifficultyID: 12", -- [17007]
+	"30/6/2021 22:24 [DEBUG] Achievements cannot be earned for the following difficulty 12", -- [17008]
+	"30/6/2021 22:24 [DEBUG] Player has entered instance", -- [17009]
+	"30/6/2021 22:24 [DEBUG] 2464", -- [17010]
+	"30/6/2021 22:24 [DEBUG] Offical Instance Name: 2464 _2464", -- [17011]
+	"30/6/2021 22:24 [DEBUG] DifficultyID: 12", -- [17012]
+	"30/6/2021 22:24 [DEBUG] Achievements cannot be earned for the following difficulty 12", -- [17013]
 }
 AchievementTrackerNPCCache = {
 	[75829] = "Nhallish",
@@ -17371,7 +17397,7 @@ AchievementTrackerNPCCache = {
 	[70252] = "Arcane Head",
 	[144596] = "Chest o' Booty",
 	[90049] = "Iron Star Mk. II",
-	[139737] = "Lord Stormsong",
+	[72490] = "Overseer Mojka",
 	[61884] = "Xin the Weaponmaster",
 	[61431] = "Glintrok Scout",
 	[155245] = "Depth Skulker",
@@ -17422,7 +17448,7 @@ AchievementTrackerNPCCache = {
 	[126712] = "Training Dummy",
 	[150995] = "Mimiron",
 	[26627] = "Crystal Handler",
-	[23574] = "Akil'zon",
+	[93145] = "Soul of the Crone",
 	[39987] = "Evolved Twilight Zealot",
 	[116802] = "Rodent of Usual Size",
 	[108682] = "Amber Drake",
@@ -17439,11 +17465,11 @@ AchievementTrackerNPCCache = {
 	[153172] = "Stolen Scrapbot",
 	[109450] = "Saronite Vapors",
 	[67571] = "Millhouse Manastorm",
-	[36535] = "Corrupted Soul Fragment",
+	[141792] = "Liz Vilepot",
 	[53258] = "Lord Rhyolith",
 	[115844] = "Goroth",
-	[141792] = "Liz Vilepot",
-	[71983] = "Farseer Wolf Rider",
+	[36535] = "Corrupted Soul Fragment",
+	[105742] = "Turbax",
 	[169554] = "Disused Anima Container",
 	[91938] = "Haunting Soul",
 	[172093] = "Hearty Haunch",
@@ -17452,30 +17478,30 @@ AchievementTrackerNPCCache = {
 	[165066] = "Huntsman Altimor",
 	[153941] = "Zoatroid",
 	[166644] = "Artificer Xy'mox",
-	[172995] = "Hydra Seed",
-	[36855] = "Lady Deathwhisper",
-	[104528] = "High Botanist Tel'arn",
 	[174018] = "Volatile Plague Bomb",
+	[36855] = "Lady Deathwhisper",
 	[100436] = "Illysanna Ravencrest",
+	[172995] = "Hydra Seed",
+	[104528] = "High Botanist Tel'arn",
 	[135713] = "Vile Pod",
-	[61567] = "Vizier Jin'bak",
-	[71984] = "Siege Engineer",
+	[129208] = "Dread Captain Lockwood",
+	[52392] = "Gurubashi Master Chef",
 	[166266] = "Spare Parts",
 	[111941] = "Hodir",
 	[32273] = "Infinite Corruptor",
 	[61709] = "Spawn of Anger",
 	[95833] = "Hyrja",
 	[156884] = "Essence of Vita",
-	[72496] = "Overseer Thathung",
 	[69427] = "Dark Animus",
+	[72496] = "Overseer Thathung",
 	[147430] = "Virmen",
 	[164557] = "Shard of Halkias",
 	[80551] = "Shard of Tectus",
 	[104341] = "Torment",
 	[64061] = "Mogu'shan Warden",
 	[119938] = "Reanimated Templar",
-	[28514] = "Nalorakk",
 	[105744] = "Blaze",
+	[28514] = "Nalorakk",
 	[52936] = "Druid of the Flame",
 	[105743] = "Whipsnap",
 	[115143] = "Snaplasher",
@@ -17497,14 +17523,14 @@ AchievementTrackerNPCCache = {
 	[120564] = "Titanic Anomaly",
 	[73265] = "Corrupted Amalgamation",
 	[111882] = "Sparky",
-	[173768] = "Fiery Brazier",
+	[71603] = "Sha Puddle",
 	[129722] = "Mote of Titanic Power",
 	[58787] = "Big Bessa",
 	[33244] = "Mimiron",
-	[71603] = "Sha Puddle",
+	[173768] = "Fiery Brazier",
 	[32913] = "Elder Ironbranch",
+	[81834] = "Priceless Paraphernalia",
 	[90018] = "Hellfire Cannon",
-	[173770] = "Blazing Brazier",
 	[165073] = "Forlorn Captive",
 	[158190] = "Medivh",
 	[141800] = "Brutik Blackanvil",
@@ -17517,7 +17543,7 @@ AchievementTrackerNPCCache = {
 	[158041] = "N'Zoth the Corruptor",
 	[154074] = "Void Orb",
 	[105299] = "Recursive Elemental",
-	[81834] = "Priceless Paraphernalia",
+	[173770] = "Blazing Brazier",
 	[68599] = "Ferra Pearl",
 	[32867] = "Steelbreaker",
 	[34826] = "Mistress of Pain",
@@ -17541,8 +17567,8 @@ AchievementTrackerNPCCache = {
 	[67966] = "Whirl Turtle",
 	[145903] = "Darkforged Crusader",
 	[52422] = "Kaulema the Mover",
-	[52392] = "Gurubashi Master Chef",
-	[129208] = "Dread Captain Lockwood",
+	[71984] = "Siege Engineer",
+	[61567] = "Vizier Jin'bak",
 	[104251] = "Duskwatch Sentry",
 	[101976] = "Millificent Manastorm",
 	[80557] = "Mote of Tectus",
@@ -17550,16 +17576,16 @@ AchievementTrackerNPCCache = {
 	[141805] = "Threshanator 3000",
 	[105301] = "Expedient Elemental",
 	[64479] = "Gatecrusher",
-	[61442] = "Kuai the Brute",
-	[105742] = "Turbax",
 	[62465] = "Captain Ook",
+	[71983] = "Farseer Wolf Rider",
+	[61442] = "Kuai the Brute",
 	[38009] = "Reanimated Fanatic",
 	[147896] = "Zandalari Crusader",
 	[145898] = "Anointed Disciple",
 	[98696] = "Illysanna Ravencrest",
 	[99664] = "Restless Soul",
 	[56637] = "Ook-Ook",
-	[93145] = "Soul of the Crone",
+	[23574] = "Akil'zon",
 	[33118] = "Ignis the Furnace Master",
 	[131667] = "Soulbound Goliath",
 	[77816] = "Borka the Brute",
@@ -17584,7 +17610,7 @@ AchievementTrackerNPCCache = {
 	[28860] = "Sartharion",
 	[40634] = "Naz'jar Tempest Witch",
 	[64556] = "Captain Ook",
-	[72490] = "Overseer Mojka",
+	[139737] = "Lord Stormsong",
 	[38010] = "Reanimated Adherent",
 	[86250] = "Kyrak",
 	[111864] = "Sticky",

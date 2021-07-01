@@ -7,13 +7,13 @@ NameplateSCTDB = {
 		["Toshpal - Area 52"] = "Default",
 	},
 	["global"] = {
-		["personal"] = false,
-		["animations"] = {
-			["autoattack"] = "disabled",
-		},
-		["modOffTargetStrata"] = true,
 		["sizing"] = {
 			["smallHitsScale"] = 0.5,
+		},
+		["personal"] = false,
+		["modOffTargetStrata"] = true,
+		["animations"] = {
+			["autoattack"] = "disabled",
 		},
 	},
 }

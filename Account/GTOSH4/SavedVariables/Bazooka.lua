@@ -163,17 +163,17 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 4,
 					},
-					["Altoholic"] = {
-						["pos"] = 3,
-						["bar"] = 4,
+					["Dominos"] = {
+						["enabled"] = false,
+						["pos"] = 7,
 					},
 					["ExRT"] = {
 						["enabled"] = false,
 						["pos"] = 3,
 					},
-					["Dominos"] = {
+					["Leatrix_Plus"] = {
 						["enabled"] = false,
-						["pos"] = 7,
+						["pos"] = 10,
 					},
 					["InstanceAchievementTracker"] = {
 						["pos"] = 2,
@@ -188,9 +188,9 @@ BazookaDB = {
 					["Bazooka"] = {
 						["enabled"] = false,
 					},
-					["Leatrix_Plus"] = {
-						["enabled"] = false,
-						["pos"] = 10,
+					["Altoholic"] = {
+						["pos"] = 3,
+						["bar"] = 4,
 					},
 					["WeakAuras"] = {
 						["enabled"] = false,

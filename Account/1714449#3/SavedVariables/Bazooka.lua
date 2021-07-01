@@ -4,84 +4,29 @@ BazookaDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
-	["profileKeys"] = {
-		["Toshdk - Kil'jaeden"] = "Default",
-		["Toshdruid - Area 52"] = "Default",
-		["Daggny - Frostwolf"] = "Default",
-		["Toshtoon - Barthilas"] = "Default",
-		["Toshpriest - Area 52"] = "Default",
-		["Toshpal - Area 52"] = "Default",
-		["Toshlongboyr - Eldre'Thalas"] = "Default",
-		["Yorman - Kil'jaeden"] = "Default",
-		["Toshaman - Area 52"] = "Default",
-		["Yelluwuy - Area 52"] = "Default",
-		["Toshlongboy - Eldre'Thalas"] = "Default",
-		["Toshmonk - Kil'jaeden"] = "Default",
-		["Toshaman - Kil'jaeden"] = "Default",
-		["Toshpriest - Azralon"] = "Default",
-	},
 	["global"] = {
 		["hideOrderHallCommandBar"] = false,
+	},
+	["profileKeys"] = {
+		["Toshdk - Kil'jaeden"] = "Default",
+		["Toshpriest - Azralon"] = "Default",
+		["Daggny - Frostwolf"] = "Default",
+		["Toshtoon - Barthilas"] = "Default",
+		["Toshlongboyr - Eldre'Thalas"] = "Default",
+		["Toshpal - Area 52"] = "Default",
+		["Toshpriest - Area 52"] = "Default",
+		["Yorman - Kil'jaeden"] = "Default",
+		["Toshlongboy - Eldre'Thalas"] = "Default",
+		["Yelluwuy - Area 52"] = "Default",
+		["Toshmonk - Kil'jaeden"] = "Default",
+		["Toshaman - Area 52"] = "Default",
+		["Toshaman - Kil'jaeden"] = "Default",
+		["Toshdruid - Area 52"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["numBars"] = 2,
 			["plugins"] = {
-				["launcher"] = {
-					["SavedInstances"] = {
-						["showValue"] = false,
-						["pos"] = 2,
-						["bar"] = 2,
-					},
-					["BigWigs"] = {
-						["enabled"] = false,
-						["pos"] = 6,
-					},
-					["Grid2"] = {
-						["enabled"] = false,
-						["pos"] = 2,
-					},
-					["WeakAuras"] = {
-						["enabled"] = false,
-						["pos"] = 8,
-					},
-					["Bazooka"] = {
-						["enabled"] = false,
-					},
-					["ExRT"] = {
-						["enabled"] = false,
-						["pos"] = 3,
-					},
-					["Dominos"] = {
-						["enabled"] = false,
-						["pos"] = 7,
-					},
-					["InstanceAchievementTracker"] = {
-						["pos"] = 2,
-					},
-					["PitBull4"] = {
-						["pos"] = 2,
-					},
-					["Prat"] = {
-						["enabled"] = false,
-						["pos"] = 9,
-					},
-					["Leatrix_Plus"] = {
-						["enabled"] = false,
-						["pos"] = 10,
-					},
-					["Altoholic"] = {
-						["bar"] = 4,
-						["pos"] = 3,
-					},
-					["TellMeWhen"] = {
-						["enabled"] = false,
-						["pos"] = 4,
-					},
-					["MRT"] = {
-						["pos"] = 11,
-					},
-				},
 				["data source"] = {
 					["Plater"] = {
 						["enabled"] = false,
@@ -89,8 +34,8 @@ BazookaDB = {
 					},
 					["BugSack"] = {
 						["area"] = "left",
-						["pos"] = 1,
 						["bar"] = 2,
+						["pos"] = 1,
 					},
 					["SimulationCraft"] = {
 						["enabled"] = false,
@@ -116,13 +61,12 @@ BazookaDB = {
 						["showValue"] = false,
 						["showIcon"] = false,
 						["stripColors"] = false,
-						["pos"] = 1,
 						["bar"] = 2,
+						["pos"] = 1,
 					},
-					["ClassSpecs"] = {
-						["area"] = "left",
-						["enabled"] = false,
-						["pos"] = 2,
+					["ZoneText"] = {
+						["showIcon"] = false,
+						["pos"] = 7,
 					},
 					["Traffic"] = {
 						["area"] = "left",
@@ -137,39 +81,40 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 5,
 					},
-					["System"] = {
-						["showIcon"] = false,
-						["area"] = "left",
-						["pos"] = 2,
+					["Dungeons"] = {
+						["pos"] = 5,
 					},
-					["Order hall"] = {
+					["Death Note"] = {
 						["area"] = "left",
 						["showText"] = false,
-						["pos"] = 9,
+						["pos"] = 3,
 						["bar"] = 2,
 					},
-					["DetailsStreamer"] = {
-						["enabled"] = false,
-						["pos"] = 14,
+					["Mail"] = {
+						["area"] = "left",
+						["showText"] = false,
+						["pos"] = 11,
 					},
 					["Details"] = {
 						["enabled"] = false,
 						["pos"] = 13,
 					},
-					["Equipment"] = {
-						["useLabelAsTitle"] = false,
-						["area"] = "left",
-						["enabled"] = false,
+					["Difficulty"] = {
+						["showIcon"] = false,
+						["pos"] = 8,
 					},
 					["Garrison"] = {
 						["pos"] = 9,
 					},
-					["Dungeons"] = {
-						["pos"] = 5,
-					},
-					["Difficulty"] = {
+					["System"] = {
 						["showIcon"] = false,
-						["pos"] = 8,
+						["area"] = "left",
+						["pos"] = 2,
+					},
+					["Equipment"] = {
+						["useLabelAsTitle"] = false,
+						["area"] = "left",
+						["enabled"] = false,
 					},
 					["Memory"] = {
 						["pos"] = 9,
@@ -184,25 +129,80 @@ BazookaDB = {
 						["enabled"] = false,
 						["pos"] = 8,
 					},
-					["Mail"] = {
-						["area"] = "left",
-						["showText"] = false,
-						["pos"] = 11,
+					["DetailsStreamer"] = {
+						["enabled"] = false,
+						["pos"] = 14,
 					},
-					["Death Note"] = {
+					["Order hall"] = {
 						["area"] = "left",
 						["showText"] = false,
 						["bar"] = 2,
-						["pos"] = 3,
+						["pos"] = 9,
 					},
 					["Tracking"] = {
 						["area"] = "left",
 						["showText"] = false,
 						["pos"] = 12,
 					},
-					["ZoneText"] = {
-						["showIcon"] = false,
+					["ClassSpecs"] = {
+						["area"] = "left",
+						["enabled"] = false,
+						["pos"] = 2,
+					},
+				},
+				["launcher"] = {
+					["MRT"] = {
+						["pos"] = 11,
+					},
+					["BigWigs"] = {
+						["enabled"] = false,
+						["pos"] = 6,
+					},
+					["Grid2"] = {
+						["enabled"] = false,
+						["pos"] = 2,
+					},
+					["TellMeWhen"] = {
+						["enabled"] = false,
+						["pos"] = 4,
+					},
+					["Dominos"] = {
+						["enabled"] = false,
 						["pos"] = 7,
+					},
+					["ExRT"] = {
+						["enabled"] = false,
+						["pos"] = 3,
+					},
+					["Altoholic"] = {
+						["pos"] = 3,
+						["bar"] = 4,
+					},
+					["InstanceAchievementTracker"] = {
+						["pos"] = 2,
+					},
+					["Leatrix_Plus"] = {
+						["enabled"] = false,
+						["pos"] = 10,
+					},
+					["Prat"] = {
+						["enabled"] = false,
+						["pos"] = 9,
+					},
+					["PitBull4"] = {
+						["pos"] = 2,
+					},
+					["Bazooka"] = {
+						["enabled"] = false,
+					},
+					["WeakAuras"] = {
+						["enabled"] = false,
+						["pos"] = 8,
+					},
+					["SavedInstances"] = {
+						["showValue"] = false,
+						["bar"] = 2,
+						["pos"] = 2,
 					},
 				},
 			},
@@ -237,32 +237,6 @@ BazookaDB = {
 		},
 		["Kil'jaeden"] = {
 			["plugins"] = {
-				["launcher"] = {
-					["Dominos"] = {
-						["pos"] = 6,
-					},
-					["ExRT"] = {
-						["pos"] = 3,
-					},
-					["WeakAuras"] = {
-						["pos"] = 9,
-					},
-					["BigWigs"] = {
-						["pos"] = 7,
-					},
-					["Grid2"] = {
-						["pos"] = 2,
-					},
-					["Prat"] = {
-						["pos"] = 8,
-					},
-					["TellMeWhen"] = {
-						["pos"] = 4,
-					},
-					["SavedInstances"] = {
-						["pos"] = 5,
-					},
-				},
 				["data source"] = {
 					["BugSack"] = {
 						["pos"] = 1,
@@ -314,6 +288,32 @@ BazookaDB = {
 					},
 					["ClassSpecs"] = {
 						["pos"] = 17,
+					},
+				},
+				["launcher"] = {
+					["Dominos"] = {
+						["pos"] = 6,
+					},
+					["SavedInstances"] = {
+						["pos"] = 5,
+					},
+					["TellMeWhen"] = {
+						["pos"] = 4,
+					},
+					["BigWigs"] = {
+						["pos"] = 7,
+					},
+					["Grid2"] = {
+						["pos"] = 2,
+					},
+					["Prat"] = {
+						["pos"] = 8,
+					},
+					["WeakAuras"] = {
+						["pos"] = 9,
+					},
+					["ExRT"] = {
+						["pos"] = 3,
 					},
 				},
 			},

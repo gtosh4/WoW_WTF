@@ -91,13 +91,6 @@ Broker_Everything_CharacterDB = {
 		["orderId"] = 1,
 		["Dungeons"] = {
 		},
-		["Professions"] = {
-			["learnedRecipes"] = {
-			},
-		},
-		["race"] = "Goblin",
-		["name"] = "Toshpriest",
-		["faction"] = "Horde",
 		["mail"] = {
 			["total"] = 0,
 			["stored"] = {
@@ -108,7 +101,9 @@ Broker_Everything_CharacterDB = {
 			["new"] = {
 			},
 		},
-		["level"] = 60,
+		["race"] = "Goblin",
+		["name"] = "Toshpriest",
+		["gold"] = 10753845943,
 		["professions"] = {
 			["cooldown_locks"] = {
 			},
@@ -134,7 +129,12 @@ Broker_Everything_CharacterDB = {
 			},
 			["hasCooldowns"] = false,
 		},
-		["gold"] = 10753845943,
+		["level"] = 60,
+		["Professions"] = {
+			["learnedRecipes"] = {
+			},
+		},
+		["faction"] = "Horde",
 	},
 	["Toshtoon-Barthilas"] = {
 		["race"] = "Vulpera",

@@ -498,18 +498,18 @@ REFlexDatabase = {
 	}, -- [7]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 102,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624863345,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Frstofthegng-Tichondrius", -- [1]
@@ -629,18 +629,18 @@ REFlexDatabase = {
 	}, -- [8]
 	{
 		["Map"] = 1504,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 42,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624863762,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Gummiibless", -- [1]
@@ -760,18 +760,18 @@ REFlexDatabase = {
 	}, -- [9]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 55,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624863954,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Loltron-Cho'gall", -- [1]
@@ -891,18 +891,18 @@ REFlexDatabase = {
 	}, -- [10]
 	{
 		["Map"] = 1672,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 64,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624864210,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Dreava", -- [1]
@@ -1022,10 +1022,10 @@ REFlexDatabase = {
 	}, -- [11]
 	{
 		["Map"] = 2222,
-		["Hidden"] = true,
+		["Season"] = 30,
 		["PlayersNum"] = 0,
 		["Duration"] = 0,
-		["Season"] = 30,
+		["Hidden"] = true,
 		["BGComposition"] = {
 			{
 				0, -- [1]
@@ -1040,8 +1040,8 @@ REFlexDatabase = {
 		},
 		["Players"] = {
 		},
-		["isBrawl"] = false,
-		["PlayerSide"] = 0,
+		["isArena"] = false,
+		["Version"] = 313,
 		["isRated"] = false,
 		["BGPlace"] = {
 			{
@@ -1059,24 +1059,24 @@ REFlexDatabase = {
 				1, -- [5]
 			}, -- [2]
 		},
+		["PlayerSide"] = 0,
+		["isBrawl"] = false,
 		["Time"] = 1624864511,
-		["isArena"] = false,
-		["Version"] = 313,
 	}, -- [12]
 	{
 		["Map"] = 1825,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 159,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624864834,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 0,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Feralicius-Ragnaros", -- [1]
@@ -1196,18 +1196,18 @@ REFlexDatabase = {
 	}, -- [13]
 	{
 		["Map"] = 1134,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 36,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 2,
 		["Time"] = 1624865051,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Blaezi-BleedingHollow", -- [1]
@@ -1327,18 +1327,18 @@ REFlexDatabase = {
 	}, -- [14]
 	{
 		["Map"] = 2167,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 5,
 		["Duration"] = 35,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 5,
 		["Time"] = 1624869079,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 1,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Raveve", -- [1]
@@ -1439,18 +1439,18 @@ REFlexDatabase = {
 	}, -- [15]
 	{
 		["Map"] = 2373,
-		["Hidden"] = false,
+		["Season"] = 30,
 		["PlayersNum"] = 6,
 		["Duration"] = 114,
-		["Season"] = 30,
+		["Hidden"] = false,
 		["PlayerNum"] = 6,
 		["Time"] = 1624869914,
-		["isArena"] = true,
+		["isBrawl"] = false,
 		["PlayerSide"] = 1,
 		["isRated"] = false,
 		["Version"] = 313,
 		["Winner"] = 0,
-		["isBrawl"] = false,
+		["isArena"] = true,
 		["Players"] = {
 			{
 				"Avatarl-Ragnaros", -- [1]

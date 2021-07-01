@@ -9,7 +9,7 @@ DiminishDB = {
 			["categoryTextures"] = {
 			},
 			["timerStartAuraEnd"] = false,
-			["timerText"] = true,
+			["timerColors"] = false,
 			["border"] = {
 				["edgeSize"] = 2.5,
 				["layer"] = "BORDER",
@@ -161,13 +161,13 @@ DiminishDB = {
 					["isEnabledForZone"] = false,
 				},
 			},
-			["timerColors"] = false,
+			["timerText"] = true,
 			["version"] = "1.7",
 			["showCategoryText"] = false,
 			["timerTextOutline"] = "NONE",
 			["colorBlind"] = false,
-			["trackNPCs"] = false,
 			["timerSwipe"] = true,
+			["trackNPCs"] = false,
 			["categoryFont"] = {
 				["size"] = 11,
 				["x"] = 0,

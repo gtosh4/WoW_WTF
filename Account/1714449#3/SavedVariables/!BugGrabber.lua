@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 1144,
 	["lastSanitation"] = 3,
+	["session"] = 1147,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\HandyNotes_TreasureHunter\\handler.lua:18: attempt to concatenate global 'ANIMA' (a nil value)",
@@ -92,90 +92,11 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [11]
 		{
-			["message"] = "GladiusEx: invalid spellid 204293",
-			["time"] = "2021/06/29 22:15:14",
-			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
-			["session"] = 1144,
-			["counter"] = 4,
-		}, -- [12]
-		{
-			["message"] = "GladiusEx: invalid spellid 330279",
-			["time"] = "2021/06/29 22:15:14",
-			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
-			["session"] = 1144,
-			["counter"] = 4,
-		}, -- [13]
-		{
-			["message"] = "Interface\\FrameXML\\TransmogUtil.lua:99: attempt to perform arithmetic on local 'modification' (a nil value)",
-			["time"] = "2021/06/29 22:15:16",
-			["locals"] = "slotID = 1\ntransmogType = 0\nmodification = nil\n(*temporary) = 100\n(*temporary) = 0\n(*temporary) = \"attempt to perform arithmetic on local 'modification' (a nil value)\"\n",
-			["stack"] = "[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:99: in function `GetTransmogLocationLookupKey'\n[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:85: in function `GetTransmogLocation'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua\"]:217: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
-			["session"] = 1144,
-			["counter"] = 2,
-		}, -- [14]
-		{
-			["message"] = "[string \"BW_ColectionListFrame:OnLoad\"]:2: attempt to call method 'CreateSlotButtons' (a nil value)",
-			["time"] = "2021/06/29 22:15:16",
-			["locals"] = "self = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = \"attempt to call method 'CreateSlotButtons' (a nil value)\"\n",
-			["stack"] = "[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
-			["session"] = 1144,
-			["counter"] = 2,
-		}, -- [15]
-		{
-			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:87: attempt to call method 'GetSlotTransmogSources' (a nil value)",
-			["time"] = "2021/06/29 22:15:16",
-			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:87: in function `GetItemSource'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:99: in function <Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua:65>\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:274: in function `InitDB'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Core.lua\"]:1197: in function <Interface\\AddOns\\BetterWardrobe\\Core.lua:1113>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
-			["session"] = 1144,
-			["counter"] = 2,
-		}, -- [16]
-		{
 			["message"] = "(null)",
-			["session"] = 1144,
 			["time"] = "2021/06/29 22:15:19",
+			["session"] = 1144,
 			["counter"] = 13,
-		}, -- [17]
-		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnLoad in element OnLoad",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [18]
-		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnHide in element OnHide",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [19]
-		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnKeyDown in element OnKeyDown",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [20]
-		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnTextChanged in element OnTextChanged",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [21]
-		{
-			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnLoad in element OnLoad",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [22]
-		{
-			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnHide in element OnHide",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [23]
-		{
-			["message"] = "<unnamed>: Has bad mixin: RightShoulderCheckboxMixin",
-			["time"] = "2021/06/30 01:29:45",
-			["session"] = 1144,
-			["counter"] = 1,
-		}, -- [24]
+		}, -- [12]
 		{
 			["message"] = "...rface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua:578: attempt to index upvalue 'Profile' (a nil value)",
 			["time"] = "2021/06/30 01:40:25",
@@ -183,7 +104,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua\"]:578: in function <...rface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua:577>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2928: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2773: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2641: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3492: in function <Interface\\FrameXML\\UIParent.lua:3471>\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\DressUpFrames.lua\"]:284: in function `DressUpFrame_Show'\n[string \"@Interface\\FrameXML\\DressUpFrames.lua\"]:60: in function <Interface\\FrameXML\\DressUpFrames.lua:58>\n[string \"=[C]\"]: in function `DressUpVisual'\n[string \"@Interface\\FrameXML\\DressUpFrames.lua\"]:8: in function `DressUpItemLink'\n[string \"@Interface\\FrameXML\\ItemButtonTemplate.lua\"]:243: in function `HandleModifiedItemClick'\n[string \"@Interface\\FrameXML\\ItemRef.lua\"]:368: in function <Interface\\FrameXML\\ItemRef.lua:11>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua\"]:3511: in function <...ace\\AddOns\\Blizzard_CombatLog\\Blizzard_CombatLog.lua:3452>\n[string \"=[C]\"]: in function `SetItemRef'\n[string \"@Interface\\FrameXML\\ChatFrame.lua\"]:3971: in function `ChatFrame_OnHyperlinkShow'\n[string \"*:OnHyperlinkClick\"]:1: in function <[string \"*:OnHyperlinkClick\"]:1>",
 			["session"] = 1144,
 			["counter"] = 1,
-		}, -- [25]
+		}, -- [13]
 		{
 			["message"] = "...rface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua:236: bad argument #1 to 'pairs' (table expected, got nil)",
 			["time"] = "2021/06/30 01:40:25",
@@ -191,6 +112,150 @@ BugGrabberDB = {
 			["stack"] = "[string \"=[C]\"]: in function `pairs'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua\"]:236: in function <...rface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua:228>\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua\"]:531: in function <...rface\\AddOns\\BetterWardrobe\\Modules\\DressingRoom.lua:530>",
 			["session"] = 1144,
 			["counter"] = 1,
+		}, -- [14]
+		{
+			["message"] = "Interface\\AddOns\\Broker_Everything\\shared.lua:1042: hooksecurefunc(): ItemUpgradeFrame_UpgradeClick is not a function",
+			["time"] = "2021/06/30 13:16:30",
+			["locals"] = "",
+			["stack"] = "[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\Broker_Everything\\shared.lua\"]:1042: in function <Interface\\AddOns\\Broker_Everything\\shared.lua:1039>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:508: in function `UIParentLoadAddOn'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:682: in function `ItemUpgrade_LoadUI'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2129: in function <Interface\\FrameXML\\UIParent.lua:1287>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `TurnOrActionStop'\n[string \"TURNORACTION\"]:4: in function <[string \"TURNORACTION\"]:1>",
+			["session"] = 1145,
+			["counter"] = 1,
+		}, -- [15]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'AdiBags' tried to call the protected function 'ApplyMountEquipment()'.",
+			["time"] = "2021/06/30 13:49:16",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `ApplyMountEquipment'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_MountCollection.lua\"]:284: in function `MountJournal_OnDialogApplyEquipmentChoice'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_MountCollection.lua\"]:18: in function `OnAccept'\n[string \"@Interface\\FrameXML\\StaticPopup.lua\"]:5078: in function `StaticPopup_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>",
+			["session"] = 1145,
+			["counter"] = 1,
+		}, -- [16]
+		{
+			["message"] = "GladiusEx: invalid spellid 204293",
+			["time"] = "2021/06/29 22:15:14",
+			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1147,
+			["counter"] = 10,
+		}, -- [17]
+		{
+			["message"] = "GladiusEx: invalid spellid 330279",
+			["time"] = "2021/06/29 22:15:14",
+			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1147,
+			["counter"] = 10,
+		}, -- [18]
+		{
+			["message"] = "[string \"BW_ColectionListFrame:OnLoad\"]:2: attempt to call method 'CreateSlotButtons' (a nil value)",
+			["time"] = "2021/06/29 22:15:16",
+			["locals"] = "self = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = \"attempt to call method 'CreateSlotButtons' (a nil value)\"\n",
+			["stack"] = "[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
+			["session"] = 1147,
+			["counter"] = 5,
+		}, -- [19]
+		{
+			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:87: attempt to call method 'GetSlotTransmogSources' (a nil value)",
+			["time"] = "2021/06/29 22:15:16",
+			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:87: in function `GetItemSource'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:99: in function <Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua:65>\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:274: in function `InitDB'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Core.lua\"]:1197: in function <Interface\\AddOns\\BetterWardrobe\\Core.lua:1113>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
+			["session"] = 1147,
+			["counter"] = 5,
+		}, -- [20]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnLoad in element OnLoad",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [21]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnHide in element OnHide",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [22]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnKeyDown in element OnKeyDown",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [23]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnTextChanged in element OnTextChanged",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [24]
+		{
+			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnLoad in element OnLoad",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [25]
+		{
+			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnHide in element OnHide",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
 		}, -- [26]
+		{
+			["message"] = "<unnamed>: Has bad mixin: RightShoulderCheckboxMixin",
+			["session"] = 1147,
+			["time"] = "2021/06/30 01:29:45",
+			["counter"] = 4,
+		}, -- [27]
+		{
+			["message"] = "Frame <unnamed>: Unknown method OnShow in element OnShow",
+			["time"] = "2021/06/30 12:02:51",
+			["session"] = 1147,
+			["counter"] = 3,
+		}, -- [28]
+		{
+			["message"] = "Frame <unnamed>: Unknown method OnEvent in element OnEvent",
+			["time"] = "2021/06/30 12:02:51",
+			["session"] = 1147,
+			["counter"] = 3,
+		}, -- [29]
+		{
+			["message"] = "Frame <unnamed>: Unknown method OnClick in element OnClick",
+			["time"] = "2021/06/30 12:02:51",
+			["session"] = 1147,
+			["counter"] = 3,
+		}, -- [30]
+		{
+			["message"] = "...\\AddOns\\BetterWardrobe\\Modules\\CollectionJournal.lua:845: attempt to index global 'BW_DBSavedSetDropdown' (a nil value)",
+			["time"] = "2021/06/30 13:48:28",
+			["locals"] = "tabID = 1\natTransmogrifier = false\nElvUI = false\ntab1 = true\ntab2 = false\ntab3 = false\ntab4 = false\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index global 'BW_DBSavedSetDropdown' (a nil value)\"\nTAB_ITEMS = 1\nTAB_SETS = 2\nTAB_EXTRASETS = 3\nTAB_SAVED_SETS = 4\naddon = <table> {\n ViewDelay = 3\n modules = <table> {\n }\n Sort = <table> {\n }\n SecureHook = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceHook-3.0\\AceHook-3.0.lua:336\n DefaultUI = <table> {\n }\n tooltip = BW_ProfileTooltip {\n }\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n MogIt = <table> {\n }\n IsEnabled = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n GetActiveCategory = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:207\n RefreshCharConfig = <function> defined @Interface\\AddOns\\BetterWardrobe\\Core.lua:978\n ExtraSetsDataProvider = <table> {\n }\n RegisterMessage = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n validSetCache = <table> {\n }\n ArmorSetModCache = <table> {\n }\n db = <table> {\n }\n SetEnabledState = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:424\n Hook = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceHook-3.0\\AceHook-3.0.lua:274\n GetSourceFromItem = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Tooltips.lua:207\n OnEnable = <function> defined @Interface\\AddOns\\BetterWardrobe\\Core.lua:1113\n RefreshOutfitData = <function> defined @Interface\\AddOns\\BetterWardrobe\\Core.lua:856\n GetSetNewSources = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:1026\n IsWeaponCat = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:212\n ItemAppearance = <table> {\n }\n OnInitialize = <function> defined @Interface\\AddOns\\BetterWardrobe\\Core.lua:997\n itemSourceID = <table> {\n }\n ArmorSets = <table> {\n }\n Globals = <table> {\n }\n SortSet = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\SortingFunctions.lua:502\n HiddenAppearanceDB = <table> {\n }\n GetName = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:279\n Camera = <table> {\n }\n name = \"BetterWardrobe\"\n UI = <table> {\n }\n Disable = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:314\n Unhook = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceHook-3.0\\AceHook-3.0.lua:418\n Print = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\AceConsole-3.0\\AceConsole-3.0.lua:54\n IsFavoriteItem = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\UI.lua:176\n usableSourceCache = <table> {\n }\n ExtendTransmogView = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\TransmogVendor.lua:292\n GetSetSourceCounts = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:477\n TRANSMOG_SET_FILTER = <table> {\n }\n Init = <table> {\n }\n CreateChatLinkTransmogVendor = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\ImportExport.lua:292\n GetSetsources = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:114\n SelecteSavedList = false\n CollectionList = <table> {\n }\n RemoveItemSubstitute = <function> defined @Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua:538\n UnregisterEvent = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n SetDefaultModuleLibraries = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:367\n SetsDataProvider = <table> {\n }\n EnableModule = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:332\n baseName = \"BetterWardrobe\"\n IterateEmbeds = <function> defined @I",
+			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionJournal.lua\"]:845: in function `BW_WardrobeCollectionFrame_SetTab'\n[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2410: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2390>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2928: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2828: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2641: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3492: in function <Interface\\FrameXML\\UIParent.lua:3471>\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1111: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1099: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
+			["session"] = 1147,
+			["counter"] = 6,
+		}, -- [31]
+		{
+			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:2371: attempt to index field 'activeFrame' (a nil value)",
+			["time"] = "2021/06/30 13:48:28",
+			["locals"] = "self = BW_WardrobeCollectionFrame {\n 0 = <userdata>\n SetsTab = BW_WardrobeCollectionFrameTab2 {\n }\n searchBox = BW_WardrobeCollectionFrameSearchBox {\n }\n selectedCollectionTab = 1\n selectedTransmogTab = 1\n ContentFrames = <table> {\n }\n inAlternateForm = false\n FilterButton = <unnamed> {\n }\n searchProgressFrame = <unnamed> {\n }\n TransmogOptionsButton = BW_TransmogOptionsButton {\n }\n BW_SetsCollectionFrame = BW_SetsCollectionFrame {\n }\n ItemsTab = BW_WardrobeCollectionFrameTab1 {\n }\n SavedSetsTab = BW_WardrobeCollectionFrameTab4 {\n }\n BW_SetsTransmogFrame = BW_SetsTransmogFrame {\n }\n Tabs = <table> {\n }\n numTabs = 4\n ExtraSetsTab = BW_WardrobeCollectionFrameTab3 {\n }\n TransmogOptionsButtonCover = <unnamed> {\n }\n selectedTab = 1\n BW_SetsHideSlotButton = <unnamed> {\n }\n}\nevent = \"TRANSMOG_SEARCH_UPDATED\"\nsearchType = 1\narg1 = 7\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'activeFrame' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2371: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2360>",
+			["session"] = 1147,
+			["counter"] = 8,
+		}, -- [32]
+		{
+			["message"] = "...\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:509: attempt to index field 'sortDB' (a nil value)",
+			["time"] = "2021/06/30 13:48:28",
+			["locals"] = "self = <unnamed> {\n 0 = <userdata>\n ClearAppearanceTooltip = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2473\n ShadowCornerTopRight = <unnamed> {\n }\n IsAppearanceUsableForActiveCategory = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2548\n GoToSourceID = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2434\n SortVisuals = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:505\n ModelR1C2 = <unnamed> {\n }\n transmogLocation = <table> {\n }\n OnUnitModelChangedEvent = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1872\n OnShow = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1705\n ShadowCornerLeft = <unnamed> {\n }\n ModelR1C6 = <unnamed> {\n }\n UpdateSlotButtons = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2478\n BGCornerFilagreeBottomLeft = <unnamed> {\n }\n CheckHelpTip = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1649\n visualsList = <table> {\n }\n activeCategory = 7\n GetActiveCategory = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1886\n ShadowCornerRight = <unnamed> {\n }\n ModelR3C2 = <unnamed> {\n }\n UpdateProgressBar = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2362\n SetActiveCategory = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1991\n ModelR1C5 = <unnamed> {\n }\n BGCornerBottomLeft = <unnamed> {\n }\n SelectVisual = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2410\n FilterVisuals = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2063\n GetAnAppearanceSourceFromVisual = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2395\n BGCornerTopRight = <unnamed> {\n }\n ModelR1C1 = <unnamed> {\n }\n ShadowCornerBottomLeft = <unnamed> {\n }\n SlotsFrame = <unnamed> {\n }\n Bg = <unnamed> {\n }\n HiddenModel = <unnamed> {\n }\n OverlayShadowBottomLeft = <unnamed> {\n }\n ModelR2C6 = <unnamed> {\n }\n NineSlice = <unnamed> {\n }\n OnLoad = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1629\n jumpToLatestCategoryID = 7\n OverlayShadowLeft = <unnamed> {\n }\n latestAppearanceID = 55580\n SetTransmogrifierAppearancesShown = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1959\n jumpToLatestAppearanceID = 55580\n RightClickDropDown = WardrobeModelRightClickDropDown {\n }\n PAGE_SIZE = 18\n SetAppearanceTooltip = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:564\n ChangeModelsSlot = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1803\n RefreshVisualsList = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:534\n ShadowLineTop = <unnamed> {\n }\n NUM_ROWS = 3\n OverlayShadowRight = <unnamed> {\n }\n CreateSlotButtons = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1547\n ResetPage = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:71\n BackgroundTile = <unnamed> {\n }\n ModelR3C1 = <unnamed> {\n }\n ModelR2C3 = <unnamed> {\n }\n CanHandleKey = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1778\n ModelR3C6 = <unnamed> {\n }\n GetCameraID = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:205\n BGCornerBottomRight = <unnamed> {\n }\n OverlayShadowTop = <unnamed> {\n }\n Models = <table> {\n }\n ShadowCornerTop = <unnamed> {\n }\n ModelR2C4 = <unnamed> {\n }\n PendingTransmogFrame = <unnamed> {\n }\n ModelR2C2 = <unnamed> {\n }\n ValidateChosenVisualSources = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:2797\n OverlayShadowTopRight = <unnamed> {\n }\n chosenVisualSources = <table> {\n }\n GetActiveSlot = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1882\n ModelR1C4 = <unnamed> {\n }\n ModelR",
+			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua\"]:509: in function `SortVisuals'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua\"]:558: in function `RefreshVisualsList'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:2000: in function `SetActiveCategory'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:1955: in function `SetActiveSlot'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:1718: in function <...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1705>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2928: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2828: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2641: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3492: in function <Interface\\FrameXML\\UIParent.lua:3471>\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1111: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1099: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
+			["session"] = 1147,
+			["counter"] = 20,
+		}, -- [33]
+		{
+			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:2462: attempt to index field 'sortDB' (a nil value)",
+			["time"] = "2021/06/30 13:48:30",
+			["locals"] = "self = BW_WardrobeCollectionFrame {\n 0 = <userdata>\n SetsTab = BW_WardrobeCollectionFrameTab2 {\n }\n searchBox = BW_WardrobeCollectionFrameSearchBox {\n }\n selectedCollectionTab = 1\n selectedTransmogTab = 1\n ContentFrames = <table> {\n }\n inAlternateForm = false\n FilterButton = <unnamed> {\n }\n searchProgressFrame = <unnamed> {\n }\n TransmogOptionsButton = BW_TransmogOptionsButton {\n }\n BW_SetsCollectionFrame = BW_SetsCollectionFrame {\n }\n ItemsTab = BW_WardrobeCollectionFrameTab1 {\n }\n SavedSetsTab = BW_WardrobeCollectionFrameTab4 {\n }\n BW_SetsTransmogFrame = BW_SetsTransmogFrame {\n }\n Tabs = <table> {\n }\n numTabs = 4\n ExtraSetsTab = BW_WardrobeCollectionFrameTab3 {\n }\n TransmogOptionsButtonCover = <unnamed> {\n }\n selectedTab = 1\n BW_SetsHideSlotButton = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = \"MAIL\"\n(*temporary) = \"SHAMAN\"\n(*temporary) = <function> defined =[C]:-1\n(*temporary) = <table> {\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'sortDB' (a nil value)\"\nTAB_ITEMS = 1\nSetsDataProvider = <table> {\n ResetBaseSetNewStatus = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:632\n FilterSearch = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:403\n IsBaseSetNew = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:622\n SortSets = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:337\n GetIconForSet = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3474\n GetBaseSets = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:454\n GetSetSourceCounts = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:470\n GetSetSourceData = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:587\n DetermineFavorites = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3488\n ClearUsableSets = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3470\n GetSortedSetSources = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:641\n RefreshFavorites = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3509\n GetVariantSets = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3322\n ClearSets = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:343\n ClearBaseSets = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3462\n GetUsableSets = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:534\n ClearVariantSets = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3466\n GetBaseSetByID = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3286\n GetBaseSetData = <function> defined @Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:667\n GetSetSourceTopCounts = <function> defined @Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:3396\n}\naddon = <table> {\n ViewDelay = 3\n modules = <table> {\n }\n Sort = <table> {\n }\n SecureHook = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceHook-3.0\\AceHook-3.0.lua:336\n DefaultUI = <table> {\n }\n tooltip = BW_ProfileTooltip {\n }\n SetDefaultModulePrototype = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:409\n MogIt = <table> {\n }\n IsEnabled = <function> defined @Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:451\n GetActiveCategory = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:207\n RefreshCharConfig = <function> defined @Interface\\AddOns\\BetterWardrobe\\Core.lua:978\n ExtraSetsDataProvider = <table> {\n }\n RegisterMessage = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:90\n UnregisterMessage = <function> defined @Interface\\AddOns\\!PixelPerfectScale\\libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:153\n validSetCache = <table> {\n }\n ArmorSetModCache = <table> {\n }\n db = <table> {\n }\n SetEnabledState = <function> defined @In",
+			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2462: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2441>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2912: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2992: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2645: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3512: in function <Interface\\FrameXML\\UIParent.lua:3495>\n[string \"=[C]\"]: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3664: in function `CloseWindows'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3710: in function <Interface\\FrameXML\\UIParent.lua:3700>\n[string \"=[C]\"]: in function `securecall'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:4353: in function `ToggleGameMenu'\n[string \"TOGGLEGAMEMENU\"]:1: in function <[string \"TOGGLEGAMEMENU\"]:1>",
+			["session"] = 1147,
+			["counter"] = 6,
+		}, -- [34]
+		{
+			["message"] = "Interface\\FrameXML\\TransmogUtil.lua:99: attempt to perform arithmetic on local 'modification' (a nil value)",
+			["time"] = "2021/06/29 22:15:16",
+			["locals"] = "slotID = 1\ntransmogType = 0\nmodification = nil\n(*temporary) = 100\n(*temporary) = 0\n(*temporary) = \"attempt to perform arithmetic on local 'modification' (a nil value)\"\n",
+			["stack"] = "[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:99: in function `GetTransmogLocationLookupKey'\n[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:85: in function `GetTransmogLocation'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua\"]:217: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
+			["session"] = 1147,
+			["counter"] = 15,
+		}, -- [35]
 	},
 }
