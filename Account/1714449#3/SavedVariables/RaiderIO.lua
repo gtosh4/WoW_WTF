@@ -3,11 +3,13 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Toshaman-area-52"
 RaiderIO_MissingCharacters = {
-	["us-Szethson-durotan"] = true,
-	["us-Selfie-area-52"] = true,
-	["us-Finals-area-52"] = true,
-	["us-Hyperjax-area-52"] = true,
-	["us-Unknown-area-52"] = true,
+	["us-Bootykinesis-area-52"] = true,
+	["us-Vob-area-52"] = true,
+	["us-Berema-area-52"] = true,
+	["us-Velodia-area-52"] = true,
+	["us-Leline-area-52"] = true,
+	["us-Vynstorm-area-52"] = true,
+	["us-party5-area-52"] = true,
 }
 RaiderIO_MissingServers = {
 }

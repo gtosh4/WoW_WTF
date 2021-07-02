@@ -19,7 +19,7 @@ Quartz3DB = {
 		},
 		["LibDualSpec-1.0"] = {
 		},
-		["Range"] = {
+		["EnemyCasts"] = {
 		},
 		["Player"] = {
 			["profiles"] = {
@@ -60,7 +60,7 @@ Quartz3DB = {
 		},
 		["Mirror"] = {
 		},
-		["EnemyCasts"] = {
+		["Range"] = {
 		},
 		["Latency"] = {
 			["profiles"] = {

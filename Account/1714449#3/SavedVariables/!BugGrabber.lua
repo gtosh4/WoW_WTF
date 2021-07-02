@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 1148,
 	["lastSanitation"] = 3,
-	["session"] = 1147,
 	["errors"] = {
 		{
 			["message"] = "...terface\\AddOns\\HandyNotes_TreasureHunter\\handler.lua:18: attempt to concatenate global 'ANIMA' (a nil value)",
@@ -93,8 +93,8 @@ BugGrabberDB = {
 		}, -- [11]
 		{
 			["message"] = "(null)",
-			["time"] = "2021/06/29 22:15:19",
 			["session"] = 1144,
+			["time"] = "2021/06/29 22:15:19",
 			["counter"] = 13,
 		}, -- [12]
 		{
@@ -129,94 +129,80 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [16]
 		{
-			["message"] = "GladiusEx: invalid spellid 204293",
-			["time"] = "2021/06/29 22:15:14",
-			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
-			["session"] = 1147,
-			["counter"] = 10,
-		}, -- [17]
-		{
-			["message"] = "GladiusEx: invalid spellid 330279",
-			["time"] = "2021/06/29 22:15:14",
-			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
-			["session"] = 1147,
-			["counter"] = 10,
-		}, -- [18]
-		{
 			["message"] = "[string \"BW_ColectionListFrame:OnLoad\"]:2: attempt to call method 'CreateSlotButtons' (a nil value)",
 			["time"] = "2021/06/29 22:15:16",
 			["locals"] = "self = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = BW_ColectionListFrame {\n 0 = <userdata>\n CollectionListButton = BW_CollectionListButton {\n }\n CollectionListTitle = BW_CollectionListTitle {\n }\n Toggle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:170\n SlotsFrame = <unnamed> {\n }\n SetTitle = <function> defined @Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua:190\n CollectionListHelpText = <unnamed> {\n }\n}\n(*temporary) = \"attempt to call method 'CreateSlotButtons' (a nil value)\"\n",
 			["stack"] = "[string \"*:OnLoad\"]:2: in function <[string \"*:OnLoad\"]:1>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
 			["session"] = 1147,
 			["counter"] = 5,
-		}, -- [19]
+		}, -- [17]
 		{
 			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:87: attempt to call method 'GetSlotTransmogSources' (a nil value)",
 			["time"] = "2021/06/29 22:15:16",
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:87: in function `GetItemSource'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:99: in function <Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua:65>\n[string \"@Interface\\AddOns\\BetterWardrobe\\Data\\DataBase.lua\"]:274: in function `InitDB'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Core.lua\"]:1197: in function <Interface\\AddOns\\BetterWardrobe\\Core.lua:1113>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
 			["session"] = 1147,
 			["counter"] = 5,
-		}, -- [20]
+		}, -- [18]
 		{
 			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnLoad in element OnLoad",
-			["session"] = 1147,
 			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
+			["counter"] = 4,
+		}, -- [19]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnHide in element OnHide",
+			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
+			["counter"] = 4,
+		}, -- [20]
+		{
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnKeyDown in element OnKeyDown",
+			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
 			["counter"] = 4,
 		}, -- [21]
 		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnHide in element OnHide",
-			["session"] = 1147,
+			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnTextChanged in element OnTextChanged",
 			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
 			["counter"] = 4,
 		}, -- [22]
 		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnKeyDown in element OnKeyDown",
-			["session"] = 1147,
+			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnLoad in element OnLoad",
 			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
 			["counter"] = 4,
 		}, -- [23]
 		{
-			["message"] = "Frame BW_WardrobeCollectionFrameSearchBox: Unknown function WardrobeCollectionFrameSearchBox_OnTextChanged in element OnTextChanged",
-			["session"] = 1147,
+			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnHide in element OnHide",
 			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
 			["counter"] = 4,
 		}, -- [24]
 		{
-			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnLoad in element OnLoad",
-			["session"] = 1147,
+			["message"] = "<unnamed>: Has bad mixin: RightShoulderCheckboxMixin",
 			["time"] = "2021/06/30 01:29:45",
+			["session"] = 1147,
 			["counter"] = 4,
 		}, -- [25]
 		{
-			["message"] = "Frame <unnamed>: Unknown function WardrobeCollectionFrameSearchProgressBar_OnHide in element OnHide",
+			["message"] = "Frame <unnamed>: Unknown method OnShow in element OnShow",
 			["session"] = 1147,
-			["time"] = "2021/06/30 01:29:45",
-			["counter"] = 4,
+			["time"] = "2021/06/30 12:02:51",
+			["counter"] = 3,
 		}, -- [26]
 		{
-			["message"] = "<unnamed>: Has bad mixin: RightShoulderCheckboxMixin",
+			["message"] = "Frame <unnamed>: Unknown method OnEvent in element OnEvent",
 			["session"] = 1147,
-			["time"] = "2021/06/30 01:29:45",
-			["counter"] = 4,
+			["time"] = "2021/06/30 12:02:51",
+			["counter"] = 3,
 		}, -- [27]
 		{
-			["message"] = "Frame <unnamed>: Unknown method OnShow in element OnShow",
-			["time"] = "2021/06/30 12:02:51",
+			["message"] = "Frame <unnamed>: Unknown method OnClick in element OnClick",
 			["session"] = 1147,
+			["time"] = "2021/06/30 12:02:51",
 			["counter"] = 3,
 		}, -- [28]
-		{
-			["message"] = "Frame <unnamed>: Unknown method OnEvent in element OnEvent",
-			["time"] = "2021/06/30 12:02:51",
-			["session"] = 1147,
-			["counter"] = 3,
-		}, -- [29]
-		{
-			["message"] = "Frame <unnamed>: Unknown method OnClick in element OnClick",
-			["time"] = "2021/06/30 12:02:51",
-			["session"] = 1147,
-			["counter"] = 3,
-		}, -- [30]
 		{
 			["message"] = "...\\AddOns\\BetterWardrobe\\Modules\\CollectionJournal.lua:845: attempt to index global 'BW_DBSavedSetDropdown' (a nil value)",
 			["time"] = "2021/06/30 13:48:28",
@@ -224,7 +210,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionJournal.lua\"]:845: in function `BW_WardrobeCollectionFrame_SetTab'\n[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2410: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2390>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2928: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2828: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2641: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3492: in function <Interface\\FrameXML\\UIParent.lua:3471>\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1111: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1099: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
 			["session"] = 1147,
 			["counter"] = 6,
-		}, -- [31]
+		}, -- [29]
 		{
 			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:2371: attempt to index field 'activeFrame' (a nil value)",
 			["time"] = "2021/06/30 13:48:28",
@@ -232,7 +218,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2371: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2360>",
 			["session"] = 1147,
 			["counter"] = 8,
-		}, -- [32]
+		}, -- [30]
 		{
 			["message"] = "...\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua:509: attempt to index field 'sortDB' (a nil value)",
 			["time"] = "2021/06/30 13:48:28",
@@ -240,7 +226,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua\"]:509: in function `SortVisuals'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\Blizzard_Wardrobe.lua\"]:558: in function `RefreshVisualsList'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:2000: in function `SetActiveCategory'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:1955: in function `SetActiveSlot'\n[string \"@Interface\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua\"]:1718: in function <...ce\\AddOns\\Blizzard_Collections\\Blizzard_Wardrobe.lua:1705>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2928: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2828: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2641: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3492: in function <Interface\\FrameXML\\UIParent.lua:3471>\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1111: in function `SetCollectionsJournalShown'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:1099: in function `ToggleCollectionsJournal'\n[string \"TOGGLECOLLECTIONS\"]:1: in function <[string \"TOGGLECOLLECTIONS\"]:1>",
 			["session"] = 1147,
 			["counter"] = 20,
-		}, -- [33]
+		}, -- [31]
 		{
 			["message"] = "Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua:2462: attempt to index field 'sortDB' (a nil value)",
 			["time"] = "2021/06/30 13:48:30",
@@ -248,7 +234,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\AddOns\\BetterWardrobe\\BetterWardrobe-V2.9.lua\"]:2462: in function <Interface\\AddOns\\BetterWardrobe\\BetterWardrobe.lua:2441>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2912: in function `SetUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2992: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:2645: in function <Interface\\FrameXML\\UIParent.lua:2637>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3512: in function <Interface\\FrameXML\\UIParent.lua:3495>\n[string \"=[C]\"]: in function `HideUIPanel'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3664: in function `CloseWindows'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:3710: in function <Interface\\FrameXML\\UIParent.lua:3700>\n[string \"=[C]\"]: in function `securecall'\n[string \"@Interface\\FrameXML\\UIParent.lua\"]:4353: in function `ToggleGameMenu'\n[string \"TOGGLEGAMEMENU\"]:1: in function <[string \"TOGGLEGAMEMENU\"]:1>",
 			["session"] = 1147,
 			["counter"] = 6,
-		}, -- [34]
+		}, -- [32]
 		{
 			["message"] = "Interface\\FrameXML\\TransmogUtil.lua:99: attempt to perform arithmetic on local 'modification' (a nil value)",
 			["time"] = "2021/06/29 22:15:16",
@@ -256,6 +242,27 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:99: in function `GetTransmogLocationLookupKey'\n[string \"@Interface\\FrameXML\\TransmogUtil.lua\"]:85: in function `GetTransmogLocation'\n[string \"@Interface\\AddOns\\BetterWardrobe\\Modules\\CollectionList.lua\"]:217: in main chunk\n[string \"=[C]\"]: in function `LoadAddOn'\n[string \"@Interface\\AddOns\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips-V2.9.lua\"]:4: in function <...\\BetterWardrobe_Tooltips\\BetterWardrobe_Tooltips.lua:3>",
 			["session"] = 1147,
 			["counter"] = 15,
+		}, -- [33]
+		{
+			["message"] = "GladiusEx: invalid spellid 204293",
+			["time"] = "2021/06/29 22:15:14",
+			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1148,
+			["counter"] = 12,
+		}, -- [34]
+		{
+			["message"] = "GladiusEx: invalid spellid 330279",
+			["time"] = "2021/06/29 22:15:14",
+			["stack"] = "[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1166: in function `SetupAuraOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\modules\\classicon.lua\"]:1113: in function `GetOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:165: in function `SetupModuleOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:428: in function `MakeGroupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\options-Options.lua\"]:725: in function `SetupOptions'\n[string \"@Interface\\AddOns\\GladiusEx\\GladiusEx.lua\"]:348: in function <Interface\\AddOns\\GladiusEx\\GladiusEx.lua:327>\n[string \"=[C]\"]: ?\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:70: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:65>\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:527: in function `EnableAddon'\n[string \"@Interface\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0-13.lua\"]:630: in function <...ce\\AddOns\\AdiBags\\libs\\AceAddon-3.0\\AceAddon-3.0.lua:615>",
+			["session"] = 1148,
+			["counter"] = 12,
 		}, -- [35]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Dominos' tried to call the protected function 'MultiBarLeftButton12:Show()'.",
+			["time"] = "2021/07/02 02:02:16",
+			["stack"] = "[string \"@Interface\\AddOns\\!BugGrabber\\BugGrabber.lua\"]:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[string \"=[C]\"]: in function `Show'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:348: in function <Interface\\FrameXML\\ActionButton.lua:332>\n[string \"=[C]\"]: in function `Update'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:854: in function `OnEvent'\n[string \"@Interface\\FrameXML\\ActionButton.lua\"]:265: in function <Interface\\FrameXML\\ActionButton.lua:257>",
+			["session"] = 1148,
+			["counter"] = 1,
+		}, -- [36]
 	},
 }

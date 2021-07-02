@@ -14,29 +14,29 @@ OmniCDDB = {
 		["LibDualSpec-1.0"] = {
 		},
 	},
+	["version"] = 2.51,
 	["cooldowns"] = {
 	},
-	["version"] = 2.51,
 	["profiles"] = {
 		["Default"] = {
 			["Party"] = {
 				["party"] = {
 					["extraBars"] = {
-						["interruptBar"] = {
+						["raidCDBar"] = {
 							["locked"] = true,
 						},
-						["raidCDBar"] = {
+						["interruptBar"] = {
 							["locked"] = true,
 						},
 					},
 					["manualPos"] = {
-						["raidCDBar"] = {
-							["y"] = 310.2447311855067,
-							["x"] = 413.666558898487,
-						},
 						["interruptBar"] = {
 							["y"] = 406.9556212984862,
 							["x"] = 782.7335565855137,
+						},
+						["raidCDBar"] = {
+							["y"] = 310.2447311855067,
+							["x"] = 413.666558898487,
 						},
 					},
 				},
